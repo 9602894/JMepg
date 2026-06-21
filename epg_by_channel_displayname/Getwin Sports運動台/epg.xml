@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="547512" start="20260620003200 +0800" stop="20260620024500 +0800">
-    <title lang="zh">115年 中華電信謝國城盃 全國少棒錦標賽 精彩重播</title>
-    <desc />
-    <date>20260620</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260620024500 +0800" stop="20260620140000 +0800">
-    <title lang="zh">115年TLLBCUP U13台灣社區棒球錦標賽 精彩重播</title>
-    <desc />
-    <date>20260620</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260620140000 +0800" stop="20260620160000 +0800">
-    <title lang="zh">【LIVE】115年玉山盃全國青棒錦標賽 G33 季軍賽 G31敗 VS G32敗</title>
-    <desc />
-    <date>20260620</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260620160000 +0800" stop="20260620180000 +0800">
-    <title lang="zh">115年TLLBCUP U13台灣社區棒球錦標賽 精彩重播</title>
-    <desc />
-    <date>20260620</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260620180000 +0800" stop="20260620200000 +0800">
-    <title lang="zh">【LIVE】115年玉山盃全國青棒錦標賽 G34 冠軍賽 G31勝 VS G32勝</title>
-    <desc />
-    <date>20260620</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260620200000 +0800" stop="20260620210000 +0800">
-    <title lang="zh">【LIVE】115年玉山盃全國青棒錦標賽 閉幕典禮</title>
-    <desc />
-    <date>20260620</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260620210000 +0800" stop="20260621013300 +0800">
-    <title lang="zh">115年TLLBCUP U13台灣社區棒球錦標賽 精彩重播</title>
-    <desc />
-    <date>20260620</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="547512" start="20260621013300 +0800" stop="20260621081100 +0800">
     <title lang="zh">115年TLLBCUP U13台灣社區棒球錦標賽 精彩重播</title>
     <desc />
@@ -153,10 +90,73 @@
     </audio>
   </programme>
   
-<programme channel="547512" start="20260622200000 +0800" stop="20260623000000 +0800">
+<programme channel="547512" start="20260622200000 +0800" stop="20260623000200 +0800">
     <title lang="zh">115年 玉山盃全國青棒錦標賽 精彩重播</title>
     <desc />
     <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260623000200 +0800" stop="20260623100000 +0800">
+    <title lang="zh">115年 玉山盃全國青棒錦標賽 精彩重播</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260623100000 +0800" stop="20260623120000 +0800">
+    <title lang="zh">【LIVE】2026年世界少棒聯盟LLB亞太區U13錦標賽 G4 Hong Kong VS Philippines</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260623120000 +0800" stop="20260623140000 +0800">
+    <title lang="zh">115年 玉山盃全國青棒錦標賽 精彩重播</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260623140000 +0800" stop="20260623160000 +0800">
+    <title lang="zh">【LIVE】2026年世界少棒聯盟LLB亞太區U13錦標賽 G5 Japan VS Indonesia</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260623160000 +0800" stop="20260623180000 +0800">
+    <title lang="zh">115年 玉山盃全國青棒錦標賽 精彩重播</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260623180000 +0800" stop="20260623200000 +0800">
+    <title lang="zh">【LIVE】2026年世界少棒聯盟LLB亞太區U13錦標賽 G6 Korea VS Chinese Taipei</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260623200000 +0800" stop="20260624000000 +0800">
+    <title lang="zh">115年 玉山盃全國青棒錦標賽 精彩重播</title>
+    <desc />
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
