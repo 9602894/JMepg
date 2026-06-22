@@ -1,95 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456814" start="20260621000000 +0800" stop="20260621030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 武漢公開賽 決賽 SI vs XIA</title>
-    <desc>2024-25司諾克賽季 武漢公開賽 決賽 SI vs XIA</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456814" start="20260621030000 +0800" stop="20260621043000 +0800">
-    <title lang="zh">蕾娜塔女子職業撞球總冠軍賽(7) 四強 魏子茜vs凱莉費雪</title>
-    <desc>蕾娜塔女子職業撞球總冠軍賽(7) 四強 魏子茜vs凱莉費雪</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456814" start="20260621043000 +0800" stop="20260621060000 +0800">
-    <title lang="zh">蕾娜塔女子職業撞球總冠軍賽(8) 決賽 陳佳樺vs魏子茜</title>
-    <desc>蕾娜塔女子職業撞球總冠軍賽(8) 決賽 陳佳樺vs魏子茜</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456814" start="20260621060000 +0800" stop="20260621090000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界錦標賽 8強 副桌  TRU vs BRE</title>
-    <desc>2024-25司諾克賽季 世界錦標賽 8強 副桌  TRU vs BRE</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456814" start="20260621090000 +0800" stop="20260621120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 武漢公開賽 決賽 SI vs XIA</title>
-    <desc>2024-25司諾克賽季 武漢公開賽 決賽 SI vs XIA</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456814" start="20260621120000 +0800" stop="20260621133000 +0800">
-    <title lang="zh">蕾娜塔女子職業撞球總冠軍賽(7) 四強 魏子茜vs凱莉費雪</title>
-    <desc>蕾娜塔女子職業撞球總冠軍賽(7) 四強 魏子茜vs凱莉費雪</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456814" start="20260621133000 +0800" stop="20260621150000 +0800">
-    <title lang="zh">蕾娜塔女子職業撞球總冠軍賽(8) 決賽 陳佳樺vs魏子茜</title>
-    <desc>蕾娜塔女子職業撞球總冠軍賽(8) 決賽 陳佳樺vs魏子茜</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456814" start="20260621150000 +0800" stop="20260621180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界錦標賽 8強 副桌  TRU vs BRE</title>
-    <desc>2024-25司諾克賽季 世界錦標賽 8強 副桌  TRU vs BRE</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456814" start="20260621180000 +0800" stop="20260621210000 +0800">
-    <title lang="zh">2025-26 司諾克賽季 世界大獎賽 第一輪(1)K.WIL vs XIA</title>
-    <desc>2025-26 司諾克賽季 世界大獎賽 第一輪(1)K.WIL vs XIA</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456814" start="20260621210000 +0800" stop="20260622000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 世界錦標賽 4強 主桌  SUL vs XIN</title>
-    <desc>2024-25司諾克賽季 世界錦標賽 4強 主桌  SUL vs XIN</desc>
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456814" start="20260622000000 +0800" stop="20260622030000 +0800">
     <title lang="zh">2024-25司諾克賽季 國際錦標賽 4強 XIA vs WAK</title>
     <desc>2024-25司諾克賽季 國際錦標賽 4強 XIA vs WAK</desc>
@@ -594,7 +504,7 @@
     </audio>
   </programme>
   
-<programme channel="456814" start="20260628000000 +0800" stop="20260629000000 +0800">
+<programme channel="456814" start="20260628000000 +0800" stop="20260628030000 +0800">
     <title lang="zh">2024-25司諾克賽季 國際錦標賽 4強 DIN vs XU</title>
     <desc>2024-25司諾克賽季 國際錦標賽 4強 DIN vs XU</desc>
     <date>20260628</date>
@@ -603,73 +513,82 @@
     </audio>
   </programme>
   
-<programme channel="544781" start="20260621000000 +0800" stop="20260621030000 +0800">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 4強 DIN vs XU(普)</title>
-    <desc />
-    <date>20260621</date>
+<programme channel="456814" start="20260628030000 +0800" stop="20260628060000 +0800">
+    <title lang="zh">2025-26 司諾克賽季 世界大獎賽 四強(1)ZHA vs WAK</title>
+    <desc>2025-26 司諾克賽季 世界大獎賽 四強(1)ZHA vs WAK</desc>
+    <date>20260628</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544781" start="20260621030000 +0800" stop="20260621060000 +0800">
-    <title lang="zh">2025-26 司諾克賽季 世界大獎賽 四強(1)ZHA vs WAK(普)</title>
-    <desc />
-    <date>20260621</date>
+<programme channel="456814" start="20260628060000 +0800" stop="20260628090000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界大獎賽 第一輪 第05組 SEL vs PAG</title>
+    <desc>2024-25司諾克賽季 世界大獎賽 第一輪 第05組 SEL vs PAG</desc>
+    <date>20260628</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544781" start="20260621060000 +0800" stop="20260621090000 +0800">
-    <title lang="zh">2024-25司諾克賽季 巡迴錦標賽 8強 WIL vs DIN(普)</title>
-    <desc />
-    <date>20260621</date>
+<programme channel="456814" start="20260628090000 +0800" stop="20260628103000 +0800">
+    <title lang="zh">2025-26司諾克賽季 上海大師賽 16強(4) ZHA vs WAK</title>
+    <desc>2025-26司諾克賽季 上海大師賽 16強(4) ZHA vs WAK</desc>
+    <date>20260628</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544781" start="20260621090000 +0800" stop="20260621120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 國際錦標賽 4強 DIN vs XU(普)</title>
-    <desc />
-    <date>20260621</date>
+<programme channel="456814" start="20260628103000 +0800" stop="20260628120000 +0800">
+    <title lang="zh">2025-26司諾克賽季 上海大師賽 8強(2) DIN vs ZHA</title>
+    <desc>2025-26司諾克賽季 上海大師賽 8強(2) DIN vs ZHA</desc>
+    <date>20260628</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544781" start="20260621120000 +0800" stop="20260621150000 +0800">
-    <title lang="zh">2025-26 司諾克賽季 世界大獎賽 四強(1)ZHA vs WAK(普)</title>
-    <desc />
-    <date>20260621</date>
+<programme channel="456814" start="20260628120000 +0800" stop="20260628150000 +0800">
+    <title lang="zh">2025-26司諾克賽季 球員錦標賽 8強(2) TRU vs WIL</title>
+    <desc>2025-26司諾克賽季 球員錦標賽 8強(2) TRU vs WIL</desc>
+    <date>20260628</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544781" start="20260621150000 +0800" stop="20260621180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 巡迴錦標賽 8強 WIL vs DIN(普)</title>
-    <desc />
-    <date>20260621</date>
+<programme channel="456814" start="20260628150000 +0800" stop="20260628180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界大獎賽 第一輪 第05組 SEL vs PAG</title>
+    <desc>2024-25司諾克賽季 世界大獎賽 第一輪 第05組 SEL vs PAG</desc>
+    <date>20260628</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544781" start="20260621180000 +0800" stop="20260621210000 +0800">
-    <title lang="zh">2025-26 司諾克賽季 世界大獎賽 四強(2)ZHA vs ZHO(普)</title>
-    <desc />
-    <date>20260621</date>
+<programme channel="456814" start="20260628180000 +0800" stop="20260628210000 +0800">
+    <title lang="zh">2025-26司諾克賽季 球員錦標賽 8強(3) ZHA vs MUR</title>
+    <desc>2025-26司諾克賽季 球員錦標賽 8強(3) ZHA vs MUR</desc>
+    <date>20260628</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544781" start="20260621210000 +0800" stop="20260622000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 巡迴錦標賽 4強 HIG vs HAW(普)</title>
-    <desc />
-    <date>20260621</date>
+<programme channel="456814" start="20260628210000 +0800" stop="20260629000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界大獎賽 第一輪 第08組 SI vs VAF</title>
+    <desc>2024-25司諾克賽季 世界大獎賽 第一輪 第08組 SI vs VAF</desc>
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456814" start="20260629000000 +0800" stop="20260630000000 +0800">
+    <title lang="zh">2025-26司諾克賽季 上海大師賽 8強(1) TRU vs SEL</title>
+    <desc>2025-26司諾克賽季 上海大師賽 8強(1) TRU vs SEL</desc>
+    <date>20260629</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -814,6 +733,78 @@
     <title lang="zh">2024-25司諾克賽季 巡迴錦標賽 決賽 SEL vs HIG(普)</title>
     <desc />
     <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544781" start="20260624000000 +0800" stop="20260624030000 +0800">
+    <title lang="zh">2025-26司諾克賽季 上海大師賽 第一輪 ROB vs PAN(普)</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544781" start="20260624030000 +0800" stop="20260624060000 +0800">
+    <title lang="zh">2025-26司諾克賽季 球員錦標賽 16強(1) ROB vs HIG(普)</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544781" start="20260624060000 +0800" stop="20260624090000 +0800">
+    <title lang="zh">2024-25司諾克賽季 巡迴錦標賽 決賽 SEL vs HIG(普)</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544781" start="20260624090000 +0800" stop="20260624120000 +0800">
+    <title lang="zh">2025-26司諾克賽季 上海大師賽 第一輪 ROB vs PAN(普)</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544781" start="20260624120000 +0800" stop="20260624150000 +0800">
+    <title lang="zh">2025-26司諾克賽季 球員錦標賽 16強(1) ROB vs HIG(普)</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544781" start="20260624150000 +0800" stop="20260624180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 巡迴錦標賽 決賽 SEL vs HIG(普)</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544781" start="20260624180000 +0800" stop="20260624210000 +0800">
+    <title lang="zh">2025-26司諾克賽季 球員錦標賽 16強(2) SEL vs LIS(普)</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544781" start="20260624210000 +0800" stop="20260625000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 世界大獎賽 第一輪 第02組 MUR vs WOO(普)</title>
+    <desc />
+    <date>20260624</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

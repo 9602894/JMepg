@@ -1,351 +1,936 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="495073" start="20260621000000 +0800" stop="20260621003000 +0800">
-    <title lang="zh">新西行漫记(1)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621003000 +0800" stop="20260621060100 +0800">
-    <title lang="zh">岁月丹青:王绪阳</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621060100 +0800" stop="20260621063000 +0800">
-    <title lang="zh">亲历:黄河人之永远的老腔(1)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621063000 +0800" stop="20260621064100 +0800">
-    <title lang="zh">信用中国:杨曙宇</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621064100 +0800" stop="20260621065100 +0800">
-    <title lang="zh">信用中国:李文龙</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621065100 +0800" stop="20260621074500 +0800">
-    <title lang="zh">辜鸿铭(4)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621074500 +0800" stop="20260621082600 +0800">
-    <title lang="zh">中华文明:五千年以前的文明(5)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621082600 +0800" stop="20260621084100 +0800">
-    <title lang="zh">见解:滤见未来</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621084100 +0800" stop="20260621090100 +0800">
-    <title lang="zh">见解:莲岛星旗报国育英</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621090100 +0800" stop="20260621093300 +0800">
-    <title lang="zh">亲历:黄河人之沙漠守望者(2)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621093300 +0800" stop="20260621102700 +0800">
-    <title lang="zh">辜鸿铭(5)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621102700 +0800" stop="20260621110800 +0800">
-    <title lang="zh">中华文明:五千年以前的文明(6)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621110800 +0800" stop="20260621114400 +0800">
-    <title lang="zh">老地方:兵马司九号</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621114400 +0800" stop="20260621120000 +0800">
-    <title lang="zh">非凡匠人:方寸柔情步履安然</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621120000 +0800" stop="20260621123000 +0800">
-    <title lang="zh">新西行漫记(3)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621123000 +0800" stop="20260621130100 +0800">
-    <title lang="zh">岁月丹青:贾浩义</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621130100 +0800" stop="20260621133000 +0800">
-    <title lang="zh">亲历:黄河人之永远的老腔(1)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621133000 +0800" stop="20260621134100 +0800">
-    <title lang="zh">信用中国:杨曙宇</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621134100 +0800" stop="20260621135100 +0800">
-    <title lang="zh">信用中国:李文龙</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621135100 +0800" stop="20260621144500 +0800">
-    <title lang="zh">辜鸿铭(4)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621144500 +0800" stop="20260621152600 +0800">
-    <title lang="zh">中华文明:五千年以前的文明(5)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621152600 +0800" stop="20260621154100 +0800">
-    <title lang="zh">见解:滤见未来</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621154100 +0800" stop="20260621160000 +0800">
-    <title lang="zh">见解:莲岛星旗报国育英</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495073" start="20260621160000 +0800" stop="20260621163000 +0800">
+<programme channel="495073" start="20260622000000 +0800" stop="20260622003000 +0800">
     <title lang="zh">新西行漫记(2)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621163000 +0800" stop="20260621170100 +0800">
+<programme channel="495073" start="20260622003000 +0800" stop="20260622060100 +0800">
     <title lang="zh">岁月丹青:陈天然</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621170100 +0800" stop="20260621173300 +0800">
+<programme channel="495073" start="20260622060100 +0800" stop="20260622063300 +0800">
     <title lang="zh">亲历:黄河人之沙漠守望者(2)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621173300 +0800" stop="20260621182700 +0800">
+<programme channel="495073" start="20260622063300 +0800" stop="20260622072700 +0800">
     <title lang="zh">辜鸿铭(5)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621182700 +0800" stop="20260621190800 +0800">
+<programme channel="495073" start="20260622072700 +0800" stop="20260622080800 +0800">
     <title lang="zh">中华文明:五千年以前的文明(6)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621190800 +0800" stop="20260621194400 +0800">
+<programme channel="495073" start="20260622080800 +0800" stop="20260622084400 +0800">
     <title lang="zh">老地方:兵马司九号</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621194400 +0800" stop="20260621200000 +0800">
+<programme channel="495073" start="20260622084400 +0800" stop="20260622090100 +0800">
     <title lang="zh">非凡匠人:方寸柔情步履安然</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621200000 +0800" stop="20260621203000 +0800">
+<programme channel="495073" start="20260622090100 +0800" stop="20260622093500 +0800">
+    <title lang="zh">亲历:黄河人之玛多打冰机(3)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622093500 +0800" stop="20260622095100 +0800">
+    <title lang="zh">信用中国:王毅(上)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622095100 +0800" stop="20260622100100 +0800">
+    <title lang="zh">信用中国:王毅(下)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622100100 +0800" stop="20260622101200 +0800">
+    <title lang="zh">攀登者:匠心筑好房</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622101200 +0800" stop="20260622102200 +0800">
+    <title lang="zh">开拓者:遥瞰苍穹星织新章</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622102200 +0800" stop="20260622111300 +0800">
+    <title lang="zh">辜鸿铭(6)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622111300 +0800" stop="20260622111800 +0800">
+    <title lang="zh">在影像里重逢(28)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622111800 +0800" stop="20260622112800 +0800">
+    <title lang="zh">力量:科技创新赋能品牌发展</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622112800 +0800" stop="20260622113900 +0800">
+    <title lang="zh">力量:创新赋能链接未来</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622113900 +0800" stop="20260622114900 +0800">
+    <title lang="zh">纪录匠心:&amp;apos;伟业&amp;apos;成长于创新</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622114900 +0800" stop="20260622120000 +0800">
+    <title lang="zh">科创中国:匠心筑城与时间对话</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622120000 +0800" stop="20260622123000 +0800">
+    <title lang="zh">新西行漫记(4)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622123000 +0800" stop="20260622130100 +0800">
+    <title lang="zh">岁月丹青:李铎</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622130100 +0800" stop="20260622133300 +0800">
+    <title lang="zh">亲历:黄河人之沙漠守望者(2)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622133300 +0800" stop="20260622142700 +0800">
+    <title lang="zh">辜鸿铭(5)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622142700 +0800" stop="20260622150800 +0800">
+    <title lang="zh">中华文明:五千年以前的文明(6)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622150800 +0800" stop="20260622154400 +0800">
+    <title lang="zh">老地方:兵马司九号</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622154400 +0800" stop="20260622160000 +0800">
+    <title lang="zh">非凡匠人:方寸柔情步履安然</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622160000 +0800" stop="20260622163000 +0800">
     <title lang="zh">新西行漫记(3)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621203000 +0800" stop="20260621210100 +0800">
+<programme channel="495073" start="20260622163000 +0800" stop="20260622170100 +0800">
     <title lang="zh">岁月丹青:贾浩义</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621210100 +0800" stop="20260621213000 +0800">
-    <title lang="zh">亲历:黄河人之永远的老腔(1)</title>
+<programme channel="495073" start="20260622170100 +0800" stop="20260622173500 +0800">
+    <title lang="zh">亲历:黄河人之玛多打冰机(3)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621213000 +0800" stop="20260621214100 +0800">
-    <title lang="zh">信用中国:杨曙宇</title>
+<programme channel="495073" start="20260622173500 +0800" stop="20260622175100 +0800">
+    <title lang="zh">信用中国:王毅(上)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621214100 +0800" stop="20260621215100 +0800">
-    <title lang="zh">信用中国:李文龙</title>
+<programme channel="495073" start="20260622175100 +0800" stop="20260622180100 +0800">
+    <title lang="zh">信用中国:王毅(下)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621215100 +0800" stop="20260621224500 +0800">
-    <title lang="zh">辜鸿铭(4)</title>
+<programme channel="495073" start="20260622180100 +0800" stop="20260622181200 +0800">
+    <title lang="zh">攀登者:匠心筑好房</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621224500 +0800" stop="20260621232600 +0800">
-    <title lang="zh">中华文明:五千年以前的文明(5)</title>
+<programme channel="495073" start="20260622181200 +0800" stop="20260622182200 +0800">
+    <title lang="zh">开拓者:遥瞰苍穹星织新章</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621232600 +0800" stop="20260621234100 +0800">
-    <title lang="zh">见解:滤见未来</title>
+<programme channel="495073" start="20260622182200 +0800" stop="20260622191300 +0800">
+    <title lang="zh">辜鸿铭(6)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495073" start="20260621234100 +0800" stop="20260622000000 +0800">
-    <title lang="zh">见解:莲岛星旗报国育英</title>
+<programme channel="495073" start="20260622191300 +0800" stop="20260622191800 +0800">
+    <title lang="zh">在影像里重逢(28)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622191800 +0800" stop="20260622192800 +0800">
+    <title lang="zh">力量:科技创新赋能品牌发展</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622192800 +0800" stop="20260622193900 +0800">
+    <title lang="zh">力量:创新赋能链接未来</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622193900 +0800" stop="20260622194900 +0800">
+    <title lang="zh">纪录匠心:&amp;apos;伟业&amp;apos;成长于创新</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622194900 +0800" stop="20260622200000 +0800">
+    <title lang="zh">科创中国:匠心筑城与时间对话</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622200000 +0800" stop="20260622203000 +0800">
+    <title lang="zh">新西行漫记(4)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622203000 +0800" stop="20260622210100 +0800">
+    <title lang="zh">岁月丹青:李铎</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622210100 +0800" stop="20260622213300 +0800">
+    <title lang="zh">亲历:黄河人之沙漠守望者(2)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622213300 +0800" stop="20260622222700 +0800">
+    <title lang="zh">辜鸿铭(5)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622222700 +0800" stop="20260622230800 +0800">
+    <title lang="zh">中华文明:五千年以前的文明(6)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622230800 +0800" stop="20260622234400 +0800">
+    <title lang="zh">老地方:兵马司九号</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260622234400 +0800" stop="20260623000000 +0800">
+    <title lang="zh">非凡匠人:方寸柔情步履安然</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623000000 +0800" stop="20260623003000 +0800">
+    <title lang="zh">新西行漫记(3)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623003000 +0800" stop="20260623060100 +0800">
+    <title lang="zh">岁月丹青:贾浩义</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623060100 +0800" stop="20260623063500 +0800">
+    <title lang="zh">亲历:黄河人之玛多打冰机(3)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623063500 +0800" stop="20260623065100 +0800">
+    <title lang="zh">信用中国:王毅(上)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623065100 +0800" stop="20260623070100 +0800">
+    <title lang="zh">信用中国:王毅(下)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623070100 +0800" stop="20260623071200 +0800">
+    <title lang="zh">攀登者:匠心筑好房</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623071200 +0800" stop="20260623072200 +0800">
+    <title lang="zh">开拓者:遥瞰苍穹星织新章</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623072200 +0800" stop="20260623081300 +0800">
+    <title lang="zh">辜鸿铭(6)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623081300 +0800" stop="20260623081800 +0800">
+    <title lang="zh">在影像里重逢(28)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623081800 +0800" stop="20260623082800 +0800">
+    <title lang="zh">力量:科技创新赋能品牌发展</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623082800 +0800" stop="20260623083900 +0800">
+    <title lang="zh">力量:创新赋能链接未来</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623083900 +0800" stop="20260623084900 +0800">
+    <title lang="zh">纪录匠心:&amp;apos;伟业&amp;apos;成长于创新</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623084900 +0800" stop="20260623090100 +0800">
+    <title lang="zh">科创中国:匠心筑城与时间对话</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623090100 +0800" stop="20260623092700 +0800">
+    <title lang="zh">亲历:桥与城天津(1)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623092700 +0800" stop="20260623094100 +0800">
+    <title lang="zh">信用中国:朱尔玉</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623094100 +0800" stop="20260623095600 +0800">
+    <title lang="zh">信用中国:颜博艺</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623095600 +0800" stop="20260623101100 +0800">
+    <title lang="zh">攀登者:跨越山海锚定热爱</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623101100 +0800" stop="20260623102500 +0800">
+    <title lang="zh">开拓者:诚&amp;apos;筑&amp;apos;安心</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623102500 +0800" stop="20260623112000 +0800">
+    <title lang="zh">勋章背后我们曾并肩战斗(1)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623112000 +0800" stop="20260623112500 +0800">
+    <title lang="zh">在影像里重逢(29)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623112500 +0800" stop="20260623113800 +0800">
+    <title lang="zh">奋斗的力量:航天芦竹的绿色密码</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623113800 +0800" stop="20260623120000 +0800">
+    <title lang="zh">人文纪录</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623120000 +0800" stop="20260623123000 +0800">
+    <title lang="zh">新西行漫记(5)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623123000 +0800" stop="20260623130100 +0800">
+    <title lang="zh">岁月丹青:陈家泠</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623130100 +0800" stop="20260623133500 +0800">
+    <title lang="zh">亲历:黄河人之玛多打冰机(3)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623133500 +0800" stop="20260623135100 +0800">
+    <title lang="zh">信用中国:王毅(上)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623135100 +0800" stop="20260623140100 +0800">
+    <title lang="zh">信用中国:王毅(下)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623140100 +0800" stop="20260623141200 +0800">
+    <title lang="zh">攀登者:匠心筑好房</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623141200 +0800" stop="20260623142200 +0800">
+    <title lang="zh">开拓者:遥瞰苍穹星织新章</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623142200 +0800" stop="20260623151300 +0800">
+    <title lang="zh">辜鸿铭(6)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623151300 +0800" stop="20260623151800 +0800">
+    <title lang="zh">在影像里重逢(28)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623151800 +0800" stop="20260623152800 +0800">
+    <title lang="zh">力量:科技创新赋能品牌发展</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623152800 +0800" stop="20260623153900 +0800">
+    <title lang="zh">力量:创新赋能链接未来</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623153900 +0800" stop="20260623154900 +0800">
+    <title lang="zh">纪录匠心:&amp;apos;伟业&amp;apos;成长于创新</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623154900 +0800" stop="20260623160000 +0800">
+    <title lang="zh">科创中国:匠心筑城与时间对话</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623160000 +0800" stop="20260623163000 +0800">
+    <title lang="zh">新西行漫记(4)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623163000 +0800" stop="20260623170100 +0800">
+    <title lang="zh">岁月丹青:李铎</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623170100 +0800" stop="20260623172700 +0800">
+    <title lang="zh">亲历:桥与城天津(1)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623172700 +0800" stop="20260623174100 +0800">
+    <title lang="zh">信用中国:朱尔玉</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623174100 +0800" stop="20260623175600 +0800">
+    <title lang="zh">信用中国:颜博艺</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623175600 +0800" stop="20260623181100 +0800">
+    <title lang="zh">攀登者:跨越山海锚定热爱</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623181100 +0800" stop="20260623182500 +0800">
+    <title lang="zh">开拓者:诚&amp;apos;筑&amp;apos;安心</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623182500 +0800" stop="20260623192000 +0800">
+    <title lang="zh">勋章背后我们曾并肩战斗(1)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623192000 +0800" stop="20260623192500 +0800">
+    <title lang="zh">在影像里重逢(29)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623192500 +0800" stop="20260623193800 +0800">
+    <title lang="zh">奋斗的力量:航天芦竹的绿色密码</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623193800 +0800" stop="20260623200000 +0800">
+    <title lang="zh">人文纪录</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623200000 +0800" stop="20260623203000 +0800">
+    <title lang="zh">新西行漫记(5)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623203000 +0800" stop="20260623210100 +0800">
+    <title lang="zh">岁月丹青:陈家泠</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623210100 +0800" stop="20260623213500 +0800">
+    <title lang="zh">亲历:黄河人之玛多打冰机(3)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623213500 +0800" stop="20260623215100 +0800">
+    <title lang="zh">信用中国:王毅(上)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623215100 +0800" stop="20260623220100 +0800">
+    <title lang="zh">信用中国:王毅(下)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623220100 +0800" stop="20260623221200 +0800">
+    <title lang="zh">攀登者:匠心筑好房</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623221200 +0800" stop="20260623222200 +0800">
+    <title lang="zh">开拓者:遥瞰苍穹星织新章</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623222200 +0800" stop="20260623231300 +0800">
+    <title lang="zh">辜鸿铭(6)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623231300 +0800" stop="20260623231800 +0800">
+    <title lang="zh">在影像里重逢(28)</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623231800 +0800" stop="20260623232800 +0800">
+    <title lang="zh">力量:科技创新赋能品牌发展</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623232800 +0800" stop="20260623233900 +0800">
+    <title lang="zh">力量:创新赋能链接未来</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623233900 +0800" stop="20260623234900 +0800">
+    <title lang="zh">纪录匠心:&amp;apos;伟业&amp;apos;成长于创新</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495073" start="20260623234900 +0800" stop="20260624000000 +0800">
+    <title lang="zh">科创中国:匠心筑城与时间对话</title>
+    <desc />
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

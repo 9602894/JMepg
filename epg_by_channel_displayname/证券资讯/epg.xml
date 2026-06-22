@@ -1,234 +1,540 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="495065" start="20260621083000 +0800" stop="20260621090000 +0800">
+<programme channel="495065" start="20260622080000 +0800" stop="20260622083000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622083000 +0800" stop="20260622090000 +0800">
     <title lang="zh">股市相对论</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621090000 +0800" stop="20260621092000 +0800">
+<programme channel="495065" start="20260622090000 +0800" stop="20260622092000 +0800">
     <title lang="zh">技术派</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621092000 +0800" stop="20260621095000 +0800">
+<programme channel="495065" start="20260622092000 +0800" stop="20260622095000 +0800">
     <title lang="zh">投资有理想</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621095000 +0800" stop="20260621103000 +0800">
+<programme channel="495065" start="20260622095000 +0800" stop="20260622101000 +0800">
     <title lang="zh">技术派</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621103000 +0800" stop="20260621110000 +0800">
-    <title lang="zh">策略研究室</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495065" start="20260621110000 +0800" stop="20260621120000 +0800">
-    <title lang="zh">股市相对论</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495065" start="20260621120000 +0800" stop="20260621123000 +0800">
-    <title lang="zh">策略研究室</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495065" start="20260621123000 +0800" stop="20260621130000 +0800">
-    <title lang="zh">股市相对论</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495065" start="20260621130000 +0800" stop="20260621132000 +0800">
+<programme channel="495065" start="20260622101000 +0800" stop="20260622103000 +0800">
     <title lang="zh">技术派</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621132000 +0800" stop="20260621135000 +0800">
+<programme channel="495065" start="20260622103000 +0800" stop="20260622110000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622110000 +0800" stop="20260622113000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622113000 +0800" stop="20260622120000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622120000 +0800" stop="20260622123000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622123000 +0800" stop="20260622130000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622130000 +0800" stop="20260622132000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622132000 +0800" stop="20260622135000 +0800">
     <title lang="zh">投资有理想</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621135000 +0800" stop="20260621143000 +0800">
+<programme channel="495065" start="20260622135000 +0800" stop="20260622141000 +0800">
     <title lang="zh">技术派</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621143000 +0800" stop="20260621150000 +0800">
-    <title lang="zh">策略研究室</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495065" start="20260621150000 +0800" stop="20260621160000 +0800">
-    <title lang="zh">股市相对论</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495065" start="20260621160000 +0800" stop="20260621163000 +0800">
-    <title lang="zh">策略研究室</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495065" start="20260621163000 +0800" stop="20260621170000 +0800">
-    <title lang="zh">股市相对论</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="495065" start="20260621170000 +0800" stop="20260621172000 +0800">
+<programme channel="495065" start="20260622141000 +0800" stop="20260622143000 +0800">
     <title lang="zh">技术派</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621172000 +0800" stop="20260621175000 +0800">
+<programme channel="495065" start="20260622143000 +0800" stop="20260622150000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622150000 +0800" stop="20260622153000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622153000 +0800" stop="20260622160000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622160000 +0800" stop="20260622163000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622163000 +0800" stop="20260622170000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622170000 +0800" stop="20260622172000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622172000 +0800" stop="20260622175000 +0800">
     <title lang="zh">投资有理想</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621175000 +0800" stop="20260621183000 +0800">
+<programme channel="495065" start="20260622175000 +0800" stop="20260622181000 +0800">
     <title lang="zh">技术派</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621183000 +0800" stop="20260621190000 +0800">
+<programme channel="495065" start="20260622181000 +0800" stop="20260622183000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622183000 +0800" stop="20260622190000 +0800">
     <title lang="zh">策略研究室</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621190000 +0800" stop="20260621200000 +0800">
+<programme channel="495065" start="20260622190000 +0800" stop="20260622193000 +0800">
     <title lang="zh">股市相对论</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621200000 +0800" stop="20260621210000 +0800">
+<programme channel="495065" start="20260622193000 +0800" stop="20260622200000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622200000 +0800" stop="20260622210000 +0800">
     <title lang="zh">直播股市</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621210000 +0800" stop="20260621212000 +0800">
+<programme channel="495065" start="20260622210000 +0800" stop="20260622212000 +0800">
     <title lang="zh">股市相对论</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621212000 +0800" stop="20260621215000 +0800">
+<programme channel="495065" start="20260622212000 +0800" stop="20260622215000 +0800">
     <title lang="zh">投资有理想</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621215000 +0800" stop="20260621231500 +0800">
+<programme channel="495065" start="20260622215000 +0800" stop="20260622231500 +0800">
     <title lang="zh">银河讲堂</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621231500 +0800" stop="20260621234500 +0800">
+<programme channel="495065" start="20260622231500 +0800" stop="20260622234500 +0800">
     <title lang="zh">策略研究室</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="495065" start="20260621234500 +0800" stop="20260622000000 +0800">
+<programme channel="495065" start="20260622234500 +0800" stop="20260622235900 +0800">
     <title lang="zh">技术派</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260622235900 +0800" stop="20260623083000 +0800">
+    <title lang="zh">节目结束</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623083000 +0800" stop="20260623090000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623090000 +0800" stop="20260623092000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623092000 +0800" stop="20260623095000 +0800">
+    <title lang="zh">投资有理想</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623095000 +0800" stop="20260623103000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623103000 +0800" stop="20260623110000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623110000 +0800" stop="20260623120000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623120000 +0800" stop="20260623123000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623123000 +0800" stop="20260623130000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623130000 +0800" stop="20260623132000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623132000 +0800" stop="20260623135000 +0800">
+    <title lang="zh">投资有理想</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623135000 +0800" stop="20260623143000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623143000 +0800" stop="20260623150000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623150000 +0800" stop="20260623160000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623160000 +0800" stop="20260623163000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623163000 +0800" stop="20260623170000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623170000 +0800" stop="20260623172000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623172000 +0800" stop="20260623175000 +0800">
+    <title lang="zh">投资有理想</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623175000 +0800" stop="20260623183000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623183000 +0800" stop="20260623190000 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623190000 +0800" stop="20260623200000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623200000 +0800" stop="20260623210000 +0800">
+    <title lang="zh">直播股市</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623210000 +0800" stop="20260623212000 +0800">
+    <title lang="zh">股市相对论</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623212000 +0800" stop="20260623215000 +0800">
+    <title lang="zh">投资有理想</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623215000 +0800" stop="20260623231500 +0800">
+    <title lang="zh">银河讲堂</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623231500 +0800" stop="20260623234500 +0800">
+    <title lang="zh">策略研究室</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="495065" start="20260623234500 +0800" stop="20260624000000 +0800">
+    <title lang="zh">技术派</title>
+    <desc />
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

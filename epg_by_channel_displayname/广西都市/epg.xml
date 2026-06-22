@@ -1,180 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539687" start="20260621004000 +0800" stop="20260621011500 +0800">
+<programme channel="539687" start="20260622002500 +0800" stop="20260622004000 +0800">
+    <title lang="zh">重播:八桂之窗</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539687" start="20260622004000 +0800" stop="20260622011500 +0800">
+    <title lang="zh">重播:遇见好书</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539687" start="20260622011500 +0800" stop="20260622013500 +0800">
+    <title lang="zh">重播:广西教育周刊</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539687" start="20260622013500 +0800" stop="20260622060000 +0800">
+    <title lang="zh">通宵剧场:79集电视剧:大秧歌(24-29)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539687" start="20260622060000 +0800" stop="20260622063500 +0800">
+    <title lang="zh">重播:遇见好书</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539687" start="20260622063500 +0800" stop="20260622071000 +0800">
+    <title lang="zh">重播:广西教育周刊</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539687" start="20260622071000 +0800" stop="20260622115000 +0800">
+    <title lang="zh">阳光剧场:43集电视剧:昙花梦(30-35)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539687" start="20260622115000 +0800" stop="20260622122000 +0800">
+    <title lang="zh">重播:广西教育周刊</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539687" start="20260622122000 +0800" stop="20260622151500 +0800">
+    <title lang="zh">午间剧场:30集电视剧:烽火嫁衣(9-11)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539687" start="20260622151500 +0800" stop="20260622155500 +0800">
     <title lang="zh">重播:都市情缘</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539687" start="20260621011500 +0800" stop="20260621013500 +0800">
-    <title lang="zh">重播:一起向未来</title>
+<programme channel="539687" start="20260622155500 +0800" stop="20260622181000 +0800">
+    <title lang="zh">生活剧场:45集电视剧:我叫苗金花(24-26)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539687" start="20260621013500 +0800" stop="20260621060000 +0800">
-    <title lang="zh">通宵剧场:79集电视剧:大秧歌(49-54)</title>
+<programme channel="539687" start="20260622181000 +0800" stop="20260622184000 +0800">
+    <title lang="zh">一起向未来</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539687" start="20260621060000 +0800" stop="20260621063500 +0800">
-    <title lang="zh">重播:都市情缘</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621063500 +0800" stop="20260621071000 +0800">
-    <title lang="zh">重播:一起向未来</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621071000 +0800" stop="20260621115000 +0800">
-    <title lang="zh">阳光剧场:70集电视剧:打狗棍(11-16)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621115000 +0800" stop="20260621120500 +0800">
-    <title lang="zh">健康广西</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621120500 +0800" stop="20260621122000 +0800">
-    <title lang="zh">八桂之窗</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621122000 +0800" stop="20260621151500 +0800">
-    <title lang="zh">午间剧场:30集电视剧:烽火嫁衣(26-28)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621151500 +0800" stop="20260621155500 +0800">
-    <title lang="zh">重播:都市情缘</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621155500 +0800" stop="20260621181000 +0800">
-    <title lang="zh">生活剧场:45集电视剧:我叫苗金花(42-44)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621181000 +0800" stop="20260621184000 +0800">
-    <title lang="zh">广西教育周刊</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621184000 +0800" stop="20260621192000 +0800">
+<programme channel="539687" start="20260622184000 +0800" stop="20260622192000 +0800">
     <title lang="zh">都市情缘</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539687" start="20260621192000 +0800" stop="20260621192500 +0800">
+<programme channel="539687" start="20260622192000 +0800" stop="20260622192500 +0800">
     <title lang="zh">天气，点点看</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539687" start="20260621192500 +0800" stop="20260621200500 +0800">
-    <title lang="zh">情感剧场:45集电视剧:我叫苗金花(45)</title>
+<programme channel="539687" start="20260622192500 +0800" stop="20260622220000 +0800">
+    <title lang="zh">情感剧场:45集电视剧:我叫苗金花(27-29)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539687" start="20260621200500 +0800" stop="20260621220000 +0800">
-    <title lang="zh">情感剧场:34集电视剧:顺娘(1-2)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539687" start="20260621220000 +0800" stop="20260621221000 +0800">
+<programme channel="539687" start="20260622220000 +0800" stop="20260622221000 +0800">
     <title lang="zh">重播:天气，点点看</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539687" start="20260621221000 +0800" stop="20260621224500 +0800">
-    <title lang="zh">遇见好书</title>
+<programme channel="539687" start="20260622221000 +0800" stop="20260622230000 +0800">
+    <title lang="zh">幸福剧场:45集电视剧:传家(38)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539687" start="20260621224500 +0800" stop="20260621233500 +0800">
-    <title lang="zh">幸福剧场:48集电视剧:燕女侠传奇(11)</title>
+<programme channel="539687" start="20260622230000 +0800" stop="20260622235000 +0800">
+    <title lang="zh">幸福剧场:45集电视剧:传家(39)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539687" start="20260621233500 +0800" stop="20260622000000 +0800">
-    <title lang="zh">幸福剧场:48集电视剧:燕女侠传奇(12)</title>
+<programme channel="539687" start="20260622235000 +0800" stop="20260623000000 +0800">
+    <title lang="zh">幸福剧场:45集电视剧:传家(40)</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

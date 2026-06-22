@@ -1,279 +1,315 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539725" start="20260621070000 +0800" stop="20260621083500 +0800">
-    <title lang="zh">非爱不可</title>
+<programme channel="539725" start="20260622070000 +0800" stop="20260622080000 +0800">
+    <title lang="zh">早晨新闻</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539725" start="20260621083500 +0800" stop="20260621090000 +0800">
+<programme channel="539725" start="20260622080000 +0800" stop="20260622090000 +0800">
+    <title lang="zh">澳门早晨</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622090000 +0800" stop="20260622090200 +0800">
+    <title lang="zh">TDM 新视点</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622090200 +0800" stop="20260622092500 +0800">
     <title lang="zh">趋记茶餐厅</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539725" start="20260621090000 +0800" stop="20260621090200 +0800">
-    <title lang="zh">TDM 新视点</title>
+<programme channel="539725" start="20260622092500 +0800" stop="20260622093000 +0800">
+    <title lang="zh">趣谈唐诗</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539725" start="20260621090200 +0800" stop="20260621094800 +0800">
-    <title lang="zh">三吃客</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621094800 +0800" stop="20260621100000 +0800">
-    <title lang="zh">5亿年，岩石里的生命奇迹</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621100000 +0800" stop="20260621103000 +0800">
-    <title lang="zh">新闻报道</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621103000 +0800" stop="20260621111000 +0800">
-    <title lang="zh">重播财经杂志</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621111000 +0800" stop="20260621124500 +0800">
-    <title lang="zh">你的世界我们懂</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621124500 +0800" stop="20260621131000 +0800">
-    <title lang="zh">城市觅食</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621131000 +0800" stop="20260621131200 +0800">
-    <title lang="zh">TDM 新视点</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621131200 +0800" stop="20260621131700 +0800">
-    <title lang="zh">“你问我答”粤澳法律直播间</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621131700 +0800" stop="20260621132400 +0800">
-    <title lang="zh">SUN闻搜罗</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621132400 +0800" stop="20260621133000 +0800">
-    <title lang="zh">午间天气报告</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621133000 +0800" stop="20260621140000 +0800">
-    <title lang="zh">午间新闻</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621140000 +0800" stop="20260621153500 +0800">
-    <title lang="zh">一起深呼吸</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621153500 +0800" stop="20260621160000 +0800">
-    <title lang="zh">口述澳门历史名人堂 II</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621160000 +0800" stop="20260621160500 +0800">
-    <title lang="zh">巧手时光</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621160500 +0800" stop="20260621163000 +0800">
-    <title lang="zh">儿童节目︰节气小精灵</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621163000 +0800" stop="20260621170000 +0800">
-    <title lang="zh">儿童节目︰新西游历险记</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621170000 +0800" stop="20260621175800 +0800">
-    <title lang="zh">儿童节目︰开心超人联盟 勇敢之城 2  超人计划 (第十九季)</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621175800 +0800" stop="20260621184300 +0800">
-    <title lang="zh">澳门早晨一周精华</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621184300 +0800" stop="20260621185000 +0800">
-    <title lang="zh">SUN闻搜罗</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621185000 +0800" stop="20260621190000 +0800">
-    <title lang="zh">新闻提要</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621190000 +0800" stop="20260621195500 +0800">
-    <title lang="zh">澳视新闻</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621195500 +0800" stop="20260621200000 +0800">
-    <title lang="zh">天气报告</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621200000 +0800" stop="20260621213000 +0800">
-    <title lang="zh">遇见你，真香</title>
-    <desc />
-    <date>20260621</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539725" start="20260621213000 +0800" stop="20260621220000 +0800">
+<programme channel="539725" start="20260622093000 +0800" stop="20260622100000 +0800">
     <title lang="zh">厨房里的桃花源</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539725" start="20260621220000 +0800" stop="20260621223000 +0800">
+<programme channel="539725" start="20260622100000 +0800" stop="20260622103000 +0800">
+    <title lang="zh">新闻报道</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622103000 +0800" stop="20260622111000 +0800">
+    <title lang="zh">重播中国城市动态</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622111000 +0800" stop="20260622124500 +0800">
+    <title lang="zh">承欢记</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622124500 +0800" stop="20260622131000 +0800">
+    <title lang="zh">城市觅食</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622131000 +0800" stop="20260622131200 +0800">
+    <title lang="zh">TDM 新视点</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622131200 +0800" stop="20260622131700 +0800">
+    <title lang="zh">趣谈唐诗</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622131700 +0800" stop="20260622132400 +0800">
+    <title lang="zh">中国软实力</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622132400 +0800" stop="20260622133000 +0800">
+    <title lang="zh">午间天气报告</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622133000 +0800" stop="20260622140000 +0800">
+    <title lang="zh">午间新闻</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622140000 +0800" stop="20260622150000 +0800">
+    <title lang="zh">每日财经</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622150000 +0800" stop="20260622154000 +0800">
+    <title lang="zh">重播中国城市动态</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622154000 +0800" stop="20260622160000 +0800">
+    <title lang="zh">澳门早晨精华录</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622160000 +0800" stop="20260622160500 +0800">
+    <title lang="zh">趣谈唐诗</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622160500 +0800" stop="20260622163000 +0800">
+    <title lang="zh">儿童节目︰节气小精灵</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622163000 +0800" stop="20260622170000 +0800">
+    <title lang="zh">儿童节目︰新西游历险记</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622170000 +0800" stop="20260622175800 +0800">
+    <title lang="zh">儿童节目︰开心超人联盟 勇敢之城 2  超人计划 (第十九季)</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622175800 +0800" stop="20260622183800 +0800">
+    <title lang="zh">动感教菁</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622183800 +0800" stop="20260622184300 +0800">
+    <title lang="zh">趣谈唐诗</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622184300 +0800" stop="20260622185000 +0800">
+    <title lang="zh">中国软实力</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622185000 +0800" stop="20260622190000 +0800">
+    <title lang="zh">新闻提要</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622190000 +0800" stop="20260622195500 +0800">
+    <title lang="zh">澳视新闻</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622195500 +0800" stop="20260622200000 +0800">
+    <title lang="zh">天气报告</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622200000 +0800" stop="20260622213300 +0800">
+    <title lang="zh">承欢记</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622213300 +0800" stop="20260622220000 +0800">
+    <title lang="zh">家家有本事</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622220000 +0800" stop="20260622223000 +0800">
     <title lang="zh">普通话新闻</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539725" start="20260621223000 +0800" stop="20260621231500 +0800">
-    <title lang="zh">十点半澳视纵横︰中国城市动态</title>
+<programme channel="539725" start="20260622223000 +0800" stop="20260622230000 +0800">
+    <title lang="zh">十点半澳视纵横︰风火台</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539725" start="20260621231500 +0800" stop="20260621235000 +0800">
+<programme channel="539725" start="20260622230000 +0800" stop="20260622231500 +0800">
+    <title lang="zh">“你问我答”粤澳法律直播间</title>
+    <desc />
+    <date>20260622</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539725" start="20260622231500 +0800" stop="20260622235000 +0800">
     <title lang="zh">晚间新闻</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539725" start="20260621235000 +0800" stop="20260622000000 +0800">
+<programme channel="539725" start="20260622235000 +0800" stop="20260623000000 +0800">
     <title lang="zh">体育新闻</title>
     <desc />
-    <date>20260621</date>
+    <date>20260622</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
