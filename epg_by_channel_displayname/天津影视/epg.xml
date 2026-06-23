@@ -1,81 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539631" start="20260622001000 +0800" stop="20260622021500 +0800">
-    <title lang="zh">傍晚剧场重播</title>
+<programme channel="539631" start="20260623000800 +0800" stop="20260623065000 +0800">
+    <title lang="zh">夜间剧场:重播傍晚剧场:和平饭店</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539631" start="20260622021500 +0800" stop="20260622042500 +0800">
-    <title lang="zh">晚八点剧场重播</title>
+<programme channel="539631" start="20260623065000 +0800" stop="20260623070000 +0800">
+    <title lang="zh">重播上午剧场:成家立业</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539631" start="20260622042500 +0800" stop="20260622065500 +0800">
-    <title lang="zh">上午剧场重播</title>
+<programme channel="539631" start="20260623070000 +0800" stop="20260623120000 +0800">
+    <title lang="zh">上午剧场:成家立业</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539631" start="20260622065500 +0800" stop="20260622120000 +0800">
-    <title lang="zh">上午剧场</title>
+<programme channel="539631" start="20260623120000 +0800" stop="20260623173000 +0800">
+    <title lang="zh">午后剧场:尖锋</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539631" start="20260622120000 +0800" stop="20260622141000 +0800">
-    <title lang="zh">中午剧场</title>
+<programme channel="539631" start="20260623173000 +0800" stop="20260623190000 +0800">
+    <title lang="zh">傍晚剧场:和平饭店(16-17)</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539631" start="20260622141000 +0800" stop="20260622174000 +0800">
-    <title lang="zh">午后剧场</title>
+<programme channel="539631" start="20260623190000 +0800" stop="20260623220000 +0800">
+    <title lang="zh">强档剧场:虎胆神鹰(24-27)</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539631" start="20260622174000 +0800" stop="20260622200000 +0800">
-    <title lang="zh">傍晚剧场</title>
+<programme channel="539631" start="20260623220000 +0800" stop="20260624000000 +0800">
+    <title lang="zh">晚间剧场:大宅院的女人(21-22)</title>
     <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539631" start="20260622200000 +0800" stop="20260622224000 +0800">
-    <title lang="zh">晚八点剧场</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539631" start="20260622224000 +0800" stop="20260623000000 +0800">
-    <title lang="zh">晚间剧场</title>
-    <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

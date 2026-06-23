@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539799" start="20260622000000 +0800" stop="20260622020000 +0800">
-    <title lang="zh">2026美加墨世界杯 H组第2轮 西班牙-沙特阿拉伯 直播</title>
+<programme channel="539799" start="20260623000000 +0800" stop="20260623033500 +0800">
+    <title lang="zh">2026美加墨世界杯 J组第2轮 阿根廷-奥地利 直播</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260622020000 +0800" stop="20260622052000 +0800">
-    <title lang="zh">2026美加墨世界杯 G组第2轮 比利时-伊朗 直播</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539799" start="20260622052000 +0800" stop="20260622053000 +0800">
+<programme channel="539799" start="20260623033500 +0800" stop="20260623034500 +0800">
     <title lang="zh">世界杯宣传</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260622053000 +0800" stop="20260623000000 +0800">
-    <title lang="zh">2026美加墨世界杯 H组第2轮 乌拉圭-佛得角 直播</title>
+<programme channel="539799" start="20260623034500 +0800" stop="20260623040000 +0800">
+    <title lang="zh">世界杯最前线</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260623040000 +0800" stop="20260624000000 +0800">
+    <title lang="zh">2026美加墨世界杯 I组第2轮 法国-伊拉克 直播</title>
+    <desc />
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

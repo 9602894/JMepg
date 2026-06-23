@@ -1,369 +1,2052 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="546006" start="20260622000000 +0800" stop="20260622001500 +0800">
+<programme channel="546006" start="20260623000000 +0800" stop="20260623010000 +0800">
     <title lang="zh">午夜新闻</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546006" start="20260622001500 +0800" stop="20260622010000 +0800">
-    <title lang="zh">面对面</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622010000 +0800" stop="20260622011500 +0800">
+<programme channel="546006" start="20260623010000 +0800" stop="20260623012100 +0800">
     <title lang="zh">新闻直播间</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546006" start="20260622011500 +0800" stop="20260622020000 +0800">
-    <title lang="zh">世界周刊</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622020000 +0800" stop="20260622021500 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622021500 +0800" stop="20260622030000 +0800">
-    <title lang="zh">面对面</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622030000 +0800" stop="20260622032400 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622032400 +0800" stop="20260622034000 +0800">
+<programme channel="546006" start="20260623012100 +0800" stop="20260623013700 +0800">
     <title lang="zh">焦点访谈</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546006" start="20260622034000 +0800" stop="20260622040000 +0800">
-    <title lang="zh">每周质量报告</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622040000 +0800" stop="20260622041500 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622041500 +0800" stop="20260622050000 +0800">
-    <title lang="zh">世界周刊</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622050000 +0800" stop="20260622051600 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622051600 +0800" stop="20260622055900 +0800">
-    <title lang="zh">面对面</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622055900 +0800" stop="20260622060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622060000 +0800" stop="20260622070000 +0800">
-    <title lang="zh">朝闻天下</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622070000 +0800" stop="20260622070100 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622070100 +0800" stop="20260622090000 +0800">
-    <title lang="zh">朝闻天下</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622090000 +0800" stop="20260622091400 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622091400 +0800" stop="20260622100000 +0800">
-    <title lang="zh">世界周刊</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622100000 +0800" stop="20260622110000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622110000 +0800" stop="20260622120000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622120000 +0800" stop="20260622123400 +0800">
-    <title lang="zh">新闻30分</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622123400 +0800" stop="20260622130000 +0800">
+<programme channel="546006" start="20260623013700 +0800" stop="20260623020000 +0800">
     <title lang="zh">法治在线</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546006" start="20260622130000 +0800" stop="20260622132100 +0800">
-    <title lang="zh">新闻直播间-广交天下客</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622132100 +0800" stop="20260622140000 +0800">
+<programme channel="546006" start="20260623020000 +0800" stop="20260623023300 +0800">
     <title lang="zh">新闻直播间</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546006" start="20260622140000 +0800" stop="20260622141500 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622141500 +0800" stop="20260622150000 +0800">
-    <title lang="zh">面对面</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622150000 +0800" stop="20260622160000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622160000 +0800" stop="20260622170000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622170000 +0800" stop="20260622180000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622180000 +0800" stop="20260622190000 +0800">
-    <title lang="zh">共同关注</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622190000 +0800" stop="20260622193000 +0800">
-    <title lang="zh">新闻联播</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622193000 +0800" stop="20260622193100 +0800">
-    <title lang="zh">广告</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622193100 +0800" stop="20260622193700 +0800">
-    <title lang="zh">天气预报</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622193700 +0800" stop="20260622200000 +0800">
-    <title lang="zh">焦点访谈</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622200000 +0800" stop="20260622210000 +0800">
-    <title lang="zh">东方时空</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622210000 +0800" stop="20260622213000 +0800">
-    <title lang="zh">新闻联播</title>
-    <desc />
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546006" start="20260622213000 +0800" stop="20260622220000 +0800">
+<programme channel="546006" start="20260623023300 +0800" stop="20260623030000 +0800">
     <title lang="zh">新闻1+1</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546006" start="20260622220000 +0800" stop="20260622223000 +0800">
+<programme channel="546006" start="20260623030000 +0800" stop="20260623034400 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623034400 +0800" stop="20260623040000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623040000 +0800" stop="20260623043300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623043300 +0800" stop="20260623050000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623050000 +0800" stop="20260623051800 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623051800 +0800" stop="20260623053400 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623053400 +0800" stop="20260623055900 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623055900 +0800" stop="20260623060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623060000 +0800" stop="20260623070000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623070000 +0800" stop="20260623070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623070100 +0800" stop="20260623090000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623090000 +0800" stop="20260623100000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623100000 +0800" stop="20260623110000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623110000 +0800" stop="20260623120000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623120000 +0800" stop="20260623123400 +0800">
+    <title lang="zh">新闻30分</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623123400 +0800" stop="20260623130000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623130000 +0800" stop="20260623140000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623140000 +0800" stop="20260623150000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623150000 +0800" stop="20260623160000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623160000 +0800" stop="20260623170000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623170000 +0800" stop="20260623180000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623180000 +0800" stop="20260623190000 +0800">
+    <title lang="zh">共同关注</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623190000 +0800" stop="20260623193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623193000 +0800" stop="20260623193200 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623193200 +0800" stop="20260623194000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623194000 +0800" stop="20260623200000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623200000 +0800" stop="20260623210000 +0800">
+    <title lang="zh">东方时空</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623210000 +0800" stop="20260623213000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623213000 +0800" stop="20260623220000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260623220000 +0800" stop="20260623223000 +0800">
     <title lang="zh">国际时讯</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546006" start="20260622223000 +0800" stop="20260622230000 +0800">
+<programme channel="546006" start="20260623223000 +0800" stop="20260623230000 +0800">
     <title lang="zh">环球视线</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546006" start="20260622230000 +0800" stop="20260623000000 +0800">
+<programme channel="546006" start="20260623230000 +0800" stop="20260624000000 +0800">
     <title lang="zh">24小时</title>
     <desc />
-    <date>20260622</date>
+    <date>20260623</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624000000 +0800" stop="20260624010000 +0800">
+    <title lang="zh">午夜新闻</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624010000 +0800" stop="20260624012000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624012000 +0800" stop="20260624013600 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624013600 +0800" stop="20260624020000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624020000 +0800" stop="20260624023300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624023300 +0800" stop="20260624030000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624030000 +0800" stop="20260624034400 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624034400 +0800" stop="20260624040000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624040000 +0800" stop="20260624043300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624043300 +0800" stop="20260624050000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624050000 +0800" stop="20260624051700 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624051700 +0800" stop="20260624053300 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624053300 +0800" stop="20260624055900 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624055900 +0800" stop="20260624060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624060000 +0800" stop="20260624070000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624070000 +0800" stop="20260624070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624070100 +0800" stop="20260624090000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624090000 +0800" stop="20260624100000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624100000 +0800" stop="20260624110000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624110000 +0800" stop="20260624120000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624120000 +0800" stop="20260624123300 +0800">
+    <title lang="zh">新闻30分</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624123300 +0800" stop="20260624130000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624130000 +0800" stop="20260624140000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624140000 +0800" stop="20260624150000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624150000 +0800" stop="20260624160000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624160000 +0800" stop="20260624170000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624170000 +0800" stop="20260624180000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624180000 +0800" stop="20260624190000 +0800">
+    <title lang="zh">共同关注</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624190000 +0800" stop="20260624193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624193000 +0800" stop="20260624193200 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624193200 +0800" stop="20260624194000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624194000 +0800" stop="20260624200000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624200000 +0800" stop="20260624210000 +0800">
+    <title lang="zh">东方时空</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624210000 +0800" stop="20260624213700 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624213700 +0800" stop="20260624220700 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624220700 +0800" stop="20260624223000 +0800">
+    <title lang="zh">国际时讯</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624223000 +0800" stop="20260624230000 +0800">
+    <title lang="zh">环球视线</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260624230000 +0800" stop="20260625000000 +0800">
+    <title lang="zh">24小时</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625000000 +0800" stop="20260625010000 +0800">
+    <title lang="zh">午夜新闻</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625010000 +0800" stop="20260625012000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625012000 +0800" stop="20260625013600 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625013600 +0800" stop="20260625020000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625020000 +0800" stop="20260625023300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625023300 +0800" stop="20260625030000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625030000 +0800" stop="20260625034400 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625034400 +0800" stop="20260625040000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625040000 +0800" stop="20260625043300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625043300 +0800" stop="20260625050000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625050000 +0800" stop="20260625051700 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625051700 +0800" stop="20260625053300 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625053300 +0800" stop="20260625055900 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625055900 +0800" stop="20260625060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625060000 +0800" stop="20260625070000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625070000 +0800" stop="20260625070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625070100 +0800" stop="20260625090000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625090000 +0800" stop="20260625100000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625100000 +0800" stop="20260625110000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625110000 +0800" stop="20260625120000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625120000 +0800" stop="20260625123300 +0800">
+    <title lang="zh">新闻30分</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625123300 +0800" stop="20260625130000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625130000 +0800" stop="20260625140000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625140000 +0800" stop="20260625150000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625150000 +0800" stop="20260625160000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625160000 +0800" stop="20260625170000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625170000 +0800" stop="20260625180000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625180000 +0800" stop="20260625190000 +0800">
+    <title lang="zh">共同关注</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625190000 +0800" stop="20260625193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625193000 +0800" stop="20260625193200 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625193200 +0800" stop="20260625194700 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625194700 +0800" stop="20260625200500 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625200500 +0800" stop="20260625210000 +0800">
+    <title lang="zh">东方时空</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625210000 +0800" stop="20260625214000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625214000 +0800" stop="20260625220000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625220000 +0800" stop="20260625223000 +0800">
+    <title lang="zh">国际时讯</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625223000 +0800" stop="20260625230000 +0800">
+    <title lang="zh">环球视线</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260625230000 +0800" stop="20260626000000 +0800">
+    <title lang="zh">24小时</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626000000 +0800" stop="20260626010000 +0800">
+    <title lang="zh">午夜新闻</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626010000 +0800" stop="20260626012000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626012000 +0800" stop="20260626013600 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626013600 +0800" stop="20260626020000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626020000 +0800" stop="20260626023300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626023300 +0800" stop="20260626030000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626030000 +0800" stop="20260626034400 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626034400 +0800" stop="20260626040000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626040000 +0800" stop="20260626043300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626043300 +0800" stop="20260626050000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626050000 +0800" stop="20260626051700 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626051700 +0800" stop="20260626053300 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626053300 +0800" stop="20260626055900 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626055900 +0800" stop="20260626060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626060000 +0800" stop="20260626070000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626070000 +0800" stop="20260626070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626070100 +0800" stop="20260626090000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626090000 +0800" stop="20260626100000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626100000 +0800" stop="20260626110000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626110000 +0800" stop="20260626120000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626120000 +0800" stop="20260626123300 +0800">
+    <title lang="zh">新闻30分</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626123300 +0800" stop="20260626130000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626130000 +0800" stop="20260626140000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626140000 +0800" stop="20260626150000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626150000 +0800" stop="20260626160000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626160000 +0800" stop="20260626170000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626170000 +0800" stop="20260626180000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626180000 +0800" stop="20260626190000 +0800">
+    <title lang="zh">共同关注</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626190000 +0800" stop="20260626193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626193000 +0800" stop="20260626193200 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626193200 +0800" stop="20260626194000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626194000 +0800" stop="20260626200000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626200000 +0800" stop="20260626210000 +0800">
+    <title lang="zh">东方时空</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626210000 +0800" stop="20260626213000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626213000 +0800" stop="20260626220000 +0800">
+    <title lang="zh">高端访谈</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626220000 +0800" stop="20260626223000 +0800">
+    <title lang="zh">国际时讯</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626223000 +0800" stop="20260626230000 +0800">
+    <title lang="zh">环球视线</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260626230000 +0800" stop="20260627000000 +0800">
+    <title lang="zh">24小时</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627000000 +0800" stop="20260627010000 +0800">
+    <title lang="zh">午夜新闻</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627010000 +0800" stop="20260627012000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627012000 +0800" stop="20260627013600 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627013600 +0800" stop="20260627020000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627020000 +0800" stop="20260627023700 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627023700 +0800" stop="20260627030000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627030000 +0800" stop="20260627034400 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627034400 +0800" stop="20260627040000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627040000 +0800" stop="20260627043300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627043300 +0800" stop="20260627050000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627050000 +0800" stop="20260627051700 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627051700 +0800" stop="20260627053300 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627053300 +0800" stop="20260627055900 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627055900 +0800" stop="20260627060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627060000 +0800" stop="20260627070000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627070000 +0800" stop="20260627070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627070100 +0800" stop="20260627090000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627090000 +0800" stop="20260627100000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627100000 +0800" stop="20260627110000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627110000 +0800" stop="20260627120000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627120000 +0800" stop="20260627123300 +0800">
+    <title lang="zh">新闻30分</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627123300 +0800" stop="20260627130000 +0800">
+    <title lang="zh">军情时间到</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627130000 +0800" stop="20260627140000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627140000 +0800" stop="20260627150000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627150000 +0800" stop="20260627160000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627160000 +0800" stop="20260627170000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627170000 +0800" stop="20260627180000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627180000 +0800" stop="20260627190000 +0800">
+    <title lang="zh">共同关注</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627190000 +0800" stop="20260627193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627193000 +0800" stop="20260627193200 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627193200 +0800" stop="20260627194000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627194000 +0800" stop="20260627200000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627200000 +0800" stop="20260627210000 +0800">
+    <title lang="zh">东方时空</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627210000 +0800" stop="20260627213000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627213000 +0800" stop="20260627221500 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627221500 +0800" stop="20260627230000 +0800">
+    <title lang="zh">新闻周刊</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260627230000 +0800" stop="20260628000000 +0800">
+    <title lang="zh">24小时</title>
+    <desc />
+    <date>20260627</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628000000 +0800" stop="20260628001500 +0800">
+    <title lang="zh">午夜新闻</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628001500 +0800" stop="20260628010000 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628010000 +0800" stop="20260628011500 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628011500 +0800" stop="20260628020000 +0800">
+    <title lang="zh">新闻周刊</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628020000 +0800" stop="20260628021500 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628021500 +0800" stop="20260628030000 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628030000 +0800" stop="20260628032000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628032000 +0800" stop="20260628033600 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628033600 +0800" stop="20260628040000 +0800">
+    <title lang="zh">军情时间到</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628040000 +0800" stop="20260628041500 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628041500 +0800" stop="20260628050000 +0800">
+    <title lang="zh">新闻周刊</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628050000 +0800" stop="20260628051200 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628051200 +0800" stop="20260628055900 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628055900 +0800" stop="20260628060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628060000 +0800" stop="20260628070000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628070000 +0800" stop="20260628070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628070100 +0800" stop="20260628090000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628090000 +0800" stop="20260628091200 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628091200 +0800" stop="20260628100000 +0800">
+    <title lang="zh">新闻周刊</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628100000 +0800" stop="20260628110000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628110000 +0800" stop="20260628120000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628120000 +0800" stop="20260628123500 +0800">
+    <title lang="zh">新闻30分</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628123500 +0800" stop="20260628130000 +0800">
+    <title lang="zh">每周质量报告</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628130000 +0800" stop="20260628140000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628140000 +0800" stop="20260628141200 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628141200 +0800" stop="20260628150000 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628150000 +0800" stop="20260628160000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628160000 +0800" stop="20260628170000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628170000 +0800" stop="20260628180000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628180000 +0800" stop="20260628190000 +0800">
+    <title lang="zh">共同关注</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628190000 +0800" stop="20260628193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628193000 +0800" stop="20260628193200 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628193200 +0800" stop="20260628194000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628194000 +0800" stop="20260628200000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628200000 +0800" stop="20260628210000 +0800">
+    <title lang="zh">东方时空</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628210000 +0800" stop="20260628213000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628213000 +0800" stop="20260628221500 +0800">
+    <title lang="zh">面对面</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628221500 +0800" stop="20260628230000 +0800">
+    <title lang="zh">世界周刊</title>
+    <desc />
+    <date>20260628</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546006" start="20260628230000 +0800" stop="20260629000000 +0800">
+    <title lang="zh">24小时</title>
+    <desc />
+    <date>20260628</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456617" start="20260622000000 +0800" stop="20260622020000 +0800">
-    <title lang="zh">芭梨大舞台1</title>
-    <desc>芭梨大舞台1</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622020000 +0800" stop="20260622060000 +0800">
-    <title lang="zh">芭梨大舞台2</title>
-    <desc>芭梨大舞台2</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622060000 +0800" stop="20260622080000 +0800">
-    <title lang="zh">幸福人生</title>
-    <desc>幸福人生</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622080000 +0800" stop="20260622100000 +0800">
-    <title lang="zh">晶晶LiveShow</title>
-    <desc>晶晶LiveShow</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622100000 +0800" stop="20260622120000 +0800">
-    <title lang="zh">快樂好麻吉</title>
-    <desc>快樂好麻吉</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622120000 +0800" stop="20260622140000 +0800">
-    <title lang="zh">雙星報囍</title>
-    <desc>雙星報囍</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622140000 +0800" stop="20260622160000 +0800">
-    <title lang="zh">幸福人生</title>
-    <desc>幸福人生</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622160000 +0800" stop="20260622180000 +0800">
-    <title lang="zh">夢想好歌聲</title>
-    <desc>夢想好歌聲</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622180000 +0800" stop="20260622200000 +0800">
-    <title lang="zh">健康加油讚</title>
-    <desc>健康加油讚</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622200000 +0800" stop="20260622220000 +0800">
-    <title lang="zh">冠軍夢想精選</title>
-    <desc>冠軍夢想精選</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456617" start="20260622220000 +0800" stop="20260623000000 +0800">
-    <title lang="zh">夢想好歌聲</title>
-    <desc>夢想好歌聲</desc>
-    <date>20260622</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456617" start="20260623000000 +0800" stop="20260623020000 +0800">
     <title lang="zh">芭梨大舞台1</title>
     <desc>芭梨大舞台1</desc>
@@ -693,10 +594,109 @@
     </audio>
   </programme>
   
-<programme channel="456617" start="20260629000000 +0800" stop="20260630000000 +0800">
+<programme channel="456617" start="20260629000000 +0800" stop="20260629020000 +0800">
     <title lang="zh">芭梨大舞台1</title>
     <desc>芭梨大舞台1</desc>
     <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629020000 +0800" stop="20260629060000 +0800">
+    <title lang="zh">芭梨大舞台2</title>
+    <desc>芭梨大舞台2</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629060000 +0800" stop="20260629080000 +0800">
+    <title lang="zh">幸福人生</title>
+    <desc>幸福人生</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629080000 +0800" stop="20260629100000 +0800">
+    <title lang="zh">晶晶LiveShow</title>
+    <desc>晶晶LiveShow</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629100000 +0800" stop="20260629120000 +0800">
+    <title lang="zh">快樂好麻吉</title>
+    <desc>快樂好麻吉</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629120000 +0800" stop="20260629140000 +0800">
+    <title lang="zh">雙星報囍</title>
+    <desc>雙星報囍</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629140000 +0800" stop="20260629160000 +0800">
+    <title lang="zh">幸福人生</title>
+    <desc>幸福人生</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629160000 +0800" stop="20260629180000 +0800">
+    <title lang="zh">夢想好歌聲</title>
+    <desc>夢想好歌聲</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629180000 +0800" stop="20260629200000 +0800">
+    <title lang="zh">健康加油讚</title>
+    <desc>健康加油讚</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629200000 +0800" stop="20260629220000 +0800">
+    <title lang="zh">冠軍夢想精選</title>
+    <desc>冠軍夢想精選</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260629220000 +0800" stop="20260630000000 +0800">
+    <title lang="zh">夢想好歌聲</title>
+    <desc>夢想好歌聲</desc>
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456617" start="20260630000000 +0800" stop="20260701000000 +0800">
+    <title lang="zh">芭梨大舞台1</title>
+    <desc>芭梨大舞台1</desc>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
