@@ -1,158 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="546017" start="20260623055800 +0800" stop="20260623060000 +0800">
-    <title lang="zh"> 中华人民共和国国歌</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623060000 +0800" stop="20260623063300 +0800">
-    <title lang="zh"> 中国节拍</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623063300 +0800" stop="20260623074600 +0800">
-    <title lang="zh"> 民歌·中国</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623074600 +0800" stop="20260623081900 +0800">
-    <title lang="zh"> 风华国乐</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623081900 +0800" stop="20260623085600 +0800">
-    <title lang="zh"> 乐游天下</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623085600 +0800" stop="20260623104400 +0800">
-    <title lang="zh"> 全球中文音乐榜上榜</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623104400 +0800" stop="20260623120000 +0800">
-    <title lang="zh"> 民歌·中国</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623120000 +0800" stop="20260623134800 +0800">
-    <title lang="zh"> 精彩音乐汇</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623134800 +0800" stop="20260623142500 +0800">
-    <title lang="zh"> 中国节拍</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623142500 +0800" stop="20260623160400 +0800">
-    <title lang="zh"> 全球中文音乐榜上榜</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623160400 +0800" stop="20260623170900 +0800">
-    <title lang="zh"> 中国节拍</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623170900 +0800" stop="20260623174800 +0800">
-    <title lang="zh"> 中国音乐电视</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623174800 +0800" stop="20260623193000 +0800">
-    <title lang="zh"> 精彩音乐汇</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623193000 +0800" stop="20260623204000 +0800">
-    <title lang="zh"> 合唱先锋</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623204000 +0800" stop="20260623215000 +0800">
-    <title lang="zh"> 影视留声机</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623215000 +0800" stop="20260623233200 +0800">
-    <title lang="zh"> 精彩音乐汇</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546017" start="20260623233200 +0800" stop="20260624002100 +0800">
-    <title lang="zh"> CCTV音乐厅</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="546017" start="20260624002100 +0800" stop="20260624055800 +0800">
     <title lang="zh"> 经典</title>
     <desc />
@@ -964,7 +811,7 @@
   </programme>
   
 <programme channel="546017" start="20260628001600 +0800" stop="20260628055800 +0800">
-    <title lang="zh"> CCTV音乐厅-“银幕新乐章”中国电影乐团音乐会(上)</title>
+    <title lang="zh">CCTV音乐厅-“银幕新乐章”中国电影乐团音乐会(上)</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -973,7 +820,7 @@
   </programme>
   
 <programme channel="546017" start="20260628055800 +0800" stop="20260628060000 +0800">
-    <title lang="zh"> 中华人民共和国国歌</title>
+    <title lang="zh">中华人民共和国国歌</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -982,7 +829,7 @@
   </programme>
   
 <programme channel="546017" start="20260628060000 +0800" stop="20260628063200 +0800">
-    <title lang="zh"> 中国音乐电视</title>
+    <title lang="zh">中国音乐电视</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -991,7 +838,7 @@
   </programme>
   
 <programme channel="546017" start="20260628063200 +0800" stop="20260628073900 +0800">
-    <title lang="zh"> 民歌·中国-歌声代代传</title>
+    <title lang="zh">民歌·中国-歌声代代传</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1000,7 +847,7 @@
   </programme>
   
 <programme channel="546017" start="20260628073900 +0800" stop="20260628084100 +0800">
-    <title lang="zh"> 影视留声机</title>
+    <title lang="zh">影视留声机</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1009,7 +856,7 @@
   </programme>
   
 <programme channel="546017" start="20260628084100 +0800" stop="20260628084300 +0800">
-    <title lang="zh"> 综艺喜乐汇</title>
+    <title lang="zh">综艺喜乐汇</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1018,7 +865,7 @@
   </programme>
   
 <programme channel="546017" start="20260628084300 +0800" stop="20260628101300 +0800">
-    <title lang="zh"> 精彩音乐汇</title>
+    <title lang="zh">精彩音乐汇</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1027,7 +874,7 @@
   </programme>
   
 <programme channel="546017" start="20260628101300 +0800" stop="20260628102000 +0800">
-    <title lang="zh"> 综艺喜乐汇</title>
+    <title lang="zh">综艺喜乐汇</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1036,7 +883,7 @@
   </programme>
   
 <programme channel="546017" start="20260628102000 +0800" stop="20260628112000 +0800">
-    <title lang="zh"> 经典</title>
+    <title lang="zh">经典</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1045,7 +892,7 @@
   </programme>
   
 <programme channel="546017" start="20260628112000 +0800" stop="20260628115600 +0800">
-    <title lang="zh"> 经典</title>
+    <title lang="zh">经典</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1054,7 +901,7 @@
   </programme>
   
 <programme channel="546017" start="20260628115600 +0800" stop="20260628125600 +0800">
-    <title lang="zh"> 全球中文音乐榜上榜-精编4</title>
+    <title lang="zh">全球中文音乐榜上榜-精编4</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1063,7 +910,7 @@
   </programme>
   
 <programme channel="546017" start="20260628125600 +0800" stop="20260628135400 +0800">
-    <title lang="zh"> CCTV音乐厅-“银幕新乐章”中国电影乐团音乐会(上)</title>
+    <title lang="zh">CCTV音乐厅-“银幕新乐章”中国电影乐团音乐会(上)</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1072,7 +919,7 @@
   </programme>
   
 <programme channel="546017" start="20260628135400 +0800" stop="20260628152400 +0800">
-    <title lang="zh"> 新春的交响春节及元宵特别节目</title>
+    <title lang="zh">新春的交响春节及元宵特别节目</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1081,7 +928,7 @@
   </programme>
   
 <programme channel="546017" start="20260628152400 +0800" stop="20260628165700 +0800">
-    <title lang="zh"> 精彩音乐汇</title>
+    <title lang="zh">精彩音乐汇</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1090,7 +937,7 @@
   </programme>
   
 <programme channel="546017" start="20260628165700 +0800" stop="20260628175700 +0800">
-    <title lang="zh"> 民歌·中国-歌声代代传</title>
+    <title lang="zh">民歌·中国-歌声代代传</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1099,7 +946,7 @@
   </programme>
   
 <programme channel="546017" start="20260628175700 +0800" stop="20260628185900 +0800">
-    <title lang="zh"> 童声唱-寒假特辑5</title>
+    <title lang="zh">童声唱-寒假特辑5</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1108,7 +955,7 @@
   </programme>
   
 <programme channel="546017" start="20260628185900 +0800" stop="20260628192900 +0800">
-    <title lang="zh"> 风华国乐</title>
+    <title lang="zh">风华国乐</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1117,7 +964,7 @@
   </programme>
   
 <programme channel="546017" start="20260628192900 +0800" stop="20260628210000 +0800">
-    <title lang="zh"> 唱出我新声</title>
+    <title lang="zh">唱出我新声</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1126,7 +973,7 @@
   </programme>
   
 <programme channel="546017" start="20260628210000 +0800" stop="20260628210400 +0800">
-    <title lang="zh"> 综艺喜乐汇</title>
+    <title lang="zh">综艺喜乐汇</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1135,7 +982,7 @@
   </programme>
   
 <programme channel="546017" start="20260628210400 +0800" stop="20260628220700 +0800">
-    <title lang="zh"> 全球中文音乐榜上榜-2022年度盛典精编5</title>
+    <title lang="zh">全球中文音乐榜上榜-2022年度盛典精编5</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1144,7 +991,7 @@
   </programme>
   
 <programme channel="546017" start="20260628220700 +0800" stop="20260628221400 +0800">
-    <title lang="zh"> 综艺喜乐汇</title>
+    <title lang="zh">综艺喜乐汇</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1153,7 +1000,7 @@
   </programme>
   
 <programme channel="546017" start="20260628221400 +0800" stop="20260628225100 +0800">
-    <title lang="zh"> 风华国乐</title>
+    <title lang="zh">风华国乐</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1162,7 +1009,7 @@
   </programme>
   
 <programme channel="546017" start="20260628225100 +0800" stop="20260628234100 +0800">
-    <title lang="zh"> CCTV音乐厅-“银幕新乐章”中国电影乐团音乐会(下)</title>
+    <title lang="zh">CCTV音乐厅-“银幕新乐章”中国电影乐团音乐会(下)</title>
     <desc />
     <date>20260628</date>
     <audio>
@@ -1171,7 +1018,7 @@
   </programme>
   
 <programme channel="546017" start="20260628234100 +0800" stop="20260629000000 +0800">
-    <title lang="zh"> 经典</title>
+    <title lang="zh">经典</title>
     <desc />
     <date>20260628</date>
     <audio>

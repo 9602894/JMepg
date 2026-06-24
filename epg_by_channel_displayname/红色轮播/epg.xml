@@ -1,387 +1,657 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539639" start="20260623000000 +0800" stop="20260623001200 +0800">
-    <title lang="zh">千秋伟业</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623001200 +0800" stop="20260623005000 +0800">
-    <title lang="zh">《中国式现代化之路》01人民至上</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623005000 +0800" stop="20260623013400 +0800">
-    <title lang="zh">《中国式现代化之路》02农为邦本</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623013400 +0800" stop="20260623021400 +0800">
-    <title lang="zh">《中国式现代化之路》03以工立国</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623021400 +0800" stop="20260623025800 +0800">
-    <title lang="zh">《中国式现代化之路》04国之重器</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623025800 +0800" stop="20260623034000 +0800">
-    <title lang="zh">《中国式现代化之路》05绿水青山</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623034000 +0800" stop="20260623042300 +0800">
-    <title lang="zh">《中国式现代化之路》06赓续文脉</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623042300 +0800" stop="20260623044800 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》01致敬新中国</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623044800 +0800" stop="20260623051300 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》02新中国新女性</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623051300 +0800" stop="20260623053800 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》03劳动最光荣</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623053800 +0800" stop="20260623060300 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》04拳拳报国心</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623060300 +0800" stop="20260623062800 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》05闪亮的青春</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623062800 +0800" stop="20260623065300 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》06榜样的力量</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623065300 +0800" stop="20260623071800 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》07勇攀科学高峰</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623071800 +0800" stop="20260623074300 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》08人生能有几回搏</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623074300 +0800" stop="20260623080800 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》09闯出一片新天地</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623080800 +0800" stop="20260623083300 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》10永远的丰碑</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623083300 +0800" stop="20260623085800 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》11心中有一团火</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623085800 +0800" stop="20260623092300 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》12守望一方家园</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623092300 +0800" stop="20260623094800 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》13奋斗成就梦想</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623094800 +0800" stop="20260623101300 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》14择一事终一生</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623101300 +0800" stop="20260623103800 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》15庄严的承诺</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623103800 +0800" stop="20260623110300 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》16砥砺报国志</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623110300 +0800" stop="20260623112700 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》17共铸钢铁长城</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623112700 +0800" stop="20260623115200 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》18使命与担当</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623115200 +0800" stop="20260623121700 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》19与时代同频</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623121700 +0800" stop="20260623124200 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》20“丝路”新传奇</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623124200 +0800" stop="20260623130700 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》21共绘“同心圆”</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623130700 +0800" stop="20260623133200 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》22真挚的朋友</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623133200 +0800" stop="20260623135700 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》23新时代新青年</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623135700 +0800" stop="20260623142200 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》24奔赴高山与大海</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623142200 +0800" stop="20260623144700 +0800">
-    <title lang="zh">《新中国：平凡而闪光的足迹》25托起明天的太阳</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623144700 +0800" stop="20260623153700 +0800">
-    <title lang="zh">20170919《辉煌中国》圆梦工程</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623153700 +0800" stop="20260623162700 +0800">
-    <title lang="zh">20170920《辉煌中国》创新活力</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623162700 +0800" stop="20260623171700 +0800">
-    <title lang="zh">20170921《辉煌中国》协调发展</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623171700 +0800" stop="20260623180700 +0800">
-    <title lang="zh">20170922《辉煌中国》绿色家园</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623180700 +0800" stop="20260623185700 +0800">
-    <title lang="zh">20170923《辉煌中国》共享小康</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623185700 +0800" stop="20260623194700 +0800">
-    <title lang="zh">20170924《辉煌中国》开放中国</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623194700 +0800" stop="20260623204000 +0800">
-    <title lang="zh">20210218《摆脱贫困》庄严承诺</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623204000 +0800" stop="20260623213400 +0800">
-    <title lang="zh">20210221《摆脱贫困》合力攻坚</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623213400 +0800" stop="20260623222600 +0800">
-    <title lang="zh">20210222《摆脱贫困》咬定青山</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623222600 +0800" stop="20260623232000 +0800">
-    <title lang="zh">20210223《摆脱贫困》家国情怀</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539639" start="20260623232000 +0800" stop="20260624000000 +0800">
+<programme channel="539639" start="20260624000000 +0800" stop="20260624001400 +0800">
     <title lang="zh">20210224《摆脱贫困》命运与共</title>
     <desc />
-    <date>20260623</date>
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624001400 +0800" stop="20260624011000 +0800">
+    <title lang="zh">20210225《摆脱贫困》再启新程</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624011000 +0800" stop="20260624014000 +0800">
+    <title lang="zh">《领航》第01集：掌舵远航</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624014000 +0800" stop="20260624021000 +0800">
+    <title lang="zh">《领航》第02集：科学指南</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624021000 +0800" stop="20260624024000 +0800">
+    <title lang="zh">《领航》第03集：逐梦先锋</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624024000 +0800" stop="20260624030800 +0800">
+    <title lang="zh">《领航》第04集：发展变革</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624030800 +0800" stop="20260624033800 +0800">
+    <title lang="zh">《领航》第05集：改革攻坚</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624033800 +0800" stop="20260624040800 +0800">
+    <title lang="zh">《领航》第06集：人民民主</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624040800 +0800" stop="20260624043800 +0800">
+    <title lang="zh">《领航》第07集：良法善治</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624043800 +0800" stop="20260624050800 +0800">
+    <title lang="zh">《领航》第08集：精神家园</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624050800 +0800" stop="20260624053800 +0800">
+    <title lang="zh">《领航》第09集：美好生活</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624053800 +0800" stop="20260624060800 +0800">
+    <title lang="zh">《领航》第10集：绿水青山</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624060800 +0800" stop="20260624063800 +0800">
+    <title lang="zh">《领航》第11集：强军之路</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624063800 +0800" stop="20260624070800 +0800">
+    <title lang="zh">《领航》第12集：安邦基石</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624070800 +0800" stop="20260624073800 +0800">
+    <title lang="zh">《领航》第13集：一国两制</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624073800 +0800" stop="20260624080800 +0800">
+    <title lang="zh">《领航》第14集：胸怀天下</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624080800 +0800" stop="20260624083800 +0800">
+    <title lang="zh">《领航》第15集：自我革命</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624083800 +0800" stop="20260624090800 +0800">
+    <title lang="zh">《领航》第16集：踔厉奋发</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624090800 +0800" stop="20260624110400 +0800">
+    <title lang="zh">千顷澄碧的时代</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624110400 +0800" stop="20260624111800 +0800">
+    <title lang="zh">《美术经典中的党史》01</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624111800 +0800" stop="20260624113300 +0800">
+    <title lang="zh">《美术经典中的党史》02</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624113300 +0800" stop="20260624114700 +0800">
+    <title lang="zh">《美术经典中的党史》03</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624114700 +0800" stop="20260624120200 +0800">
+    <title lang="zh">《美术经典中的党史》04</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624120200 +0800" stop="20260624121700 +0800">
+    <title lang="zh">《美术经典中的党史》05</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624121700 +0800" stop="20260624123100 +0800">
+    <title lang="zh">《美术经典中的党史》06</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624123100 +0800" stop="20260624124600 +0800">
+    <title lang="zh">《美术经典中的党史》07</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624124600 +0800" stop="20260624130000 +0800">
+    <title lang="zh">《美术经典中的党史》08</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624130000 +0800" stop="20260624131500 +0800">
+    <title lang="zh">《美术经典中的党史》09</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624131500 +0800" stop="20260624132900 +0800">
+    <title lang="zh">《美术经典中的党史》10</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624132900 +0800" stop="20260624134400 +0800">
+    <title lang="zh">《美术经典中的党史》11</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624134400 +0800" stop="20260624135800 +0800">
+    <title lang="zh">《美术经典中的党史》12</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624135800 +0800" stop="20260624141300 +0800">
+    <title lang="zh">《美术经典中的党史》13</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624141300 +0800" stop="20260624142700 +0800">
+    <title lang="zh">《美术经典中的党史》14</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624142700 +0800" stop="20260624144200 +0800">
+    <title lang="zh">《美术经典中的党史》15</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624144200 +0800" stop="20260624145600 +0800">
+    <title lang="zh">《美术经典中的党史》16</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624145600 +0800" stop="20260624151100 +0800">
+    <title lang="zh">《美术经典中的党史》17</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624151100 +0800" stop="20260624152500 +0800">
+    <title lang="zh">《美术经典中的党史》18</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624152500 +0800" stop="20260624154000 +0800">
+    <title lang="zh">《美术经典中的党史》19</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624154000 +0800" stop="20260624155500 +0800">
+    <title lang="zh">《美术经典中的党史》20</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624155500 +0800" stop="20260624160900 +0800">
+    <title lang="zh">《美术经典中的党史》21</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624160900 +0800" stop="20260624162400 +0800">
+    <title lang="zh">《美术经典中的党史》22</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624162400 +0800" stop="20260624163800 +0800">
+    <title lang="zh">《美术经典中的党史》23</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624163800 +0800" stop="20260624165300 +0800">
+    <title lang="zh">《美术经典中的党史》24</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624165300 +0800" stop="20260624170700 +0800">
+    <title lang="zh">《美术经典中的党史》25</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624170700 +0800" stop="20260624172200 +0800">
+    <title lang="zh">《美术经典中的党史》26</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624172200 +0800" stop="20260624173600 +0800">
+    <title lang="zh">《美术经典中的党史》27</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624173600 +0800" stop="20260624175100 +0800">
+    <title lang="zh">《美术经典中的党史》28</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624175100 +0800" stop="20260624180500 +0800">
+    <title lang="zh">《美术经典中的党史》29</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624180500 +0800" stop="20260624182000 +0800">
+    <title lang="zh">《美术经典中的党史》30</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624182000 +0800" stop="20260624183400 +0800">
+    <title lang="zh">《美术经典中的党史》31</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624183400 +0800" stop="20260624184800 +0800">
+    <title lang="zh">《美术经典中的党史》32</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624184800 +0800" stop="20260624190300 +0800">
+    <title lang="zh">《美术经典中的党史》33</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624190300 +0800" stop="20260624191700 +0800">
+    <title lang="zh">《美术经典中的党史》34</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624191700 +0800" stop="20260624193200 +0800">
+    <title lang="zh">《美术经典中的党史》35</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624193200 +0800" stop="20260624194600 +0800">
+    <title lang="zh">《美术经典中的党史》36</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624194600 +0800" stop="20260624200100 +0800">
+    <title lang="zh">《美术经典中的党史》37</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624200100 +0800" stop="20260624201500 +0800">
+    <title lang="zh">《美术经典中的党史》38</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624201500 +0800" stop="20260624203000 +0800">
+    <title lang="zh">《美术经典中的党史》39</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624203000 +0800" stop="20260624204400 +0800">
+    <title lang="zh">《美术经典中的党史》40</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624204400 +0800" stop="20260624205900 +0800">
+    <title lang="zh">《美术经典中的党史》41</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624205900 +0800" stop="20260624211300 +0800">
+    <title lang="zh">《美术经典中的党史》42</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624211300 +0800" stop="20260624212800 +0800">
+    <title lang="zh">《美术经典中的党史》43</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624212800 +0800" stop="20260624214300 +0800">
+    <title lang="zh">《美术经典中的党史》44</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624214300 +0800" stop="20260624215700 +0800">
+    <title lang="zh">《美术经典中的党史》45</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624215700 +0800" stop="20260624221200 +0800">
+    <title lang="zh">《美术经典中的党史》46</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624221200 +0800" stop="20260624222600 +0800">
+    <title lang="zh">《美术经典中的党史》47</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624222600 +0800" stop="20260624224100 +0800">
+    <title lang="zh">《美术经典中的党史》48</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624224100 +0800" stop="20260624225500 +0800">
+    <title lang="zh">《美术经典中的党史》49</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624225500 +0800" stop="20260624231000 +0800">
+    <title lang="zh">《美术经典中的党史》50</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624231000 +0800" stop="20260624232400 +0800">
+    <title lang="zh">《美术经典中的党史》51</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624232400 +0800" stop="20260624233900 +0800">
+    <title lang="zh">《美术经典中的党史》52</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624233900 +0800" stop="20260624235300 +0800">
+    <title lang="zh">《美术经典中的党史》53</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539639" start="20260624235300 +0800" stop="20260625000000 +0800">
+    <title lang="zh">《美术经典中的党史》54</title>
+    <desc />
+    <date>20260624</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

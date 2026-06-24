@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457370" start="20260623002500 +0800" stop="20260623020000 +0800">
-    <title lang="zh">天使心(輔12)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623020000 +0800" stop="20260623060000 +0800">
-    <title lang="zh">收播(普)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623060000 +0800" stop="20260623080000 +0800">
-    <title lang="zh">大將軍韓信(21-22)(首)(普)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623080000 +0800" stop="20260623101500 +0800">
-    <title lang="zh">偷龍轉鳳(普)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623101500 +0800" stop="20260623123500 +0800">
-    <title lang="zh">新封神榜：楊戩(普)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623123500 +0800" stop="20260623144500 +0800">
-    <title lang="zh">登陸安齊奧(護)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623144500 +0800" stop="20260623165000 +0800">
-    <title lang="zh">黃飛鴻之鐵雞鬥蜈蚣(普)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623165000 +0800" stop="20260623190000 +0800">
-    <title lang="zh">雷瑪根鐵橋(普)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623190000 +0800" stop="20260623210000 +0800">
-    <title lang="zh">大將軍韓信(21-22)(普)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623210000 +0800" stop="20260623231000 +0800">
-    <title lang="zh">吊人索(護)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260623231000 +0800" stop="20260624011000 +0800">
-    <title lang="zh">少年吔，安啦！(輔15)</title>
-    <desc />
-    <date>20260623</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457370" start="20260624011000 +0800" stop="20260624020000 +0800">
     <title lang="zh">唐獎第六屆：生技醫藥獎(普)</title>
     <desc />
@@ -675,10 +576,100 @@
     </audio>
   </programme>
   
-<programme channel="457370" start="20260629234000 +0800" stop="20260630000000 +0800">
+<programme channel="457370" start="20260629234000 +0800" stop="20260630020000 +0800">
     <title lang="zh">荒蕪之地·應許之心(輔15)</title>
     <desc />
     <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630020000 +0800" stop="20260630060000 +0800">
+    <title lang="zh">收播(普)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630060000 +0800" stop="20260630080000 +0800">
+    <title lang="zh">大將軍韓信(31-32)(首)(普)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630080000 +0800" stop="20260630103500 +0800">
+    <title lang="zh">西蒙娜：世紀之聲(護)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630103500 +0800" stop="20260630132000 +0800">
+    <title lang="zh">將軍之夜(護)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630132000 +0800" stop="20260630152000 +0800">
+    <title lang="zh">諜中諜(護)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630152000 +0800" stop="20260630171000 +0800">
+    <title lang="zh">追男仔(普)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630171000 +0800" stop="20260630190000 +0800">
+    <title lang="zh">聯合縮小軍(普)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630190000 +0800" stop="20260630210000 +0800">
+    <title lang="zh">大將軍韓信(31-32)(普)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630210000 +0800" stop="20260630222500 +0800">
+    <title lang="zh">奇門異人(護)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260630222500 +0800" stop="20260701000000 +0800">
+    <title lang="zh">哥吉拉對黑多拉(普)</title>
+    <desc />
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,63 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539638" start="20260623080000 +0800" stop="20260623120000 +0800">
+<programme channel="539638" start="20260624070000 +0800" stop="20260624080000 +0800">
+    <title lang="zh">电影圈子</title>
+    <desc />
+    <date>20260624</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539638" start="20260624080000 +0800" stop="20260624120000 +0800">
     <title lang="zh">秘杀名单</title>
     <desc />
-    <date>20260623</date>
+    <date>20260624</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539638" start="20260623120000 +0800" stop="20260623150000 +0800">
+<programme channel="539638" start="20260624120000 +0800" stop="20260624150000 +0800">
     <title lang="zh">经典影时光</title>
     <desc />
-    <date>20260623</date>
+    <date>20260624</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539638" start="20260623150000 +0800" stop="20260623190000 +0800">
+<programme channel="539638" start="20260624150000 +0800" stop="20260624190000 +0800">
     <title lang="zh">电视剧</title>
     <desc />
-    <date>20260623</date>
+    <date>20260624</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539638" start="20260623190000 +0800" stop="20260623191500 +0800">
+<programme channel="539638" start="20260624190000 +0800" stop="20260624191500 +0800">
     <title lang="zh">健康大专家</title>
     <desc />
-    <date>20260623</date>
+    <date>20260624</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539638" start="20260623191500 +0800" stop="20260623213000 +0800">
+<programme channel="539638" start="20260624191500 +0800" stop="20260624213000 +0800">
     <title lang="zh">青春蒙太奇</title>
     <desc />
-    <date>20260623</date>
+    <date>20260624</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539638" start="20260623213000 +0800" stop="20260623234000 +0800">
+<programme channel="539638" start="20260624213000 +0800" stop="20260624234000 +0800">
     <title lang="zh">实力夹片秀</title>
     <desc />
-    <date>20260623</date>
+    <date>20260624</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539638" start="20260623234000 +0800" stop="20260624000000 +0800">
+<programme channel="539638" start="20260624234000 +0800" stop="20260625000000 +0800">
     <title lang="zh">环球大银幕</title>
     <desc />
-    <date>20260623</date>
+    <date>20260624</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
