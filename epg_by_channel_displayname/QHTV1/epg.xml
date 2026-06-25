@@ -1,297 +1,306 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544292" start="20260624011200 +0800" stop="20260624015400 +0800">
+<programme channel="544292" start="20260625010400 +0800" stop="20260625013400 +0800">
+    <title lang="zh">征战达喀尔</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625013400 +0800" stop="20260625021700 +0800">
     <title lang="zh">午夜剧场</title>
     <desc />
-    <date>20260624</date>
+    <date>20260625</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544292" start="20260624015400 +0800" stop="20260624024500 +0800">
+<programme channel="544292" start="20260625021700 +0800" stop="20260625030300 +0800">
     <title lang="zh">午夜剧场</title>
     <desc />
-    <date>20260624</date>
+    <date>20260625</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544292" start="20260624024500 +0800" stop="20260624032000 +0800">
+<programme channel="544292" start="20260625030300 +0800" stop="20260625040000 +0800">
     <title lang="zh">午夜剧场</title>
     <desc />
-    <date>20260624</date>
+    <date>20260625</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544292" start="20260624032000 +0800" stop="20260624035500 +0800">
-    <title lang="zh">午夜剧场</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624035500 +0800" stop="20260624042500 +0800">
-    <title lang="zh">纪录时间</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624042500 +0800" stop="20260624045500 +0800">
-    <title lang="zh">纪录时间</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624045500 +0800" stop="20260624052300 +0800">
+<programme channel="544292" start="20260625040000 +0800" stop="20260625042200 +0800">
     <title lang="zh">动画片剧场</title>
     <desc />
-    <date>20260624</date>
+    <date>20260625</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544292" start="20260624052300 +0800" stop="20260624055600 +0800">
-    <title lang="zh">昆仑眼</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624055600 +0800" stop="20260624070000 +0800">
-    <title lang="zh">午夜剧场</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624070000 +0800" stop="20260624073000 +0800">
-    <title lang="zh">青海新闻联播</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624073000 +0800" stop="20260624074900 +0800">
-    <title lang="zh">江源扫描</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624074900 +0800" stop="20260624081100 +0800">
-    <title lang="zh">纪录时间</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624081100 +0800" stop="20260624090600 +0800">
-    <title lang="zh">昆仑剧场:西游记(25)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624090600 +0800" stop="20260624100500 +0800">
-    <title lang="zh">昆仑剧场:西游记(26)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624100500 +0800" stop="20260624105200 +0800">
-    <title lang="zh">昆仑剧场:西游记(27)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624105200 +0800" stop="20260624114200 +0800">
-    <title lang="zh">昆仑剧场:西游记(28)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624114200 +0800" stop="20260624123000 +0800">
-    <title lang="zh">昆仑剧场:西游记(29)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624123000 +0800" stop="20260624125700 +0800">
-    <title lang="zh">午间360</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624125700 +0800" stop="20260624140100 +0800">
-    <title lang="zh">郁金香剧场</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624140100 +0800" stop="20260624145400 +0800">
-    <title lang="zh">郁金香剧场</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624145400 +0800" stop="20260624154800 +0800">
-    <title lang="zh">郁金香剧场</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624154800 +0800" stop="20260624164200 +0800">
-    <title lang="zh">郁金香剧场</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624164200 +0800" stop="20260624174600 +0800">
-    <title lang="zh">郁金香剧场</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624174600 +0800" stop="20260624183000 +0800">
+<programme channel="544292" start="20260625042200 +0800" stop="20260625044900 +0800">
     <title lang="zh">动画片剧场</title>
     <desc />
-    <date>20260624</date>
+    <date>20260625</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544292" start="20260624183000 +0800" stop="20260624190000 +0800">
+<programme channel="544292" start="20260625044900 +0800" stop="20260625051900 +0800">
+    <title lang="zh">纪录时间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625051900 +0800" stop="20260625070000 +0800">
+    <title lang="zh">纪录时间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625070000 +0800" stop="20260625070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625070100 +0800" stop="20260625073100 +0800">
     <title lang="zh">青海新闻联播</title>
     <desc />
-    <date>20260624</date>
+    <date>20260625</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544292" start="20260624190000 +0800" stop="20260624193400 +0800">
-    <title lang="zh">转播中央新闻联播</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624193400 +0800" stop="20260624202400 +0800">
-    <title lang="zh">第一挑战剧场:凡人歌(20)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624202400 +0800" stop="20260624213000 +0800">
-    <title lang="zh">第一挑战剧场:凡人歌(21)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624213000 +0800" stop="20260624220400 +0800">
-    <title lang="zh">昆仑眼</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624220400 +0800" stop="20260624222000 +0800">
-    <title lang="zh">男生女生上高原</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544292" start="20260624222000 +0800" stop="20260624230000 +0800">
+<programme channel="544292" start="20260625073100 +0800" stop="20260625074400 +0800">
     <title lang="zh">大美青海</title>
     <desc />
-    <date>20260624</date>
+    <date>20260625</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544292" start="20260624230000 +0800" stop="20260624232400 +0800">
+<programme channel="544292" start="20260625074400 +0800" stop="20260625081100 +0800">
+    <title lang="zh">纪录时间</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625081100 +0800" stop="20260625090600 +0800">
+    <title lang="zh">昆仑剧场:西游记(30)</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625090600 +0800" stop="20260625100500 +0800">
+    <title lang="zh">昆仑剧场:西游记(31)</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625100500 +0800" stop="20260625105200 +0800">
+    <title lang="zh">昆仑剧场:西游记(32)</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625105200 +0800" stop="20260625114200 +0800">
+    <title lang="zh">昆仑剧场:西游记(33)</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625114200 +0800" stop="20260625123000 +0800">
+    <title lang="zh">昆仑剧场:西游记(34)</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625123000 +0800" stop="20260625125700 +0800">
+    <title lang="zh">午间360</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625125700 +0800" stop="20260625140100 +0800">
+    <title lang="zh">郁金香剧场</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625140100 +0800" stop="20260625145400 +0800">
+    <title lang="zh">郁金香剧场</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625145400 +0800" stop="20260625154800 +0800">
+    <title lang="zh">郁金香剧场</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625154800 +0800" stop="20260625164200 +0800">
+    <title lang="zh">郁金香剧场</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625164200 +0800" stop="20260625174600 +0800">
+    <title lang="zh">郁金香剧场</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625174600 +0800" stop="20260625183000 +0800">
+    <title lang="zh">动画片剧场</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625183000 +0800" stop="20260625190000 +0800">
+    <title lang="zh">青海新闻联播</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625190000 +0800" stop="20260625193500 +0800">
+    <title lang="zh">转播中央新闻联播</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625193500 +0800" stop="20260625202100 +0800">
+    <title lang="zh">第一挑战剧场:凡人歌(22)</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625202100 +0800" stop="20260625213000 +0800">
+    <title lang="zh">第一挑战剧场:凡人歌(23)</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625213000 +0800" stop="20260625220000 +0800">
+    <title lang="zh">昆仑眼</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625220000 +0800" stop="20260625222000 +0800">
     <title lang="zh">晚间播报</title>
     <desc />
-    <date>20260624</date>
+    <date>20260625</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544292" start="20260624232400 +0800" stop="20260625000000 +0800">
-    <title lang="zh">午夜剧场</title>
+<programme channel="544292" start="20260625222000 +0800" stop="20260625230000 +0800">
+    <title lang="zh">大美青海</title>
     <desc />
-    <date>20260624</date>
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625230000 +0800" stop="20260625232000 +0800">
+    <title lang="zh">晚间播报</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625232000 +0800" stop="20260625234000 +0800">
+    <title lang="zh">纷享好生活</title>
+    <desc />
+    <date>20260625</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544292" start="20260625234000 +0800" stop="20260626000000 +0800">
+    <title lang="zh">挑战果岭</title>
+    <desc />
+    <date>20260625</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,50 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457233" start="20260624000000 +0800" stop="20260624050000 +0800">
-    <title lang="zh">前日立法院會議轉播(普)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457233" start="20260624050000 +0800" stop="20260624084700 +0800">
-    <title lang="zh">前日立法院會議轉播(普)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457233" start="20260624084700 +0800" stop="20260624090000 +0800">
-    <title lang="zh">週三會議預報(普)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457233" start="20260624090000 +0800" stop="20260624180000 +0800">
-    <title lang="zh">立法院會議直播(普)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457233" start="20260624180000 +0800" stop="20260625000000 +0800">
-    <title lang="zh">當日立法院會議轉播(普)</title>
-    <desc />
-    <date>20260624</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457233" start="20260625000000 +0800" stop="20260625050000 +0800">
     <title lang="zh">前日立法院會議轉播(普)</title>
     <desc />
@@ -328,6 +283,51 @@
     <title lang="zh">當日立法院會議轉播(普)</title>
     <desc />
     <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457233" start="20260701000000 +0800" stop="20260701050000 +0800">
+    <title lang="zh">前日立法院會議轉播(普)</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457233" start="20260701050000 +0800" stop="20260701084700 +0800">
+    <title lang="zh">前日立法院會議轉播(普)</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457233" start="20260701084700 +0800" stop="20260701090000 +0800">
+    <title lang="zh">週三會議預報(普)</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457233" start="20260701090000 +0800" stop="20260701180000 +0800">
+    <title lang="zh">立法院會議直播(普)</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457233" start="20260701180000 +0800" stop="20260702000000 +0800">
+    <title lang="zh">當日立法院會議轉播(普)</title>
+    <desc />
+    <date>20260701</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
