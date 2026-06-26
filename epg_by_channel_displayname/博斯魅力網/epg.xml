@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456817" start="20260625013000 +0800" stop="20260625043000 +0800">
-    <title lang="zh">2026史特拉斯堡女網賽8強CRI vs KAS</title>
-    <desc>2026史特拉斯堡女網賽8強CRI vs KAS</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260625043000 +0800" stop="20260625063000 +0800">
-    <title lang="zh">2026羅馬女網賽8強CIR vs OST</title>
-    <desc>2026羅馬女網賽8強CIR vs OST</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260625063000 +0800" stop="20260625070000 +0800">
-    <title lang="zh">WTA新視界</title>
-    <desc>WTA新視界</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260625070000 +0800" stop="20260625090000 +0800">
-    <title lang="zh">2026倫敦女網賽16強</title>
-    <desc>2026倫敦女網賽16強</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260625090000 +0800" stop="20260625120000 +0800">
-    <title lang="zh">2026史特拉斯堡女網賽8強CRI vs KAS</title>
-    <desc>2026史特拉斯堡女網賽8強CRI vs KAS</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260625120000 +0800" stop="20260625170000 +0800">
-    <title lang="zh">首播2026柏林女網賽第三天</title>
-    <desc>首播2026柏林女網賽第三天</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260625170000 +0800" stop="20260626013000 +0800">
-    <title lang="zh">LIVE2026柏林女網賽16強</title>
-    <desc>LIVE2026柏林女網賽16強</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456817" start="20260626013000 +0800" stop="20260626020000 +0800">
     <title lang="zh">WTA新視界</title>
     <desc>WTA新視界</desc>
@@ -513,10 +450,100 @@
     </audio>
   </programme>
   
-<programme channel="456817" start="20260701170000 +0800" stop="20260702000000 +0800">
+<programme channel="456817" start="20260701170000 +0800" stop="20260702010000 +0800">
     <title lang="zh">LIVE2026巴特洪堡女網賽16強</title>
     <desc>LIVE2026巴特洪堡女網賽16強</desc>
     <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702010000 +0800" stop="20260702013000 +0800">
+    <title lang="zh">WTA新視界</title>
+    <desc>WTA新視界</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702013000 +0800" stop="20260702030000 +0800">
+    <title lang="zh">2026斯圖加特女網賽16強RYB vs SHN</title>
+    <desc>2026斯圖加特女網賽16強RYB vs SHN</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702030000 +0800" stop="20260702050000 +0800">
+    <title lang="zh">2026柏林女網賽8強</title>
+    <desc>2026柏林女網賽8強</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702050000 +0800" stop="20260702053000 +0800">
+    <title lang="zh">WTA新視界</title>
+    <desc>WTA新視界</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702053000 +0800" stop="20260702080000 +0800">
+    <title lang="zh">2026倫敦女網賽決賽VEK vs RAD</title>
+    <desc>2026倫敦女網賽決賽VEK vs RAD</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702080000 +0800" stop="20260702093000 +0800">
+    <title lang="zh">2026斯圖加特女網賽16強RYB vs SHN</title>
+    <desc>2026斯圖加特女網賽16強RYB vs SHN</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702093000 +0800" stop="20260702113000 +0800">
+    <title lang="zh">2026柏林女網賽8強</title>
+    <desc>2026柏林女網賽8強</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702113000 +0800" stop="20260702120000 +0800">
+    <title lang="zh">WTA新視界</title>
+    <desc>WTA新視界</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702120000 +0800" stop="20260702170000 +0800">
+    <title lang="zh">首播2026巴特洪堡女網賽16強</title>
+    <desc>首播2026巴特洪堡女網賽16強</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260702170000 +0800" stop="20260703000000 +0800">
+    <title lang="zh">LIVE2026巴特洪堡女網賽8強</title>
+    <desc>LIVE2026巴特洪堡女網賽8強</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

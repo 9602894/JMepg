@@ -1,216 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539774" start="20260625080200 +0800" stop="20260625081500 +0800">
+<programme channel="539774" start="20260626001100 +0800" stop="20260626063500 +0800">
+    <title lang="zh">剧场</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626063500 +0800" stop="20260626064700 +0800">
     <title lang="zh">房产零距离</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539774" start="20260625081500 +0800" stop="20260625085900 +0800">
-    <title lang="zh">开心茶馆</title>
+<programme channel="539774" start="20260626064700 +0800" stop="20260626075100 +0800">
+    <title lang="zh">今日汽车</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539774" start="20260625085900 +0800" stop="20260625093900 +0800">
-    <title lang="zh">今日最大牌</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625093900 +0800" stop="20260625101000 +0800">
-    <title lang="zh">阿六头说新闻</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625101000 +0800" stop="20260625104800 +0800">
-    <title lang="zh">和事佬</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625104800 +0800" stop="20260625112700 +0800">
-    <title lang="zh">金刚说装修</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625112700 +0800" stop="20260625121500 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625121500 +0800" stop="20260625130200 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625130200 +0800" stop="20260625161400 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625161400 +0800" stop="20260625170100 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625170100 +0800" stop="20260625175400 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625175400 +0800" stop="20260625175800 +0800">
-    <title lang="zh">更杭州更西湖</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625175800 +0800" stop="20260625183000 +0800">
-    <title lang="zh">金刚说装修</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625183000 +0800" stop="20260625193300 +0800">
-    <title lang="zh">明珠新闻</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625193300 +0800" stop="20260625200200 +0800">
-    <title lang="zh">和事佬</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625200200 +0800" stop="20260625204600 +0800">
+<programme channel="539774" start="20260626075100 +0800" stop="20260626091000 +0800">
     <title lang="zh">开心戏剧社</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539774" start="20260625204600 +0800" stop="20260625212900 +0800">
-    <title lang="zh">今日最大牌</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539774" start="20260625212900 +0800" stop="20260625220000 +0800">
+<programme channel="539774" start="20260626091000 +0800" stop="20260626101400 +0800">
     <title lang="zh">阿六头说新闻</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539774" start="20260625220000 +0800" stop="20260625221000 +0800">
-    <title lang="zh">更杭州更西湖</title>
+<programme channel="539774" start="20260626101400 +0800" stop="20260626113500 +0800">
+    <title lang="zh">和事佬</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539774" start="20260625221000 +0800" stop="20260625223000 +0800">
-    <title lang="zh">花漾镜</title>
+<programme channel="539774" start="20260626113500 +0800" stop="20260626160300 +0800">
+    <title lang="zh">剧场</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539774" start="20260625223000 +0800" stop="20260625224500 +0800">
-    <title lang="zh">财经家</title>
+<programme channel="539774" start="20260626160300 +0800" stop="20260626181600 +0800">
+    <title lang="zh">剧场</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539774" start="20260625224500 +0800" stop="20260625225800 +0800">
+<programme channel="539774" start="20260626181600 +0800" stop="20260626182500 +0800">
+    <title lang="zh">气象</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626182500 +0800" stop="20260626193300 +0800">
+    <title lang="zh">明珠新闻</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626193300 +0800" stop="20260626200600 +0800">
+    <title lang="zh">和事佬</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626200600 +0800" stop="20260626205000 +0800">
+    <title lang="zh">开心茶馆</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626205000 +0800" stop="20260626213000 +0800">
+    <title lang="zh">今日最大牌</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626213000 +0800" stop="20260626220100 +0800">
+    <title lang="zh">阿六头说新闻</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626220100 +0800" stop="20260626221100 +0800">
+    <title lang="zh">气象</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626221100 +0800" stop="20260626223500 +0800">
+    <title lang="zh">健康汇</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626223500 +0800" stop="20260626225600 +0800">
+    <title lang="zh">装修这点事</title>
+    <desc />
+    <date>20260626</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539774" start="20260626225600 +0800" stop="20260626231000 +0800">
     <title lang="zh">房产零距离</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539774" start="20260625225800 +0800" stop="20260625234400 +0800">
-    <title lang="zh">剧场</title>
+<programme channel="539774" start="20260626231000 +0800" stop="20260626232500 +0800">
+    <title lang="zh">今日汽车</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539774" start="20260625234400 +0800" stop="20260626000000 +0800">
+<programme channel="539774" start="20260626232500 +0800" stop="20260627000000 +0800">
     <title lang="zh">剧场</title>
     <desc />
-    <date>20260625</date>
+    <date>20260626</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

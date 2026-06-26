@@ -1,140 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456577" start="20260625000000 +0800" stop="20260625010000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625010000 +0800" stop="20260625030000 +0800">
-    <title lang="zh">企業排球聯賽</title>
-    <desc>企業排球聯賽</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625030000 +0800" stop="20260625060000 +0800">
-    <title lang="zh">2026日本職棒交流賽</title>
-    <desc>2026日本職棒交流賽</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625060000 +0800" stop="20260625061500 +0800">
-    <title lang="zh">2026好球特區</title>
-    <desc>2026好球特區</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625061500 +0800" stop="20260625090000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西甲</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625090000 +0800" stop="20260625120000 +0800">
-    <title lang="zh">2026日本職棒交流賽</title>
-    <desc>2026日本職棒交流賽</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625120000 +0800" stop="20260625130000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625130000 +0800" stop="20260625150000 +0800">
-    <title lang="zh">2026中華企業射箭聯賽</title>
-    <desc>2026中華企業射箭聯賽</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625150000 +0800" stop="20260625170000 +0800">
-    <title lang="zh">西甲籃球季後賽</title>
-    <desc>西甲籃球季後賽</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625170000 +0800" stop="20260625173000 +0800">
-    <title lang="zh">野球名人房</title>
-    <desc>野球名人房</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625173000 +0800" stop="20260625180000 +0800">
-    <title lang="zh">球來就講</title>
-    <desc>球來就講</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625180000 +0800" stop="20260625183000 +0800">
-    <title lang="zh">球來就講</title>
-    <desc>球來就講</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625183000 +0800" stop="20260625213000 +0800">
-    <title lang="zh">(LIVE)2026中華職棒</title>
-    <desc>(LIVE)2026中華職棒</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625213000 +0800" stop="20260625220000 +0800">
-    <title lang="zh">野球名人房</title>
-    <desc>野球名人房</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456577" start="20260625220000 +0800" stop="20260626000000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西甲</desc>
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456577" start="20260626000000 +0800" stop="20260626010000 +0800">
     <title lang="zh">麻將大師</title>
     <desc>麻將大師</desc>
@@ -891,7 +756,7 @@
     </audio>
   </programme>
   
-<programme channel="456577" start="20260701213000 +0800" stop="20260702000000 +0800">
+<programme channel="456577" start="20260701213000 +0800" stop="20260702003000 +0800">
     <title lang="zh">(首)2026日本職棒</title>
     <desc>(首)2026日本職棒</desc>
     <date>20260701</date>
@@ -900,136 +765,145 @@
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625003000 +0800" stop="20260625010000 +0800">
-    <title lang="zh">鍵盤球探 EP108 紙片左投的王牌野望 鍾亦恩訪談 上(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702003000 +0800" stop="20260702010000 +0800">
+    <title lang="zh">鍵盤球探</title>
+    <desc>鍵盤球探</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625010000 +0800" stop="20260625030000 +0800">
-    <title lang="zh">企業排球聯賽 冠軍賽 雲林美津濃 vs 屏東台電(3/21/26)(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702010000 +0800" stop="20260702030000 +0800">
+    <title lang="zh">企業排球聯賽</title>
+    <desc>企業排球聯賽</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625030000 +0800" stop="20260625060000 +0800">
-    <title lang="zh">2026日本職棒 軟銀 vs 歐力士(6/24/26)(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702030000 +0800" stop="20260702060000 +0800">
+    <title lang="zh">2026日本職棒</title>
+    <desc>2026日本職棒</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625060000 +0800" stop="20260625070000 +0800">
-    <title lang="zh">麻將大師 第七季 EP41(護)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702060000 +0800" stop="20260702070000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625070000 +0800" stop="20260625090000 +0800">
-    <title lang="zh">西甲 奧薩蘇納 vs 巴塞隆納 (5/3/26)(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702070000 +0800" stop="20260702090000 +0800">
+    <title lang="zh">西甲</title>
+    <desc>西甲</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625090000 +0800" stop="20260625120000 +0800">
-    <title lang="zh">2026日本職棒 軟銀 vs 歐力士(6/24/26)(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702090000 +0800" stop="20260702120000 +0800">
+    <title lang="zh">2026日本職棒</title>
+    <desc>2026日本職棒</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625120000 +0800" stop="20260625130000 +0800">
-    <title lang="zh">麻將大師 第八季 EP5(護)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702120000 +0800" stop="20260702130000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625130000 +0800" stop="20260625150000 +0800">
-    <title lang="zh">2026中華企業射箭聯賽 彰化銀行 vs 寒舍集團  (5/31/26)(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702130000 +0800" stop="20260702150000 +0800">
+    <title lang="zh">2026中華企業射箭聯賽</title>
+    <desc>2026中華企業射箭聯賽</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625150000 +0800" stop="20260625165700 +0800">
-    <title lang="zh">西甲籃球季後賽 瓦倫西亞 vs 尤文圖特 (6/13/2026)(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702150000 +0800" stop="20260702165700 +0800">
+    <title lang="zh">西甲籃球季後賽</title>
+    <desc>西甲籃球季後賽</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625165700 +0800" stop="20260625200000 +0800">
-    <title lang="zh">LIVE 2026日本職棒 樂天 vs 西武(6/25/26)(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702165700 +0800" stop="20260702200000 +0800">
+    <title lang="zh">(LIVE)2026日本職棒</title>
+    <desc>(LIVE)2026日本職棒</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625200000 +0800" stop="20260625203000 +0800">
-    <title lang="zh">球來就講 EP6 上集(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702200000 +0800" stop="20260702203000 +0800">
+    <title lang="zh">球來就講</title>
+    <desc>球來就講</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625203000 +0800" stop="20260625210000 +0800">
-    <title lang="zh">球來就講 EP6 下集(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702203000 +0800" stop="20260702210000 +0800">
+    <title lang="zh">球來就講</title>
+    <desc>球來就講</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625210000 +0800" stop="20260625213000 +0800">
-    <title lang="zh">(首)球來就講 EP7 上集(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702210000 +0800" stop="20260702213000 +0800">
+    <title lang="zh">(首)球來就講</title>
+    <desc>(首)球來就講</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625213000 +0800" stop="20260625220000 +0800">
-    <title lang="zh">(首)球來就講 EP7 下集(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702213000 +0800" stop="20260702220000 +0800">
+    <title lang="zh">(首)球來就講</title>
+    <desc>(首)球來就講</desc>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457257" start="20260625220000 +0800" stop="20260626000000 +0800">
-    <title lang="zh">西甲 萊萬特 vs 巴塞隆納 (8/24/25)(普)</title>
-    <desc />
-    <date>20260625</date>
+<programme channel="456577" start="20260702220000 +0800" stop="20260703000000 +0800">
+    <title lang="zh">西甲</title>
+    <desc>西甲</desc>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456577" start="20260703000000 +0800" stop="20260704000000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>20260703</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -1687,6 +1561,132 @@
     <title lang="zh">西甲 巴塞隆納 vs 皇家社會 (9/29/25)(普)</title>
     <desc />
     <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702000000 +0800" stop="20260702010000 +0800">
+    <title lang="zh">麻將大師 第七季 EP30(護)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702010000 +0800" stop="20260702030000 +0800">
+    <title lang="zh">企業排球聯賽 冠軍賽 高雄台電 vs 臺北鯨華(3/21/26)(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702030000 +0800" stop="20260702060000 +0800">
+    <title lang="zh">2026日本職棒 巨人 vs 養樂多(7/1/26)(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702060000 +0800" stop="20260702070000 +0800">
+    <title lang="zh">麻將大師 第七季 EP41(護)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702070000 +0800" stop="20260702090000 +0800">
+    <title lang="zh">西甲 皇家馬德里 vs 阿拉維斯 (4/22/26)(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702090000 +0800" stop="20260702120000 +0800">
+    <title lang="zh">2026日本職棒 軟銀 vs 西武(7/1/26)(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702120000 +0800" stop="20260702130000 +0800">
+    <title lang="zh">麻將大師 第八季 EP6(護)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702130000 +0800" stop="20260702150000 +0800">
+    <title lang="zh">2026中華企業射箭聯賽 新北凱撒 vs 寒舍集團 (5/30/26)(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702150000 +0800" stop="20260702165700 +0800">
+    <title lang="zh">西甲籃球冠軍賽 瓦倫西亞 vs 巴塞隆納 (06/19/26)(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702165700 +0800" stop="20260702200000 +0800">
+    <title lang="zh">LIVE 2026日本職棒 軟銀 vs 西武(7/2/26)(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702200000 +0800" stop="20260702203000 +0800">
+    <title lang="zh">鍵盤球探 EP110(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702203000 +0800" stop="20260702210000 +0800">
+    <title lang="zh">野球名人房 S2 EP182(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702210000 +0800" stop="20260702220000 +0800">
+    <title lang="zh">2025巨人挑戰賽EP5(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457257" start="20260702220000 +0800" stop="20260703000000 +0800">
+    <title lang="zh">西甲 塞維利亞 vs 巴塞隆納 (10/5/25)(普)</title>
+    <desc />
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
