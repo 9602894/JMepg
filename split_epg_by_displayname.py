@@ -11,7 +11,7 @@ from pathlib import Path
 
 def main():
     parser = argparse.ArgumentParser(description="按电视台显示名称拆分 EPG XML 文件")
-    parser.add_argument('--url', default="https://raw.githubusercontent.com/9602894/JMYG/main/epg_data/epg_merged.xml",
+    parser.add_argument('--url', default="https://raw.githubusercontent.com/9602894/sandiJMYG/main/epg_data/epg_merged.xml",
                         help='EPG XML 文件的 URL')
     parser.add_argument('--output', default="epg_by_channel_displayname",
                         help='输出根目录名称')
