@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="547512" start="20260627013100 +0800" stop="20260627140000 +0800">
-    <title lang="zh">114年 全國社區學生棒球大賽 精彩重播</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260627140000 +0800" stop="20260627160000 +0800">
-    <title lang="zh">【LIVE】2026年世界少棒聯盟LLB亞太區U13錦標賽 G16 季軍賽 A3 VS A4</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260627160000 +0800" stop="20260627180000 +0800">
-    <title lang="zh">114年 全國社區學生棒球大賽 精彩重播</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260627180000 +0800" stop="20260627200000 +0800">
-    <title lang="zh">【LIVE】2026年世界少棒聯盟LLB亞太區U13錦標賽 G17 冠軍賽 A1 VS A2</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260627200000 +0800" stop="20260627203000 +0800">
-    <title lang="zh">114年 全國社區學生棒球大賽 精彩重播</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260627203000 +0800" stop="20260627213000 +0800">
-    <title lang="zh">【LIVE】2026年世界少棒聯盟LLB亞太區U13錦標賽 閉幕典禮 CLOSING CEREMONY</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260627213000 +0800" stop="20260628002300 +0800">
-    <title lang="zh">114年 全國社區學生棒球大賽 精彩重播</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="547512" start="20260628002300 +0800" stop="20260628025000 +0800">
     <title lang="zh">114年 全國社區學生棒球大賽 精彩重播</title>
     <desc />
@@ -117,10 +54,28 @@
     </audio>
   </programme>
   
-<programme channel="547512" start="20260629192500 +0800" stop="20260630000000 +0800">
+<programme channel="547512" start="20260629192500 +0800" stop="20260630001000 +0800">
     <title lang="zh">115年 萬士益冷氣盃全國青少棒錦標賽 精彩重播</title>
     <desc />
     <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260630001000 +0800" stop="20260630111000 +0800">
+    <title lang="zh">115年 萬士益冷氣盃全國青少棒錦標賽 精彩重播</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260630111000 +0800" stop="20260701000000 +0800">
+    <title lang="zh">115年 玉山盃全國青棒錦標賽 精彩重播</title>
+    <desc />
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

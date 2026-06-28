@@ -1,158 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456811" start="20260627000000 +0800" stop="20260627013000 +0800">
-    <title lang="zh">路易西與丹麥國家交響樂團-尼爾森交響曲第四號</title>
-    <desc>路易西與丹麥國家交響樂團-尼爾森交響曲第四號</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627013000 +0800" stop="20260627030000 +0800">
-    <title lang="zh">路易西與丹麥國家交響樂團-尼爾森交響曲第五號</title>
-    <desc>路易西與丹麥國家交響樂團-尼爾森交響曲第五號</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627030000 +0800" stop="20260627043000 +0800">
-    <title lang="zh">捷克愛樂-胡薩指揮艾爾加與蘇克</title>
-    <desc>捷克愛樂-胡薩指揮艾爾加與蘇克</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627043000 +0800" stop="20260627060000 +0800">
-    <title lang="zh">2019韋爾比亞音樂節-塔卡許納吉指揮莫札特與布拉姆斯</title>
-    <desc>2019韋爾比亞音樂節-塔卡許納吉指揮莫札特與布拉姆斯</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627060000 +0800" stop="20260627073000 +0800">
-    <title lang="zh">2019韋爾比亞音樂節-路易西指揮馬勒</title>
-    <desc>2019韋爾比亞音樂節-路易西指揮馬勒</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627073000 +0800" stop="20260627090000 +0800">
-    <title lang="zh">2019韋爾比亞音樂節-夏尼指揮拉赫瑪尼諾夫</title>
-    <desc>2019韋爾比亞音樂節-夏尼指揮拉赫瑪尼諾夫</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627090000 +0800" stop="20260627101500 +0800">
-    <title lang="zh">2022韋爾比亞音樂節-杜特華指揮高大宜與史特拉汶斯基</title>
-    <desc>2022韋爾比亞音樂節-杜特華指揮高大宜與史特拉汶斯基</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627101500 +0800" stop="20260627120000 +0800">
-    <title lang="zh">2017韋爾比亞音樂節-普雷特涅夫與楊森</title>
-    <desc>2017韋爾比亞音樂節-普雷特涅夫與楊森</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627120000 +0800" stop="20260627133000 +0800">
-    <title lang="zh">2019韋爾比亞音樂節-路易西指揮馬勒</title>
-    <desc>2019韋爾比亞音樂節-路易西指揮馬勒</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627133000 +0800" stop="20260627150000 +0800">
-    <title lang="zh">2019韋爾比亞音樂節-夏尼指揮拉赫瑪尼諾夫</title>
-    <desc>2019韋爾比亞音樂節-夏尼指揮拉赫瑪尼諾夫</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627150000 +0800" stop="20260627163000 +0800">
-    <title lang="zh">2018韋爾比亞音樂節-拉圖&amp;席夫</title>
-    <desc>2018韋爾比亞音樂節-拉圖&amp;席夫</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627163000 +0800" stop="20260627180000 +0800">
-    <title lang="zh">2023卓越之星聯合音樂會</title>
-    <desc>2023卓越之星聯合音樂會</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627180000 +0800" stop="20260627190000 +0800">
-    <title lang="zh">莫札特弦樂四重奏名作II</title>
-    <desc>莫札特弦樂四重奏名作II</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627190000 +0800" stop="20260627200000 +0800">
-    <title lang="zh">帶我飛向月球</title>
-    <desc>帶我飛向月球</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627200000 +0800" stop="20260627210000 +0800">
-    <title lang="zh">光輝之聲合唱團-韓德爾在凡爾賽(上)</title>
-    <desc>光輝之聲合唱團-韓德爾在凡爾賽(上)</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627210000 +0800" stop="20260627221500 +0800">
-    <title lang="zh">2022韋爾比亞音樂節-諾西達與布朗夫曼</title>
-    <desc>2022韋爾比亞音樂節-諾西達與布朗夫曼</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456811" start="20260627221500 +0800" stop="20260628000000 +0800">
-    <title lang="zh">2019韋爾比亞音樂節-卡瓦科斯</title>
-    <desc>2019韋爾比亞音樂節-卡瓦科斯</desc>
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456811" start="20260628000000 +0800" stop="20260628013000 +0800">
     <title lang="zh">2019韋爾比亞音樂節-塔卡許納吉指揮莫札特與布拉姆斯</title>
     <desc>2019韋爾比亞音樂節-塔卡許納吉指揮莫札特與布拉姆斯</desc>
@@ -1071,10 +918,163 @@
     </audio>
   </programme>
   
-<programme channel="456811" start="20260704000000 +0800" stop="20260705000000 +0800">
+<programme channel="456811" start="20260704000000 +0800" stop="20260704013000 +0800">
     <title lang="zh">莫札特在巴黎</title>
     <desc>莫札特在巴黎</desc>
     <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704013000 +0800" stop="20260704030000 +0800">
+    <title lang="zh">亞諾夫斯基&amp;德勒斯登愛樂</title>
+    <desc>亞諾夫斯基&amp;德勒斯登愛樂</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704030000 +0800" stop="20260704043000 +0800">
+    <title lang="zh">阿格麗希X夏尼與&amp;以色列愛樂</title>
+    <desc>阿格麗希X夏尼與&amp;以色列愛樂</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704043000 +0800" stop="20260704060000 +0800">
+    <title lang="zh">佩特連科&amp;以色列愛樂-貝多芬三重協奏曲&amp;第五號交響曲</title>
+    <desc>佩特連科&amp;以色列愛樂-貝多芬三重協奏曲&amp;第五號交響曲</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704060000 +0800" stop="20260704073000 +0800">
+    <title lang="zh">海汀克&amp;柏林愛樂-馬勒-第七號交響曲</title>
+    <desc>海汀克&amp;柏林愛樂-馬勒-第七號交響曲</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704073000 +0800" stop="20260704090000 +0800">
+    <title lang="zh">賈德&amp;斯洛伐克愛樂</title>
+    <desc>賈德&amp;斯洛伐克愛樂</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704090000 +0800" stop="20260704101500 +0800">
+    <title lang="zh">海汀克&amp;柏林愛樂-馬勒-第一號交響曲</title>
+    <desc>海汀克&amp;柏林愛樂-馬勒-第一號交響曲</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704101500 +0800" stop="20260704120000 +0800">
+    <title lang="zh">韓德爾逝世250週年音樂會</title>
+    <desc>韓德爾逝世250週年音樂會</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704120000 +0800" stop="20260704133000 +0800">
+    <title lang="zh">海汀克&amp;柏林愛樂-馬勒-第七號交響曲</title>
+    <desc>海汀克&amp;柏林愛樂-馬勒-第七號交響曲</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704133000 +0800" stop="20260704150000 +0800">
+    <title lang="zh">賈德&amp;斯洛伐克愛樂</title>
+    <desc>賈德&amp;斯洛伐克愛樂</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704150000 +0800" stop="20260704163000 +0800">
+    <title lang="zh">巴倫波因&amp;東西會議廳管弦樂團-拉馬拉音樂會</title>
+    <desc>巴倫波因&amp;東西會議廳管弦樂團-拉馬拉音樂會</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704163000 +0800" stop="20260704180000 +0800">
+    <title lang="zh">2019布爾格豪森爵士音樂節-幸運彼得森</title>
+    <desc>2019布爾格豪森爵士音樂節-幸運彼得森</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704180000 +0800" stop="20260704190000 +0800">
+    <title lang="zh">佩特連科&amp;以色列愛樂-德佛札克大提琴協奏曲</title>
+    <desc>佩特連科&amp;以色列愛樂-德佛札克大提琴協奏曲</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704190000 +0800" stop="20260704200000 +0800">
+    <title lang="zh">帕爾曼X巴倫波因&amp;柏林愛樂-貝多芬-小提琴協奏曲</title>
+    <desc>帕爾曼X巴倫波因&amp;柏林愛樂-貝多芬-小提琴協奏曲</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704200000 +0800" stop="20260704210000 +0800">
+    <title lang="zh">帕爾曼X巴倫波因&amp;柏林愛樂-布拉姆斯-小提琴協奏曲</title>
+    <desc>帕爾曼X巴倫波因&amp;柏林愛樂-布拉姆斯-小提琴協奏曲</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704210000 +0800" stop="20260704221500 +0800">
+    <title lang="zh">馬利納&amp;瑞義管弦樂團莫札特之夜</title>
+    <desc>馬利納&amp;瑞義管弦樂團莫札特之夜</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260704221500 +0800" stop="20260705000000 +0800">
+    <title lang="zh">法國香波堡500年音樂慶典</title>
+    <desc>法國香波堡500年音樂慶典</desc>
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456811" start="20260705000000 +0800" stop="20260706000000 +0800">
+    <title lang="zh">佩特連科&amp;以色列愛樂-貝多芬三重協奏曲&amp;第五號交響曲</title>
+    <desc>佩特連科&amp;以色列愛樂-貝多芬三重協奏曲&amp;第五號交響曲</desc>
+    <date>20260705</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

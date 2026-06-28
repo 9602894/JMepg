@@ -1,140 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="545936" start="20260627003500 +0800" stop="20260627010000 +0800">
-    <title lang="zh">燃动金杯-2026年世界杯小组赛第一轮进球集锦</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627010000 +0800" stop="20260627013000 +0800">
-    <title lang="zh">燃动金杯-2026年世界杯小组赛第二轮进球集锦</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627013000 +0800" stop="20260627053000 +0800">
-    <title lang="zh">2026世界杯-小组赛I组第三轮（挪威—法国）</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627053000 +0800" stop="20260627060000 +0800">
-    <title lang="zh">燃动金杯-3</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627060000 +0800" stop="20260627063000 +0800">
-    <title lang="zh">燃动金杯-4</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627063000 +0800" stop="20260627103000 +0800">
-    <title lang="zh">2026世界杯-小组赛H组第三轮（乌拉圭—西班牙）</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627103000 +0800" stop="20260627133000 +0800">
-    <title lang="zh">2026世界杯-小组赛G组第三轮（新西兰—比利时）</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627133000 +0800" stop="20260627140500 +0800">
-    <title lang="zh">体坛快讯</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627140500 +0800" stop="20260627153000 +0800">
-    <title lang="zh">实况录像-2026年世界男排联赛 波兰站 中国队—比利时队</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627153000 +0800" stop="20260627180000 +0800">
-    <title lang="zh">实况录像-2026世界杯小组赛（录播）16</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627180000 +0800" stop="20260627190500 +0800">
-    <title lang="zh">体育新闻</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627190500 +0800" stop="20260627200000 +0800">
-    <title lang="zh">燃动金杯-16（录播）</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627200000 +0800" stop="20260627220000 +0800">
-    <title lang="zh">2026年美加墨世界杯报道-豪门盛宴-17</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627220000 +0800" stop="20260627230500 +0800">
-    <title lang="zh">2026年美加墨世界杯报道-如约而至-17</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545936" start="20260627230500 +0800" stop="20260628003000 +0800">
-    <title lang="zh">实况录像-2026世界杯小组赛I组第三轮 挪威队—法国队</title>
-    <desc />
-    <date>20260627</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="545936" start="20260628003000 +0800" stop="20260628020000 +0800">
     <title lang="zh">实况录像-2026世界杯小组赛H组第三轮 乌拉圭队—西班牙队</title>
     <desc />
@@ -846,10 +711,136 @@
     </audio>
   </programme>
   
-<programme channel="545936" start="20260703230500 +0800" stop="20260704000000 +0800">
+<programme channel="545936" start="20260703230500 +0800" stop="20260704003000 +0800">
     <title lang="zh">实况录像-2026世界杯 1/16决赛 11</title>
     <desc />
     <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704003000 +0800" stop="20260704043000 +0800">
+    <title lang="zh">2026世界杯-1/16决赛（2D — 2G）</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704043000 +0800" stop="20260704083000 +0800">
+    <title lang="zh">2026世界杯-1/16决赛（1J — 2H）</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704083000 +0800" stop="20260704120000 +0800">
+    <title lang="zh">2026世界杯-1/16决赛（1K — 3DEIJL）</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704120000 +0800" stop="20260704123500 +0800">
+    <title lang="zh">体坛快讯</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704123500 +0800" stop="20260704125500 +0800">
+    <title lang="zh">艺术里的奥林匹克(4K)</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704125500 +0800" stop="20260704142000 +0800">
+    <title lang="zh">实况录像-WTT美国大满贯2026（录播）5</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704142000 +0800" stop="20260704145500 +0800">
+    <title lang="zh">实况录像-WTT美国大满贯2026 混双决赛（录播）</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704145500 +0800" stop="20260704180000 +0800">
+    <title lang="zh">实况录像-2026世界杯 1/16决赛（录播）6</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704180000 +0800" stop="20260704190500 +0800">
+    <title lang="zh">体育新闻</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704190500 +0800" stop="20260704200000 +0800">
+    <title lang="zh">燃动金杯-23（录播）</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704200000 +0800" stop="20260704220000 +0800">
+    <title lang="zh">2026年美加墨世界杯报道-豪门盛宴-24</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704220000 +0800" stop="20260704230000 +0800">
+    <title lang="zh">2026年美加墨世界杯报道-如约而至-24</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704230000 +0800" stop="20260704233000 +0800">
+    <title lang="zh">燃动金杯-2026年世界杯小组赛第三轮进球集锦</title>
+    <desc />
+    <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545936" start="20260704233000 +0800" stop="20260705000000 +0800">
+    <title lang="zh">2026世界杯-1/8决赛（W73—W75）</title>
+    <desc />
+    <date>20260704</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
