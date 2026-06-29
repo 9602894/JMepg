@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="410408" start="20260628000000 +0800" stop="20260628063000 +0800">
-    <title lang="zh">GT世界挑戰賽歐洲站 (中途插播) 第11集 -比利時站24小時耐力賽 </title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410408" start="20260628063000 +0800" stop="20260628153000 +0800">
-    <title lang="zh">GT世界挑戰賽歐洲站 第12集 -比利時站24小時耐力賽 </title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410408" start="20260628153000 +0800" stop="20260628233000 +0800">
-    <title lang="zh">GT世界挑戰賽歐洲站 第13集 -比利時站24小時耐力賽 </title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410408" start="20260628233000 +0800" stop="20260629000000 +0800">
-    <title lang="zh">歐霸盃賽事精華 第22集 </title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="410408" start="20260629000000 +0800" stop="20260629003000 +0800">
     <title lang="zh">歐霸盃賽事精華 第25集 </title>
     <desc />
@@ -999,10 +963,172 @@
     </audio>
   </programme>
   
-<programme channel="410408" start="20260704225500 +0800" stop="20260705000000 +0800">
+<programme channel="410408" start="20260704225500 +0800" stop="20260705014500 +0800">
     <title lang="zh">環法單車賽 第1集 -第一階段 </title>
     <desc />
     <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705014500 +0800" stop="20260705021000 +0800">
+    <title lang="zh">法甲特輯</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705021000 +0800" stop="20260705040000 +0800">
+    <title lang="zh">歐洲聯賽冠軍盃 第142集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705040000 +0800" stop="20260705043000 +0800">
+    <title lang="zh">環法單車賽精華 第1集 -第一階段 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705043000 +0800" stop="20260705050000 +0800">
+    <title lang="zh">歐霸盃賽事精華 第45集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705050000 +0800" stop="20260705080000 +0800">
+    <title lang="zh">環法單車賽 第1集 -第一階段 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705080000 +0800" stop="20260705083000 +0800">
+    <title lang="zh">歐霸盃賽事精華 第46集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705083000 +0800" stop="20260705090000 +0800">
+    <title lang="zh">歐霸盃賽事精華 第47集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705090000 +0800" stop="20260705093000 +0800">
+    <title lang="zh">歐霸盃賽事精華 第48集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705093000 +0800" stop="20260705112000 +0800">
+    <title lang="zh">歐洲聯賽冠軍盃 第144集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705112000 +0800" stop="20260705131000 +0800">
+    <title lang="zh">歐洲聯賽冠軍盃 第150集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705131000 +0800" stop="20260705160000 +0800">
+    <title lang="zh">環法單車賽 第1集 -第一階段 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705160000 +0800" stop="20260705170000 +0800">
+    <title lang="zh">歐洲拉力錦標賽 第5集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705170000 +0800" stop="20260705173000 +0800">
+    <title lang="zh">歐霸盃賽事精華 第45集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705173000 +0800" stop="20260705180000 +0800">
+    <title lang="zh">歐霸盃賽事精華 第46集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705180000 +0800" stop="20260705183000 +0800">
+    <title lang="zh">歐霸盃賽事精華 第47集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705183000 +0800" stop="20260705190500 +0800">
+    <title lang="zh">歐霸盃賽事精華 第48集 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705190500 +0800" stop="20260705193500 +0800">
+    <title lang="zh">環法單車賽精華 第1集 -第一階段 </title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410408" start="20260705193500 +0800" stop="20260706000000 +0800">
+    <title lang="zh">環法單車賽 第2集 -第二階段 </title>
+    <desc />
+    <date>20260705</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

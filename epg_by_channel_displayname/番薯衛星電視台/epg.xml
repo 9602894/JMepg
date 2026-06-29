@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456612" start="20260628000000 +0800" stop="20260628040000 +0800">
-    <title lang="zh">番薯向前衝</title>
-    <desc>番薯向前衝</desc>
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456612" start="20260628040000 +0800" stop="20260628080000 +0800">
-    <title lang="zh">番薯一級棒</title>
-    <desc>番薯一級棒</desc>
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456612" start="20260628080000 +0800" stop="20260628160000 +0800">
-    <title lang="zh">番薯一級棒</title>
-    <desc>番薯一級棒</desc>
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456612" start="20260628160000 +0800" stop="20260629000000 +0800">
-    <title lang="zh">番薯向前衝</title>
-    <desc>番薯向前衝</desc>
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456612" start="20260629000000 +0800" stop="20260629040000 +0800">
     <title lang="zh">番薯向前衝</title>
     <desc>番薯向前衝</desc>
@@ -252,10 +216,46 @@
     </audio>
   </programme>
   
-<programme channel="456612" start="20260705000000 +0800" stop="20260706000000 +0800">
+<programme channel="456612" start="20260705000000 +0800" stop="20260705040000 +0800">
     <title lang="zh">番薯向前衝</title>
     <desc>番薯向前衝</desc>
     <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456612" start="20260705040000 +0800" stop="20260705080000 +0800">
+    <title lang="zh">番薯一級棒</title>
+    <desc>番薯一級棒</desc>
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456612" start="20260705080000 +0800" stop="20260705160000 +0800">
+    <title lang="zh">番薯一級棒</title>
+    <desc>番薯一級棒</desc>
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456612" start="20260705160000 +0800" stop="20260706000000 +0800">
+    <title lang="zh">番薯向前衝</title>
+    <desc>番薯向前衝</desc>
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456612" start="20260706000000 +0800" stop="20260707000000 +0800">
+    <title lang="zh">番薯向前衝</title>
+    <desc>節目結合了台語歌曲演唱、觀眾Call-in互動、台灣在地文化分享以及生活資訊推廣，由台內多位知名主持人（如元豪、天意、子涵、宛儒、柔霈等）輪番搭檔主持，深受中南部觀眾喜愛。</desc>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

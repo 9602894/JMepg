@@ -1,50 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457279" start="20260628063000 +0800" stop="20260628143000 +0800">
-    <title lang="zh">2026年GT世界挑戰賽歐洲系列賽(普)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457279" start="20260628143000 +0800" stop="20260628222500 +0800">
-    <title lang="zh">2026年GT世界挑戰賽歐洲系列賽(普)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457279" start="20260628222500 +0800" stop="20260628225000 +0800">
-    <title lang="zh">2025 全輪驅動越野挑戰賽(普)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457279" start="20260628225000 +0800" stop="20260628231500 +0800">
-    <title lang="zh">怪獸卡車錦標賽 2025(普)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457279" start="20260628231500 +0800" stop="20260629000000 +0800">
-    <title lang="zh">2025 歐洲四輪越野摩托車錦標賽(普)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457279" start="20260629000000 +0800" stop="20260629060000 +0800">
     <title lang="zh">2026 IMSA 美國國際汽車運動協會(普)</title>
     <desc />
@@ -2223,7 +2178,7 @@
     </audio>
   </programme>
   
-<programme channel="457279" start="20260704214500 +0800" stop="20260705000000 +0800">
+<programme channel="457279" start="20260704214500 +0800" stop="20260705040000 +0800">
     <title lang="zh">2026 利曼經典賽系列(普)</title>
     <desc />
     <date>20260704</date>
@@ -2231,5 +2186,248 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-
+  
+<programme channel="457279" start="20260705040000 +0800" stop="20260705042000 +0800">
+    <title lang="zh">蘇格蘭拉力錦標賽 2026(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705042000 +0800" stop="20260705045000 +0800">
+    <title lang="zh">歐洲拉力巡迴賽 2026(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705045000 +0800" stop="20260705060000 +0800">
+    <title lang="zh">2026 FIA世界拉力越野錦標賽(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705060000 +0800" stop="20260705062500 +0800">
+    <title lang="zh">超級跑車(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705062500 +0800" stop="20260705065000 +0800">
+    <title lang="zh">夢幻跑車(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705065000 +0800" stop="20260705071500 +0800">
+    <title lang="zh">特技英雄(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705071500 +0800" stop="20260705074000 +0800">
+    <title lang="zh">極速地帶 2025(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705074000 +0800" stop="20260705083000 +0800">
+    <title lang="zh">2025年法拉利挑戰賽歐洲盃(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705083000 +0800" stop="20260705091500 +0800">
+    <title lang="zh">UIM E1 世界電動賽艇世界錦標賽 2025(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705091500 +0800" stop="20260705100000 +0800">
+    <title lang="zh">紐西蘭噴射快艇錦標賽 2025(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705100000 +0800" stop="20260705104000 +0800">
+    <title lang="zh">澳洲賽艇競速 2026(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705104000 +0800" stop="20260705111000 +0800">
+    <title lang="zh">UIM F1H2O 世界摩托艇錦標賽 2025(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705111000 +0800" stop="20260705113500 +0800">
+    <title lang="zh">2025 國際水上摩托世界錦標賽(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705113500 +0800" stop="20260705120000 +0800">
+    <title lang="zh">P1 Offshore 動力艇錦標賽(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705120000 +0800" stop="20260705122500 +0800">
+    <title lang="zh">超級跑車(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705122500 +0800" stop="20260705125000 +0800">
+    <title lang="zh">夢幻跑車(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705125000 +0800" stop="20260705131500 +0800">
+    <title lang="zh">特技英雄(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705131500 +0800" stop="20260705134500 +0800">
+    <title lang="zh">極速地帶 2025(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705134500 +0800" stop="20260705144000 +0800">
+    <title lang="zh">法拉利挑戰賽歐洲系列賽 2026(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705144000 +0800" stop="20260705150500 +0800">
+    <title lang="zh">比利時拉力錦標賽 2026(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705150500 +0800" stop="20260705160500 +0800">
+    <title lang="zh">2026紐西蘭拉力錦標賽2026紐西蘭拉力錦標賽(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705160500 +0800" stop="20260705162500 +0800">
+    <title lang="zh">蘇格蘭拉力錦標賽 2026(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705162500 +0800" stop="20260705165500 +0800">
+    <title lang="zh">歐洲拉力巡迴賽 2026(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705165500 +0800" stop="20260705175000 +0800">
+    <title lang="zh">2026 FIA世界拉力越野錦標賽(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705175000 +0800" stop="20260705182000 +0800">
+    <title lang="zh">超級跑車(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705182000 +0800" stop="20260705185000 +0800">
+    <title lang="zh">夢幻跑車(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457279" start="20260705185000 +0800" stop="20260706000000 +0800">
+    <title lang="zh">2026年歐洲利曼耐力賽系列賽(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
 </tv>

@@ -1,95 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457361" start="20260628013000 +0800" stop="20260628035500 +0800">
-    <title lang="zh">我吃了那男孩一整年的早餐(普)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260628035500 +0800" stop="20260628061500 +0800">
-    <title lang="zh">黃飛鴻三之獅王爭霸(護)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260628061500 +0800" stop="20260628083500 +0800">
-    <title lang="zh">賭俠2之上海灘賭聖(普)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260628083500 +0800" stop="20260628110000 +0800">
-    <title lang="zh">青面修羅(護)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260628110000 +0800" stop="20260628133500 +0800">
-    <title lang="zh">古董局中局(普)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260628133500 +0800" stop="20260628155500 +0800">
-    <title lang="zh">甜蜜殺機(護)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260628155500 +0800" stop="20260628185500 +0800">
-    <title lang="zh">風起洛陽(37-39完)(首）(普)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260628185500 +0800" stop="20260628210000 +0800">
-    <title lang="zh">葉問：終極一戰(護)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260628210000 +0800" stop="20260628233500 +0800">
-    <title lang="zh">九龍城寨之圍城(輔15)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260628233500 +0800" stop="20260629012000 +0800">
-    <title lang="zh">遮天：禁區(輔12)</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457361" start="20260629012000 +0800" stop="20260629031500 +0800">
     <title lang="zh">困獸(輔15)</title>
     <desc />
@@ -684,10 +594,109 @@
     </audio>
   </programme>
   
-<programme channel="457361" start="20260704231500 +0800" stop="20260705000000 +0800">
+<programme channel="457361" start="20260704231500 +0800" stop="20260705011000 +0800">
     <title lang="zh">虎穴屠龍之轟天陷阱(輔12)</title>
     <desc />
     <date>20260704</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705011000 +0800" stop="20260705030000 +0800">
+    <title lang="zh">聖誕玫瑰(輔12)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705030000 +0800" stop="20260705043500 +0800">
+    <title lang="zh">畫皮：情滅(護)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705043500 +0800" stop="20260705063500 +0800">
+    <title lang="zh">猛龍過江(護)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705063500 +0800" stop="20260705083500 +0800">
+    <title lang="zh">新蜀山劍俠(護)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705083500 +0800" stop="20260705104500 +0800">
+    <title lang="zh">賭俠(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705104500 +0800" stop="20260705124000 +0800">
+    <title lang="zh">黃飛鴻92之龍行天下(護)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705124000 +0800" stop="20260705152500 +0800">
+    <title lang="zh">黃飛鴻之英雄有夢(護)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705152500 +0800" stop="20260705182500 +0800">
+    <title lang="zh">秦時明月(4-6)(首)(普)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705182500 +0800" stop="20260705210000 +0800">
+    <title lang="zh">龍馬精神(護)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705210000 +0800" stop="20260705231500 +0800">
+    <title lang="zh">門徒(輔12)</title>
+    <desc />
+    <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260705231500 +0800" stop="20260706000000 +0800">
+    <title lang="zh">金錢帝國：追虎擒龍(護)</title>
+    <desc />
+    <date>20260705</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

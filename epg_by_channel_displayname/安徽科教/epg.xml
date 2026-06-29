@@ -1,261 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544311" start="20260628000000 +0800" stop="20260628001200 +0800">
-    <title lang="zh">法治时空</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628001200 +0800" stop="20260628005600 +0800">
-    <title lang="zh">真情说法</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628005600 +0800" stop="20260628011300 +0800">
-    <title lang="zh">拍案惊奇</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628011300 +0800" stop="20260628014400 +0800">
-    <title lang="zh">语众不同</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628014400 +0800" stop="20260628062000 +0800">
-    <title lang="zh">节目结束</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628062000 +0800" stop="20260628071000 +0800">
-    <title lang="zh">真情说法</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628071000 +0800" stop="20260628075000 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628075000 +0800" stop="20260628082900 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628082900 +0800" stop="20260628092000 +0800">
-    <title lang="zh">走近健康</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628092000 +0800" stop="20260628095900 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628095900 +0800" stop="20260628104500 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628104500 +0800" stop="20260628112800 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628112800 +0800" stop="20260628123200 +0800">
-    <title lang="zh">生活e点通</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628123200 +0800" stop="20260628133200 +0800">
-    <title lang="zh">法治时空</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628133200 +0800" stop="20260628142200 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628142200 +0800" stop="20260628150200 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628150200 +0800" stop="20260628154200 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628154200 +0800" stop="20260628161900 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628161900 +0800" stop="20260628171100 +0800">
-    <title lang="zh">走近健康</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628171100 +0800" stop="20260628181000 +0800">
-    <title lang="zh">生活e点通</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628181000 +0800" stop="20260628191000 +0800">
-    <title lang="zh">法治时空</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628191000 +0800" stop="20260628200000 +0800">
-    <title lang="zh">真情说法</title>
-    <desc />
-    <date>20260628</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544311" start="20260628200000 +0800" stop="20260628205000 +0800">
+<programme channel="544311" start="20260629001500 +0800" stop="20260629010400 +0800">
     <title lang="zh">非童凡响</title>
     <desc />
-    <date>20260628</date>
+    <date>20260629</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544311" start="20260628205000 +0800" stop="20260628221900 +0800">
+<programme channel="544311" start="20260629010400 +0800" stop="20260629060500 +0800">
+    <title lang="zh">节目结束</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629060500 +0800" stop="20260629062100 +0800">
+    <title lang="zh">测试图</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629062100 +0800" stop="20260629071300 +0800">
+    <title lang="zh">生活e点通</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629071300 +0800" stop="20260629104100 +0800">
     <title lang="zh">剧场</title>
     <desc />
-    <date>20260628</date>
+    <date>20260629</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544311" start="20260628221900 +0800" stop="20260628223300 +0800">
-    <title lang="zh">车视界</title>
+<programme channel="544311" start="20260629104100 +0800" stop="20260629113100 +0800">
+    <title lang="zh">真情说法</title>
     <desc />
-    <date>20260628</date>
+    <date>20260629</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544311" start="20260628223300 +0800" stop="20260628224500 +0800">
-    <title lang="zh">比赛集锦</title>
+<programme channel="544311" start="20260629113100 +0800" stop="20260629123700 +0800">
+    <title lang="zh">生活e点通</title>
     <desc />
-    <date>20260628</date>
+    <date>20260629</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544311" start="20260628224500 +0800" stop="20260628235200 +0800">
-    <title lang="zh">英超之夜</title>
+<programme channel="544311" start="20260629123700 +0800" stop="20260629133700 +0800">
+    <title lang="zh">法治时空</title>
     <desc />
-    <date>20260628</date>
+    <date>20260629</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544311" start="20260628235200 +0800" stop="20260628235900 +0800">
-    <title lang="zh">英超之夜</title>
+<programme channel="544311" start="20260629133700 +0800" stop="20260629135800 +0800">
+    <title lang="zh">拍案惊奇</title>
     <desc />
-    <date>20260628</date>
+    <date>20260629</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544311" start="20260628235900 +0800" stop="20260629000000 +0800">
+<programme channel="544311" start="20260629135800 +0800" stop="20260629142900 +0800">
+    <title lang="zh">语众不同</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629142900 +0800" stop="20260629162900 +0800">
+    <title lang="zh">剧场</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629162900 +0800" stop="20260629171000 +0800">
+    <title lang="zh">七彩剧场</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629171000 +0800" stop="20260629181000 +0800">
+    <title lang="zh">生活e点通</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629181000 +0800" stop="20260629191000 +0800">
+    <title lang="zh">法治时空</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629191000 +0800" stop="20260629200000 +0800">
+    <title lang="zh">真情说法</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629200000 +0800" stop="20260629202000 +0800">
+    <title lang="zh">拍案惊奇</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629202000 +0800" stop="20260629205000 +0800">
+    <title lang="zh">语众不同</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629205000 +0800" stop="20260629230200 +0800">
+    <title lang="zh">剧场</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629230200 +0800" stop="20260629235900 +0800">
+    <title lang="zh">法治时空</title>
+    <desc />
+    <date>20260629</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544311" start="20260629235900 +0800" stop="20260630000000 +0800">
     <title lang="zh">结束</title>
     <desc />
-    <date>20260628</date>
+    <date>20260629</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
