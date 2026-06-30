@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="370195" start="20260629020000 +0800" stop="20260629024500 +0800">
-    <title lang="zh">都會節奏 10大排行榜</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370195" start="20260629024500 +0800" stop="20260629030000 +0800">
-    <title lang="zh">金曲不停歇</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370195" start="20260629030000 +0800" stop="20260629040000 +0800">
-    <title lang="zh">聚焦</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370195" start="20260629040000 +0800" stop="20260629080000 +0800">
-    <title lang="zh">週末情調</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370195" start="20260629080000 +0800" stop="20260629140000 +0800">
-    <title lang="zh">TRACE之聲</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370195" start="20260629140000 +0800" stop="20260629200000 +0800">
-    <title lang="zh">都會情調</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370195" start="20260629200000 +0800" stop="20260630020000 +0800">
-    <title lang="zh">金曲不停歇</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="370195" start="20260630020000 +0800" stop="20260630024500 +0800">
     <title lang="zh">都會節奏 10大排行榜</title>
     <desc />
@@ -261,7 +198,7 @@
     </audio>
   </programme>
   
-<programme channel="370195" start="20260701200000 +0800" stop="20260702000000 +0800">
+<programme channel="370195" start="20260701200000 +0800" stop="20260702020000 +0800">
     <title lang="zh">金曲不停歇</title>
     <desc />
     <date>20260701</date>
@@ -270,118 +207,100 @@
     </audio>
   </programme>
   
-<programme channel="430245" start="20260629020000 +0800" stop="20260629024500 +0800">
-    <title lang="zh">HIT 10</title>
-    <desc>The ranking of the top 10 Urban Hits worldwide.</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430245" start="20260629024500 +0800" stop="20260629030000 +0800">
-    <title lang="zh">HITS NON STOP</title>
-    <desc>All the big tunes from around the world.</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430245" start="20260629030000 +0800" stop="20260629040000 +0800">
-    <title lang="zh">FOCUS</title>
-    <desc>Focus is the show you don't want to miss! From love songs to club bangers, TRACE Urban dedicates 60 minutes to your favorite artist's greatest Hits.</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430245" start="20260629040000 +0800" stop="20260629060000 +0800">
-    <title lang="zh">WEEK-END VIBES</title>
-    <desc>The perfect playlist to chill on the week-ends.</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430245" start="20260629060000 +0800" stop="20260629080000 +0800">
-    <title lang="zh">WEEK-END VIBES</title>
-    <desc>The perfect playlist to chill on the week-ends.</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430245" start="20260629080000 +0800" stop="20260629100000 +0800">
-    <title lang="zh">Coming Soon</title>
+<programme channel="370195" start="20260702020000 +0800" stop="20260702024500 +0800">
+    <title lang="zh">都會節奏 10大排行榜</title>
     <desc />
-    <date>20260629</date>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="430245" start="20260629100000 +0800" stop="20260629120000 +0800">
-    <title lang="zh">Coming Soon</title>
+<programme channel="370195" start="20260702024500 +0800" stop="20260702030000 +0800">
+    <title lang="zh">金曲不停歇</title>
     <desc />
-    <date>20260629</date>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="430245" start="20260629120000 +0800" stop="20260629140000 +0800">
-    <title lang="zh">Coming Soon</title>
+<programme channel="370195" start="20260702030000 +0800" stop="20260702040000 +0800">
+    <title lang="zh">聚焦</title>
     <desc />
-    <date>20260629</date>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="430245" start="20260629140000 +0800" stop="20260629160000 +0800">
-    <title lang="zh">Coming Soon</title>
+<programme channel="370195" start="20260702040000 +0800" stop="20260702044500 +0800">
+    <title lang="zh">10大美國單曲排行榜</title>
     <desc />
-    <date>20260629</date>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="430245" start="20260629160000 +0800" stop="20260629180000 +0800">
-    <title lang="zh">Coming Soon</title>
+<programme channel="370195" start="20260702044500 +0800" stop="20260702050000 +0800">
+    <title lang="zh">金曲不停歇</title>
     <desc />
-    <date>20260629</date>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="430245" start="20260629180000 +0800" stop="20260629200000 +0800">
-    <title lang="zh">Coming Soon</title>
+<programme channel="370195" start="20260702050000 +0800" stop="20260702060000 +0800">
+    <title lang="zh">金曲不停歇</title>
     <desc />
-    <date>20260629</date>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="430245" start="20260629200000 +0800" stop="20260629220000 +0800">
-    <title lang="zh">Coming Soon</title>
+<programme channel="370195" start="20260702060000 +0800" stop="20260702070000 +0800">
+    <title lang="zh">都會潮流</title>
     <desc />
-    <date>20260629</date>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="430245" start="20260629220000 +0800" stop="20260630000000 +0800">
-    <title lang="zh">Coming Soon</title>
+<programme channel="370195" start="20260702070000 +0800" stop="20260702080000 +0800">
+    <title lang="zh">新鮮發行</title>
     <desc />
-    <date>20260629</date>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370195" start="20260702080000 +0800" stop="20260702140000 +0800">
+    <title lang="zh">TRACE之聲</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370195" start="20260702140000 +0800" stop="20260702200000 +0800">
+    <title lang="zh">都會情調</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370195" start="20260702200000 +0800" stop="20260703000000 +0800">
+    <title lang="zh">金曲不停歇</title>
+    <desc />
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -1062,10 +981,91 @@
     </audio>
   </programme>
   
-<programme channel="430245" start="20260706000000 +0800" stop="20260707000000 +0800">
+<programme channel="430245" start="20260706000000 +0800" stop="20260706020000 +0800">
     <title lang="zh">Coming Soon</title>
     <desc />
     <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430245" start="20260706020000 +0800" stop="20260706040000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430245" start="20260706040000 +0800" stop="20260706060000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430245" start="20260706060000 +0800" stop="20260706080000 +0800">
+    <title lang="zh">WEEK-END VIBES</title>
+    <desc>The perfect playlist to chill on the week-ends.</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430245" start="20260706080000 +0800" stop="20260706120000 +0800">
+    <title lang="zh">SOUNDS OF TRACE</title>
+    <desc>The music never stops on TRACE Urban ! Sounds of Trace is here to make you enjoy the hottest global hits</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430245" start="20260706120000 +0800" stop="20260706140000 +0800">
+    <title lang="zh">SOUNDS OF TRACE</title>
+    <desc>The music never stops on TRACE Urban ! Sounds of Trace is here to make you enjoy the hottest global hits</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430245" start="20260706140000 +0800" stop="20260706180000 +0800">
+    <title lang="zh">URBAN VIBES</title>
+    <desc>All the 'original' Urban hits.</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430245" start="20260706180000 +0800" stop="20260706200000 +0800">
+    <title lang="zh">URBAN VIBES</title>
+    <desc>All the 'original' Urban hits.</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430245" start="20260706200000 +0800" stop="20260707000000 +0800">
+    <title lang="zh">HITS NON STOP</title>
+    <desc>All the big tunes from around the world.</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430245" start="20260707000000 +0800" stop="20260708000000 +0800">
+    <title lang="zh">HITS NON STOP</title>
+    <desc>All the big tunes from around the world.</desc>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

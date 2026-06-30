@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457249" start="20260629000000 +0800" stop="20260629013000 +0800">
-    <title lang="zh">2026斯圖加特男網賽 決賽 SHE vs FRI(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629013000 +0800" stop="20260629033000 +0800">
-    <title lang="zh">2026倫敦女王男網賽 決賽(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629033000 +0800" stop="20260629053000 +0800">
-    <title lang="zh">2026哈雷男網賽 決賽(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629053000 +0800" stop="20260629080000 +0800">
-    <title lang="zh">2026斯圖加特男網賽 決賽 SHE vs FRI(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629080000 +0800" stop="20260629100000 +0800">
-    <title lang="zh">2026倫敦女王男網賽 決賽(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629100000 +0800" stop="20260629120000 +0800">
-    <title lang="zh">2026哈雷男網賽 決賽(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629120000 +0800" stop="20260629130000 +0800">
-    <title lang="zh">2026哈雷男網賽精華(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629130000 +0800" stop="20260629153000 +0800">
-    <title lang="zh">2026斯圖加特男網賽 決賽 SHE vs FRI(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629153000 +0800" stop="20260629173000 +0800">
-    <title lang="zh">2026倫敦女王男網賽 決賽(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629173000 +0800" stop="20260629180000 +0800">
-    <title lang="zh">網球雜誌(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260629180000 +0800" stop="20260630000000 +0800">
-    <title lang="zh">LIVE 2026溫布頓網球錦標賽 DAY1 第一輪(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457249" start="20260630000000 +0800" stop="20260630060000 +0800">
     <title lang="zh">LIVE 2026溫布頓網球錦標賽DAY1 第一輪(普)</title>
     <desc />
@@ -256,6 +157,33 @@
     <title lang="zh">LIVE 2026溫布頓網球錦標賽DAY7 16強(普)</title>
     <desc />
     <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260706000000 +0800" stop="20260706060000 +0800">
+    <title lang="zh">LIVE 2026溫布頓網球錦標賽DAY7 16強(普)</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260706060000 +0800" stop="20260706170000 +0800">
+    <title lang="zh">首播 2026溫布頓網球錦標賽DAY7 16強(普)</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260706170000 +0800" stop="20260707000000 +0800">
+    <title lang="zh">LIVE 2026溫布頓網球錦標賽DAY8 16強(普)</title>
+    <desc />
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

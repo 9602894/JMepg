@@ -1,414 +1,1242 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539632" start="20260625000000 +0800" stop="20260625004000 +0800">
+<programme channel="539632" start="20260630000000 +0800" stop="20260630004000 +0800">
     <title lang="zh">风尚潮</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625004000 +0800" stop="20260625012000 +0800">
+<programme channel="539632" start="20260630004000 +0800" stop="20260630012000 +0800">
     <title lang="zh">动画片</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625012000 +0800" stop="20260625020000 +0800">
+<programme channel="539632" start="20260630012000 +0800" stop="20260630020000 +0800">
     <title lang="zh">走向蔚蓝-海洋纪录片展播</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625020000 +0800" stop="20260625025000 +0800">
+<programme channel="539632" start="20260630020000 +0800" stop="20260630025000 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539632" start="20260630025000 +0800" stop="20260630033000 +0800">
     <title lang="zh">巡航祖宗海</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625025000 +0800" stop="20260625033000 +0800">
+<programme channel="539632" start="20260630033000 +0800" stop="20260630040000 +0800">
+    <title lang="zh">南海直播室</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539632" start="20260630040000 +0800" stop="20260630043000 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539632" start="20260630043000 +0800" stop="20260630050000 +0800">
+    <title lang="zh">英语新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539632" start="20260630050000 +0800" stop="20260630054000 +0800">
     <title lang="zh">自贸先行者</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625033000 +0800" stop="20260625040000 +0800">
-    <title lang="zh">南海直播室</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539632" start="20260625040000 +0800" stop="20260625043000 +0800">
-    <title lang="zh">三沙新闻</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539632" start="20260625043000 +0800" stop="20260625050000 +0800">
-    <title lang="zh">英语新闻</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539632" start="20260625050000 +0800" stop="20260625054000 +0800">
-    <title lang="zh">精编节目</title>
-    <desc />
-    <date>20260625</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539632" start="20260625054000 +0800" stop="20260625062000 +0800">
+<programme channel="539632" start="20260630054000 +0800" stop="20260630062000 +0800">
     <title lang="zh">风尚潮</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625062000 +0800" stop="20260625072000 +0800">
+<programme channel="539632" start="20260630062000 +0800" stop="20260630072000 +0800">
     <title lang="zh">走向蔚蓝-海洋纪录片展播</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625072000 +0800" stop="20260625080000 +0800">
+<programme channel="539632" start="20260630072000 +0800" stop="20260630080000 +0800">
     <title lang="zh">三沙新闻</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625080000 +0800" stop="20260625082800 +0800">
+<programme channel="539632" start="20260630080000 +0800" stop="20260630082800 +0800">
     <title lang="zh">南海直播室</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625082800 +0800" stop="20260625084300 +0800">
+<programme channel="539632" start="20260630082800 +0800" stop="20260630084300 +0800">
     <title lang="zh">天气预报</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625084300 +0800" stop="20260625084500 +0800">
+<programme channel="539632" start="20260630084300 +0800" stop="20260630084500 +0800">
     <title lang="zh">滨海旅游环境预报</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625084500 +0800" stop="20260625090000 +0800">
+<programme channel="539632" start="20260630084500 +0800" stop="20260630090000 +0800">
     <title lang="zh">海洋音乐厅</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625090000 +0800" stop="20260625103000 +0800">
+<programme channel="539632" start="20260630090000 +0800" stop="20260630105800 +0800">
     <title lang="zh">电影时间</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625103000 +0800" stop="20260625111000 +0800">
+<programme channel="539632" start="20260630105800 +0800" stop="20260630111000 +0800">
     <title lang="zh">自宣段</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625111000 +0800" stop="20260625114800 +0800">
-    <title lang="zh">精编节目</title>
+<programme channel="539632" start="20260630111000 +0800" stop="20260630114800 +0800">
+    <title lang="zh">自贸先行者</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625114800 +0800" stop="20260625115000 +0800">
+<programme channel="539632" start="20260630114800 +0800" stop="20260630115000 +0800">
     <title lang="zh">天气预报</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625115000 +0800" stop="20260625120000 +0800">
+<programme channel="539632" start="20260630115000 +0800" stop="20260630120000 +0800">
     <title lang="zh">中国海岛环境预报</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625120000 +0800" stop="20260625122500 +0800">
+<programme channel="539632" start="20260630120000 +0800" stop="20260630122500 +0800">
     <title lang="zh">南海直播室</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625122500 +0800" stop="20260625125000 +0800">
+<programme channel="539632" start="20260630122500 +0800" stop="20260630125000 +0800">
     <title lang="zh">三沙新闻</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625125000 +0800" stop="20260625131000 +0800">
+<programme channel="539632" start="20260630125000 +0800" stop="20260630131000 +0800">
     <title lang="zh">英语新闻</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625131000 +0800" stop="20260625133000 +0800">
+<programme channel="539632" start="20260630131000 +0800" stop="20260630133000 +0800">
     <title lang="zh">诗意海洋</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625133000 +0800" stop="20260625140000 +0800">
+<programme channel="539632" start="20260630133000 +0800" stop="20260630140000 +0800">
     <title lang="zh">走向蔚蓝-海洋纪录片展播</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625140000 +0800" stop="20260625143000 +0800">
+<programme channel="539632" start="20260630140000 +0800" stop="20260630143000 +0800">
     <title lang="zh">风尚潮</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625143000 +0800" stop="20260625150000 +0800">
-    <title lang="zh">精编节目</title>
+<programme channel="539632" start="20260630143000 +0800" stop="20260630150000 +0800">
+    <title lang="zh">自贸先行者</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625150000 +0800" stop="20260625163000 +0800">
+<programme channel="539632" start="20260630150000 +0800" stop="20260630165800 +0800">
     <title lang="zh">电影时间</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625163000 +0800" stop="20260625170000 +0800">
+<programme channel="539632" start="20260630165800 +0800" stop="20260630170000 +0800">
     <title lang="zh">自宣段</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625170000 +0800" stop="20260625173000 +0800">
+<programme channel="539632" start="20260630170000 +0800" stop="20260630173000 +0800">
     <title lang="zh">英语新闻</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625173000 +0800" stop="20260625175700 +0800">
+<programme channel="539632" start="20260630173000 +0800" stop="20260630175700 +0800">
     <title lang="zh">动画片</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625175700 +0800" stop="20260625180000 +0800">
+<programme channel="539632" start="20260630175700 +0800" stop="20260630180000 +0800">
     <title lang="zh">三沙海洋预报</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625180000 +0800" stop="20260625182000 +0800">
+<programme channel="539632" start="20260630180000 +0800" stop="20260630182000 +0800">
     <title lang="zh">风尚潮</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625182000 +0800" stop="20260625183000 +0800">
+<programme channel="539632" start="20260630182000 +0800" stop="20260630182500 +0800">
     <title lang="zh">海洋音乐厅</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625183000 +0800" stop="20260625185500 +0800">
-    <title lang="zh">巡航祖宗海</title>
+<programme channel="539632" start="20260630182500 +0800" stop="20260630185500 +0800">
+    <title lang="zh">精编节目</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625185500 +0800" stop="20260625185700 +0800">
+<programme channel="539632" start="20260630185500 +0800" stop="20260630185700 +0800">
     <title lang="zh">丝绸之路环境预报</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625185700 +0800" stop="20260625190000 +0800">
+<programme channel="539632" start="20260630185700 +0800" stop="20260630190000 +0800">
     <title lang="zh">天气预报</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625190000 +0800" stop="20260625193500 +0800">
+<programme channel="539632" start="20260630190000 +0800" stop="20260630193500 +0800">
     <title lang="zh">转播中央台《新闻联播》</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625193500 +0800" stop="20260625200000 +0800">
+<programme channel="539632" start="20260630193500 +0800" stop="20260630200000 +0800">
     <title lang="zh">三沙新闻</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625200000 +0800" stop="20260625203000 +0800">
+<programme channel="539632" start="20260630200000 +0800" stop="20260630203000 +0800">
     <title lang="zh">海南新闻联播</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625203000 +0800" stop="20260625220600 +0800">
+<programme channel="539632" start="20260630203000 +0800" stop="20260630222900 +0800">
     <title lang="zh">电影时间</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625220600 +0800" stop="20260625223000 +0800">
+<programme channel="539632" start="20260630222900 +0800" stop="20260630223000 +0800">
     <title lang="zh">自宣段</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625223000 +0800" stop="20260625225500 +0800">
+<programme channel="539632" start="20260630223000 +0800" stop="20260630225500 +0800">
     <title lang="zh">三沙新闻</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625225500 +0800" stop="20260625232000 +0800">
+<programme channel="539632" start="20260630225500 +0800" stop="20260630232000 +0800">
     <title lang="zh">英语新闻</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539632" start="20260625232000 +0800" stop="20260626000000 +0800">
+<programme channel="539632" start="20260630232000 +0800" stop="20260701000000 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630000000 +0800" stop="20260630004000 +0800">
+    <title lang="zh">风尚潮</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630004000 +0800" stop="20260630012000 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630012000 +0800" stop="20260630020000 +0800">
+    <title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630020000 +0800" stop="20260630025000 +0800">
     <title lang="zh">巡航祖宗海</title>
     <desc />
-    <date>20260625</date>
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630025000 +0800" stop="20260630033000 +0800">
+    <title lang="zh">自贸先行者</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630033000 +0800" stop="20260630040000 +0800">
+    <title lang="zh">南海直播室</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630040000 +0800" stop="20260630043000 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630043000 +0800" stop="20260630050000 +0800">
+    <title lang="zh">英语新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630050000 +0800" stop="20260630054000 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630054000 +0800" stop="20260630062000 +0800">
+    <title lang="zh">风尚潮</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630062000 +0800" stop="20260630072000 +0800">
+    <title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630072000 +0800" stop="20260630080000 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630080000 +0800" stop="20260630082800 +0800">
+    <title lang="zh">南海直播室</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630082800 +0800" stop="20260630084300 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630084300 +0800" stop="20260630084500 +0800">
+    <title lang="zh">滨海旅游环境预报</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630084500 +0800" stop="20260630090000 +0800">
+    <title lang="zh">海洋音乐厅</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630090000 +0800" stop="20260630103800 +0800">
+    <title lang="zh">电影时间</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630103800 +0800" stop="20260630111000 +0800">
+    <title lang="zh">自宣段</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630111000 +0800" stop="20260630114800 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630114800 +0800" stop="20260630115000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630115000 +0800" stop="20260630120000 +0800">
+    <title lang="zh">中国海岛环境预报</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630120000 +0800" stop="20260630122500 +0800">
+    <title lang="zh">南海直播室</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630122500 +0800" stop="20260630125000 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630125000 +0800" stop="20260630131000 +0800">
+    <title lang="zh">英语新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630131000 +0800" stop="20260630133000 +0800">
+    <title lang="zh">诗意海洋</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630133000 +0800" stop="20260630140000 +0800">
+    <title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630140000 +0800" stop="20260630143000 +0800">
+    <title lang="zh">风尚潮</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630143000 +0800" stop="20260630150000 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630150000 +0800" stop="20260630163800 +0800">
+    <title lang="zh">电影时间</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630163800 +0800" stop="20260630170000 +0800">
+    <title lang="zh">自宣段</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630170000 +0800" stop="20260630173000 +0800">
+    <title lang="zh">英语新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630173000 +0800" stop="20260630175700 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630175700 +0800" stop="20260630180000 +0800">
+    <title lang="zh">三沙海洋预报</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630180000 +0800" stop="20260630182000 +0800">
+    <title lang="zh">风尚潮</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630182000 +0800" stop="20260630182500 +0800">
+    <title lang="zh">海洋音乐厅</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630182500 +0800" stop="20260630185500 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630185500 +0800" stop="20260630185700 +0800">
+    <title lang="zh">丝绸之路环境预报</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630185700 +0800" stop="20260630190000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630190000 +0800" stop="20260630193500 +0800">
+    <title lang="zh">转播中央台《新闻联播》</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630193500 +0800" stop="20260630200000 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630200000 +0800" stop="20260630203000 +0800">
+    <title lang="zh">海南新闻联播</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630203000 +0800" stop="20260630220400 +0800">
+    <title lang="zh">电影时间</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630220400 +0800" stop="20260630223000 +0800">
+    <title lang="zh">自宣段</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630223000 +0800" stop="20260630225500 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630225500 +0800" stop="20260630232000 +0800">
+    <title lang="zh">英语新闻</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260630232000 +0800" stop="20260701000000 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701000000 +0800" stop="20260701004000 +0800">
+    <title lang="zh">风尚潮</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701004000 +0800" stop="20260701012000 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701012000 +0800" stop="20260701020000 +0800">
+    <title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701020000 +0800" stop="20260701025000 +0800">
+    <title lang="zh">巡航祖宗海</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701025000 +0800" stop="20260701033000 +0800">
+    <title lang="zh">自贸先行者</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701033000 +0800" stop="20260701040000 +0800">
+    <title lang="zh">南海直播室</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701040000 +0800" stop="20260701043000 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701043000 +0800" stop="20260701050000 +0800">
+    <title lang="zh">英语新闻</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701050000 +0800" stop="20260701054000 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701054000 +0800" stop="20260701062000 +0800">
+    <title lang="zh">风尚潮</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701062000 +0800" stop="20260701072000 +0800">
+    <title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701072000 +0800" stop="20260701080000 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701080000 +0800" stop="20260701082800 +0800">
+    <title lang="zh">南海直播室</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701082800 +0800" stop="20260701084300 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701084300 +0800" stop="20260701084500 +0800">
+    <title lang="zh">滨海旅游环境预报</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701084500 +0800" stop="20260701090000 +0800">
+    <title lang="zh">海洋音乐厅</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701090000 +0800" stop="20260701103000 +0800">
+    <title lang="zh">电影时间</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701103000 +0800" stop="20260701111000 +0800">
+    <title lang="zh">自宣段</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701111000 +0800" stop="20260701114800 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701114800 +0800" stop="20260701115000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701115000 +0800" stop="20260701120000 +0800">
+    <title lang="zh">中国海岛环境预报</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701120000 +0800" stop="20260701122500 +0800">
+    <title lang="zh">南海直播室</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701122500 +0800" stop="20260701125000 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701125000 +0800" stop="20260701131000 +0800">
+    <title lang="zh">英语新闻</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701131000 +0800" stop="20260701133000 +0800">
+    <title lang="zh">诗意海洋</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701133000 +0800" stop="20260701140000 +0800">
+    <title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701140000 +0800" stop="20260701143000 +0800">
+    <title lang="zh">风尚潮</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701143000 +0800" stop="20260701150000 +0800">
+    <title lang="zh">精编节目</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701150000 +0800" stop="20260701163000 +0800">
+    <title lang="zh">电影时间</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701163000 +0800" stop="20260701170000 +0800">
+    <title lang="zh">自宣段</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701170000 +0800" stop="20260701173000 +0800">
+    <title lang="zh">英语新闻</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701173000 +0800" stop="20260701175700 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701175700 +0800" stop="20260701180000 +0800">
+    <title lang="zh">三沙海洋预报</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701180000 +0800" stop="20260701182000 +0800">
+    <title lang="zh">风尚潮</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701182000 +0800" stop="20260701183000 +0800">
+    <title lang="zh">海洋音乐厅</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701183000 +0800" stop="20260701185500 +0800">
+    <title lang="zh">巡航祖宗海</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701185500 +0800" stop="20260701185700 +0800">
+    <title lang="zh">丝绸之路环境预报</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701185700 +0800" stop="20260701190000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701190000 +0800" stop="20260701193500 +0800">
+    <title lang="zh">转播中央台《新闻联播》</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701193500 +0800" stop="20260701200000 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701200000 +0800" stop="20260701203000 +0800">
+    <title lang="zh">海南新闻联播</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701203000 +0800" stop="20260701220600 +0800">
+    <title lang="zh">电影时间</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701220600 +0800" stop="20260701223000 +0800">
+    <title lang="zh">自宣段</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701223000 +0800" stop="20260701225500 +0800">
+    <title lang="zh">三沙新闻</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701225500 +0800" stop="20260701232000 +0800">
+    <title lang="zh">英语新闻</title>
+    <desc />
+    <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554405" start="20260701232000 +0800" stop="20260702000000 +0800">
+    <title lang="zh">巡航祖宗海</title>
+    <desc />
+    <date>20260701</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

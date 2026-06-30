@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="410374" start="20260629000900 +0800" stop="20260629005700 +0800">
-    <title lang="zh">電視劇 獅子山下的故事</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260629005700 +0800" stop="20260629023100 +0800">
-    <title lang="zh">中國詩詞大會</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260629023100 +0800" stop="20260629025600 +0800">
-    <title lang="zh">百年守護</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260629025600 +0800" stop="20260629025700 +0800">
-    <title lang="zh">請您欣賞</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260629025700 +0800" stop="20260629034400 +0800">
-    <title lang="zh">電視劇 許你萬家燈火</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260629034400 +0800" stop="20260629080000 +0800">
-    <title lang="zh">電視劇 許你萬家燈火</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260629080000 +0800" stop="20260629160000 +0800">
-    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260629160000 +0800" stop="20260630000000 +0800">
-    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="410374" start="20260630000000 +0800" stop="20260630080000 +0800">
     <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
     <desc />
@@ -936,10 +864,91 @@
     </audio>
   </programme>
   
-<programme channel="410374" start="20260705232300 +0800" stop="20260706000000 +0800">
+<programme channel="410374" start="20260705232300 +0800" stop="20260706000900 +0800">
     <title lang="zh">電視劇 獅子山下的故事</title>
     <desc />
     <date>20260705</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260706000900 +0800" stop="20260706005700 +0800">
+    <title lang="zh">電視劇 獅子山下的故事</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260706005700 +0800" stop="20260706022700 +0800">
+    <title lang="zh">非遺里的中國</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260706022700 +0800" stop="20260706025200 +0800">
+    <title lang="zh">大國醫千金方</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260706025200 +0800" stop="20260706025600 +0800">
+    <title lang="zh">精彩一刻</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260706025600 +0800" stop="20260706025700 +0800">
+    <title lang="zh">請您欣賞</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260706025700 +0800" stop="20260706034400 +0800">
+    <title lang="zh">電視劇 許你萬家燈火</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260706034400 +0800" stop="20260706080000 +0800">
+    <title lang="zh">電視劇 許你萬家燈火</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260706080000 +0800" stop="20260706160000 +0800">
+    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260706160000 +0800" stop="20260707000000 +0800">
+    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
+    <desc />
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

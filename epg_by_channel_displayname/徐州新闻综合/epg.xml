@@ -1,117 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544290" start="20260629061000 +0800" stop="20260629070000 +0800">
-    <title lang="zh">开机宣传片</title>
+<programme channel="544290" start="20260630054000 +0800" stop="20260630063000 +0800">
+    <title lang="zh">静屏</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629070000 +0800" stop="20260629070100 +0800">
+<programme channel="544290" start="20260630063000 +0800" stop="20260630070000 +0800">
+    <title lang="zh">徐州新闻(复播)</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544290" start="20260630070000 +0800" stop="20260630080000 +0800">
     <title lang="zh">国歌</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629070100 +0800" stop="20260629080000 +0800">
-    <title lang="zh">徐州新闻</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544290" start="20260629080000 +0800" stop="20260629123000 +0800">
+<programme channel="544290" start="20260630080000 +0800" stop="20260630132000 +0800">
     <title lang="zh">家庭剧场</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629123000 +0800" stop="20260629140000 +0800">
-    <title lang="zh">政风热线·督办榜</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544290" start="20260629140000 +0800" stop="20260629180000 +0800">
+<programme channel="544290" start="20260630132000 +0800" stop="20260630180000 +0800">
     <title lang="zh">家庭剧场</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629180000 +0800" stop="20260629183000 +0800">
+<programme channel="544290" start="20260630180000 +0800" stop="20260630183000 +0800">
     <title lang="zh">直播徐州</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629183000 +0800" stop="20260629185600 +0800">
+<programme channel="544290" start="20260630183000 +0800" stop="20260630185600 +0800">
     <title lang="zh">徐州新闻</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629185600 +0800" stop="20260629190000 +0800">
+<programme channel="544290" start="20260630185600 +0800" stop="20260630190000 +0800">
     <title lang="zh">天气预报</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629190000 +0800" stop="20260629193600 +0800">
+<programme channel="544290" start="20260630190000 +0800" stop="20260630193600 +0800">
     <title lang="zh">中央新闻联播</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629193600 +0800" stop="20260629212200 +0800">
+<programme channel="544290" start="20260630193600 +0800" stop="20260630212200 +0800">
     <title lang="zh">情义剧场</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629212200 +0800" stop="20260629213000 +0800">
+<programme channel="544290" start="20260630212200 +0800" stop="20260630213000 +0800">
     <title lang="zh">天气预报</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544290" start="20260629213000 +0800" stop="20260630000000 +0800">
+<programme channel="544290" start="20260630213000 +0800" stop="20260630220500 +0800">
     <title lang="zh">徐州夜新闻</title>
     <desc />
-    <date>20260629</date>
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544290" start="20260630220500 +0800" stop="20260630224000 +0800">
+    <title lang="zh">第一房产</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544290" start="20260630224000 +0800" stop="20260630225000 +0800">
+    <title lang="zh">徐州梦想家</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544290" start="20260630225000 +0800" stop="20260630225500 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260630</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544290" start="20260630225500 +0800" stop="20260701000000 +0800">
+    <title lang="zh">晚间剧场</title>
+    <desc />
+    <date>20260630</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

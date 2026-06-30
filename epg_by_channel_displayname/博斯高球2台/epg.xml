@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456816" start="20260629000000 +0800" stop="20260629040000 +0800">
-    <title lang="zh">LIVE2026美國女子PGA錦標賽第四天</title>
-    <desc>LIVE2026美國女子PGA錦標賽第四天</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260629040000 +0800" stop="20260629070000 +0800">
-    <title lang="zh">2026非洲業餘錦標賽第四天</title>
-    <desc>2026非洲業餘錦標賽第四天</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260629070000 +0800" stop="20260629080000 +0800">
-    <title lang="zh">2026松柏嶺未來賽</title>
-    <desc>2026松柏嶺未來賽</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260629080000 +0800" stop="20260629103000 +0800">
-    <title lang="zh">2026LPGA陶氏錦標賽第三天</title>
-    <desc>2026LPGA陶氏錦標賽第三天</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260629103000 +0800" stop="20260629130000 +0800">
-    <title lang="zh">2026紹普萊特菁英賽第三天</title>
-    <desc>2026紹普萊特菁英賽第三天</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260629130000 +0800" stop="20260629190000 +0800">
-    <title lang="zh">首播2026美國女子PGA錦標賽第四天</title>
-    <desc>首播2026美國女子PGA錦標賽第四天</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260629190000 +0800" stop="20260630000000 +0800">
-    <title lang="zh">2026台灣鴻海女子高爾夫公開賽第二回合</title>
-    <desc>2026台灣鴻海女子高爾夫公開賽第二回合</desc>
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456816" start="20260630000000 +0800" stop="20260630023000 +0800">
     <title lang="zh">2026LPGA紹普萊特菁英賽第三天</title>
     <desc>2026LPGA紹普萊特菁英賽第三天</desc>
@@ -531,10 +468,73 @@
     </audio>
   </programme>
   
-<programme channel="456816" start="20260706000000 +0800" stop="20260707000000 +0800">
+<programme channel="456816" start="20260706000000 +0800" stop="20260706033000 +0800">
     <title lang="zh">2026拉斯維加斯錦標賽第四天</title>
     <desc>2026拉斯維加斯錦標賽第四天</desc>
     <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260706033000 +0800" stop="20260706040000 +0800">
+    <title lang="zh">克里斯高球診斷室</title>
+    <desc>克里斯高球診斷室</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260706040000 +0800" stop="20260706080000 +0800">
+    <title lang="zh">2026摩洛哥國際亞巡賽</title>
+    <desc>2026摩洛哥國際亞巡賽</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260706080000 +0800" stop="20260706103000 +0800">
+    <title lang="zh">2026梅爾菁英賽第二天</title>
+    <desc>2026梅爾菁英賽第二天</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260706103000 +0800" stop="20260706130000 +0800">
+    <title lang="zh">2026LPGA陶氏錦標賽第三天</title>
+    <desc>2026LPGA陶氏錦標賽第三天</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260706130000 +0800" stop="20260706200000 +0800">
+    <title lang="zh">2026美國女子PGA錦標賽第三天</title>
+    <desc>2026美國女子PGA錦標賽第三天</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260706200000 +0800" stop="20260707000000 +0800">
+    <title lang="zh">2026英國業餘錦標賽第一天</title>
+    <desc>2026英國業餘錦標賽第一天</desc>
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260707000000 +0800" stop="20260708000000 +0800">
+    <title lang="zh">LIVE2026美國女子PGA錦標賽第一天</title>
+    <desc>LIVE2026美國女子PGA錦標賽第一天</desc>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,95 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544784" start="20260629000000 +0800" stop="20260629030000 +0800">
-    <title lang="zh">2026斯圖加特女網賽8強SWI vs AND(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544784" start="20260629030000 +0800" stop="20260629053000 +0800">
-    <title lang="zh">2026柏林女網賽決賽PEG vs NOS(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544784" start="20260629053000 +0800" stop="20260629083000 +0800">
-    <title lang="zh">2026倫敦女網賽8強RYB vs BOU(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544784" start="20260629083000 +0800" stop="20260629090000 +0800">
-    <title lang="zh">WTA新視界(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544784" start="20260629090000 +0800" stop="20260629120000 +0800">
-    <title lang="zh">2026斯圖加特女網賽8強SWI vs AND(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544784" start="20260629120000 +0800" stop="20260629143000 +0800">
-    <title lang="zh">2026柏林女網賽決賽PEG vs NOS(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544784" start="20260629143000 +0800" stop="20260629173000 +0800">
-    <title lang="zh">2026倫敦女網賽8強RYB vs BOU(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544784" start="20260629173000 +0800" stop="20260629180000 +0800">
-    <title lang="zh">WTA新視界(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544784" start="20260629180000 +0800" stop="20260629200000 +0800">
-    <title lang="zh">2026巴特洪堡女網賽16強ALE vs AND(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544784" start="20260629200000 +0800" stop="20260630000000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY1 第一輪(一號球場)2000-0400(普)</title>
-    <desc />
-    <date>20260629</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="544784" start="20260630000000 +0800" stop="20260630040000 +0800">
     <title lang="zh">LIVE2026溫布頓網球錦標賽DAY1 第一輪(一號球場)2000-0400(普)</title>
     <desc />
@@ -256,6 +166,69 @@
     <title lang="zh">LIVE2026溫布頓網球錦標賽DAY3 第二輪(一號球場)2000-0400(普)</title>
     <desc />
     <date>20260701</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544784" start="20260702000000 +0800" stop="20260702040000 +0800">
+    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY3 第二輪(一號球場)2000-0400(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544784" start="20260702040000 +0800" stop="20260702063000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強ZHE vs TAU(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544784" start="20260702063000 +0800" stop="20260702084500 +0800">
+    <title lang="zh">2026倫敦女網賽決賽VEK vs RAD0845(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544784" start="20260702084500 +0800" stop="20260702113000 +0800">
+    <title lang="zh">2026斯圖加特女網賽4強SVI vs MUC(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544784" start="20260702113000 +0800" stop="20260702140000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強ZHE vs TAU(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544784" start="20260702140000 +0800" stop="20260702200000 +0800">
+    <title lang="zh">首播2026溫布頓網球錦標賽DAY3 第二輪(一號球場)(普)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544784" start="20260702200000 +0800" stop="20260703000000 +0800">
+    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY4 第二輪(一號球場)2000-0400(普)</title>
+    <desc />
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
