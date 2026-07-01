@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544782" start="20260630000000 +0800" stop="20260630060000 +0800">
-    <title lang="zh">LIVE 2026溫布頓網球錦標賽DAY1 第一輪(普)</title>
-    <desc />
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260630060000 +0800" stop="20260630170000 +0800">
-    <title lang="zh">首播 2026溫布頓網球錦標賽DAY1 第一輪(普)</title>
-    <desc />
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260630170000 +0800" stop="20260701000000 +0800">
-    <title lang="zh">LIVE 2026溫布頓網球錦標賽DAY2 第一輪(普)</title>
-    <desc />
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="544782" start="20260701000000 +0800" stop="20260701060000 +0800">
     <title lang="zh">LIVE 2026溫布頓網球錦標賽DAY2 第一輪(普)</title>
     <desc />
@@ -81,73 +54,28 @@
     </audio>
   </programme>
   
-<programme channel="456813" start="20260630030000 +0800" stop="20260630040000 +0800">
-    <title lang="zh">2026法網第15天精華</title>
-    <desc>2026法網第15天精華</desc>
-    <date>20260630</date>
+<programme channel="544782" start="20260703000000 +0800" stop="20260703060000 +0800">
+    <title lang="zh">LIVE 2026溫布頓網球錦標賽DAY4 第二輪(普)</title>
+    <desc />
+    <date>20260703</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260630040000 +0800" stop="20260630060000 +0800">
-    <title lang="zh">2026羅馬大師賽八強SINvsRUB</title>
-    <desc>2026羅馬大師賽八強SINvsRUB</desc>
-    <date>20260630</date>
+<programme channel="544782" start="20260703060000 +0800" stop="20260703170000 +0800">
+    <title lang="zh">首播 2026溫布頓網球錦標賽DAY4 第二輪(普)</title>
+    <desc />
+    <date>20260703</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260630060000 +0800" stop="20260630090000 +0800">
-    <title lang="zh">2026漢堡男網賽十六強FOKvsMIN</title>
-    <desc>2026漢堡男網賽十六強FOKvsMIN</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260630090000 +0800" stop="20260630110000 +0800">
-    <title lang="zh">2026馬德里大師賽八強COBvsZVE</title>
-    <desc>2026馬德里大師賽八強COBvsZVE</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260630110000 +0800" stop="20260630120000 +0800">
-    <title lang="zh">2026法網第15天精華</title>
-    <desc>2026法網第15天精華</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260630120000 +0800" stop="20260630143000 +0800">
-    <title lang="zh">首播2026斯圖加特男網賽決賽</title>
-    <desc>首播2026斯圖加特男網賽決賽</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260630143000 +0800" stop="20260630173000 +0800">
-    <title lang="zh">2026漢堡男網賽十六強FOKvsMIN</title>
-    <desc>2026漢堡男網賽十六強FOKvsMIN</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260630173000 +0800" stop="20260701013000 +0800">
-    <title lang="zh">LIVE2026哈雷草地男網賽第一天</title>
-    <desc>LIVE2026哈雷草地男網賽第一天</desc>
-    <date>20260630</date>
+<programme channel="544782" start="20260703170000 +0800" stop="20260704000000 +0800">
+    <title lang="zh">LIVE 2026溫布頓網球錦標賽DAY5 第三輪(普)</title>
+    <desc />
+    <date>20260703</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -513,9 +441,90 @@
     </audio>
   </programme>
   
-<programme channel="456813" start="20260707000000 +0800" stop="20260708000000 +0800">
+<programme channel="456813" start="20260707000000 +0800" stop="20260707033000 +0800">
     <title lang="zh">2026漢堡男網賽決賽BUS vs PAU</title>
     <desc>2026漢堡男網賽決賽BUS vs PAU</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260707033000 +0800" stop="20260707050000 +0800">
+    <title lang="zh">2026斯圖加特男網賽四強BUB vs FRI</title>
+    <desc>2026斯圖加特男網賽四強BUB vs FRI</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260707050000 +0800" stop="20260707063000 +0800">
+    <title lang="zh">2026利貝馬男網賽四強MAN vs MIN</title>
+    <desc>2026利貝馬男網賽四強MAN vs MIN</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260707063000 +0800" stop="20260707070000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260707070000 +0800" stop="20260707103000 +0800">
+    <title lang="zh">2026法國網球公開賽第二輪SIN vs CER</title>
+    <desc>2026法國網球公開賽第二輪SIN vs CER</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260707103000 +0800" stop="20260707120000 +0800">
+    <title lang="zh">2026斯圖加特男網賽四強BUB vs FRI</title>
+    <desc>2026斯圖加特男網賽四強BUB vs FRI</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260707120000 +0800" stop="20260707140000 +0800">
+    <title lang="zh">首播2026哈雷草地男網賽決賽</title>
+    <desc>首播2026哈雷草地男網賽決賽</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260707140000 +0800" stop="20260707143000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260707143000 +0800" stop="20260707180000 +0800">
+    <title lang="zh">2026法國網球公開賽第二輪SIN vs CER</title>
+    <desc>2026法國網球公開賽第二輪SIN vs CER</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260707180000 +0800" stop="20260708000000 +0800">
+    <title lang="zh">LIVE2026伊斯特本男網賽第一天</title>
+    <desc>LIVE2026伊斯特本男網賽第一天</desc>
     <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>

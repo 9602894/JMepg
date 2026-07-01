@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="425925" start="20260630000000 +0800" stop="20260630040000 +0800">
-    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
-    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="425925" start="20260630040000 +0800" stop="20260630060000 +0800">
-    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
-    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="425925" start="20260630060000 +0800" stop="20260630080000 +0800">
-    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
-    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="425925" start="20260630080000 +0800" stop="20260630120000 +0800">
-    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
-    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="425925" start="20260630120000 +0800" stop="20260630160000 +0800">
-    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
-    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="425925" start="20260630160000 +0800" stop="20260630200000 +0800">
-    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
-    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="425925" start="20260630200000 +0800" stop="20260701000000 +0800">
-    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
-    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
-    <date>20260630</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="425925" start="20260701000000 +0800" stop="20260701040000 +0800">
     <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
     <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
@@ -441,10 +378,73 @@
     </audio>
   </programme>
   
-<programme channel="425925" start="20260707000000 +0800" stop="20260708000000 +0800">
+<programme channel="425925" start="20260707000000 +0800" stop="20260707040000 +0800">
     <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
     <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
     <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="425925" start="20260707040000 +0800" stop="20260707060000 +0800">
+    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
+    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="425925" start="20260707060000 +0800" stop="20260707080000 +0800">
+    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
+    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="425925" start="20260707080000 +0800" stop="20260707120000 +0800">
+    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
+    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="425925" start="20260707120000 +0800" stop="20260707160000 +0800">
+    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
+    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="425925" start="20260707160000 +0800" stop="20260707200000 +0800">
+    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
+    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="425925" start="20260707200000 +0800" stop="20260708000000 +0800">
+    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
+    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="425925" start="20260708000000 +0800" stop="20260709000000 +0800">
+    <title lang="zh">中國中央電視台娛樂頻道全日24小時為你送上精彩節目</title>
+    <desc>中國中央電視台娛樂頻道全日24小時為你送上精彩節目</desc>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
