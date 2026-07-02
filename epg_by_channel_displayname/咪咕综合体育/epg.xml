@@ -1,27 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539799" start="20260701000000 +0800" stop="20260701032500 +0800">
-    <title lang="zh">2026美加墨世界杯 1/16决赛 科特迪瓦-挪威 直播</title>
+<programme channel="539799" start="20260702000000 +0800" stop="20260702021500 +0800">
+    <title lang="zh">2026美加墨世界杯 1/16决赛 英格兰-刚果（金） 直播</title>
     <desc />
-    <date>20260701</date>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260701032500 +0800" stop="20260701040000 +0800">
-    <title lang="zh">世界杯宣传</title>
+<programme channel="539799" start="20260702021500 +0800" stop="20260702023000 +0800">
+    <title lang="zh">詹前顾后</title>
     <desc />
-    <date>20260701</date>
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260701040000 +0800" stop="20260702000000 +0800">
-    <title lang="zh">2026美加墨世界杯 1/16决赛 法国-瑞典 直播</title>
+<programme channel="539799" start="20260702023000 +0800" stop="20260702024500 +0800">
+    <title lang="zh">星耀世界杯</title>
     <desc />
-    <date>20260701</date>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260702024500 +0800" stop="20260702030000 +0800">
+    <title lang="zh">世界杯最前线</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260702030000 +0800" stop="20260703000000 +0800">
+    <title lang="zh">2026美加墨世界杯 1/16决赛 比利时-塞内加尔 直播</title>
+    <desc />
+    <date>20260702</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

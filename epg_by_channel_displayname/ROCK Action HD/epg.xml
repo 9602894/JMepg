@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457366" start="20260701004000 +0800" stop="20260701060500 +0800">
-    <title lang="zh">恐怖角(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701060500 +0800" stop="20260701075500 +0800">
-    <title lang="zh">魔鬼總動員(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701075500 +0800" stop="20260701093000 +0800">
-    <title lang="zh">雙龍會(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701093000 +0800" stop="20260701114000 +0800">
-    <title lang="zh">飢餓遊戲:自由幻夢 終結戰(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701114000 +0800" stop="20260701131000 +0800">
-    <title lang="zh">第一滴血(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701131000 +0800" stop="20260701152500 +0800">
-    <title lang="zh">羅賓漢(普)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701152500 +0800" stop="20260701171500 +0800">
-    <title lang="zh">少林殭屍:天極(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701171500 +0800" stop="20260701191500 +0800">
-    <title lang="zh">魔鬼總動員(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701191500 +0800" stop="20260701205500 +0800">
-    <title lang="zh">太極張三豐(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701205500 +0800" stop="20260701224000 +0800">
-    <title lang="zh">天崩地裂(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457366" start="20260701224000 +0800" stop="20260702004500 +0800">
-    <title lang="zh">恐怖角(護)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457366" start="20260702004500 +0800" stop="20260702023000 +0800">
     <title lang="zh">星際嗜血族(護)</title>
     <desc />
@@ -810,10 +711,136 @@
     </audio>
   </programme>
   
-<programme channel="457366" start="20260707223500 +0800" stop="20260708000000 +0800">
+<programme channel="457366" start="20260707223500 +0800" stop="20260708002000 +0800">
     <title lang="zh">天崩地裂(護)</title>
     <desc />
     <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708002000 +0800" stop="20260708020000 +0800">
+    <title lang="zh">星際嗜血族(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708020000 +0800" stop="20260708035000 +0800">
+    <title lang="zh">十萬火急(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708035000 +0800" stop="20260708054000 +0800">
+    <title lang="zh">精武英雄(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708054000 +0800" stop="20260708071500 +0800">
+    <title lang="zh">魔鬼獵殺者(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708071500 +0800" stop="20260708090500 +0800">
+    <title lang="zh">魔鬼總動員(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708090500 +0800" stop="20260708105000 +0800">
+    <title lang="zh">星際傳奇(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708105000 +0800" stop="20260708122000 +0800">
+    <title lang="zh">第一滴血(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708122000 +0800" stop="20260708140500 +0800">
+    <title lang="zh">天崩地裂(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708140500 +0800" stop="20260708160500 +0800">
+    <title lang="zh">環遊世界80天(普)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708160500 +0800" stop="20260708174000 +0800">
+    <title lang="zh">雙龍會(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708174000 +0800" stop="20260708191500 +0800">
+    <title lang="zh">隕石浩劫 1(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708191500 +0800" stop="20260708205500 +0800">
+    <title lang="zh">隕石浩劫 2(護)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708205500 +0800" stop="20260708223500 +0800">
+    <title lang="zh">玩命對戰(輔12)</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457366" start="20260708223500 +0800" stop="20260709000000 +0800">
+    <title lang="zh">十萬火急(護)</title>
+    <desc />
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

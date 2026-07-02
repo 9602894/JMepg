@@ -1,180 +1,342 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554414" start="20260701070000 +0800" stop="20260701073000 +0800">
-    <title lang="zh">风华国乐</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701073000 +0800" stop="20260701083100 +0800">
-    <title lang="zh">童声唱</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701083100 +0800" stop="20260701092100 +0800">
-    <title lang="zh">回声嘹亮</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701092100 +0800" stop="20260701095100 +0800">
-    <title lang="zh">乐游天下:一曲红歌绽霞云</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701095100 +0800" stop="20260701101800 +0800">
-    <title lang="zh">中国文艺</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701101800 +0800" stop="20260701113500 +0800">
-    <title lang="zh">星光大道:这一站星光(34)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701113500 +0800" stop="20260701123500 +0800">
-    <title lang="zh">精彩音乐汇:我的爱对你说</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701123500 +0800" stop="20260701132000 +0800">
-    <title lang="zh">中国文艺</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701132000 +0800" stop="20260701142100 +0800">
-    <title lang="zh">童声唱</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701142100 +0800" stop="20260701153800 +0800">
-    <title lang="zh">星光大道:这一站星光(33)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701153800 +0800" stop="20260701163800 +0800">
-    <title lang="zh">精彩音乐汇:我的爱对你说</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701163800 +0800" stop="20260701170800 +0800">
-    <title lang="zh">乐游天下:风起河西兮(1)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701170800 +0800" stop="20260701175800 +0800">
-    <title lang="zh">回声嘹亮:音乐告白屋(7)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701175800 +0800" stop="20260701185800 +0800">
-    <title lang="zh">童声唱</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701185800 +0800" stop="20260701190000 +0800">
-    <title lang="zh">国防微视频-军歌嘹亮</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701190000 +0800" stop="20260701201800 +0800">
-    <title lang="zh">星光大道</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701201800 +0800" stop="20260701210900 +0800">
-    <title lang="zh">2025唱支山歌给党听(1)</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701210900 +0800" stop="20260701224000 +0800">
-    <title lang="zh">影视留声机:经典电影欣赏</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701224000 +0800" stop="20260701234500 +0800">
-    <title lang="zh">乐乐欲视:风云音乐厅</title>
-    <desc />
-    <date>20260701</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554414" start="20260701234500 +0800" stop="20260702000000 +0800">
+<programme channel="554414" start="20260702070000 +0800" stop="20260702080000 +0800">
     <title lang="zh">民歌·中国:最美的歌儿唱给妈妈</title>
     <desc />
-    <date>20260701</date>
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702080000 +0800" stop="20260702090500 +0800">
+    <title lang="zh">乐乐欲视:风云音乐厅</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702090500 +0800" stop="20260702100600 +0800">
+    <title lang="zh">童声唱</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702100600 +0800" stop="20260702113700 +0800">
+    <title lang="zh">影视留声机:经典电影欣赏</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702113700 +0800" stop="20260702125400 +0800">
+    <title lang="zh">星光大道</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702125400 +0800" stop="20260702132200 +0800">
+    <title lang="zh">中国文艺</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702132200 +0800" stop="20260702142300 +0800">
+    <title lang="zh">童声唱</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702142300 +0800" stop="20260702154000 +0800">
+    <title lang="zh">星光大道:这一站星光(34)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702154000 +0800" stop="20260702164000 +0800">
+    <title lang="zh">精彩音乐汇:我的爱对你说</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702164000 +0800" stop="20260702171000 +0800">
+    <title lang="zh">乐游天下:一曲红歌绽霞云</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702171000 +0800" stop="20260702180000 +0800">
+    <title lang="zh">回声嘹亮</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702180000 +0800" stop="20260702183000 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702183000 +0800" stop="20260702193000 +0800">
+    <title lang="zh">童声唱</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702193000 +0800" stop="20260702204800 +0800">
+    <title lang="zh">星光大道</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702204800 +0800" stop="20260702214800 +0800">
+    <title lang="zh">精彩音乐汇:我的爱对你说</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702214800 +0800" stop="20260702221800 +0800">
+    <title lang="zh">乐游天下:风起河西兮(3)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702221800 +0800" stop="20260702231800 +0800">
+    <title lang="zh">一起音乐吧</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702231800 +0800" stop="20260702234800 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260702234800 +0800" stop="20260703070000 +0800">
+    <title lang="zh">乐游天下:风起河西兮(3)</title>
+    <desc />
+    <date>20260702</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703070000 +0800" stop="20260703073000 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703073000 +0800" stop="20260703083000 +0800">
+    <title lang="zh">童声唱</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703083000 +0800" stop="20260703090100 +0800">
+    <title lang="zh">乐游天下:风起河西兮(3)</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703090100 +0800" stop="20260703100100 +0800">
+    <title lang="zh">一起音乐吧</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703100100 +0800" stop="20260703111800 +0800">
+    <title lang="zh">星光大道</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703111800 +0800" stop="20260703121900 +0800">
+    <title lang="zh">精彩音乐汇:我的爱对你说</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703121900 +0800" stop="20260703124400 +0800">
+    <title lang="zh">天天把歌唱</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703124400 +0800" stop="20260703134400 +0800">
+    <title lang="zh">童声唱</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703134400 +0800" stop="20260703150100 +0800">
+    <title lang="zh">星光大道</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703150100 +0800" stop="20260703155300 +0800">
+    <title lang="zh">2025唱支山歌给党听(1)</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703155300 +0800" stop="20260703172400 +0800">
+    <title lang="zh">影视留声机:经典电影欣赏</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703172400 +0800" stop="20260703182900 +0800">
+    <title lang="zh">乐乐欲视:风云音乐厅</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703182900 +0800" stop="20260703192900 +0800">
+    <title lang="zh">童声唱</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703192900 +0800" stop="20260703204600 +0800">
+    <title lang="zh">开门大吉</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703204600 +0800" stop="20260703214600 +0800">
+    <title lang="zh">精彩音乐汇:我的爱对你说</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703214600 +0800" stop="20260703221600 +0800">
+    <title lang="zh">乐游天下:弥渡随想(1)</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703221600 +0800" stop="20260703231600 +0800">
+    <title lang="zh">一起音乐吧</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703231600 +0800" stop="20260703234600 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260703</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554414" start="20260703234600 +0800" stop="20260704000000 +0800">
+    <title lang="zh">乐游天下:弥渡随想(1)</title>
+    <desc />
+    <date>20260703</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
