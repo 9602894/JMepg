@@ -1,45 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539799" start="20260702000000 +0800" stop="20260702021500 +0800">
-    <title lang="zh">2026美加墨世界杯 1/16决赛 英格兰-刚果（金） 直播</title>
+<programme channel="539799" start="20260706000000 +0800" stop="20260706001500 +0800">
+    <title lang="zh">全景世界杯-2026美加墨世界杯 1/8决赛 加拿大-摩洛哥</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260702021500 +0800" stop="20260702023000 +0800">
-    <title lang="zh">詹前顾后</title>
+<programme channel="539799" start="20260706001500 +0800" stop="20260706010000 +0800">
+    <title lang="zh">世界杯精华</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260702023000 +0800" stop="20260702024500 +0800">
+<programme channel="539799" start="20260706010000 +0800" stop="20260706024500 +0800">
+    <title lang="zh">全景世界杯-2026美加墨世界杯 1/8决赛 巴拉圭-法国</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260706024500 +0800" stop="20260706025500 +0800">
     <title lang="zh">星耀世界杯</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260702024500 +0800" stop="20260702030000 +0800">
-    <title lang="zh">世界杯最前线</title>
+<programme channel="539799" start="20260706025500 +0800" stop="20260706030000 +0800">
+    <title lang="zh">世界杯宣传</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260702030000 +0800" stop="20260703000000 +0800">
-    <title lang="zh">2026美加墨世界杯 1/16决赛 比利时-塞内加尔 直播</title>
+<programme channel="539799" start="20260706030000 +0800" stop="20260707000000 +0800">
+    <title lang="zh">2026美加墨世界杯 1/8决赛 巴西-挪威 直播</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

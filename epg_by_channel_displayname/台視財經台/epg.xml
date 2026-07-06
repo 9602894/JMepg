@@ -1,833 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456646" start="20260702000000 +0800" stop="20260702003000 +0800">
-    <title lang="zh">財經新聞通</title>
-    <desc>提供最新財經新聞報道</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702003000 +0800" stop="20260702013000 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702013000 +0800" stop="20260702023000 +0800">
-    <title lang="zh">益起看世界</title>
-    <desc>林益如擔任主播的新聞節目。</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702023000 +0800" stop="20260702050000 +0800">
-    <title lang="zh">錢線百分百</title>
-    <desc>財經新聞節目</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702050000 +0800" stop="20260702053000 +0800">
-    <title lang="zh">全球新觀點</title>
-    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702053000 +0800" stop="20260702060500 +0800">
-    <title lang="zh">財經新聞通</title>
-    <desc>提供最新財經新聞報道</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702060500 +0800" stop="20260702084500 +0800">
-    <title lang="zh">錢線百分百</title>
-    <desc>財經新聞節目</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702084500 +0800" stop="20260702140000 +0800">
-    <title lang="zh">股市即時通</title>
-    <desc>股市即時現況。</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702140000 +0800" stop="20260702143000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702143000 +0800" stop="20260702150000 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702150000 +0800" stop="20260702153000 +0800">
-    <title lang="zh">消費情報讚</title>
-    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品，讓《消費情報讚》站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！ 呼你生活有GO讚！</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702153000 +0800" stop="20260702160000 +0800">
-    <title lang="zh">消費情報讚</title>
-    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品，讓《消費情報讚》站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！ 呼你生活有GO讚！</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702160000 +0800" stop="20260702165800 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702165800 +0800" stop="20260702175500 +0800">
-    <title lang="zh">NEWS金探號</title>
-    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702175500 +0800" stop="20260702185800 +0800">
-    <title lang="zh">台視新聞 全球現場</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702185800 +0800" stop="20260702195800 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702195800 +0800" stop="20260702210000 +0800">
-    <title lang="zh">台視晚間新聞</title>
-    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新聞。</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702210000 +0800" stop="20260702233000 +0800">
-    <title lang="zh">錢線百分百</title>
-    <desc>財經新聞節目</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260702233000 +0800" stop="20260703000000 +0800">
-    <title lang="zh">全球新觀點</title>
-    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703000000 +0800" stop="20260703003000 +0800">
-    <title lang="zh">財經新聞通</title>
-    <desc>提供最新財經新聞報道</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703003000 +0800" stop="20260703013000 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703013000 +0800" stop="20260703020000 +0800">
-    <title lang="zh">發現科學</title>
-    <desc>了解科學新知，進而推廣科學學習風氣，因此推出的科普特輯。</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703020000 +0800" stop="20260703023000 +0800">
-    <title lang="zh">發現科學</title>
-    <desc>了解科學新知，進而推廣科學學習風氣，因此推出的科普特輯。</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703023000 +0800" stop="20260703050000 +0800">
-    <title lang="zh">錢線百分百</title>
-    <desc>財經新聞節目</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703050000 +0800" stop="20260703053000 +0800">
-    <title lang="zh">全球新觀點</title>
-    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703053000 +0800" stop="20260703060500 +0800">
-    <title lang="zh">財經新聞通</title>
-    <desc>提供最新財經新聞報道</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703060500 +0800" stop="20260703084500 +0800">
-    <title lang="zh">錢線百分百</title>
-    <desc>財經新聞節目</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703084500 +0800" stop="20260703140000 +0800">
-    <title lang="zh">股市即時通</title>
-    <desc>股市即時現況。</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703140000 +0800" stop="20260703143000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703143000 +0800" stop="20260703150000 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703150000 +0800" stop="20260703153000 +0800">
-    <title lang="zh">消費情報讚</title>
-    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品，讓《消費情報讚》站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！ 呼你生活有GO讚！</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703153000 +0800" stop="20260703160000 +0800">
-    <title lang="zh">消費情報讚</title>
-    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品，讓《消費情報讚》站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！ 呼你生活有GO讚！</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703160000 +0800" stop="20260703165800 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703165800 +0800" stop="20260703175500 +0800">
-    <title lang="zh">台灣名人堂</title>
-    <desc>以人為經、以故事為緯，邀訪台灣社會裡，無論企業大老闆或是默默耕耘的小市民，只樣式對台灣土地貢獻心力、做出有意義的事都是這個土地的名人，他們將在節目中盡情暢談工作、生活理念與對台灣社會的情感、理想與行動。</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703175500 +0800" stop="20260703185800 +0800">
-    <title lang="zh">台視新聞 全球現場</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703185800 +0800" stop="20260703195800 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703195800 +0800" stop="20260703210000 +0800">
-    <title lang="zh">台視晚間新聞</title>
-    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新聞。</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703210000 +0800" stop="20260703233000 +0800">
-    <title lang="zh">錢線百分百</title>
-    <desc>財經新聞節目</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260703233000 +0800" stop="20260704000000 +0800">
-    <title lang="zh">全球新觀點</title>
-    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704000000 +0800" stop="20260704003000 +0800">
-    <title lang="zh">財經新聞通</title>
-    <desc>提供最新財經新聞報道</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704003000 +0800" stop="20260704013000 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704013000 +0800" stop="20260704023000 +0800">
-    <title lang="zh">台灣名人堂</title>
-    <desc>以人為經、以故事為緯，邀訪台灣社會裡，無論企業大老闆或是默默耕耘的小市民，只樣式對台灣土地貢獻心力、做出有意義的事都是這個土地的名人，他們將在節目中盡情暢談工作、生活理念與對台灣社會的情感、理想與行動。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704023000 +0800" stop="20260704050000 +0800">
-    <title lang="zh">錢線百分百</title>
-    <desc>財經新聞節目</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704050000 +0800" stop="20260704060000 +0800">
-    <title lang="zh">NEWS金探號</title>
-    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704060000 +0800" stop="20260704083000 +0800">
-    <title lang="zh">錢線百分百</title>
-    <desc>財經新聞節目</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704083000 +0800" stop="20260704090000 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704090000 +0800" stop="20260704093000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704093000 +0800" stop="20260704103000 +0800">
-    <title lang="zh">NEWS金探號</title>
-    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704103000 +0800" stop="20260704113000 +0800">
-    <title lang="zh">益起看世界</title>
-    <desc>林益如擔任主播的新聞節目。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704113000 +0800" stop="20260704120000 +0800">
-    <title lang="zh">生活情報通</title>
-    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品， 讓生活情報通站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704120000 +0800" stop="20260704123000 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704123000 +0800" stop="20260704130000 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704130000 +0800" stop="20260704140000 +0800">
-    <title lang="zh">午安您好台視新聞</title>
-    <desc>每日國內外即時新聞播報</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704140000 +0800" stop="20260704143000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704143000 +0800" stop="20260704150000 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704150000 +0800" stop="20260704160000 +0800">
-    <title lang="zh">台灣名人堂</title>
-    <desc>以人為經、以故事為緯，邀訪台灣社會裡，無論企業大老闆或是默默耕耘的小市民，只樣式對台灣土地貢獻心力、做出有意義的事都是這個土地的名人，他們將在節目中盡情暢談工作、生活理念與對台灣社會的情感、理想與行動。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704160000 +0800" stop="20260704170000 +0800">
-    <title lang="zh">台灣真善美</title>
-    <desc>大地情真、人心善意、自然唯美。台灣真善美帶您發掘各行各業的賺錢秘辛，以及台灣各個角落的溫馨、感人故事。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704170000 +0800" stop="20260704175500 +0800">
-    <title lang="zh">NEWS金探號</title>
-    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704175500 +0800" stop="20260704185700 +0800">
-    <title lang="zh">台視新聞 全球現場</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704185700 +0800" stop="20260704195700 +0800">
-    <title lang="zh">財經錢線週報</title>
-    <desc>財經錢線週報</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704195700 +0800" stop="20260704210000 +0800">
-    <title lang="zh">台視晚間新聞</title>
-    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新聞。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704210000 +0800" stop="20260704213000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704213000 +0800" stop="20260704220000 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704220000 +0800" stop="20260704230000 +0800">
-    <title lang="zh">熱線追蹤</title>
-    <desc>以時事熱門新聞為主，但著重人物的報導，為觀眾深入報導各種民生相關的重大新聞。</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260704230000 +0800" stop="20260705000000 +0800">
-    <title lang="zh">財經錢線週報</title>
-    <desc>財經錢線週報</desc>
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705000000 +0800" stop="20260705010000 +0800">
-    <title lang="zh">NEWS金探號</title>
-    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705010000 +0800" stop="20260705033000 +0800">
-    <title lang="zh">錢線百分百</title>
-    <desc>財經新聞節目</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705033000 +0800" stop="20260705040000 +0800">
-    <title lang="zh">財經新聞通</title>
-    <desc>提供最新財經新聞報道</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705040000 +0800" stop="20260705050000 +0800">
-    <title lang="zh">熱線追蹤</title>
-    <desc>以時事熱門新聞為主，但著重人物的報導，為觀眾深入報導各種民生相關的重大新聞。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705050000 +0800" stop="20260705053000 +0800">
-    <title lang="zh">全球新觀點</title>
-    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705053000 +0800" stop="20260705063000 +0800">
-    <title lang="zh">股海揚帆</title>
-    <desc>產業的最新報告，類股的輪動脈絡，讓您在股市一帆風順。命理節目的第一先趨！從玄學面來預測未來的股市走勢？類股輪動情形？</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705063000 +0800" stop="20260705073000 +0800">
-    <title lang="zh">只要錢長大</title>
-    <desc>所有東西都在漲，只有薪水不漲！錢擺在哪裡才不會縮水？只要錢長大讓你的錢愈來愈大。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705073000 +0800" stop="20260705083000 +0800">
-    <title lang="zh">股市週報</title>
-    <desc>邀請學者專家為投資人彙整一周股市資訊，預測周一股市開盤走勢...</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705083000 +0800" stop="20260705093000 +0800">
-    <title lang="zh">台灣真善美</title>
-    <desc>大地情真、人心善意、自然唯美。台灣真善美帶您發掘各行各業的賺錢秘辛，以及台灣各個角落的溫馨、感人故事。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705093000 +0800" stop="20260705103000 +0800">
-    <title lang="zh">NEWS金探號</title>
-    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705103000 +0800" stop="20260705110000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705110000 +0800" stop="20260705113000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705113000 +0800" stop="20260705120000 +0800">
-    <title lang="zh">生活情報通</title>
-    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品， 讓生活情報通站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705120000 +0800" stop="20260705130000 +0800">
-    <title lang="zh">財經錢線週報</title>
-    <desc>財經錢線週報</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705130000 +0800" stop="20260705140000 +0800">
-    <title lang="zh">午安您好台視新聞</title>
-    <desc>每日國內外即時新聞播報</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705140000 +0800" stop="20260705143000 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705143000 +0800" stop="20260705150000 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705150000 +0800" stop="20260705160000 +0800">
-    <title lang="zh">益起看世界</title>
-    <desc>林益如擔任主播的新聞節目。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705160000 +0800" stop="20260705170000 +0800">
-    <title lang="zh">股海揚帆</title>
-    <desc>產業的最新報告，類股的輪動脈絡，讓您在股市一帆風順。命理節目的第一先趨！從玄學面來預測未來的股市走勢？類股輪動情形？</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705170000 +0800" stop="20260705175500 +0800">
-    <title lang="zh">台灣真善美</title>
-    <desc>大地情真、人心善意、自然唯美。台灣真善美帶您發掘各行各業的賺錢秘辛，以及台灣各個角落的溫馨、感人故事。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705175500 +0800" stop="20260705185700 +0800">
-    <title lang="zh">台視新聞 全球現場</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705185700 +0800" stop="20260705192700 +0800">
-    <title lang="zh">健康醫聊站</title>
-    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705192700 +0800" stop="20260705195700 +0800">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705195700 +0800" stop="20260705210000 +0800">
-    <title lang="zh">台視晚間新聞</title>
-    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新聞。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705210000 +0800" stop="20260705220000 +0800">
-    <title lang="zh">第37屆金曲獎幕後花絮</title>
-    <desc>第37屆金曲獎幕後花絮</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705220000 +0800" stop="20260705230000 +0800">
-    <title lang="zh">財經錢線週報</title>
-    <desc>財經錢線週報</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456646" start="20260705230000 +0800" stop="20260706000000 +0800">
-    <title lang="zh">益起看世界</title>
-    <desc>林益如擔任主播的新聞節目。</desc>
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456646" start="20260706000000 +0800" stop="20260706010000 +0800">
     <title lang="zh">股海揚帆</title>
     <desc>產業的最新報告，類股的輪動脈絡，讓您在股市一帆風順。命理節目的第一先趨！從玄學面來預測未來的股市走勢？類股輪動情形？</desc>
@@ -1368,10 +540,838 @@
     </audio>
   </programme>
   
-<programme channel="456646" start="20260709000000 +0800" stop="20260710000000 +0800">
+<programme channel="456646" start="20260709000000 +0800" stop="20260709003000 +0800">
     <title lang="zh">財經新聞通</title>
     <desc>提供最新財經新聞報道</desc>
     <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709003000 +0800" stop="20260709013000 +0800">
+    <title lang="zh">國際財經脈動</title>
+    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709013000 +0800" stop="20260709023000 +0800">
+    <title lang="zh">益起看世界</title>
+    <desc>林益如擔任主播的新聞節目。</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709023000 +0800" stop="20260709050000 +0800">
+    <title lang="zh">錢線百分百</title>
+    <desc>財經新聞節目</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709050000 +0800" stop="20260709053000 +0800">
+    <title lang="zh">全球新觀點</title>
+    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709053000 +0800" stop="20260709060500 +0800">
+    <title lang="zh">財經新聞通</title>
+    <desc>提供最新財經新聞報道</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709060500 +0800" stop="20260709084500 +0800">
+    <title lang="zh">錢線百分百</title>
+    <desc>財經新聞節目</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709084500 +0800" stop="20260709140000 +0800">
+    <title lang="zh">股市即時通</title>
+    <desc>股市即時現況。</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709140000 +0800" stop="20260709143000 +0800">
+    <title lang="zh">健康醫聊站</title>
+    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709143000 +0800" stop="20260709150000 +0800">
+    <title lang="zh">尋找台灣感動力</title>
+    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709150000 +0800" stop="20260709153000 +0800">
+    <title lang="zh">消費情報讚</title>
+    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品，讓《消費情報讚》站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！ 呼你生活有GO讚！</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709153000 +0800" stop="20260709160000 +0800">
+    <title lang="zh">消費情報讚</title>
+    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品，讓《消費情報讚》站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！ 呼你生活有GO讚！</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709160000 +0800" stop="20260709165800 +0800">
+    <title lang="zh">國際財經脈動</title>
+    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709165800 +0800" stop="20260709175500 +0800">
+    <title lang="zh">NEWS金探號</title>
+    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709175500 +0800" stop="20260709185800 +0800">
+    <title lang="zh">台視新聞 全球現場</title>
+    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709185800 +0800" stop="20260709195800 +0800">
+    <title lang="zh">國際財經脈動</title>
+    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709195800 +0800" stop="20260709210000 +0800">
+    <title lang="zh">台視晚間新聞</title>
+    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新聞。</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709210000 +0800" stop="20260709233000 +0800">
+    <title lang="zh">錢線百分百</title>
+    <desc>財經新聞節目</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260709233000 +0800" stop="20260710000000 +0800">
+    <title lang="zh">全球新觀點</title>
+    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710000000 +0800" stop="20260710003000 +0800">
+    <title lang="zh">財經新聞通</title>
+    <desc>提供最新財經新聞報道</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710003000 +0800" stop="20260710013000 +0800">
+    <title lang="zh">國際財經脈動</title>
+    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710013000 +0800" stop="20260710020000 +0800">
+    <title lang="zh">發現科學</title>
+    <desc>了解科學新知，進而推廣科學學習風氣，因此推出的科普特輯。</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710020000 +0800" stop="20260710023000 +0800">
+    <title lang="zh">發現科學</title>
+    <desc>了解科學新知，進而推廣科學學習風氣，因此推出的科普特輯。</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710023000 +0800" stop="20260710050000 +0800">
+    <title lang="zh">錢線百分百</title>
+    <desc>財經新聞節目</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710050000 +0800" stop="20260710053000 +0800">
+    <title lang="zh">全球新觀點</title>
+    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710053000 +0800" stop="20260710060500 +0800">
+    <title lang="zh">財經新聞通</title>
+    <desc>提供最新財經新聞報道</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710060500 +0800" stop="20260710084500 +0800">
+    <title lang="zh">錢線百分百</title>
+    <desc>財經新聞節目</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710084500 +0800" stop="20260710140000 +0800">
+    <title lang="zh">股市即時通</title>
+    <desc>股市即時現況。</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710140000 +0800" stop="20260710143000 +0800">
+    <title lang="zh">健康醫聊站</title>
+    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710143000 +0800" stop="20260710150000 +0800">
+    <title lang="zh">尋找台灣感動力</title>
+    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710150000 +0800" stop="20260710153000 +0800">
+    <title lang="zh">消費情報讚</title>
+    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品，讓《消費情報讚》站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！ 呼你生活有GO讚！</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710153000 +0800" stop="20260710160000 +0800">
+    <title lang="zh">消費情報讚</title>
+    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品，讓《消費情報讚》站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！ 呼你生活有GO讚！</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710160000 +0800" stop="20260710165800 +0800">
+    <title lang="zh">國際財經脈動</title>
+    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710165800 +0800" stop="20260710175500 +0800">
+    <title lang="zh">第37屆金曲獎幕後花絮</title>
+    <desc>第37屆金曲獎幕後花絮</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710175500 +0800" stop="20260710185800 +0800">
+    <title lang="zh">台視新聞 全球現場</title>
+    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710185800 +0800" stop="20260710195800 +0800">
+    <title lang="zh">國際財經脈動</title>
+    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710195800 +0800" stop="20260710210000 +0800">
+    <title lang="zh">台視晚間新聞</title>
+    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新聞。</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710210000 +0800" stop="20260710233000 +0800">
+    <title lang="zh">錢線百分百</title>
+    <desc>財經新聞節目</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260710233000 +0800" stop="20260711000000 +0800">
+    <title lang="zh">全球新觀點</title>
+    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711000000 +0800" stop="20260711003000 +0800">
+    <title lang="zh">財經新聞通</title>
+    <desc>提供最新財經新聞報道</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711003000 +0800" stop="20260711013000 +0800">
+    <title lang="zh">國際財經脈動</title>
+    <desc>台視專業團隊，帶你了解國際財經脈動。</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711013000 +0800" stop="20260711023000 +0800">
+    <title lang="zh">台灣名人堂</title>
+    <desc>以人為經、以故事為緯，邀訪台灣社會裡，無論企業大老闆或是默默耕耘的小市民，只樣式對台灣土地貢獻心力、做出有意義的事都是這個土地的名人，他們將在節目中盡情暢談工作、生活理念與對台灣社會的情感、理想與行動。</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711023000 +0800" stop="20260711050000 +0800">
+    <title lang="zh">錢線百分百</title>
+    <desc>財經新聞節目</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711050000 +0800" stop="20260711060000 +0800">
+    <title lang="zh">NEWS金探號</title>
+    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711060000 +0800" stop="20260711083000 +0800">
+    <title lang="zh">錢線百分百</title>
+    <desc>財經新聞節目</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711083000 +0800" stop="20260711090000 +0800">
+    <title lang="zh">尋找台灣感動力</title>
+    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711090000 +0800" stop="20260711093000 +0800">
+    <title lang="zh">健康醫聊站</title>
+    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711093000 +0800" stop="20260711103000 +0800">
+    <title lang="zh">NEWS金探號</title>
+    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711103000 +0800" stop="20260711113000 +0800">
+    <title lang="zh">益起看世界</title>
+    <desc>林益如擔任主播的新聞節目。</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711113000 +0800" stop="20260711120000 +0800">
+    <title lang="zh">生活情報通</title>
+    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品， 讓生活情報通站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711120000 +0800" stop="20260711123000 +0800">
+    <title lang="zh">尋找台灣感動力</title>
+    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711123000 +0800" stop="20260711130000 +0800">
+    <title lang="zh">尋找台灣感動力</title>
+    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711130000 +0800" stop="20260711140000 +0800">
+    <title lang="zh">午安您好台視新聞</title>
+    <desc>每日國內外即時新聞播報</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711140000 +0800" stop="20260711143000 +0800">
+    <title lang="zh">健康醫聊站</title>
+    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711143000 +0800" stop="20260711150000 +0800">
+    <title lang="zh">尋找台灣感動力</title>
+    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711150000 +0800" stop="20260711160000 +0800">
+    <title lang="zh">台灣名人堂</title>
+    <desc>以人為經、以故事為緯，邀訪台灣社會裡，無論企業大老闆或是默默耕耘的小市民，只樣式對台灣土地貢獻心力、做出有意義的事都是這個土地的名人，他們將在節目中盡情暢談工作、生活理念與對台灣社會的情感、理想與行動。</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711160000 +0800" stop="20260711170000 +0800">
+    <title lang="zh">台灣真善美</title>
+    <desc>大地情真、人心善意、自然唯美。台灣真善美帶您發掘各行各業的賺錢秘辛，以及台灣各個角落的溫馨、感人故事。</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711170000 +0800" stop="20260711175500 +0800">
+    <title lang="zh">NEWS金探號</title>
+    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711175500 +0800" stop="20260711185700 +0800">
+    <title lang="zh">台視新聞 全球現場</title>
+    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711185700 +0800" stop="20260711195700 +0800">
+    <title lang="zh">財經錢線週報</title>
+    <desc>財經錢線週報</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711195700 +0800" stop="20260711210000 +0800">
+    <title lang="zh">台視晚間新聞</title>
+    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新聞。</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711210000 +0800" stop="20260711213000 +0800">
+    <title lang="zh">健康醫聊站</title>
+    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711213000 +0800" stop="20260711220000 +0800">
+    <title lang="zh">尋找台灣感動力</title>
+    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711220000 +0800" stop="20260711230000 +0800">
+    <title lang="zh">第37屆金曲獎幕後花絮</title>
+    <desc>第37屆金曲獎幕後花絮</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260711230000 +0800" stop="20260712000000 +0800">
+    <title lang="zh">財經錢線週報</title>
+    <desc>財經錢線週報</desc>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712000000 +0800" stop="20260712010000 +0800">
+    <title lang="zh">NEWS金探號</title>
+    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712010000 +0800" stop="20260712033000 +0800">
+    <title lang="zh">錢線百分百</title>
+    <desc>財經新聞節目</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712033000 +0800" stop="20260712040000 +0800">
+    <title lang="zh">財經新聞通</title>
+    <desc>提供最新財經新聞報道</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712040000 +0800" stop="20260712050000 +0800">
+    <title lang="zh">熱線追蹤</title>
+    <desc>以時事熱門新聞為主，但著重人物的報導，為觀眾深入報導各種民生相關的重大新聞。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712050000 +0800" stop="20260712053000 +0800">
+    <title lang="zh">全球新觀點</title>
+    <desc>一同掌握全球經濟脈絡，探討哪些新的觀題造成全球經濟的變化，而這樣的變化又會為未來帶來什麼樣的影響呢?</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712053000 +0800" stop="20260712063000 +0800">
+    <title lang="zh">股海揚帆</title>
+    <desc>產業的最新報告，類股的輪動脈絡，讓您在股市一帆風順。命理節目的第一先趨！從玄學面來預測未來的股市走勢？類股輪動情形？</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712063000 +0800" stop="20260712073000 +0800">
+    <title lang="zh">只要錢長大</title>
+    <desc>所有東西都在漲，只有薪水不漲！錢擺在哪裡才不會縮水？只要錢長大讓你的錢愈來愈大。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712073000 +0800" stop="20260712083000 +0800">
+    <title lang="zh">股市週報</title>
+    <desc>邀請學者專家為投資人彙整一周股市資訊，預測周一股市開盤走勢...</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712083000 +0800" stop="20260712093000 +0800">
+    <title lang="zh">台灣真善美</title>
+    <desc>大地情真、人心善意、自然唯美。台灣真善美帶您發掘各行各業的賺錢秘辛，以及台灣各個角落的溫馨、感人故事。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712093000 +0800" stop="20260712103000 +0800">
+    <title lang="zh">NEWS金探號</title>
+    <desc>匯聚眾多卓越的經濟專家，為您分析及? 深入研究新興市場的情況和趨勢。??</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712103000 +0800" stop="20260712110000 +0800">
+    <title lang="zh">健康醫聊站</title>
+    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712110000 +0800" stop="20260712113000 +0800">
+    <title lang="zh">健康醫聊站</title>
+    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712113000 +0800" stop="20260712120000 +0800">
+    <title lang="zh">生活情報通</title>
+    <desc>邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品， 讓生活情報通站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712120000 +0800" stop="20260712130000 +0800">
+    <title lang="zh">財經錢線週報</title>
+    <desc>財經錢線週報</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712130000 +0800" stop="20260712140000 +0800">
+    <title lang="zh">午安您好台視新聞</title>
+    <desc>每日國內外即時新聞播報</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712140000 +0800" stop="20260712143000 +0800">
+    <title lang="zh">健康醫聊站</title>
+    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712143000 +0800" stop="20260712150000 +0800">
+    <title lang="zh">尋找台灣感動力</title>
+    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712150000 +0800" stop="20260712160000 +0800">
+    <title lang="zh">益起看世界</title>
+    <desc>林益如擔任主播的新聞節目。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712160000 +0800" stop="20260712170000 +0800">
+    <title lang="zh">股海揚帆</title>
+    <desc>產業的最新報告，類股的輪動脈絡，讓您在股市一帆風順。命理節目的第一先趨！從玄學面來預測未來的股市走勢？類股輪動情形？</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712170000 +0800" stop="20260712175500 +0800">
+    <title lang="zh">台灣真善美</title>
+    <desc>大地情真、人心善意、自然唯美。台灣真善美帶您發掘各行各業的賺錢秘辛，以及台灣各個角落的溫馨、感人故事。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712175500 +0800" stop="20260712185700 +0800">
+    <title lang="zh">台視新聞 全球現場</title>
+    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712185700 +0800" stop="20260712192700 +0800">
+    <title lang="zh">健康醫聊站</title>
+    <desc>台視推出的專業健康資訊節目，由主播侯乃榕主持，邀請各醫療領域權威專家，透過訪談深入解析現代人關注的醫療、養生與疾病預防知識。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712192700 +0800" stop="20260712195700 +0800">
+    <title lang="zh">尋找台灣感動力</title>
+    <desc>我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事...</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712195700 +0800" stop="20260712210000 +0800">
+    <title lang="zh">台視晚間新聞</title>
+    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新聞。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712210000 +0800" stop="20260712220000 +0800">
+    <title lang="zh">熱線追蹤</title>
+    <desc>以時事熱門新聞為主，但著重人物的報導，為觀眾深入報導各種民生相關的重大新聞。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712220000 +0800" stop="20260712230000 +0800">
+    <title lang="zh">財經錢線週報</title>
+    <desc>財經錢線週報</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260712230000 +0800" stop="20260713000000 +0800">
+    <title lang="zh">益起看世界</title>
+    <desc>林益如擔任主播的新聞節目。</desc>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456646" start="20260713000000 +0800" stop="20260714000000 +0800">
+    <title lang="zh">股海揚帆</title>
+    <desc>產業的最新報告，類股的輪動脈絡，讓您在股市一帆風順。命理節目的第一先趨！從玄學面來預測未來的股市走勢？類股輪動情形？</desc>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,1107 +1,2070 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="546003" start="20260702002500 +0800" stop="20260702005500 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702005500 +0800" stop="20260702013500 +0800">
-    <title lang="zh">健康之路</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702013500 +0800" stop="20260702022100 +0800">
-    <title lang="zh">纪录片:与恐龙同行6</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702022100 +0800" stop="20260702055800 +0800">
-    <title lang="zh">百家讲坛</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702055800 +0800" stop="20260702060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702060000 +0800" stop="20260702061000 +0800">
-    <title lang="zh">读书</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702061000 +0800" stop="20260702062000 +0800">
+<programme channel="546003" start="20260706001500 +0800" stop="20260706002500 +0800">
     <title lang="zh">百家说故事</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702062000 +0800" stop="20260702063000 +0800">
-    <title lang="zh">时尚科技秀</title>
+<programme channel="546003" start="20260706002500 +0800" stop="20260706005500 +0800">
+    <title lang="zh">味道</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702063000 +0800" stop="20260702071300 +0800">
+<programme channel="546003" start="20260706005500 +0800" stop="20260706013500 +0800">
     <title lang="zh">健康之路</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702071300 +0800" stop="20260702073500 +0800">
+<programme channel="546003" start="20260706013500 +0800" stop="20260706022100 +0800">
+    <title lang="zh">纪录片:与恐龙同行3</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706022100 +0800" stop="20260706030100 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706030100 +0800" stop="20260706055800 +0800">
+    <title lang="zh"> 静屏</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706055800 +0800" stop="20260706060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706060000 +0800" stop="20260706061000 +0800">
+    <title lang="zh">读书</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706061000 +0800" stop="20260706062000 +0800">
+    <title lang="zh">百家说故事</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706062000 +0800" stop="20260706063000 +0800">
+    <title lang="zh">时尚科技秀</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706063000 +0800" stop="20260706071300 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706071300 +0800" stop="20260706073500 +0800">
     <title lang="zh">人物故事</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702073500 +0800" stop="20260702080000 +0800">
+<programme channel="546003" start="20260706073500 +0800" stop="20260706080000 +0800">
     <title lang="zh">跟着书本去旅行</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702080000 +0800" stop="20260702084800 +0800">
+<programme channel="546003" start="20260706080000 +0800" stop="20260706084800 +0800">
     <title lang="zh">探索·发现</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702084800 +0800" stop="20260702093500 +0800">
+<programme channel="546003" start="20260706084800 +0800" stop="20260706093500 +0800">
+    <title lang="zh">纪录片:与恐龙同行3</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706093500 +0800" stop="20260706094500 +0800">
+    <title lang="zh">动物驯化简史7</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706094500 +0800" stop="20260706102200 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706102200 +0800" stop="20260706112200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706112200 +0800" stop="20260706120000 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706120000 +0800" stop="20260706124900 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706124900 +0800" stop="20260706132400 +0800">
+    <title lang="zh">第五届汉语桥世界小学生中文秀</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706132400 +0800" stop="20260706140000 +0800">
+    <title lang="zh">第五届汉语桥世界小学生中文秀</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706140000 +0800" stop="20260706143900 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706143900 +0800" stop="20260706152800 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706152800 +0800" stop="20260706161600 +0800">
+    <title lang="zh">纪录片:与恐龙同行4</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706161600 +0800" stop="20260706162600 +0800">
+    <title lang="zh">AI化学家</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706162600 +0800" stop="20260706172600 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706172600 +0800" stop="20260706180500 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706180500 +0800" stop="20260706185400 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706185400 +0800" stop="20260706193200 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706193200 +0800" stop="20260706203200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706203200 +0800" stop="20260706212000 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706212000 +0800" stop="20260706214800 +0800">
+    <title lang="zh">创新进行时</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706214800 +0800" stop="20260706215800 +0800">
+    <title lang="zh">桥衡之美1</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706215800 +0800" stop="20260706223000 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706223000 +0800" stop="20260706224000 +0800">
+    <title lang="zh">AI化学家-高危智控新范式</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706224000 +0800" stop="20260706232500 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260706232500 +0800" stop="20260707002500 +0800">
+    <title lang="zh">科学动物园</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707002500 +0800" stop="20260707005500 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707005500 +0800" stop="20260707013500 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707013500 +0800" stop="20260707022100 +0800">
+    <title lang="zh">纪录片:与恐龙同行4</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707022100 +0800" stop="20260707030100 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707030100 +0800" stop="20260707055800 +0800">
+    <title lang="zh"> 静屏</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707055800 +0800" stop="20260707060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707060000 +0800" stop="20260707061000 +0800">
+    <title lang="zh">读书</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707061000 +0800" stop="20260707062000 +0800">
+    <title lang="zh">百家说故事</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707062000 +0800" stop="20260707063000 +0800">
+    <title lang="zh">时尚科技秀</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707063000 +0800" stop="20260707071300 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707071300 +0800" stop="20260707073500 +0800">
+    <title lang="zh">人物故事</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707073500 +0800" stop="20260707080000 +0800">
+    <title lang="zh">跟着书本去旅行</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707080000 +0800" stop="20260707084800 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707084800 +0800" stop="20260707093500 +0800">
+    <title lang="zh">纪录片:与恐龙同行4</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707093500 +0800" stop="20260707094500 +0800">
+    <title lang="zh">动物驯化简史8</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707094500 +0800" stop="20260707102200 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707102200 +0800" stop="20260707112200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707112200 +0800" stop="20260707120000 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707120000 +0800" stop="20260707124900 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707124900 +0800" stop="20260707132400 +0800">
+    <title lang="zh">第五届汉语桥世界小学生中文秀</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707132400 +0800" stop="20260707142400 +0800">
+    <title lang="zh">第五届汉语桥世界小学生中文秀</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707142400 +0800" stop="20260707143900 +0800">
+    <title lang="zh">动物驯化简史9</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707143900 +0800" stop="20260707152800 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707152800 +0800" stop="20260707161600 +0800">
+    <title lang="zh">纪录片:与恐龙同行5</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707161600 +0800" stop="20260707162600 +0800">
+    <title lang="zh">AI化学家</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707162600 +0800" stop="20260707172600 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707172600 +0800" stop="20260707180500 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707180500 +0800" stop="20260707185400 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707185400 +0800" stop="20260707193200 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707193200 +0800" stop="20260707203200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707203200 +0800" stop="20260707212000 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707212000 +0800" stop="20260707214800 +0800">
+    <title lang="zh">创新进行时</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707214800 +0800" stop="20260707215800 +0800">
+    <title lang="zh">中国桥衡</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707215800 +0800" stop="20260707225000 +0800">
+    <title lang="zh">大千世界</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707225000 +0800" stop="20260707232500 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260707232500 +0800" stop="20260708002500 +0800">
+    <title lang="zh">解码科技史</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708002500 +0800" stop="20260708005500 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708005500 +0800" stop="20260708013500 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708013500 +0800" stop="20260708022100 +0800">
+    <title lang="zh">纪录片:与恐龙同行5</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708022100 +0800" stop="20260708055800 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708055800 +0800" stop="20260708060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708060000 +0800" stop="20260708061000 +0800">
+    <title lang="zh">读书</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708061000 +0800" stop="20260708062000 +0800">
+    <title lang="zh">百家说故事</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708062000 +0800" stop="20260708063000 +0800">
+    <title lang="zh">时尚科技秀</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708063000 +0800" stop="20260708071300 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708071300 +0800" stop="20260708073500 +0800">
+    <title lang="zh">人物故事</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708073500 +0800" stop="20260708080000 +0800">
+    <title lang="zh">跟着书本去旅行</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708080000 +0800" stop="20260708084800 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708084800 +0800" stop="20260708093500 +0800">
+    <title lang="zh">纪录片:与恐龙同行5</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708093500 +0800" stop="20260708094500 +0800">
+    <title lang="zh">动物驯化简史9</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708094500 +0800" stop="20260708102200 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708102200 +0800" stop="20260708112200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708112200 +0800" stop="20260708120000 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708120000 +0800" stop="20260708124900 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708124900 +0800" stop="20260708144900 +0800">
+    <title lang="zh">汉语桥9</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708144900 +0800" stop="20260708152800 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260708152800 +0800" stop="20260708161600 +0800">
     <title lang="zh">纪录片:与恐龙同行6</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702093500 +0800" stop="20260702094500 +0800">
+<programme channel="546003" start="20260708161600 +0800" stop="20260708162600 +0800">
     <title lang="zh">动物驯化简史10</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702094500 +0800" stop="20260702102200 +0800">
-    <title lang="zh">地理·中国</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702102200 +0800" stop="20260702112200 +0800">
+<programme channel="546003" start="20260708162600 +0800" stop="20260708172600 +0800">
     <title lang="zh">自然传奇</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702112200 +0800" stop="20260702120000 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702120000 +0800" stop="20260702124900 +0800">
-    <title lang="zh">百家讲坛</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702124900 +0800" stop="20260702132400 +0800">
-    <title lang="zh">汉语桥</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702132400 +0800" stop="20260702143900 +0800">
-    <title lang="zh">自然传奇-全国生态日特别节目-成长之路</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702143900 +0800" stop="20260702152800 +0800">
-    <title lang="zh">探索·发现</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702152800 +0800" stop="20260702162600 +0800">
-    <title lang="zh">大千世界</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702162600 +0800" stop="20260702172600 +0800">
-    <title lang="zh">自然传奇</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260702172600 +0800" stop="20260702180500 +0800">
+<programme channel="546003" start="20260708172600 +0800" stop="20260708180500 +0800">
     <title lang="zh">地理·中国</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702180500 +0800" stop="20260702185400 +0800">
+<programme channel="546003" start="20260708180500 +0800" stop="20260708185400 +0800">
     <title lang="zh">健康之路</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702185400 +0800" stop="20260702193200 +0800">
+<programme channel="546003" start="20260708185400 +0800" stop="20260708193200 +0800">
     <title lang="zh">味道</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702193200 +0800" stop="20260702203200 +0800">
+<programme channel="546003" start="20260708193200 +0800" stop="20260708203200 +0800">
     <title lang="zh">自然传奇</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702203200 +0800" stop="20260702212000 +0800">
+<programme channel="546003" start="20260708203200 +0800" stop="20260708212000 +0800">
     <title lang="zh">探索·发现</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702212000 +0800" stop="20260702214800 +0800">
+<programme channel="546003" start="20260708212000 +0800" stop="20260708214800 +0800">
     <title lang="zh">创新进行时</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702214800 +0800" stop="20260702215800 +0800">
+<programme channel="546003" start="20260708214800 +0800" stop="20260708215800 +0800">
     <title lang="zh">中国桥衡</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702215800 +0800" stop="20260702225000 +0800">
+<programme channel="546003" start="20260708215800 +0800" stop="20260708225000 +0800">
     <title lang="zh">大千世界</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702225000 +0800" stop="20260702232500 +0800">
+<programme channel="546003" start="20260708225000 +0800" stop="20260708232500 +0800">
     <title lang="zh">地理·中国</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702232500 +0800" stop="20260702235500 +0800">
-    <title lang="zh">实验现场</title>
+<programme channel="546003" start="20260708232500 +0800" stop="20260709002500 +0800">
+    <title lang="zh">解码科技史</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260702235500 +0800" stop="20260703002500 +0800">
-    <title lang="zh">透视新科技</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260703002500 +0800" stop="20260703005500 +0800">
+<programme channel="546003" start="20260709002500 +0800" stop="20260709005500 +0800">
     <title lang="zh">味道</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703005500 +0800" stop="20260703013500 +0800">
+<programme channel="546003" start="20260709005500 +0800" stop="20260709013500 +0800">
     <title lang="zh">健康之路</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703013500 +0800" stop="20260703022500 +0800">
-    <title lang="zh">大千世界</title>
+<programme channel="546003" start="20260709013500 +0800" stop="20260709022100 +0800">
+    <title lang="zh">纪录片:与恐龙同行6</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703022500 +0800" stop="20260703055800 +0800">
+<programme channel="546003" start="20260709022100 +0800" stop="20260709055800 +0800">
     <title lang="zh">百家讲坛</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703055800 +0800" stop="20260703060000 +0800">
+<programme channel="546003" start="20260709055800 +0800" stop="20260709060000 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703060000 +0800" stop="20260703061000 +0800">
+<programme channel="546003" start="20260709060000 +0800" stop="20260709061000 +0800">
     <title lang="zh">读书</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703061000 +0800" stop="20260703062000 +0800">
+<programme channel="546003" start="20260709061000 +0800" stop="20260709062000 +0800">
     <title lang="zh">百家说故事</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703062000 +0800" stop="20260703063000 +0800">
+<programme channel="546003" start="20260709062000 +0800" stop="20260709063000 +0800">
     <title lang="zh">时尚科技秀</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703063000 +0800" stop="20260703071300 +0800">
+<programme channel="546003" start="20260709063000 +0800" stop="20260709071300 +0800">
     <title lang="zh">健康之路</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703071300 +0800" stop="20260703073500 +0800">
+<programme channel="546003" start="20260709071300 +0800" stop="20260709073500 +0800">
     <title lang="zh">人物故事</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703073500 +0800" stop="20260703080000 +0800">
+<programme channel="546003" start="20260709073500 +0800" stop="20260709080000 +0800">
     <title lang="zh">跟着书本去旅行</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703080000 +0800" stop="20260703084800 +0800">
+<programme channel="546003" start="20260709080000 +0800" stop="20260709084800 +0800">
     <title lang="zh">探索·发现</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703084800 +0800" stop="20260703094500 +0800">
-    <title lang="zh">大千世界</title>
+<programme channel="546003" start="20260709084800 +0800" stop="20260709093500 +0800">
+    <title lang="zh">纪录片:与恐龙同行6</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703094500 +0800" stop="20260703102200 +0800">
+<programme channel="546003" start="20260709093500 +0800" stop="20260709094500 +0800">
+    <title lang="zh">动物驯化简史10</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260709094500 +0800" stop="20260709102200 +0800">
     <title lang="zh">地理·中国</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703102200 +0800" stop="20260703112200 +0800">
+<programme channel="546003" start="20260709102200 +0800" stop="20260709112200 +0800">
     <title lang="zh">自然传奇</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703112200 +0800" stop="20260703120000 +0800">
+<programme channel="546003" start="20260709112200 +0800" stop="20260709120000 +0800">
     <title lang="zh">味道</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703120000 +0800" stop="20260703124900 +0800">
+<programme channel="546003" start="20260709120000 +0800" stop="20260709124900 +0800">
     <title lang="zh">百家讲坛</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703124900 +0800" stop="20260703143900 +0800">
-    <title lang="zh">2025中国诗词大会</title>
+<programme channel="546003" start="20260709124900 +0800" stop="20260709132400 +0800">
+    <title lang="zh">汉语桥</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703143900 +0800" stop="20260703152800 +0800">
+<programme channel="546003" start="20260709132400 +0800" stop="20260709143900 +0800">
+    <title lang="zh">自然传奇-全国生态日特别节目-成长之路</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260709143900 +0800" stop="20260709152800 +0800">
     <title lang="zh">探索·发现</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703152800 +0800" stop="20260703162600 +0800">
+<programme channel="546003" start="20260709152800 +0800" stop="20260709162600 +0800">
     <title lang="zh">大千世界</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703162600 +0800" stop="20260703172600 +0800">
+<programme channel="546003" start="20260709162600 +0800" stop="20260709172600 +0800">
     <title lang="zh">自然传奇</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703172600 +0800" stop="20260703180500 +0800">
+<programme channel="546003" start="20260709172600 +0800" stop="20260709180500 +0800">
     <title lang="zh">地理·中国</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703180500 +0800" stop="20260703185400 +0800">
+<programme channel="546003" start="20260709180500 +0800" stop="20260709185400 +0800">
     <title lang="zh">健康之路</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703185400 +0800" stop="20260703195200 +0800">
+<programme channel="546003" start="20260709185400 +0800" stop="20260709193200 +0800">
     <title lang="zh">味道</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703195200 +0800" stop="20260703205200 +0800">
+<programme channel="546003" start="20260709193200 +0800" stop="20260709203200 +0800">
     <title lang="zh">自然传奇</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703205200 +0800" stop="20260703212600 +0800">
-    <title lang="zh">中国桥衡1</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260703212600 +0800" stop="20260703221600 +0800">
+<programme channel="546003" start="20260709203200 +0800" stop="20260709212000 +0800">
     <title lang="zh">探索·发现</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703221600 +0800" stop="20260703222600 +0800">
-    <title lang="zh">中国桥衡</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260703222600 +0800" stop="20260703224800 +0800">
+<programme channel="546003" start="20260709212000 +0800" stop="20260709214800 +0800">
     <title lang="zh">创新进行时</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703224800 +0800" stop="20260703234500 +0800">
+<programme channel="546003" start="20260709214800 +0800" stop="20260709215800 +0800">
+    <title lang="zh">中国桥衡</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260709215800 +0800" stop="20260709225000 +0800">
     <title lang="zh">大千世界</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260703234500 +0800" stop="20260704001500 +0800">
+<programme channel="546003" start="20260709225000 +0800" stop="20260709232500 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260709232500 +0800" stop="20260709235500 +0800">
     <title lang="zh">实验现场</title>
     <desc />
-    <date>20260703</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260704001500 +0800" stop="20260704004500 +0800">
+<programme channel="546003" start="20260709235500 +0800" stop="20260710002500 +0800">
     <title lang="zh">透视新科技</title>
     <desc />
-    <date>20260704</date>
+    <date>20260709</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260704004500 +0800" stop="20260704013500 +0800">
+<programme channel="546003" start="20260710002500 +0800" stop="20260710005500 +0800">
     <title lang="zh">味道</title>
     <desc />
-    <date>20260704</date>
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260704013500 +0800" stop="20260704021500 +0800">
+<programme channel="546003" start="20260710005500 +0800" stop="20260710013500 +0800">
     <title lang="zh">健康之路</title>
     <desc />
-    <date>20260704</date>
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260704021500 +0800" stop="20260704055800 +0800">
-    <title lang="zh">百家讲坛</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704055800 +0800" stop="20260704060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704060000 +0800" stop="20260704061000 +0800">
-    <title lang="zh">读书</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704061000 +0800" stop="20260704062000 +0800">
-    <title lang="zh">百家说故事</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704062000 +0800" stop="20260704063000 +0800">
-    <title lang="zh">时尚科技秀</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704063000 +0800" stop="20260704071300 +0800">
-    <title lang="zh">健康之路</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704071300 +0800" stop="20260704080000 +0800">
-    <title lang="zh">科幻地带</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704080000 +0800" stop="20260704084800 +0800">
-    <title lang="zh">探索·发现</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704084800 +0800" stop="20260704094500 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704094500 +0800" stop="20260704102200 +0800">
-    <title lang="zh">地理·中国</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704102200 +0800" stop="20260704112200 +0800">
-    <title lang="zh">自然传奇</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704112200 +0800" stop="20260704120000 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704120000 +0800" stop="20260704124900 +0800">
-    <title lang="zh">百家讲坛</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704124900 +0800" stop="20260704143900 +0800">
-    <title lang="zh">2025中国诗词大会</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704143900 +0800" stop="20260704152800 +0800">
-    <title lang="zh">探索·发现</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704152800 +0800" stop="20260704162600 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704162600 +0800" stop="20260704172600 +0800">
-    <title lang="zh">自然传奇</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704172600 +0800" stop="20260704180500 +0800">
-    <title lang="zh">地理·中国</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704180500 +0800" stop="20260704185400 +0800">
-    <title lang="zh">健康之路</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704185400 +0800" stop="20260704195200 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704195200 +0800" stop="20260704205200 +0800">
-    <title lang="zh">自然传奇</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704205200 +0800" stop="20260704212600 +0800">
-    <title lang="zh">中国桥衡2</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704212600 +0800" stop="20260704221600 +0800">
-    <title lang="zh">探索·发现</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704221600 +0800" stop="20260704222600 +0800">
-    <title lang="zh">中国桥衡</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704222600 +0800" stop="20260704233300 +0800">
-    <title lang="zh">考古公开课</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260704233300 +0800" stop="20260705002500 +0800">
+<programme channel="546003" start="20260710013500 +0800" stop="20260710022500 +0800">
     <title lang="zh">大千世界</title>
     <desc />
-    <date>20260704</date>
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260705002500 +0800" stop="20260705004500 +0800">
+<programme channel="546003" start="20260710022500 +0800" stop="20260710055800 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710055800 +0800" stop="20260710060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710060000 +0800" stop="20260710061000 +0800">
+    <title lang="zh">读书</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710061000 +0800" stop="20260710062000 +0800">
+    <title lang="zh">百家说故事</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710062000 +0800" stop="20260710063000 +0800">
+    <title lang="zh">时尚科技秀</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710063000 +0800" stop="20260710071300 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710071300 +0800" stop="20260710073500 +0800">
     <title lang="zh">人物故事</title>
     <desc />
-    <date>20260705</date>
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260705004500 +0800" stop="20260705013500 +0800">
-    <title lang="zh">味道</title>
+<programme channel="546003" start="20260710073500 +0800" stop="20260710080000 +0800">
+    <title lang="zh">跟着书本去旅行</title>
     <desc />
-    <date>20260705</date>
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260705013500 +0800" stop="20260705021500 +0800">
-    <title lang="zh">健康之路</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705021500 +0800" stop="20260705055800 +0800">
-    <title lang="zh">百家讲坛</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705055800 +0800" stop="20260705060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705060000 +0800" stop="20260705061000 +0800">
-    <title lang="zh">读书</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705061000 +0800" stop="20260705062000 +0800">
-    <title lang="zh">百家说故事</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705062000 +0800" stop="20260705063000 +0800">
-    <title lang="zh">时尚科技秀</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705063000 +0800" stop="20260705071300 +0800">
-    <title lang="zh">健康之路</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705071300 +0800" stop="20260705080000 +0800">
-    <title lang="zh">科幻地带</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705080000 +0800" stop="20260705084800 +0800">
+<programme channel="546003" start="20260710080000 +0800" stop="20260710084800 +0800">
     <title lang="zh">探索·发现</title>
     <desc />
-    <date>20260705</date>
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546003" start="20260705084800 +0800" stop="20260705094500 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705094500 +0800" stop="20260705102200 +0800">
-    <title lang="zh">地理·中国</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705102200 +0800" stop="20260705112200 +0800">
-    <title lang="zh">自然传奇</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705112200 +0800" stop="20260705120000 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705120000 +0800" stop="20260705124900 +0800">
-    <title lang="zh">百家讲坛</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705124900 +0800" stop="20260705143900 +0800">
-    <title lang="zh">2025中国诗词大会</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705143900 +0800" stop="20260705152800 +0800">
-    <title lang="zh">探索·发现</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705152800 +0800" stop="20260705162600 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705162600 +0800" stop="20260705172600 +0800">
-    <title lang="zh">自然传奇</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705172600 +0800" stop="20260705180500 +0800">
-    <title lang="zh">地理·中国</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705180500 +0800" stop="20260705185400 +0800">
-    <title lang="zh">健康之路</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705185400 +0800" stop="20260705195200 +0800">
-    <title lang="zh">味道</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705195200 +0800" stop="20260705205200 +0800">
-    <title lang="zh">自然传奇</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705205200 +0800" stop="20260705212600 +0800">
-    <title lang="zh">中国桥衡3</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705212600 +0800" stop="20260705221600 +0800">
-    <title lang="zh">探索·发现</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705221600 +0800" stop="20260705222600 +0800">
-    <title lang="zh">中国桥衡</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705222600 +0800" stop="20260705231100 +0800">
-    <title lang="zh">读书</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546003" start="20260705231100 +0800" stop="20260706000000 +0800">
+<programme channel="546003" start="20260710084800 +0800" stop="20260710094500 +0800">
     <title lang="zh">大千世界</title>
     <desc />
-    <date>20260705</date>
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710094500 +0800" stop="20260710102200 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710102200 +0800" stop="20260710112200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710112200 +0800" stop="20260710120000 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710120000 +0800" stop="20260710124900 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710124900 +0800" stop="20260710143900 +0800">
+    <title lang="zh">2025中国诗词大会</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710143900 +0800" stop="20260710152800 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710152800 +0800" stop="20260710162600 +0800">
+    <title lang="zh">大千世界</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710162600 +0800" stop="20260710172600 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710172600 +0800" stop="20260710180500 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710180500 +0800" stop="20260710185400 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710185400 +0800" stop="20260710195200 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710195200 +0800" stop="20260710205200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710205200 +0800" stop="20260710212600 +0800">
+    <title lang="zh">中国桥衡1</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710212600 +0800" stop="20260710221600 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710221600 +0800" stop="20260710222600 +0800">
+    <title lang="zh">中国桥衡</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710222600 +0800" stop="20260710224800 +0800">
+    <title lang="zh">创新进行时</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710224800 +0800" stop="20260710234500 +0800">
+    <title lang="zh">大千世界</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260710234500 +0800" stop="20260711001500 +0800">
+    <title lang="zh">实验现场</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711001500 +0800" stop="20260711004500 +0800">
+    <title lang="zh">透视新科技</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711004500 +0800" stop="20260711013500 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711013500 +0800" stop="20260711021500 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711021500 +0800" stop="20260711055800 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711055800 +0800" stop="20260711060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711060000 +0800" stop="20260711061000 +0800">
+    <title lang="zh">读书</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711061000 +0800" stop="20260711062000 +0800">
+    <title lang="zh">百家说故事</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711062000 +0800" stop="20260711063000 +0800">
+    <title lang="zh">时尚科技秀</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711063000 +0800" stop="20260711071300 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711071300 +0800" stop="20260711080000 +0800">
+    <title lang="zh">科幻地带</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711080000 +0800" stop="20260711084800 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711084800 +0800" stop="20260711094500 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711094500 +0800" stop="20260711102200 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711102200 +0800" stop="20260711112200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711112200 +0800" stop="20260711120000 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711120000 +0800" stop="20260711124900 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711124900 +0800" stop="20260711143900 +0800">
+    <title lang="zh">2025中国诗词大会</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711143900 +0800" stop="20260711152800 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711152800 +0800" stop="20260711162600 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711162600 +0800" stop="20260711172600 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711172600 +0800" stop="20260711180500 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711180500 +0800" stop="20260711185400 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711185400 +0800" stop="20260711195200 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711195200 +0800" stop="20260711205200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711205200 +0800" stop="20260711212600 +0800">
+    <title lang="zh">中国桥衡2</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711212600 +0800" stop="20260711221600 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711221600 +0800" stop="20260711222600 +0800">
+    <title lang="zh">中国桥衡</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711222600 +0800" stop="20260711233300 +0800">
+    <title lang="zh">考古公开课</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260711233300 +0800" stop="20260712002500 +0800">
+    <title lang="zh">大千世界</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712002500 +0800" stop="20260712004500 +0800">
+    <title lang="zh">人物故事</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712004500 +0800" stop="20260712013500 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712013500 +0800" stop="20260712021500 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712021500 +0800" stop="20260712055800 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712055800 +0800" stop="20260712060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712060000 +0800" stop="20260712061000 +0800">
+    <title lang="zh">读书</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712061000 +0800" stop="20260712062000 +0800">
+    <title lang="zh">百家说故事</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712062000 +0800" stop="20260712063000 +0800">
+    <title lang="zh">时尚科技秀</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712063000 +0800" stop="20260712071300 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712071300 +0800" stop="20260712080000 +0800">
+    <title lang="zh">科幻地带</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712080000 +0800" stop="20260712084800 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712084800 +0800" stop="20260712094500 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712094500 +0800" stop="20260712102200 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712102200 +0800" stop="20260712112200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712112200 +0800" stop="20260712120000 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712120000 +0800" stop="20260712124900 +0800">
+    <title lang="zh">百家讲坛</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712124900 +0800" stop="20260712143900 +0800">
+    <title lang="zh">2025中国诗词大会</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712143900 +0800" stop="20260712152800 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712152800 +0800" stop="20260712162600 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712162600 +0800" stop="20260712172600 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712172600 +0800" stop="20260712180500 +0800">
+    <title lang="zh">地理·中国</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712180500 +0800" stop="20260712185400 +0800">
+    <title lang="zh">健康之路</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712185400 +0800" stop="20260712195200 +0800">
+    <title lang="zh">味道</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712195200 +0800" stop="20260712205200 +0800">
+    <title lang="zh">自然传奇</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712205200 +0800" stop="20260712212600 +0800">
+    <title lang="zh">中国桥衡3</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712212600 +0800" stop="20260712221600 +0800">
+    <title lang="zh">探索·发现</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712221600 +0800" stop="20260712222600 +0800">
+    <title lang="zh">中国桥衡</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712222600 +0800" stop="20260712231100 +0800">
+    <title lang="zh">读书</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546003" start="20260712231100 +0800" stop="20260713000000 +0800">
+    <title lang="zh">大千世界</title>
+    <desc />
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

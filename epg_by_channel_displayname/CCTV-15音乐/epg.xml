@@ -1,594 +1,1071 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="546009" start="20260702002800 +0800" stop="20260702055800 +0800">
-    <title lang="zh">CCTV音乐厅-经典回响·古典名作系列音乐会</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702055800 +0800" stop="20260702060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702060000 +0800" stop="20260702071200 +0800">
-    <title lang="zh">精彩音乐汇-我的爱对你说</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702071200 +0800" stop="20260702090200 +0800">
-    <title lang="zh">启航2026-中央广播电视总台跨年晚会</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702090200 +0800" stop="20260702094100 +0800">
+<programme channel="546009" start="20260706005300 +0800" stop="20260706013100 +0800">
     <title lang="zh">风华国乐</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260702094100 +0800" stop="20260702105700 +0800">
-    <title lang="zh">民歌·中国-我的家乡我的歌</title>
+<programme channel="546009" start="20260706013100 +0800" stop="20260706022600 +0800">
+    <title lang="zh">CCTV音乐厅-经典回响·古典名作系列音乐会</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260702105700 +0800" stop="20260702121200 +0800">
+<programme channel="546009" start="20260706022600 +0800" stop="20260706055800 +0800">
+    <title lang="zh"> 静屏</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706055800 +0800" stop="20260706060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706060000 +0800" stop="20260706071100 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260702121200 +0800" stop="20260702132800 +0800">
+<programme channel="546009" start="20260706071100 +0800" stop="20260706081300 +0800">
+    <title lang="zh">神采正飞扬-中国郎之夜</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706081300 +0800" stop="20260706085300 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706085300 +0800" stop="20260706100900 +0800">
+    <title lang="zh">民歌·中国-我的家乡我的歌</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706100900 +0800" stop="20260706112500 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706112500 +0800" stop="20260706123100 +0800">
+    <title lang="zh">神采正飞扬-中国郎之夜</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706123100 +0800" stop="20260706142800 +0800">
+    <title lang="zh">影视留声机-经典电影欣赏闪闪的红星</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706142800 +0800" stop="20260706154300 +0800">
+    <title lang="zh">全球中文音乐榜上榜</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706154300 +0800" stop="20260706165900 +0800">
+    <title lang="zh">民歌·中国-唱得幸福落满坡</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706165900 +0800" stop="20260706181400 +0800">
+    <title lang="zh">民歌·中国-我的家乡我的歌</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706181400 +0800" stop="20260706193000 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706193000 +0800" stop="20260706212900 +0800">
+    <title lang="zh">音乐周刊-和美之夜</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260706212900 +0800" stop="20260706224500 +0800">
     <title lang="zh">民歌·中国-一歌一春归</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260702132800 +0800" stop="20260702151000 +0800">
-    <title lang="zh">影视留声机</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702151000 +0800" stop="20260702155000 +0800">
-    <title lang="zh">乐游天下</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702155000 +0800" stop="20260702165900 +0800">
-    <title lang="zh">民歌·中国-唱得幸福落满坡</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702165900 +0800" stop="20260702181400 +0800">
-    <title lang="zh">民歌·中国-我的家乡我的歌</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702181400 +0800" stop="20260702193000 +0800">
-    <title lang="zh">精彩音乐汇-我的爱对你说</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702193000 +0800" stop="20260702214000 +0800">
-    <title lang="zh">启航2026-中央广播电视总台跨年晚会</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702214000 +0800" stop="20260702232600 +0800">
-    <title lang="zh">民歌·中国</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546009" start="20260702232600 +0800" stop="20260703004100 +0800">
+<programme channel="546009" start="20260706224500 +0800" stop="20260707000000 +0800">
     <title lang="zh">中国节拍-品味古典</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703004100 +0800" stop="20260703011900 +0800">
+<programme channel="546009" start="20260707000000 +0800" stop="20260707003800 +0800">
     <title lang="zh">风华国乐</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703011900 +0800" stop="20260703055800 +0800">
-    <title lang="zh">CCTV音乐厅-经典回响·古典名作系列音乐会</title>
+<programme channel="546009" start="20260707003800 +0800" stop="20260707014900 +0800">
+    <title lang="zh">CCTV音乐厅-“春花烂漫”春日交响音乐会</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703055800 +0800" stop="20260703060000 +0800">
+<programme channel="546009" start="20260707014900 +0800" stop="20260707055800 +0800">
+    <title lang="zh"> 静屏</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260707055800 +0800" stop="20260707060000 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703060000 +0800" stop="20260703070300 +0800">
+<programme channel="546009" start="20260707060000 +0800" stop="20260707070100 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703070300 +0800" stop="20260703091200 +0800">
-    <title lang="zh">启航2026-中央广播电视总台跨年晚会</title>
+<programme channel="546009" start="20260707070100 +0800" stop="20260707085700 +0800">
+    <title lang="zh">音乐周刊-和美之夜</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703091200 +0800" stop="20260703094900 +0800">
+<programme channel="546009" start="20260707085700 +0800" stop="20260707093600 +0800">
     <title lang="zh">风华国乐</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703094900 +0800" stop="20260703110500 +0800">
+<programme channel="546009" start="20260707093600 +0800" stop="20260707105200 +0800">
     <title lang="zh">民歌·中国-我的家乡我的歌</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703110500 +0800" stop="20260703122000 +0800">
+<programme channel="546009" start="20260707105200 +0800" stop="20260707120700 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703122000 +0800" stop="20260703140600 +0800">
-    <title lang="zh">民歌·中国</title>
+<programme channel="546009" start="20260707120700 +0800" stop="20260707132300 +0800">
+    <title lang="zh">民歌·中国-一歌一春归</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703140600 +0800" stop="20260703161300 +0800">
-    <title lang="zh">影视留声机</title>
+<programme channel="546009" start="20260707132300 +0800" stop="20260707154300 +0800">
+    <title lang="zh">影视留声机-经典电影欣赏</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703161300 +0800" stop="20260703172900 +0800">
+<programme channel="546009" start="20260707154300 +0800" stop="20260707165900 +0800">
     <title lang="zh">民歌·中国-唱得幸福落满坡</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703172900 +0800" stop="20260703184400 +0800">
+<programme channel="546009" start="20260707165900 +0800" stop="20260707181400 +0800">
     <title lang="zh">民歌·中国-我的家乡我的歌</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703184400 +0800" stop="20260703200000 +0800">
+<programme channel="546009" start="20260707181400 +0800" stop="20260707193000 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260703</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703200000 +0800" stop="20260703213600 +0800">
+<programme channel="546009" start="20260707193000 +0800" stop="20260707210300 +0800">
+    <title lang="zh">合唱先锋-和美之夜纯享版</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260707210300 +0800" stop="20260707221900 +0800">
+    <title lang="zh">民歌·中国-一歌一春归</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260707221900 +0800" stop="20260707233400 +0800">
+    <title lang="zh">中国节拍-品味古典</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260707233400 +0800" stop="20260708001200 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708001200 +0800" stop="20260708055800 +0800">
+    <title lang="zh">CCTV音乐厅-经典回响·古典名作系列音乐会</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708055800 +0800" stop="20260708060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708060000 +0800" stop="20260708070900 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708070900 +0800" stop="20260708084300 +0800">
+    <title lang="zh">合唱先锋</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708084300 +0800" stop="20260708092200 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708092200 +0800" stop="20260708103800 +0800">
+    <title lang="zh">民歌·中国-我的家乡我的歌</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708103800 +0800" stop="20260708115300 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708115300 +0800" stop="20260708130900 +0800">
+    <title lang="zh">民歌·中国-一歌一春归</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708130900 +0800" stop="20260708150800 +0800">
+    <title lang="zh">影视留声机</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708150800 +0800" stop="20260708154300 +0800">
+    <title lang="zh">乐游天下</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708154300 +0800" stop="20260708165900 +0800">
+    <title lang="zh">民歌·中国-唱得幸福落满坡</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708165900 +0800" stop="20260708181400 +0800">
+    <title lang="zh">民歌·中国-我的家乡我的歌</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708181400 +0800" stop="20260708193000 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708193000 +0800" stop="20260708211900 +0800">
+    <title lang="zh">启航2026-中央广播电视总台跨年晚会</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708211900 +0800" stop="20260708223500 +0800">
+    <title lang="zh">民歌·中国-一歌一春归</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708223500 +0800" stop="20260708235000 +0800">
+    <title lang="zh">中国节拍-品味古典</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260708235000 +0800" stop="20260709002800 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709002800 +0800" stop="20260709055800 +0800">
+    <title lang="zh">CCTV音乐厅-经典回响·古典名作系列音乐会</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709055800 +0800" stop="20260709060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709060000 +0800" stop="20260709071200 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709071200 +0800" stop="20260709090200 +0800">
+    <title lang="zh">启航2026-中央广播电视总台跨年晚会</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709090200 +0800" stop="20260709094100 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709094100 +0800" stop="20260709105700 +0800">
+    <title lang="zh">民歌·中国-我的家乡我的歌</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709105700 +0800" stop="20260709121200 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709121200 +0800" stop="20260709132800 +0800">
+    <title lang="zh">民歌·中国-一歌一春归</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709132800 +0800" stop="20260709151000 +0800">
+    <title lang="zh">影视留声机</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709151000 +0800" stop="20260709155000 +0800">
+    <title lang="zh">乐游天下</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709155000 +0800" stop="20260709165900 +0800">
+    <title lang="zh">民歌·中国-唱得幸福落满坡</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709165900 +0800" stop="20260709181400 +0800">
+    <title lang="zh">民歌·中国-我的家乡我的歌</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709181400 +0800" stop="20260709193000 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709193000 +0800" stop="20260709214000 +0800">
+    <title lang="zh">启航2026-中央广播电视总台跨年晚会</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709214000 +0800" stop="20260709232600 +0800">
+    <title lang="zh">民歌·中国</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260709232600 +0800" stop="20260710004100 +0800">
+    <title lang="zh">中国节拍-品味古典</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710004100 +0800" stop="20260710011900 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710011900 +0800" stop="20260710055800 +0800">
+    <title lang="zh">CCTV音乐厅-经典回响·古典名作系列音乐会</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710055800 +0800" stop="20260710060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710060000 +0800" stop="20260710070300 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710070300 +0800" stop="20260710091200 +0800">
+    <title lang="zh">启航2026-中央广播电视总台跨年晚会</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710091200 +0800" stop="20260710094900 +0800">
+    <title lang="zh">风华国乐</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710094900 +0800" stop="20260710110500 +0800">
+    <title lang="zh">民歌·中国-我的家乡我的歌</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710110500 +0800" stop="20260710122000 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710122000 +0800" stop="20260710140600 +0800">
+    <title lang="zh">民歌·中国</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710140600 +0800" stop="20260710161300 +0800">
+    <title lang="zh">影视留声机</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710161300 +0800" stop="20260710172900 +0800">
+    <title lang="zh">民歌·中国-唱得幸福落满坡</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710172900 +0800" stop="20260710184400 +0800">
+    <title lang="zh">民歌·中国-我的家乡我的歌</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710184400 +0800" stop="20260710200000 +0800">
+    <title lang="zh">精彩音乐汇-我的爱对你说</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546009" start="20260710200000 +0800" stop="20260710213600 +0800">
     <title lang="zh">中国梦·劳动美-2026五一国际劳动节“心连心”特别节目</title>
     <desc />
-    <date>20260703</date>
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703213600 +0800" stop="20260703225200 +0800">
+<programme channel="546009" start="20260710213600 +0800" stop="20260710225200 +0800">
     <title lang="zh">音乐公开课</title>
     <desc />
-    <date>20260703</date>
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260703225200 +0800" stop="20260704003700 +0800">
+<programme channel="546009" start="20260710225200 +0800" stop="20260711003700 +0800">
     <title lang="zh">风华国乐</title>
     <desc />
-    <date>20260703</date>
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704003700 +0800" stop="20260704011500 +0800">
+<programme channel="546009" start="20260711003700 +0800" stop="20260711011500 +0800">
     <title lang="zh">风华国乐</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704011500 +0800" stop="20260704055800 +0800">
+<programme channel="546009" start="20260711011500 +0800" stop="20260711055800 +0800">
     <title lang="zh">CCTV音乐厅-“国风雅韵”民族管弦乐音乐会</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704055800 +0800" stop="20260704060000 +0800">
+<programme channel="546009" start="20260711055800 +0800" stop="20260711060000 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704060000 +0800" stop="20260704071000 +0800">
+<programme channel="546009" start="20260711060000 +0800" stop="20260711071000 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704071000 +0800" stop="20260704081700 +0800">
+<programme channel="546009" start="20260711071000 +0800" stop="20260711081700 +0800">
     <title lang="zh">神采正飞扬-中国郎之夜</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704081700 +0800" stop="20260704085600 +0800">
+<programme channel="546009" start="20260711081700 +0800" stop="20260711085600 +0800">
     <title lang="zh">风华国乐</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704085600 +0800" stop="20260704101200 +0800">
+<programme channel="546009" start="20260711085600 +0800" stop="20260711101200 +0800">
     <title lang="zh">民歌·中国-我的家乡我的歌</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704101200 +0800" stop="20260704112700 +0800">
+<programme channel="546009" start="20260711101200 +0800" stop="20260711112700 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704112700 +0800" stop="20260704131200 +0800">
+<programme channel="546009" start="20260711112700 +0800" stop="20260711131200 +0800">
     <title lang="zh">中国梦·劳动美-2026五一国际劳动节“心连心”特别节目</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704131200 +0800" stop="20260704152200 +0800">
+<programme channel="546009" start="20260711131200 +0800" stop="20260711152200 +0800">
     <title lang="zh">影视留声机</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704152200 +0800" stop="20260704165900 +0800">
+<programme channel="546009" start="20260711152200 +0800" stop="20260711165900 +0800">
     <title lang="zh">神采正飞扬-中国郎之夜</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704165900 +0800" stop="20260704181400 +0800">
+<programme channel="546009" start="20260711165900 +0800" stop="20260711181400 +0800">
     <title lang="zh">民歌·中国-我的家乡我的歌</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704181400 +0800" stop="20260704193000 +0800">
+<programme channel="546009" start="20260711181400 +0800" stop="20260711193000 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704193000 +0800" stop="20260704204500 +0800">
+<programme channel="546009" start="20260711193000 +0800" stop="20260711204500 +0800">
     <title lang="zh">民歌·中国-田畴沃野尽欢歌</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704204500 +0800" stop="20260704223100 +0800">
+<programme channel="546009" start="20260711204500 +0800" stop="20260711223100 +0800">
     <title lang="zh">中国梦·劳动美-2026五一国际劳动节“心连心”特别节目</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704223100 +0800" stop="20260704234600 +0800">
+<programme channel="546009" start="20260711223100 +0800" stop="20260711234600 +0800">
     <title lang="zh">CCTV音乐厅-“春花烂漫”春日交响音乐会</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260704234600 +0800" stop="20260705002400 +0800">
+<programme channel="546009" start="20260711234600 +0800" stop="20260712002400 +0800">
     <title lang="zh">风华国乐</title>
     <desc />
-    <date>20260704</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705002400 +0800" stop="20260705055800 +0800">
+<programme channel="546009" start="20260712002400 +0800" stop="20260712055800 +0800">
     <title lang="zh">CCTV音乐厅-“国风雅韵”民族管弦乐音乐会</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705055800 +0800" stop="20260705060000 +0800">
+<programme channel="546009" start="20260712055800 +0800" stop="20260712060000 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705060000 +0800" stop="20260705070400 +0800">
+<programme channel="546009" start="20260712060000 +0800" stop="20260712070400 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705070400 +0800" stop="20260705082400 +0800">
+<programme channel="546009" start="20260712070400 +0800" stop="20260712082400 +0800">
     <title lang="zh">神采正飞扬-中国郎之夜</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705082400 +0800" stop="20260705090300 +0800">
+<programme channel="546009" start="20260712082400 +0800" stop="20260712090300 +0800">
     <title lang="zh">风华国乐</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705090300 +0800" stop="20260705101900 +0800">
+<programme channel="546009" start="20260712090300 +0800" stop="20260712101900 +0800">
     <title lang="zh">民歌·中国-我的家乡我的歌</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705101900 +0800" stop="20260705113400 +0800">
+<programme channel="546009" start="20260712101900 +0800" stop="20260712113400 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705113400 +0800" stop="20260705125000 +0800">
+<programme channel="546009" start="20260712113400 +0800" stop="20260712125000 +0800">
     <title lang="zh">民歌·中国-田畴沃野尽欢歌</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705125000 +0800" stop="20260705144000 +0800">
+<programme channel="546009" start="20260712125000 +0800" stop="20260712144000 +0800">
     <title lang="zh">影视留声机</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705144000 +0800" stop="20260705154300 +0800">
+<programme channel="546009" start="20260712144000 +0800" stop="20260712154300 +0800">
     <title lang="zh">中国乡村音乐大会-月满乡音篇</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705154300 +0800" stop="20260705165900 +0800">
+<programme channel="546009" start="20260712154300 +0800" stop="20260712165900 +0800">
     <title lang="zh">音乐公开课</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705165900 +0800" stop="20260705181400 +0800">
+<programme channel="546009" start="20260712165900 +0800" stop="20260712181400 +0800">
     <title lang="zh">民歌·中国-我的家乡我的歌</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705181400 +0800" stop="20260705193000 +0800">
+<programme channel="546009" start="20260712181400 +0800" stop="20260712193000 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705193000 +0800" stop="20260705204500 +0800">
+<programme channel="546009" start="20260712193000 +0800" stop="20260712204500 +0800">
     <title lang="zh">民歌·中国-田畴沃野尽欢歌</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705204500 +0800" stop="20260705222200 +0800">
+<programme channel="546009" start="20260712204500 +0800" stop="20260712222200 +0800">
     <title lang="zh">神采正飞扬-中国郎之夜</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705222200 +0800" stop="20260705233700 +0800">
+<programme channel="546009" start="20260712222200 +0800" stop="20260712233700 +0800">
     <title lang="zh">CCTV音乐厅-“春花烂漫”春日交响音乐会</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546009" start="20260705233700 +0800" stop="20260706000000 +0800">
+<programme channel="546009" start="20260712233700 +0800" stop="20260713000000 +0800">
     <title lang="zh">风华国乐</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

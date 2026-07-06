@@ -1,801 +1,630 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="546004" start="20260702003500 +0800" stop="20260702010500 +0800">
-    <title lang="zh">体操世界杯-科特布斯站</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702010500 +0800" stop="20260702023600 +0800">
-    <title lang="zh">世界田联钻石联赛-摩纳哥站</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702023600 +0800" stop="20260702040000 +0800">
-    <title lang="zh">CBA-第36轮-浙江浙商证券VS山东高速</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702040000 +0800" stop="20260702053000 +0800">
-    <title lang="zh">英超-第14轮-纽卡斯尔联VS托特纳姆</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702053000 +0800" stop="20260702055500 +0800">
-    <title lang="zh">米兰科尔蒂纳冬奥会-高山滑雪女子超级大回转</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702055500 +0800" stop="20260702060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702060000 +0800" stop="20260702063000 +0800">
-    <title lang="zh">米兰科尔蒂纳冬奥会-雪橇男子单人</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702063000 +0800" stop="20260702070000 +0800">
-    <title lang="zh">健身动起来</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702070000 +0800" stop="20260702080300 +0800">
-    <title lang="zh">体坛晨报</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702080300 +0800" stop="20260702090100 +0800">
+<programme channel="546004" start="20260706013500 +0800" stop="20260706023600 +0800">
     <title lang="zh">世界泳联花样游泳世界杯-法国站</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702090100 +0800" stop="20260702103100 +0800">
-    <title lang="zh">英超-第34轮-伯恩利VS曼城</title>
+<programme channel="546004" start="20260706023600 +0800" stop="20260706040000 +0800">
+    <title lang="zh">CBA-第36轮-辽宁本钢VS福建晋江文旅</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702103100 +0800" stop="20260702115500 +0800">
-    <title lang="zh">CBA-季后赛12进8-第一场</title>
+<programme channel="546004" start="20260706040000 +0800" stop="20260706053000 +0800">
+    <title lang="zh">英超-第12轮-利物浦VS诺丁汉森林</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702115500 +0800" stop="20260702120000 +0800">
+<programme channel="546004" start="20260706053000 +0800" stop="20260706055500 +0800">
+    <title lang="zh">米兰科尔蒂纳冬奥会-高山滑雪男子滑降</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706055500 +0800" stop="20260706060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706060000 +0800" stop="20260706063000 +0800">
+    <title lang="zh">米兰科尔蒂纳冬奥会-男子钢架雪车</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706063000 +0800" stop="20260706070000 +0800">
     <title lang="zh">健身动起来</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702120000 +0800" stop="20260702123500 +0800">
+<programme channel="546004" start="20260706070000 +0800" stop="20260706080300 +0800">
+    <title lang="zh">体坛晨报</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706080300 +0800" stop="20260706090100 +0800">
+    <title lang="zh">世界泳联花样游泳世界杯</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706090100 +0800" stop="20260706103100 +0800">
+    <title lang="zh">西甲-第32轮-皇家贝蒂斯VS皇家马德里</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706103100 +0800" stop="20260706115500 +0800">
+    <title lang="zh">CBA-常规赛-第42轮-广州朗肽海本VS深圳马可波罗</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706115500 +0800" stop="20260706120000 +0800">
+    <title lang="zh">健身动起来</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706120000 +0800" stop="20260706123500 +0800">
     <title lang="zh">体坛快讯</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702123500 +0800" stop="20260702125800 +0800">
+<programme channel="546004" start="20260706123500 +0800" stop="20260706125800 +0800">
     <title lang="zh">艺术里的奥林匹克</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702125800 +0800" stop="20260702143000 +0800">
-    <title lang="zh">ATP1000男子网球大师赛-蒙特卡洛站-决赛</title>
+<programme channel="546004" start="20260706125800 +0800" stop="20260706142800 +0800">
+    <title lang="zh">世界斯诺克锦标赛-1/8决赛</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702143000 +0800" stop="20260702160000 +0800">
+<programme channel="546004" start="20260706142800 +0800" stop="20260706170500 +0800">
+    <title lang="zh">汤姆斯杯羽毛球赛-小组赛-中国VS加拿大</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706170500 +0800" stop="20260706180000 +0800">
+    <title lang="zh">运动一起赢</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706180000 +0800" stop="20260706183000 +0800">
+    <title lang="zh">体育新闻</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706183000 +0800" stop="20260706200000 +0800">
+    <title lang="zh">天下足球</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706200000 +0800" stop="20260706200800 +0800">
+    <title lang="zh">体操世界杯-奥西耶克站</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706200800 +0800" stop="20260706221500 +0800">
+    <title lang="zh">斯诺克世锦赛-1/8决赛</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706221500 +0800" stop="20260706224500 +0800">
+    <title lang="zh">体育世界</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260706224500 +0800" stop="20260707000900 +0800">
+    <title lang="zh">世界斯诺克锦标赛-1/8决赛</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707000900 +0800" stop="20260707003500 +0800">
+    <title lang="zh">射箭世界杯-墨西哥站</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707003500 +0800" stop="20260707010200 +0800">
+    <title lang="zh">花样游泳世界杯-法国站</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707010200 +0800" stop="20260707012900 +0800">
+    <title lang="zh">艺术体操世界杯-塔什干站</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707012900 +0800" stop="20260707013700 +0800">
+    <title lang="zh">一周十佳进球</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707013700 +0800" stop="20260707045900 +0800">
+    <title lang="zh">尤伯杯羽毛球赛小组赛-中国VS印度</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707045900 +0800" stop="20260707053000 +0800">
+    <title lang="zh">世界田联钻石联赛-尤金站</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707053000 +0800" stop="20260707055500 +0800">
+    <title lang="zh">米兰科尔蒂纳冬奥会-高山滑雪女子滑降</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707055500 +0800" stop="20260707060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707060000 +0800" stop="20260707063000 +0800">
+    <title lang="zh">米兰科尔蒂纳冬奥会-女子钢架雪车</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707063000 +0800" stop="20260707070000 +0800">
+    <title lang="zh">健身动起来</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707070000 +0800" stop="20260707080300 +0800">
+    <title lang="zh">体坛晨报</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707080300 +0800" stop="20260707090100 +0800">
+    <title lang="zh">世界泳联花样游泳世界杯-法国站</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707090100 +0800" stop="20260707103600 +0800">
+    <title lang="zh">英超-第34轮-利物浦VS水晶宫</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707103600 +0800" stop="20260707114600 +0800">
+    <title lang="zh">NBA-季后赛-森林狼VS掘金</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707114600 +0800" stop="20260707120100 +0800">
+    <title lang="zh">体坛快讯</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707120100 +0800" stop="20260707132300 +0800">
+    <title lang="zh">NBA-季后赛-森林狼VS掘金</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707132300 +0800" stop="20260707143000 +0800">
+    <title lang="zh">汤尤杯羽毛球赛-尤伯杯小组赛-中国VS印度</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707143000 +0800" stop="20260707160000 +0800">
+    <title lang="zh">世界斯诺克锦标赛-1/8决赛</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707160000 +0800" stop="20260707193000 +0800">
+    <title lang="zh">尤伯杯羽毛球赛-小组赛-中国台北VS印度尼西亚</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707193000 +0800" stop="20260707213000 +0800">
+    <title lang="zh">CBA-季后赛-山东高速VS辽宁本钢</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707213000 +0800" stop="20260707223000 +0800">
+    <title lang="zh">体育世界</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260707223000 +0800" stop="20260708003500 +0800">
     <title lang="zh">世界斯诺克锦标赛-1/4决赛</title>
     <desc />
-    <date>20260702</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702160000 +0800" stop="20260702190000 +0800">
-    <title lang="zh">尤伯杯羽毛球赛-1/4决赛</title>
+<programme channel="546004" start="20260708003500 +0800" stop="20260708013500 +0800">
+    <title lang="zh">顶级赛事-围棋</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702190000 +0800" stop="20260702193000 +0800">
-    <title lang="zh">体育新闻</title>
+<programme channel="546004" start="20260708013500 +0800" stop="20260708023600 +0800">
+    <title lang="zh">国际体联蹦床世界杯-巴库站</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702193000 +0800" stop="20260702200000 +0800">
-    <title lang="zh">体坛零距离</title>
+<programme channel="546004" start="20260708023600 +0800" stop="20260708040000 +0800">
+    <title lang="zh">CBA-第38轮-山东高速VS辽宁本钢</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702200000 +0800" stop="20260702210000 +0800">
-    <title lang="zh">足球之夜</title>
+<programme channel="546004" start="20260708040000 +0800" stop="20260708053000 +0800">
+    <title lang="zh">英超-第13轮-西汉姆联VS利物浦</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702210000 +0800" stop="20260702213000 +0800">
-    <title lang="zh">世界斯诺克锦标赛-半决赛</title>
+<programme channel="546004" start="20260708053000 +0800" stop="20260708055500 +0800">
+    <title lang="zh">米兰科尔蒂纳冬奥会-高山滑雪男子超级大回转</title>
     <desc />
-    <date>20260702</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260702213000 +0800" stop="20260702220000 +0800">
-    <title lang="zh">体育世界</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702220000 +0800" stop="20260702230500 +0800">
-    <title lang="zh">世界斯诺克锦标赛-半决赛</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260702230500 +0800" stop="20260703000500 +0800">
-    <title lang="zh">国际乒联单打世界杯</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703000500 +0800" stop="20260703010500 +0800">
-    <title lang="zh">艺术体操世界杯-塔什干站</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703010500 +0800" stop="20260703023600 +0800">
-    <title lang="zh">世界田联钻石联赛-伦敦站</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703023600 +0800" stop="20260703040000 +0800">
-    <title lang="zh">CBA-第37轮-北京控股VS北京北汽</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703040000 +0800" stop="20260703053000 +0800">
-    <title lang="zh">法甲联赛-第31轮-洛里昂VS斯特拉斯堡</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703053000 +0800" stop="20260703055500 +0800">
-    <title lang="zh">米兰科尔蒂纳冬奥会-高山滑雪男子大回转</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703055500 +0800" stop="20260703060000 +0800">
+<programme channel="546004" start="20260708055500 +0800" stop="20260708060000 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260703</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260703060000 +0800" stop="20260703063000 +0800">
-    <title lang="zh">米兰科尔蒂纳冬奥会-雪橇女子单人</title>
+<programme channel="546004" start="20260708060000 +0800" stop="20260708063000 +0800">
+    <title lang="zh">米兰科尔蒂纳冬奥会-钢架雪车混合团体</title>
     <desc />
-    <date>20260703</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260703063000 +0800" stop="20260703070000 +0800">
+<programme channel="546004" start="20260708063000 +0800" stop="20260708070000 +0800">
     <title lang="zh">健身动起来</title>
     <desc />
-    <date>20260703</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260703070000 +0800" stop="20260703080300 +0800">
+<programme channel="546004" start="20260708070000 +0800" stop="20260708080300 +0800">
     <title lang="zh">体坛晨报</title>
     <desc />
-    <date>20260703</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260703080300 +0800" stop="20260703083000 +0800">
-    <title lang="zh">射箭世界杯墨西哥站-中国金牌</title>
+<programme channel="546004" start="20260708080300 +0800" stop="20260708083000 +0800">
+    <title lang="zh">射箭世界杯-墨西哥站</title>
     <desc />
-    <date>20260703</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260703083000 +0800" stop="20260703100000 +0800">
-    <title lang="zh">德国足球甲级联赛-第31轮-多特蒙德VS弗赖堡</title>
+<programme channel="546004" start="20260708083000 +0800" stop="20260708100000 +0800">
+    <title lang="zh">德国足球甲级联赛-第31轮-汉堡VS霍芬海姆</title>
     <desc />
-    <date>20260703</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260703100000 +0800" stop="20260703110000 +0800">
-    <title lang="zh">世界泳联跳水世界杯总决赛-男子双人3米跳板决赛</title>
+<programme channel="546004" start="20260708100000 +0800" stop="20260708110500 +0800">
+    <title lang="zh">亚洲沙滩运动会-沙滩排球女子决赛</title>
     <desc />
-    <date>20260703</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260703110000 +0800" stop="20260703112500 +0800">
-    <title lang="zh">西甲-第32轮集锦</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703112500 +0800" stop="20260703113000 +0800">
-    <title lang="zh">健身动起来</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703113000 +0800" stop="20260703120000 +0800">
-    <title lang="zh">体坛快讯</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703120000 +0800" stop="20260703125000 +0800">
-    <title lang="zh">世界泳联跳水世界杯总决赛-女子双人3米跳板决赛</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703125000 +0800" stop="20260703144500 +0800">
-    <title lang="zh">世界斯诺克锦标赛-半决赛</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703144500 +0800" stop="20260703150500 +0800">
-    <title lang="zh">艺术里的奥林匹克</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703150500 +0800" stop="20260703160000 +0800">
-    <title lang="zh">篮球公园</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703160000 +0800" stop="20260703190000 +0800">
-    <title lang="zh">汤姆斯杯羽毛球赛-1/4决赛</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703190000 +0800" stop="20260703193000 +0800">
-    <title lang="zh">体育新闻</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703193000 +0800" stop="20260703213000 +0800">
-    <title lang="zh">CBA-季后赛12进8-第二场</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703213000 +0800" stop="20260703223000 +0800">
-    <title lang="zh">体育世界</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260703223000 +0800" stop="20260704003500 +0800">
-    <title lang="zh">世界斯诺克锦标赛-半决赛</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704003500 +0800" stop="20260704010500 +0800">
-    <title lang="zh">体操世界杯-科特布斯站</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704010500 +0800" stop="20260704023600 +0800">
-    <title lang="zh">世界田联钻石联赛-西里西亚站</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704023600 +0800" stop="20260704040000 +0800">
-    <title lang="zh">CBA-第38轮-浙江浙商证券VS广东东阳光</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704040000 +0800" stop="20260704053000 +0800">
-    <title lang="zh">英超-第15轮-曼城VS桑德兰</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704053000 +0800" stop="20260704055500 +0800">
-    <title lang="zh">米兰科尔蒂纳冬奥会-高山滑雪女子大回转</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704055500 +0800" stop="20260704060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704060000 +0800" stop="20260704063000 +0800">
-    <title lang="zh">米兰科尔蒂纳冬奥会-滑雪登山女子、男子短距离</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704063000 +0800" stop="20260704070000 +0800">
-    <title lang="zh">健身动起来</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704070000 +0800" stop="20260704080300 +0800">
-    <title lang="zh">体坛晨报</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704080300 +0800" stop="20260704090000 +0800">
-    <title lang="zh">体操世界杯-奥西耶克站</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704090000 +0800" stop="20260704113000 +0800">
-    <title lang="zh">NBA-季后赛</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704113000 +0800" stop="20260704120500 +0800">
-    <title lang="zh">体坛快讯</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704120500 +0800" stop="20260704125500 +0800">
-    <title lang="zh">世界泳联跳水世界杯总决赛-男子3米跳板决赛</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704125500 +0800" stop="20260704143000 +0800">
-    <title lang="zh">世界斯诺克锦标赛-半决赛</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704143000 +0800" stop="20260704160000 +0800">
-    <title lang="zh">CBA-季后赛12进8-第二场</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704160000 +0800" stop="20260704190000 +0800">
-    <title lang="zh">尤伯杯羽毛球赛-半决赛</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704190000 +0800" stop="20260704193000 +0800">
-    <title lang="zh">体育新闻</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704193000 +0800" stop="20260704213000 +0800">
-    <title lang="zh">世界乒乓球团体锦标赛-男团小组赛-中国VS英格兰</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260704213000 +0800" stop="20260705000000 +0800">
-    <title lang="zh">世界斯诺克锦标赛-半决赛</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705000000 +0800" stop="20260705030500 +0800">
-    <title lang="zh">汤姆斯杯羽毛球赛-半决赛</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705030500 +0800" stop="20260705040000 +0800">
-    <title lang="zh">艺术体操世界杯-塔什干站</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705040000 +0800" stop="20260705053000 +0800">
-    <title lang="zh">英超-第16轮-水晶宫VS曼城</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705053000 +0800" stop="20260705055500 +0800">
-    <title lang="zh">米兰科尔蒂纳冬奥会-越野滑雪女子10公里自由技术</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705055500 +0800" stop="20260705060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705060000 +0800" stop="20260705063000 +0800">
-    <title lang="zh">米兰科尔蒂纳冬奥会-滑雪登山混合接力</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705063000 +0800" stop="20260705070000 +0800">
-    <title lang="zh">健身动起来</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705070000 +0800" stop="20260705080300 +0800">
-    <title lang="zh">体坛晨报</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705080300 +0800" stop="20260705090000 +0800">
-    <title lang="zh">体操世界杯-奥西耶克站</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705090000 +0800" stop="20260705113000 +0800">
-    <title lang="zh">NBA-季后赛</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705113000 +0800" stop="20260705120500 +0800">
-    <title lang="zh">体坛快讯</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705120500 +0800" stop="20260705124000 +0800">
-    <title lang="zh">世界泳联跳水世界杯总决赛-女子3米跳板决赛</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705124000 +0800" stop="20260705132500 +0800">
+<programme channel="546004" start="20260708110500 +0800" stop="20260708115500 +0800">
     <title lang="zh">世界职业拳王争霸赛</title>
     <desc />
-    <date>20260705</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260705132500 +0800" stop="20260705143000 +0800">
-    <title lang="zh">世界斯诺克锦标赛-半决赛</title>
+<programme channel="546004" start="20260708115500 +0800" stop="20260708120000 +0800">
+    <title lang="zh">健身动起来</title>
     <desc />
-    <date>20260705</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260705143000 +0800" stop="20260705160000 +0800">
-    <title lang="zh">CBA-季后赛12进8-第二场</title>
+<programme channel="546004" start="20260708120000 +0800" stop="20260708123500 +0800">
+    <title lang="zh">体坛快讯</title>
     <desc />
-    <date>20260705</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260705160000 +0800" stop="20260705190000 +0800">
-    <title lang="zh">尤伯杯羽毛球赛-决赛</title>
+<programme channel="546004" start="20260708123500 +0800" stop="20260708125800 +0800">
+    <title lang="zh">艺术里的奥林匹克</title>
     <desc />
-    <date>20260705</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260705190000 +0800" stop="20260705193000 +0800">
+<programme channel="546004" start="20260708125800 +0800" stop="20260708143000 +0800">
+    <title lang="zh">世界斯诺克锦标赛-1/4决赛</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260708143000 +0800" stop="20260708150000 +0800">
+    <title lang="zh">法国足球甲级联赛-第31轮集锦</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260708150000 +0800" stop="20260708155500 +0800">
+    <title lang="zh">运动一起赢</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260708155500 +0800" stop="20260708160000 +0800">
+    <title lang="zh">健身动起来</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260708160000 +0800" stop="20260708190000 +0800">
+    <title lang="zh">汤姆斯杯羽毛球赛-小组赛-中国VS印度</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546004" start="20260708190000 +0800" stop="20260708193000 +0800">
     <title lang="zh">体育新闻</title>
     <desc />
-    <date>20260705</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260705193000 +0800" stop="20260705213000 +0800">
-    <title lang="zh">世界乒乓球团体锦标赛-男团小组赛-中国VS瑞典</title>
+<programme channel="546004" start="20260708193000 +0800" stop="20260708213000 +0800">
+    <title lang="zh">CBA-季后赛12进8-第一场</title>
     <desc />
-    <date>20260705</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260705213000 +0800" stop="20260705220500 +0800">
-    <title lang="zh">世界泳联跳水世界杯总决赛-女子、男子10米台决赛</title>
+<programme channel="546004" start="20260708213000 +0800" stop="20260708223000 +0800">
+    <title lang="zh">体育世界</title>
     <desc />
-    <date>20260705</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546004" start="20260705220500 +0800" stop="20260705230000 +0800">
-    <title lang="zh">田径世界接力赛-4×100米混合接力决赛</title>
+<programme channel="546004" start="20260708223000 +0800" stop="20260709000000 +0800">
+    <title lang="zh">世界斯诺克锦标赛-1/4决赛</title>
     <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546004" start="20260705230000 +0800" stop="20260706000000 +0800">
-    <title lang="zh">全国举重锦标赛-女子比赛</title>
-    <desc />
-    <date>20260705</date>
+    <date>20260708</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

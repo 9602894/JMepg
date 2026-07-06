@@ -1,1269 +1,2331 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="545997" start="20260702001000 +0800" stop="20260702060200 +0800">
-    <title lang="zh">兵器面面观</title>
+<programme channel="545997" start="20260706002100 +0800" stop="20260706060200 +0800">
+    <title lang="zh"> 静屏</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260702060200 +0800" stop="20260702060300 +0800">
+<programme channel="545997" start="20260706060200 +0800" stop="20260706060300 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260702</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260702060300 +0800" stop="20260702063300 +0800">
-    <title lang="zh">军事纪实</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702063300 +0800" stop="20260702065900 +0800">
-    <title lang="zh">国防故事</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702065900 +0800" stop="20260702072400 +0800">
-    <title lang="zh">世界战史</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702072400 +0800" stop="20260702073000 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702073000 +0800" stop="20260702075800 +0800">
-    <title lang="zh">国防军事早报</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702075800 +0800" stop="20260702090300 +0800">
-    <title lang="zh">讲武堂</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702090300 +0800" stop="20260702093500 +0800">
-    <title lang="zh">防务新观察</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702093500 +0800" stop="20260702100500 +0800">
-    <title lang="zh">军事纪实</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702100500 +0800" stop="20260702103300 +0800">
-    <title lang="zh">兵器面面观</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702103300 +0800" stop="20260702110100 +0800">
-    <title lang="zh">世界战史</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702110100 +0800" stop="20260702112800 +0800">
-    <title lang="zh">国防故事</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702112800 +0800" stop="20260702115300 +0800">
-    <title lang="zh">军事纪录</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702115300 +0800" stop="20260702120000 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702120000 +0800" stop="20260702123600 +0800">
-    <title lang="zh">正午国防军事</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702123600 +0800" stop="20260702131000 +0800">
-    <title lang="zh">防务新观察</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702131000 +0800" stop="20260702133900 +0800">
-    <title lang="zh">军营的味道</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702133900 +0800" stop="20260702140600 +0800">
-    <title lang="zh">兵器面面观</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702140600 +0800" stop="20260702143400 +0800">
-    <title lang="zh">军事纪录</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702143400 +0800" stop="20260702152400 +0800">
-    <title lang="zh">浴血十四年29</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702152400 +0800" stop="20260702161300 +0800">
-    <title lang="zh">浴血十四年30</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702161300 +0800" stop="20260702170400 +0800">
-    <title lang="zh">浴血十四年31</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702170400 +0800" stop="20260702173100 +0800">
-    <title lang="zh">世界战史</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702173100 +0800" stop="20260702175600 +0800">
-    <title lang="zh">军事纪录</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702175600 +0800" stop="20260702180200 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702180200 +0800" stop="20260702182800 +0800">
-    <title lang="zh">兵器面面观</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702182800 +0800" stop="20260702190000 +0800">
-    <title lang="zh">国防故事</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702190000 +0800" stop="20260702193000 +0800">
-    <title lang="zh">新闻联播</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702193000 +0800" stop="20260702193300 +0800">
-    <title lang="zh">广告</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702193300 +0800" stop="20260702200300 +0800">
-    <title lang="zh">军事报道</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702200300 +0800" stop="20260702200900 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702200900 +0800" stop="20260702204300 +0800">
-    <title lang="zh">防务新观察</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702204300 +0800" stop="20260702211600 +0800">
-    <title lang="zh">军事纪实</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702211600 +0800" stop="20260702215200 +0800">
-    <title lang="zh">砺剑</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702215200 +0800" stop="20260702224300 +0800">
-    <title lang="zh">南来北往8</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702224300 +0800" stop="20260702233500 +0800">
-    <title lang="zh">南来北往9</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260702233500 +0800" stop="20260703000900 +0800">
-    <title lang="zh">军事纪实</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703000900 +0800" stop="20260703060200 +0800">
-    <title lang="zh">兵器面面观</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703060200 +0800" stop="20260703060300 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703060300 +0800" stop="20260703063300 +0800">
-    <title lang="zh">军事纪实</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703063300 +0800" stop="20260703070000 +0800">
-    <title lang="zh">国防故事</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703070000 +0800" stop="20260703072500 +0800">
-    <title lang="zh">世界战史</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703072500 +0800" stop="20260703073000 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703073000 +0800" stop="20260703075800 +0800">
-    <title lang="zh">国防军事早报</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703075800 +0800" stop="20260703082600 +0800">
-    <title lang="zh">军营的味道</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703082600 +0800" stop="20260703085300 +0800">
-    <title lang="zh">兵器面面观</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703085300 +0800" stop="20260703092600 +0800">
-    <title lang="zh">防务新观察</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703092600 +0800" stop="20260703095100 +0800">
-    <title lang="zh">世界战史</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703095100 +0800" stop="20260703101800 +0800">
-    <title lang="zh">国防故事</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703101800 +0800" stop="20260703104300 +0800">
-    <title lang="zh">军事纪录</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703104300 +0800" stop="20260703104500 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703104500 +0800" stop="20260703120000 +0800">
-    <title lang="zh"> 五星剧场-地雷战</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703120000 +0800" stop="20260703123600 +0800">
-    <title lang="zh">正午国防军事</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703123600 +0800" stop="20260703130800 +0800">
-    <title lang="zh">防务新观察</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703130800 +0800" stop="20260703134200 +0800">
-    <title lang="zh">军迷行天下</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703134200 +0800" stop="20260703140800 +0800">
-    <title lang="zh">兵器面面观</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703140800 +0800" stop="20260703143600 +0800">
-    <title lang="zh">军事纪录</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703143600 +0800" stop="20260703152600 +0800">
-    <title lang="zh">浴血十四年32</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703152600 +0800" stop="20260703161500 +0800">
-    <title lang="zh">浴血十四年33</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703161500 +0800" stop="20260703170600 +0800">
-    <title lang="zh">浴血十四年34</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703170600 +0800" stop="20260703173100 +0800">
-    <title lang="zh">世界战史</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703173100 +0800" stop="20260703175600 +0800">
-    <title lang="zh">军事纪录</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703175600 +0800" stop="20260703180200 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703180200 +0800" stop="20260703182800 +0800">
-    <title lang="zh">兵器面面观</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703182800 +0800" stop="20260703190000 +0800">
-    <title lang="zh">国防故事</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703190000 +0800" stop="20260703193000 +0800">
-    <title lang="zh">新闻联播</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703193000 +0800" stop="20260703193300 +0800">
-    <title lang="zh">广告</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703193300 +0800" stop="20260703200300 +0800">
-    <title lang="zh">军事报道</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703200300 +0800" stop="20260703200900 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703200900 +0800" stop="20260703204300 +0800">
-    <title lang="zh">防务新观察</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703204300 +0800" stop="20260703211600 +0800">
-    <title lang="zh">军事纪实</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703211600 +0800" stop="20260703215200 +0800">
+<programme channel="545997" start="20260706060300 +0800" stop="20260706063300 +0800">
     <title lang="zh">第二战场</title>
     <desc />
-    <date>20260703</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260703215200 +0800" stop="20260703224300 +0800">
-    <title lang="zh">南来北往10</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703224300 +0800" stop="20260703233500 +0800">
-    <title lang="zh">南来北往11</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260703233500 +0800" stop="20260704000900 +0800">
-    <title lang="zh">军事纪实</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704000900 +0800" stop="20260704060200 +0800">
-    <title lang="zh">兵器面面观</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704060200 +0800" stop="20260704060300 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704060300 +0800" stop="20260704063300 +0800">
-    <title lang="zh">军事纪实</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704063300 +0800" stop="20260704070400 +0800">
-    <title lang="zh">砺剑</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704070400 +0800" stop="20260704073000 +0800">
+<programme channel="545997" start="20260706063300 +0800" stop="20260706065900 +0800">
     <title lang="zh">国防故事</title>
     <desc />
-    <date>20260704</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260704073000 +0800" stop="20260704075800 +0800">
+<programme channel="545997" start="20260706065900 +0800" stop="20260706072400 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706072400 +0800" stop="20260706073000 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706073000 +0800" stop="20260706080000 +0800">
     <title lang="zh">国防军事早报</title>
     <desc />
-    <date>20260704</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260704075800 +0800" stop="20260704090200 +0800">
+<programme channel="545997" start="20260706080000 +0800" stop="20260706090300 +0800">
     <title lang="zh">讲武堂</title>
     <desc />
-    <date>20260704</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260704090200 +0800" stop="20260704093400 +0800">
+<programme channel="545997" start="20260706090300 +0800" stop="20260706093500 +0800">
     <title lang="zh">防务新观察</title>
     <desc />
-    <date>20260704</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260704093400 +0800" stop="20260704100400 +0800">
-    <title lang="zh">军事纪实</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704100400 +0800" stop="20260704100900 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704100900 +0800" stop="20260704103800 +0800">
-    <title lang="zh">兵器面面观</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704103800 +0800" stop="20260704120000 +0800">
-    <title lang="zh"> 五星剧场-三进山城</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704120000 +0800" stop="20260704123600 +0800">
-    <title lang="zh">正午国防军事</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704123600 +0800" stop="20260704131100 +0800">
-    <title lang="zh">防务新观察</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704131100 +0800" stop="20260704134200 +0800">
-    <title lang="zh">军武零距离</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704134200 +0800" stop="20260704134600 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704134600 +0800" stop="20260704142100 +0800">
-    <title lang="zh">军迷行天下</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704142100 +0800" stop="20260704151100 +0800">
-    <title lang="zh">浴血十四年35</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704151100 +0800" stop="20260704160000 +0800">
-    <title lang="zh">浴血十四年36</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704160000 +0800" stop="20260704165100 +0800">
-    <title lang="zh">浴血十四年37</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704165100 +0800" stop="20260704172100 +0800">
+<programme channel="545997" start="20260706093500 +0800" stop="20260706100500 +0800">
     <title lang="zh">军事科技</title>
     <desc />
-    <date>20260704</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260704172100 +0800" stop="20260704175100 +0800">
-    <title lang="zh">第二战场</title>
+<programme channel="545997" start="20260706100500 +0800" stop="20260706103300 +0800">
+    <title lang="zh">兵器面面观</title>
     <desc />
-    <date>20260704</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260704175100 +0800" stop="20260704175700 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704175700 +0800" stop="20260704182800 +0800">
-    <title lang="zh">砺剑</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704182800 +0800" stop="20260704190000 +0800">
-    <title lang="zh">军营的味道</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704190000 +0800" stop="20260704193000 +0800">
-    <title lang="zh">新闻联播</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704193000 +0800" stop="20260704193300 +0800">
-    <title lang="zh">广告</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704193300 +0800" stop="20260704200300 +0800">
-    <title lang="zh">军事报道</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704200300 +0800" stop="20260704200900 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704200900 +0800" stop="20260704204500 +0800">
-    <title lang="zh">防务新观察</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704204500 +0800" stop="20260704215300 +0800">
-    <title lang="zh">老兵你好</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704215300 +0800" stop="20260704224300 +0800">
-    <title lang="zh">南来北往12</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704224300 +0800" stop="20260704234000 +0800">
-    <title lang="zh">南来北往13</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260704234000 +0800" stop="20260705060200 +0800">
-    <title lang="zh">第二战场</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705060200 +0800" stop="20260705060300 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705060300 +0800" stop="20260705063300 +0800">
-    <title lang="zh">军迷行天下</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705063300 +0800" stop="20260705070400 +0800">
-    <title lang="zh">军武零距离</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705070400 +0800" stop="20260705073000 +0800">
+<programme channel="545997" start="20260706103300 +0800" stop="20260706110000 +0800">
     <title lang="zh">世界战史</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705073000 +0800" stop="20260705075800 +0800">
-    <title lang="zh">国防军事早报</title>
+<programme channel="545997" start="20260706110000 +0800" stop="20260706112800 +0800">
+    <title lang="zh">国防故事</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705075800 +0800" stop="20260705090200 +0800">
-    <title lang="zh">老兵你好</title>
+<programme channel="545997" start="20260706112800 +0800" stop="20260706115300 +0800">
+    <title lang="zh">军事纪录</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705090200 +0800" stop="20260705093400 +0800">
-    <title lang="zh">防务新观察</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705093400 +0800" stop="20260705100400 +0800">
-    <title lang="zh">军事科技</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705100400 +0800" stop="20260705101000 +0800">
+<programme channel="545997" start="20260706115300 +0800" stop="20260706120000 +0800">
     <title lang="zh">军歌嘹亮</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705101000 +0800" stop="20260705120000 +0800">
-    <title lang="zh">五星剧场-南征北战</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705120000 +0800" stop="20260705123600 +0800">
+<programme channel="545997" start="20260706120000 +0800" stop="20260706123600 +0800">
     <title lang="zh">正午国防军事</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705123600 +0800" stop="20260705131100 +0800">
+<programme channel="545997" start="20260706123600 +0800" stop="20260706130800 +0800">
     <title lang="zh">防务新观察</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705131100 +0800" stop="20260705134200 +0800">
-    <title lang="zh">军武零距离</title>
+<programme channel="545997" start="20260706130800 +0800" stop="20260706134200 +0800">
+    <title lang="zh">砺剑</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705134200 +0800" stop="20260705134600 +0800">
+<programme channel="545997" start="20260706134200 +0800" stop="20260706140700 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706140700 +0800" stop="20260706143500 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706143500 +0800" stop="20260706152500 +0800">
+    <title lang="zh">浴血十四年20</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706152500 +0800" stop="20260706161400 +0800">
+    <title lang="zh">浴血十四年21</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706161400 +0800" stop="20260706170500 +0800">
+    <title lang="zh">浴血十四年22</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706170500 +0800" stop="20260706173000 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706173000 +0800" stop="20260706175500 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706175500 +0800" stop="20260706180200 +0800">
     <title lang="zh">军歌嘹亮</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705134600 +0800" stop="20260705141700 +0800">
-    <title lang="zh">军营的味道</title>
+<programme channel="545997" start="20260706180200 +0800" stop="20260706182800 +0800">
+    <title lang="zh">兵器面面观</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705141700 +0800" stop="20260705150700 +0800">
-    <title lang="zh">浴血十四年38</title>
+<programme channel="545997" start="20260706182800 +0800" stop="20260706190000 +0800">
+    <title lang="zh">国防故事</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705150700 +0800" stop="20260705155600 +0800">
-    <title lang="zh">浴血十四年39</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705155600 +0800" stop="20260705164700 +0800">
-    <title lang="zh">浴血十四年40</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705164700 +0800" stop="20260705174700 +0800">
-    <title lang="zh">老兵你好</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705174700 +0800" stop="20260705175300 +0800">
-    <title lang="zh">军歌嘹亮</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705175300 +0800" stop="20260705190000 +0800">
-    <title lang="zh">讲武堂</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545997" start="20260705190000 +0800" stop="20260705193000 +0800">
+<programme channel="545997" start="20260706190000 +0800" stop="20260706193000 +0800">
     <title lang="zh">新闻联播</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705193000 +0800" stop="20260705193300 +0800">
+<programme channel="545997" start="20260706193000 +0800" stop="20260706193300 +0800">
     <title lang="zh">广告</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705193300 +0800" stop="20260705200300 +0800">
+<programme channel="545997" start="20260706193300 +0800" stop="20260706200300 +0800">
     <title lang="zh">军事报道</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705200300 +0800" stop="20260705200900 +0800">
+<programme channel="545997" start="20260706200300 +0800" stop="20260706201000 +0800">
     <title lang="zh">军歌嘹亮</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705200900 +0800" stop="20260705204500 +0800">
+<programme channel="545997" start="20260706201000 +0800" stop="20260706204300 +0800">
     <title lang="zh">防务新观察</title>
     <desc />
-    <date>20260705</date>
+    <date>20260706</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705204500 +0800" stop="20260705211500 +0800">
+<programme channel="545997" start="20260706204300 +0800" stop="20260706211700 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706211700 +0800" stop="20260706215300 +0800">
+    <title lang="zh">军武零距离</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706215300 +0800" stop="20260706224300 +0800">
+    <title lang="zh">南来北往2</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706224300 +0800" stop="20260706233500 +0800">
+    <title lang="zh">南来北往3</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260706233500 +0800" stop="20260707001000 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707001000 +0800" stop="20260707004800 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707004800 +0800" stop="20260707060200 +0800">
+    <title lang="zh"> 静屏</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707060200 +0800" stop="20260707060300 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707060300 +0800" stop="20260707063300 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707063300 +0800" stop="20260707065900 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707065900 +0800" stop="20260707072400 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707072400 +0800" stop="20260707073000 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707073000 +0800" stop="20260707075800 +0800">
+    <title lang="zh">国防军事早报</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707075800 +0800" stop="20260707082800 +0800">
     <title lang="zh">时光军史馆</title>
     <desc />
-    <date>20260705</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705211500 +0800" stop="20260705215300 +0800">
+<programme channel="545997" start="20260707082800 +0800" stop="20260707090300 +0800">
     <title lang="zh">兵器面面观-环球兵器大事件</title>
     <desc />
-    <date>20260705</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705215300 +0800" stop="20260705224300 +0800">
+<programme channel="545997" start="20260707090300 +0800" stop="20260707093500 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707093500 +0800" stop="20260707100500 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707100500 +0800" stop="20260707103300 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707103300 +0800" stop="20260707110000 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707110000 +0800" stop="20260707112800 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707112800 +0800" stop="20260707115300 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707115300 +0800" stop="20260707120000 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707120000 +0800" stop="20260707123600 +0800">
+    <title lang="zh">正午国防军事</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707123600 +0800" stop="20260707131000 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707131000 +0800" stop="20260707133900 +0800">
+    <title lang="zh">军营的味道</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707133900 +0800" stop="20260707140600 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707140600 +0800" stop="20260707143400 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707143400 +0800" stop="20260707152400 +0800">
+    <title lang="zh">浴血十四年23</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707152400 +0800" stop="20260707161300 +0800">
+    <title lang="zh">浴血十四年24</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707161300 +0800" stop="20260707170400 +0800">
+    <title lang="zh">浴血十四年25</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707170400 +0800" stop="20260707173100 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707173100 +0800" stop="20260707175600 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707175600 +0800" stop="20260707180200 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707180200 +0800" stop="20260707182800 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707182800 +0800" stop="20260707190000 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707190000 +0800" stop="20260707193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707193000 +0800" stop="20260707193300 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707193300 +0800" stop="20260707200300 +0800">
+    <title lang="zh">军事报道</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707200300 +0800" stop="20260707200900 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707200900 +0800" stop="20260707204300 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707204300 +0800" stop="20260707211700 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707211700 +0800" stop="20260707215300 +0800">
+    <title lang="zh">军事科技</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707215300 +0800" stop="20260707224300 +0800">
+    <title lang="zh">南来北往4</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707224300 +0800" stop="20260707233500 +0800">
+    <title lang="zh">南来北往5</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260707233500 +0800" stop="20260708001000 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708001000 +0800" stop="20260708004800 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708004800 +0800" stop="20260708060200 +0800">
+    <title lang="zh"> 静屏</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708060200 +0800" stop="20260708060300 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708060300 +0800" stop="20260708063300 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708063300 +0800" stop="20260708065900 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708065900 +0800" stop="20260708072400 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708072400 +0800" stop="20260708073000 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708073000 +0800" stop="20260708075800 +0800">
+    <title lang="zh">国防军事早报</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708075800 +0800" stop="20260708082800 +0800">
+    <title lang="zh">军事科技</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708082800 +0800" stop="20260708090300 +0800">
+    <title lang="zh">第二战场</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708090300 +0800" stop="20260708093500 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708093500 +0800" stop="20260708100500 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708100500 +0800" stop="20260708103300 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708103300 +0800" stop="20260708110000 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708110000 +0800" stop="20260708112800 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708112800 +0800" stop="20260708115300 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708115300 +0800" stop="20260708120000 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708120000 +0800" stop="20260708123600 +0800">
+    <title lang="zh">正午国防军事</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708123600 +0800" stop="20260708130800 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708130800 +0800" stop="20260708134200 +0800">
+    <title lang="zh">军武零距离</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708134200 +0800" stop="20260708140800 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708140800 +0800" stop="20260708143500 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708143500 +0800" stop="20260708152600 +0800">
+    <title lang="zh">浴血十四年26</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708152600 +0800" stop="20260708161500 +0800">
+    <title lang="zh">浴血十四年27</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708161500 +0800" stop="20260708170600 +0800">
+    <title lang="zh">浴血十四年28</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708170600 +0800" stop="20260708173100 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708173100 +0800" stop="20260708175600 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708175600 +0800" stop="20260708180200 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708180200 +0800" stop="20260708182800 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708182800 +0800" stop="20260708190000 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708190000 +0800" stop="20260708193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708193000 +0800" stop="20260708193300 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708193300 +0800" stop="20260708200300 +0800">
+    <title lang="zh">军事报道</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708200300 +0800" stop="20260708200900 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708200900 +0800" stop="20260708204300 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708204300 +0800" stop="20260708211700 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708211700 +0800" stop="20260708215300 +0800">
+    <title lang="zh">军迷行天下</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708215300 +0800" stop="20260708224300 +0800">
+    <title lang="zh">南来北往6</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708224300 +0800" stop="20260708233500 +0800">
+    <title lang="zh">南来北往7</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260708233500 +0800" stop="20260709001000 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709001000 +0800" stop="20260709060200 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709060200 +0800" stop="20260709060300 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709060300 +0800" stop="20260709063300 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709063300 +0800" stop="20260709065900 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709065900 +0800" stop="20260709072400 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709072400 +0800" stop="20260709073000 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709073000 +0800" stop="20260709075800 +0800">
+    <title lang="zh">国防军事早报</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709075800 +0800" stop="20260709090300 +0800">
+    <title lang="zh">讲武堂</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709090300 +0800" stop="20260709093500 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709093500 +0800" stop="20260709100500 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709100500 +0800" stop="20260709103300 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709103300 +0800" stop="20260709110100 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709110100 +0800" stop="20260709112800 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709112800 +0800" stop="20260709115300 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709115300 +0800" stop="20260709120000 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709120000 +0800" stop="20260709123600 +0800">
+    <title lang="zh">正午国防军事</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709123600 +0800" stop="20260709131000 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709131000 +0800" stop="20260709133900 +0800">
+    <title lang="zh">军营的味道</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709133900 +0800" stop="20260709140600 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709140600 +0800" stop="20260709143400 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709143400 +0800" stop="20260709152400 +0800">
+    <title lang="zh">浴血十四年29</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709152400 +0800" stop="20260709161300 +0800">
+    <title lang="zh">浴血十四年30</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709161300 +0800" stop="20260709170400 +0800">
+    <title lang="zh">浴血十四年31</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709170400 +0800" stop="20260709173100 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709173100 +0800" stop="20260709175600 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709175600 +0800" stop="20260709180200 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709180200 +0800" stop="20260709182800 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709182800 +0800" stop="20260709190000 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709190000 +0800" stop="20260709193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709193000 +0800" stop="20260709193300 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709193300 +0800" stop="20260709200300 +0800">
+    <title lang="zh">军事报道</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709200300 +0800" stop="20260709200900 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709200900 +0800" stop="20260709204300 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709204300 +0800" stop="20260709211600 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709211600 +0800" stop="20260709215200 +0800">
+    <title lang="zh">砺剑</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709215200 +0800" stop="20260709224300 +0800">
+    <title lang="zh">南来北往8</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709224300 +0800" stop="20260709233500 +0800">
+    <title lang="zh">南来北往9</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260709233500 +0800" stop="20260710000900 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710000900 +0800" stop="20260710060200 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710060200 +0800" stop="20260710060300 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710060300 +0800" stop="20260710063300 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710063300 +0800" stop="20260710070000 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710070000 +0800" stop="20260710072500 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710072500 +0800" stop="20260710073000 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710073000 +0800" stop="20260710075800 +0800">
+    <title lang="zh">国防军事早报</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710075800 +0800" stop="20260710082600 +0800">
+    <title lang="zh">军营的味道</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710082600 +0800" stop="20260710085300 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710085300 +0800" stop="20260710092600 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710092600 +0800" stop="20260710095100 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710095100 +0800" stop="20260710101800 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710101800 +0800" stop="20260710104300 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710104300 +0800" stop="20260710104500 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710104500 +0800" stop="20260710120000 +0800">
+    <title lang="zh"> 五星剧场-地雷战</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710120000 +0800" stop="20260710123600 +0800">
+    <title lang="zh">正午国防军事</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710123600 +0800" stop="20260710130800 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710130800 +0800" stop="20260710134200 +0800">
+    <title lang="zh">军迷行天下</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710134200 +0800" stop="20260710140800 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710140800 +0800" stop="20260710143600 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710143600 +0800" stop="20260710152600 +0800">
+    <title lang="zh">浴血十四年32</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710152600 +0800" stop="20260710161500 +0800">
+    <title lang="zh">浴血十四年33</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710161500 +0800" stop="20260710170600 +0800">
+    <title lang="zh">浴血十四年34</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710170600 +0800" stop="20260710173100 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710173100 +0800" stop="20260710175600 +0800">
+    <title lang="zh">军事纪录</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710175600 +0800" stop="20260710180200 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710180200 +0800" stop="20260710182800 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710182800 +0800" stop="20260710190000 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710190000 +0800" stop="20260710193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710193000 +0800" stop="20260710193300 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710193300 +0800" stop="20260710200300 +0800">
+    <title lang="zh">军事报道</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710200300 +0800" stop="20260710200900 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710200900 +0800" stop="20260710204300 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710204300 +0800" stop="20260710211600 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710211600 +0800" stop="20260710215200 +0800">
+    <title lang="zh">第二战场</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710215200 +0800" stop="20260710224300 +0800">
+    <title lang="zh">南来北往10</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710224300 +0800" stop="20260710233500 +0800">
+    <title lang="zh">南来北往11</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260710233500 +0800" stop="20260711000900 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711000900 +0800" stop="20260711060200 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711060200 +0800" stop="20260711060300 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711060300 +0800" stop="20260711063300 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711063300 +0800" stop="20260711070400 +0800">
+    <title lang="zh">砺剑</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711070400 +0800" stop="20260711073000 +0800">
+    <title lang="zh">国防故事</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711073000 +0800" stop="20260711075800 +0800">
+    <title lang="zh">国防军事早报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711075800 +0800" stop="20260711090200 +0800">
+    <title lang="zh">讲武堂</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711090200 +0800" stop="20260711093400 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711093400 +0800" stop="20260711100400 +0800">
+    <title lang="zh">军事纪实</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711100400 +0800" stop="20260711100900 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711100900 +0800" stop="20260711103800 +0800">
+    <title lang="zh">兵器面面观</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711103800 +0800" stop="20260711120000 +0800">
+    <title lang="zh"> 五星剧场-三进山城</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711120000 +0800" stop="20260711123600 +0800">
+    <title lang="zh">正午国防军事</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711123600 +0800" stop="20260711131100 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711131100 +0800" stop="20260711134200 +0800">
+    <title lang="zh">军武零距离</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711134200 +0800" stop="20260711134600 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711134600 +0800" stop="20260711142100 +0800">
+    <title lang="zh">军迷行天下</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711142100 +0800" stop="20260711151100 +0800">
+    <title lang="zh">浴血十四年35</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711151100 +0800" stop="20260711160000 +0800">
+    <title lang="zh">浴血十四年36</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711160000 +0800" stop="20260711165100 +0800">
+    <title lang="zh">浴血十四年37</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711165100 +0800" stop="20260711172100 +0800">
+    <title lang="zh">军事科技</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711172100 +0800" stop="20260711175100 +0800">
+    <title lang="zh">第二战场</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711175100 +0800" stop="20260711175700 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711175700 +0800" stop="20260711182800 +0800">
+    <title lang="zh">砺剑</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711182800 +0800" stop="20260711190000 +0800">
+    <title lang="zh">军营的味道</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711190000 +0800" stop="20260711193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711193000 +0800" stop="20260711193300 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711193300 +0800" stop="20260711200300 +0800">
+    <title lang="zh">军事报道</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711200300 +0800" stop="20260711200900 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711200900 +0800" stop="20260711204500 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711204500 +0800" stop="20260711215300 +0800">
+    <title lang="zh">老兵你好</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711215300 +0800" stop="20260711224300 +0800">
+    <title lang="zh">南来北往12</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711224300 +0800" stop="20260711234000 +0800">
+    <title lang="zh">南来北往13</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260711234000 +0800" stop="20260712060200 +0800">
+    <title lang="zh">第二战场</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712060200 +0800" stop="20260712060300 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712060300 +0800" stop="20260712063300 +0800">
+    <title lang="zh">军迷行天下</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712063300 +0800" stop="20260712070400 +0800">
+    <title lang="zh">军武零距离</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712070400 +0800" stop="20260712073000 +0800">
+    <title lang="zh">世界战史</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712073000 +0800" stop="20260712075800 +0800">
+    <title lang="zh">国防军事早报</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712075800 +0800" stop="20260712090200 +0800">
+    <title lang="zh">老兵你好</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712090200 +0800" stop="20260712093400 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712093400 +0800" stop="20260712100400 +0800">
+    <title lang="zh">军事科技</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712100400 +0800" stop="20260712101000 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712101000 +0800" stop="20260712120000 +0800">
+    <title lang="zh">五星剧场-南征北战</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712120000 +0800" stop="20260712123600 +0800">
+    <title lang="zh">正午国防军事</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712123600 +0800" stop="20260712131100 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712131100 +0800" stop="20260712134200 +0800">
+    <title lang="zh">军武零距离</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712134200 +0800" stop="20260712134600 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712134600 +0800" stop="20260712141700 +0800">
+    <title lang="zh">军营的味道</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712141700 +0800" stop="20260712150700 +0800">
+    <title lang="zh">浴血十四年38</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712150700 +0800" stop="20260712155600 +0800">
+    <title lang="zh">浴血十四年39</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712155600 +0800" stop="20260712164700 +0800">
+    <title lang="zh">浴血十四年40</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712164700 +0800" stop="20260712174700 +0800">
+    <title lang="zh">老兵你好</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712174700 +0800" stop="20260712175300 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712175300 +0800" stop="20260712190000 +0800">
+    <title lang="zh">讲武堂</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712190000 +0800" stop="20260712193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712193000 +0800" stop="20260712193300 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712193300 +0800" stop="20260712200300 +0800">
+    <title lang="zh">军事报道</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712200300 +0800" stop="20260712200900 +0800">
+    <title lang="zh">军歌嘹亮</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712200900 +0800" stop="20260712204500 +0800">
+    <title lang="zh">防务新观察</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712204500 +0800" stop="20260712211500 +0800">
+    <title lang="zh">时光军史馆</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712211500 +0800" stop="20260712215300 +0800">
+    <title lang="zh">兵器面面观-环球兵器大事件</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545997" start="20260712215300 +0800" stop="20260712224300 +0800">
     <title lang="zh">南来北往14</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705224300 +0800" stop="20260705234000 +0800">
+<programme channel="545997" start="20260712224300 +0800" stop="20260712234000 +0800">
     <title lang="zh">南来北往15</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545997" start="20260705234000 +0800" stop="20260706000000 +0800">
+<programme channel="545997" start="20260712234000 +0800" stop="20260713000000 +0800">
     <title lang="zh">兵器面面观-环球兵器大事件</title>
     <desc />
-    <date>20260705</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

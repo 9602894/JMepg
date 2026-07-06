@@ -1,648 +1,1089 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="545943" start="20260702000800 +0800" stop="20260702060630 +0800">
-    <title lang="zh">青春戏苑-2026-181七一专辑2</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702060630 +0800" stop="20260702071225 +0800">
-    <title lang="zh">CCTV空中剧院-2024-155地方戏版 好戏连连看 越调《山花烂漫》选场(精编)</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702071225 +0800" stop="20260702082725 +0800">
-    <title lang="zh">青春戏苑-2026-90时代之声（二）</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702082725 +0800" stop="20260702085925 +0800">
-    <title lang="zh">青春戏苑-2026-181七一专辑2</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702085925 +0800" stop="20260702091455 +0800">
-    <title lang="zh">四时花开-牡丹篇</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702091455 +0800" stop="20260702113555 +0800">
-    <title lang="zh">CCTV空中剧院-2024-208地方戏版 越剧《枫叶如花》</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702113555 +0800" stop="20260702122625 +0800">
-    <title lang="zh">人世间24/58</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702122625 +0800" stop="20260702131655 +0800">
-    <title lang="zh">人世间25/58</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702131655 +0800" stop="20260702143555 +0800">
-    <title lang="zh">青春戏苑-2026-89时代之声（一）</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702143555 +0800" stop="20260702171300 +0800">
-    <title lang="zh">青春戏苑-2026-177 评剧《骄杨》</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702171300 +0800" stop="20260702180330 +0800">
-    <title lang="zh">绝代双骄40/44</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702180330 +0800" stop="20260702190000 +0800">
-    <title lang="zh">绝代双骄41/44</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702190000 +0800" stop="20260702193000 +0800">
-    <title lang="zh">青春戏苑-2026-140七一专辑1</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702193000 +0800" stop="20260702214505 +0800">
-    <title lang="zh">中国戏曲像音像集萃-2026-31黄梅戏《江姐》</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702214505 +0800" stop="20260702223535 +0800">
-    <title lang="zh">小夫妻7/36</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702223535 +0800" stop="20260702232605 +0800">
-    <title lang="zh">小夫妻8/36</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260702232605 +0800" stop="20260703001635 +0800">
-    <title lang="zh">小夫妻9/36</title>
-    <desc />
-    <date>20260702</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703001635 +0800" stop="20260703060630 +0800">
-    <title lang="zh">青春戏苑-2026-140七一专辑1</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703060630 +0800" stop="20260703072025 +0800">
-    <title lang="zh">CCTV空中剧院-2024-145地方戏版 好戏连连看 黄梅戏《五月的鲜花》选场（精编）</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703072025 +0800" stop="20260703083525 +0800">
-    <title lang="zh">宝贝亮相吧-2025-51</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703083525 +0800" stop="20260703094725 +0800">
-    <title lang="zh">青春戏苑-2026-140七一专辑1</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703094725 +0800" stop="20260703115225 +0800">
-    <title lang="zh">青春戏苑-2026-123 粤剧《梦 红船》</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703115225 +0800" stop="20260703124255 +0800">
-    <title lang="zh">人世间26/58</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703124255 +0800" stop="20260703133325 +0800">
-    <title lang="zh">人世间27/58</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703133325 +0800" stop="20260703145225 +0800">
-    <title lang="zh">青春戏苑-2026-90时代之声（二）</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703145225 +0800" stop="20260703171300 +0800">
-    <title lang="zh">电影 现代京剧《智取威虎山》</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703171300 +0800" stop="20260703180330 +0800">
-    <title lang="zh">绝代双骄42/44</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703180330 +0800" stop="20260703190000 +0800">
-    <title lang="zh">绝代双骄43/44</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703190000 +0800" stop="20260703193000 +0800">
-    <title lang="zh">青春戏苑-2026-181七一专辑2</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703193000 +0800" stop="20260703213430 +0800">
-    <title lang="zh">青春戏苑-2026-82粉墨颂华章（二）</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703213430 +0800" stop="20260703222500 +0800">
-    <title lang="zh">小夫妻10/36</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703222500 +0800" stop="20260703231530 +0800">
-    <title lang="zh">小夫妻11/36</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260703231530 +0800" stop="20260704000600 +0800">
-    <title lang="zh">小夫妻12/36</title>
-    <desc />
-    <date>20260703</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704000600 +0800" stop="20260704060630 +0800">
-    <title lang="zh">青春戏苑-2026-181七一专辑2</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704060630 +0800" stop="20260704072040 +0800">
-    <title lang="zh">CCTV空中剧院-2025-113地方戏版 好戏连连看 越剧《伪装者》选场</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704072040 +0800" stop="20260704083540 +0800">
-    <title lang="zh">宝贝亮相吧-2025-51</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704083540 +0800" stop="20260704091740 +0800">
-    <title lang="zh">青春戏苑-2026-181七一专辑2</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704091740 +0800" stop="20260704113830 +0800">
-    <title lang="zh">青春戏苑-2026-178 多剧种《江姐》</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704113830 +0800" stop="20260704115900 +0800">
-    <title lang="zh">连环话-桃园结义</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704115900 +0800" stop="20260704124930 +0800">
-    <title lang="zh">人世间28/58</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704124930 +0800" stop="20260704134000 +0800">
-    <title lang="zh">人世间29/58</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704134000 +0800" stop="20260704145000 +0800">
-    <title lang="zh">角儿来了-2024-39尹韵风华（二）</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704145000 +0800" stop="20260704151900 +0800">
-    <title lang="zh">天下第一团-雁北耍孩儿</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704151900 +0800" stop="20260704171300 +0800">
-    <title lang="zh">电影 三笑</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704171300 +0800" stop="20260704180330 +0800">
-    <title lang="zh">绝代双骄44/44</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704180330 +0800" stop="20260704190000 +0800">
-    <title lang="zh">藏海传1/40</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704190000 +0800" stop="20260704193000 +0800">
-    <title lang="zh">口述梨园-9</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704193000 +0800" stop="20260704222210 +0800">
-    <title lang="zh">CCTV空中剧院-2026-18 京剧《秦香莲》</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704222210 +0800" stop="20260704231240 +0800">
-    <title lang="zh">小夫妻13/36</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260704231240 +0800" stop="20260705000310 +0800">
-    <title lang="zh">小夫妻14/36</title>
-    <desc />
-    <date>20260704</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705000310 +0800" stop="20260705005340 +0800">
-    <title lang="zh">小夫妻15/36</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705005340 +0800" stop="20260705060630 +0800">
-    <title lang="zh">口述梨园-9</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705060630 +0800" stop="20260705071655 +0800">
-    <title lang="zh">CCTV空中剧院-2025-115地方戏版 好戏连连看 豫剧《铁流战士》选场</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705071655 +0800" stop="20260705083155 +0800">
-    <title lang="zh">梨园闯关我挂帅-2025-50</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705083155 +0800" stop="20260705090355 +0800">
-    <title lang="zh">口述梨园-9</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705090355 +0800" stop="20260705094355 +0800">
-    <title lang="zh">青春戏苑-2025-16一梦红楼</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705094355 +0800" stop="20260705115625 +0800">
-    <title lang="zh">中国戏曲像音像集萃-2024-35龙江剧《鲜儿》</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705115625 +0800" stop="20260705124655 +0800">
-    <title lang="zh">人世间30/58</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705124655 +0800" stop="20260705133725 +0800">
-    <title lang="zh">人世间31/58</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705133725 +0800" stop="20260705144725 +0800">
-    <title lang="zh">一鸣惊人-2025-19</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705144725 +0800" stop="20260705150625 +0800">
-    <title lang="zh">连环话-桃园结义</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705150625 +0800" stop="20260705170300 +0800">
-    <title lang="zh">电影 鱼美人</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705170300 +0800" stop="20260705175330 +0800">
-    <title lang="zh">藏海传2/40</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705175330 +0800" stop="20260705185000 +0800">
-    <title lang="zh">藏海传3/40</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705185000 +0800" stop="20260705190000 +0800">
-    <title lang="zh">连环话-徐州烽烟</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705190000 +0800" stop="20260705193000 +0800">
-    <title lang="zh">口述梨园-10</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705193000 +0800" stop="20260705193800 +0800">
-    <title lang="zh">2026戏曲电影精品展播季导赏（粤剧电影-白蛇传.情）</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705193800 +0800" stop="20260705214100 +0800">
-    <title lang="zh">粤剧电影 《白蛇传.情》（精品展播）</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705214100 +0800" stop="20260705223130 +0800">
-    <title lang="zh">小夫妻16/36</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705223130 +0800" stop="20260705232200 +0800">
-    <title lang="zh">小夫妻17/36</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260705232200 +0800" stop="20260706001230 +0800">
-    <title lang="zh">小夫妻18/36</title>
-    <desc />
-    <date>20260705</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545943" start="20260706001230 +0800" stop="20260707000000 +0800">
+<programme channel="545943" start="20260706001230 +0800" stop="20260706060630 +0800">
     <title lang="zh">口述梨园-10</title>
     <desc />
     <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706060630 +0800" stop="20260706072055 +0800">
+    <title lang="zh">CCTV空中剧院-2025-114地方戏版 好戏连连看 秦腔《蔡文姬》选场</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706072055 +0800" stop="20260706083555 +0800">
+    <title lang="zh">一鸣惊人-2026-10</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706083555 +0800" stop="20260706092730 +0800">
+    <title lang="zh">口述梨园-10</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706092730 +0800" stop="20260706115010 +0800">
+    <title lang="zh">CCTV空中剧院-2025-94地方戏版 潮剧《侨批颂》</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706115010 +0800" stop="20260706124040 +0800">
+    <title lang="zh">人世间32/58</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706124040 +0800" stop="20260706133110 +0800">
+    <title lang="zh">人世间33/58</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706133110 +0800" stop="20260706145010 +0800">
+    <title lang="zh">宝贝亮相吧-2025-51</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706145010 +0800" stop="20260706171300 +0800">
+    <title lang="zh">电影 花田错</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706171300 +0800" stop="20260706180330 +0800">
+    <title lang="zh">藏海传4/40</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706180330 +0800" stop="20260706190000 +0800">
+    <title lang="zh">藏海传5/40</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706190000 +0800" stop="20260706193000 +0800">
+    <title lang="zh">青春戏苑-2026-62京剧《群英会》专辑1</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706193000 +0800" stop="20260706201140 +0800">
+    <title lang="zh">中国京剧音配像精粹-2026-45京剧《芦荡火种》（修复版）</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706201140 +0800" stop="20260706213427 +0800">
+    <title lang="zh">中国京剧音配像精粹-2026-44京剧《搜孤救孤》（修复版）</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706213427 +0800" stop="20260706222457 +0800">
+    <title lang="zh">小夫妻19/36</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706222457 +0800" stop="20260706231527 +0800">
+    <title lang="zh">小夫妻20/36</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260706231527 +0800" stop="20260707000557 +0800">
+    <title lang="zh">小夫妻21/36</title>
+    <desc />
+    <date>20260706</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707000557 +0800" stop="20260707060630 +0800">
+    <title lang="zh">青春戏苑-2026-62京剧《群英会》专辑1</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707060630 +0800" stop="20260707071635 +0800">
+    <title lang="zh">CCTV空中剧院-2025-92地方戏版 好戏连连看 汉剧《夫人城》选场</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707071635 +0800" stop="20260707083135 +0800">
+    <title lang="zh">角儿来了-2024-30豫韵常青</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707083135 +0800" stop="20260707091335 +0800">
+    <title lang="zh">青春戏苑-2026-62京剧《群英会》专辑1</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707091335 +0800" stop="20260707114220 +0800">
+    <title lang="zh">现代京剧电影《平原作战》</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707114220 +0800" stop="20260707123250 +0800">
+    <title lang="zh">人世间34/58</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707123250 +0800" stop="20260707132320 +0800">
+    <title lang="zh">人世间35/58</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707132320 +0800" stop="20260707144220 +0800">
+    <title lang="zh">梨园闯关我挂帅-2025-48</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707144220 +0800" stop="20260707171300 +0800">
+    <title lang="zh">青春戏苑-2026-196 评剧《母亲》</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707171300 +0800" stop="20260707180330 +0800">
+    <title lang="zh">藏海传6/40</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707180330 +0800" stop="20260707190000 +0800">
+    <title lang="zh">藏海传7/40</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707190000 +0800" stop="20260707193000 +0800">
+    <title lang="zh">青春戏苑-2026-51亲历·评剧《花为媒》专辑</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707193000 +0800" stop="20260707214025 +0800">
+    <title lang="zh">现代京剧电影  红灯记</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707214025 +0800" stop="20260707223055 +0800">
+    <title lang="zh">小夫妻22/36</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707223055 +0800" stop="20260707232125 +0800">
+    <title lang="zh">小夫妻23/36</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260707232125 +0800" stop="20260708001155 +0800">
+    <title lang="zh">小夫妻24/36</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708001155 +0800" stop="20260708060630 +0800">
+    <title lang="zh">青春戏苑-2026-51亲历·评剧《花为媒》专辑</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708060630 +0800" stop="20260708072040 +0800">
+    <title lang="zh">CCTV空中剧院-2025-71地方戏版 好戏连连看 评剧《花为媒》选场一</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708072040 +0800" stop="20260708083540 +0800">
+    <title lang="zh">宝贝亮相吧-2025-51</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708083540 +0800" stop="20260708091740 +0800">
+    <title lang="zh">青春戏苑-2026-51亲历·评剧《花为媒》专辑</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708091740 +0800" stop="20260708114830 +0800">
+    <title lang="zh">中国戏曲像音像集萃-2026-5京剧《十三妹》</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708114830 +0800" stop="20260708123900 +0800">
+    <title lang="zh">人世间36/58</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708123900 +0800" stop="20260708132930 +0800">
+    <title lang="zh">人世间37/58</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708132930 +0800" stop="20260708143930 +0800">
+    <title lang="zh">角儿来了-2024-30豫韵常青</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708143930 +0800" stop="20260708144930 +0800">
+    <title lang="zh">连环话-徐州烽烟</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708144930 +0800" stop="20260708151830 +0800">
+    <title lang="zh">天下第一团-雁北耍孩儿</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708151830 +0800" stop="20260708171300 +0800">
+    <title lang="zh">CCTV空中剧院-2024-172地方戏版 黄梅戏《牛郎织女》</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708171300 +0800" stop="20260708180330 +0800">
+    <title lang="zh">藏海传8/40</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708180330 +0800" stop="20260708190000 +0800">
+    <title lang="zh">藏海传9/40</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708190000 +0800" stop="20260708193000 +0800">
+    <title lang="zh">青春戏苑-2026-105豫剧《花打朝》精编专辑</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708193000 +0800" stop="20260708215820 +0800">
+    <title lang="zh">青春戏苑-2026-179 越剧《孟丽君》</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708215820 +0800" stop="20260708224850 +0800">
+    <title lang="zh">小夫妻25/36</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708224850 +0800" stop="20260708233920 +0800">
+    <title lang="zh">小夫妻26/36</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260708233920 +0800" stop="20260709002950 +0800">
+    <title lang="zh">小夫妻27/36</title>
+    <desc />
+    <date>20260708</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709002950 +0800" stop="20260709060630 +0800">
+    <title lang="zh">青春戏苑-2026-105豫剧《花打朝》精编专辑</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709060630 +0800" stop="20260709071630 +0800">
+    <title lang="zh">CCTV空中剧院-2025-91地方戏版 好戏连连看 越剧《青衫·红袍》选场</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709071630 +0800" stop="20260709083130 +0800">
+    <title lang="zh">梨园闯关我挂帅-2025-50</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709083130 +0800" stop="20260709091330 +0800">
+    <title lang="zh">青春戏苑-2026-105豫剧《花打朝》精编专辑</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709091330 +0800" stop="20260709113600 +0800">
+    <title lang="zh">CCTV空中剧院-2025-96地方戏版 豫剧《铁流战士》</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709113600 +0800" stop="20260709122630 +0800">
+    <title lang="zh">人世间38/58</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709122630 +0800" stop="20260709131700 +0800">
+    <title lang="zh">人世间39/58</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709131700 +0800" stop="20260709143600 +0800">
+    <title lang="zh">一鸣惊人-2026-10</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709143600 +0800" stop="20260709171300 +0800">
+    <title lang="zh">CCTV空中剧院-2026-2   京剧《战马超》《秦琼卖马》《二进宫》</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709171300 +0800" stop="20260709180330 +0800">
+    <title lang="zh">藏海传10/40</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709180330 +0800" stop="20260709190000 +0800">
+    <title lang="zh">藏海传11/40</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709190000 +0800" stop="20260709193000 +0800">
+    <title lang="zh">青春戏苑-2026-183越剧《五女拜寿》专辑1</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709193000 +0800" stop="20260709214830 +0800">
+    <title lang="zh">中国戏曲像音像集萃-2026-43秦腔《再续红梅缘》</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709214830 +0800" stop="20260709223900 +0800">
+    <title lang="zh">小夫妻28/36</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709223900 +0800" stop="20260709232930 +0800">
+    <title lang="zh">小夫妻29/36</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260709232930 +0800" stop="20260710002000 +0800">
+    <title lang="zh">小夫妻30/36</title>
+    <desc />
+    <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710002000 +0800" stop="20260710060630 +0800">
+    <title lang="zh">青春戏苑-2026-183越剧《五女拜寿》专辑1</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710060630 +0800" stop="20260710071755 +0800">
+    <title lang="zh">CCTV空中剧院-2024-159地方戏版 好戏连连看 川剧折子戏专场(精编)</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710071755 +0800" stop="20260710083255 +0800">
+    <title lang="zh">角儿来了-2024-30豫韵常青</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710083255 +0800" stop="20260710091455 +0800">
+    <title lang="zh">青春戏苑-2026-183越剧《五女拜寿》专辑1</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710091455 +0800" stop="20260710113635 +0800">
+    <title lang="zh">CCTV空中剧院-2025-64地方戏版 赣南采茶戏《一个人的长征》</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710113635 +0800" stop="20260710115705 +0800">
+    <title lang="zh">连环话-徐州烽烟</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710115705 +0800" stop="20260710124735 +0800">
+    <title lang="zh">人世间40/58</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710124735 +0800" stop="20260710133805 +0800">
+    <title lang="zh">人世间41/58</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710133805 +0800" stop="20260710145705 +0800">
+    <title lang="zh">宝贝亮相吧-2025-52</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710145705 +0800" stop="20260710171300 +0800">
+    <title lang="zh">京剧电影工程 乾坤福寿镜</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710171300 +0800" stop="20260710180330 +0800">
+    <title lang="zh">藏海传12/40</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710180330 +0800" stop="20260710190000 +0800">
+    <title lang="zh">藏海传13/40</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710190000 +0800" stop="20260710193000 +0800">
+    <title lang="zh">青春戏苑-2026-184越剧《五女拜寿》专辑2</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710193000 +0800" stop="20260710213230 +0800">
+    <title lang="zh">青春戏苑-2026-19“正华年” 总台首届青年京剧演员大会集萃（二）</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710213230 +0800" stop="20260710222300 +0800">
+    <title lang="zh">小夫妻31/36</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710222300 +0800" stop="20260710231330 +0800">
+    <title lang="zh">小夫妻32/36</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260710231330 +0800" stop="20260711000400 +0800">
+    <title lang="zh">小夫妻33/36</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711000400 +0800" stop="20260711060630 +0800">
+    <title lang="zh">青春戏苑-2026-184越剧《五女拜寿》专辑2</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711060630 +0800" stop="20260711072030 +0800">
+    <title lang="zh">青春戏苑-2026-175 越剧《风雪渔樵记》选场（一）</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711072030 +0800" stop="20260711083530 +0800">
+    <title lang="zh">宝贝亮相吧-2025-52</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711083530 +0800" stop="20260711091730 +0800">
+    <title lang="zh">青春戏苑-2026-184越剧《五女拜寿》专辑2</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711091730 +0800" stop="20260711115100 +0800">
+    <title lang="zh">中国戏曲像音像集萃-2026-10花鼓戏《夫子正传》</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711115100 +0800" stop="20260711124130 +0800">
+    <title lang="zh">人世间42/58</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711124130 +0800" stop="20260711133200 +0800">
+    <title lang="zh">人世间43/58</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711133200 +0800" stop="20260711144200 +0800">
+    <title lang="zh">角儿来了-2024-30豫韵常青</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711144200 +0800" stop="20260711145200 +0800">
+    <title lang="zh">连环话-徐州烽烟</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711145200 +0800" stop="20260711151600 +0800">
+    <title lang="zh">异曲同“功”-1</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711151600 +0800" stop="20260711171300 +0800">
+    <title lang="zh">电影 七仙女</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711171300 +0800" stop="20260711180330 +0800">
+    <title lang="zh">藏海传14/40</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711180330 +0800" stop="20260711190000 +0800">
+    <title lang="zh">藏海传15/40</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711190000 +0800" stop="20260711193000 +0800">
+    <title lang="zh">青春戏苑-2026-185溯光·京剧《辕门斩子》专辑</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711193000 +0800" stop="20260711215250 +0800">
+    <title lang="zh">CCTV空中剧院-2026-91津彩七秩绽华章 京剧演唱会</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711215250 +0800" stop="20260711224320 +0800">
+    <title lang="zh">小夫妻34/36</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711224320 +0800" stop="20260711233350 +0800">
+    <title lang="zh">小夫妻35/36</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260711233350 +0800" stop="20260712002420 +0800">
+    <title lang="zh">小夫妻36/36</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712002420 +0800" stop="20260712060630 +0800">
+    <title lang="zh">青春戏苑-2026-185溯光·京剧《辕门斩子》专辑</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712060630 +0800" stop="20260712071855 +0800">
+    <title lang="zh">青春戏苑-2026-176 越剧《风雪渔樵记》选场（二）</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712071855 +0800" stop="20260712083355 +0800">
+    <title lang="zh">梨园闯关我挂帅-2025-52</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712083355 +0800" stop="20260712090555 +0800">
+    <title lang="zh">青春戏苑-2026-185溯光·京剧《辕门斩子》专辑</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712090555 +0800" stop="20260712092125 +0800">
+    <title lang="zh">四时花开-荷花篇</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712092125 +0800" stop="20260712112140 +0800">
+    <title lang="zh">电影双凤奇缘</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712112140 +0800" stop="20260712121210 +0800">
+    <title lang="zh">人世间44/58</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712121210 +0800" stop="20260712130240 +0800">
+    <title lang="zh">人世间45/58</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712130240 +0800" stop="20260712142140 +0800">
+    <title lang="zh">一鸣惊人-2026-10</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712142140 +0800" stop="20260712170300 +0800">
+    <title lang="zh">CCTV空中剧院-2026-4 越剧《春香传》</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712170300 +0800" stop="20260712175330 +0800">
+    <title lang="zh">藏海传16/40</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712175330 +0800" stop="20260712185000 +0800">
+    <title lang="zh">藏海传17/40</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712185000 +0800" stop="20260712190000 +0800">
+    <title lang="zh">连环话-千里走单骑</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712190000 +0800" stop="20260712193000 +0800">
+    <title lang="zh">青春戏苑-2026-58京剧《秦香莲》专辑2</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712193000 +0800" stop="20260712193800 +0800">
+    <title lang="zh">2026戏曲电影精品展播季导赏（昆剧电影-牡丹亭）</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712193800 +0800" stop="20260712215050 +0800">
+    <title lang="zh">昆剧电影  牡丹亭（精品展播）</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712215050 +0800" stop="20260712224120 +0800">
+    <title lang="zh">承欢记1/37</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712224120 +0800" stop="20260712233150 +0800">
+    <title lang="zh">承欢记2/37</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545943" start="20260712233150 +0800" stop="20260713000000 +0800">
+    <title lang="zh">承欢记3/37</title>
+    <desc />
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
