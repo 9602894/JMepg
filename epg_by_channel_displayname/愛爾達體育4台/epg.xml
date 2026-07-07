@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457246" start="20260706000000 +0800" stop="20260706030000 +0800">
-    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260706030000 +0800" stop="20260706070000 +0800">
-    <title lang="zh">LIVE WTT大滿貫賽 美國站 單打四強 7/6(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260706070000 +0800" stop="20260706093000 +0800">
-    <title lang="zh">115年全國社區學生棒球大賽(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260706093000 +0800" stop="20260706123000 +0800">
-    <title lang="zh">LIVE MLB 紅襪 VS 天使 例行賽 7/6(原音)(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260706123000 +0800" stop="20260706153000 +0800">
-    <title lang="zh">WTT大滿貫賽 美國站 單打四強 7/6(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260706153000 +0800" stop="20260706180000 +0800">
-    <title lang="zh">IFSC世界運動攀登系列賽 先鋒賽 吳江站 準決賽(原音)(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260706180000 +0800" stop="20260706233000 +0800">
-    <title lang="zh">LIVE 2026 環法自由車大賽 第3日 高山賽(原音)(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260706233000 +0800" stop="20260707000000 +0800">
-    <title lang="zh">2026 BWF世界羽球雜誌#5 冠軍基因 金慧貞/金元昊(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457246" start="20260707000000 +0800" stop="20260707030000 +0800">
     <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽(普)</title>
     <desc />
@@ -747,10 +675,100 @@
     </audio>
   </programme>
   
-<programme channel="457246" start="20260712220000 +0800" stop="20260713000000 +0800">
+<programme channel="457246" start="20260712220000 +0800" stop="20260713010000 +0800">
     <title lang="zh">國際大學菁英棒球賽 南韓 VS 日本 7/12(普)</title>
     <desc />
     <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713010000 +0800" stop="20260713040000 +0800">
+    <title lang="zh">國際大學菁英棒球賽 美國 VS 中華 7/12(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713040000 +0800" stop="20260713070000 +0800">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713070000 +0800" stop="20260713093000 +0800">
+    <title lang="zh">115年全國社區學生棒球大賽(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713093000 +0800" stop="20260713123000 +0800">
+    <title lang="zh">國際大學菁英棒球賽 美國 VS 中華 7/12(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713123000 +0800" stop="20260713153000 +0800">
+    <title lang="zh">LIVE 國際大學菁英棒球賽 美國 VS 日本 7/13(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713153000 +0800" stop="20260713160000 +0800">
+    <title lang="zh">電動方程式 賽道零距離S3 #1 美國夢(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713160000 +0800" stop="20260713183000 +0800">
+    <title lang="zh">國際大學菁英棒球賽 美國 VS 日本 7/13(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713183000 +0800" stop="20260713213000 +0800">
+    <title lang="zh">LIVE 國際大學菁英棒球賽 中華 VS 南韓 7/13(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713213000 +0800" stop="20260713220000 +0800">
+    <title lang="zh">電動方程式 賽道零距離S3 #2 德國雄心(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260713220000 +0800" stop="20260714000000 +0800">
+    <title lang="zh">國際大學菁英棒球賽 美國 VS 日本 7/13(普)</title>
+    <desc />
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

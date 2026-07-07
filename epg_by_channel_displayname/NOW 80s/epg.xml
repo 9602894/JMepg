@@ -1,113 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="430251" start="20260706010000 +0800" stop="20260706030000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706030000 +0800" stop="20260706050000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706050000 +0800" stop="20260706060000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706060000 +0800" stop="20260706080000 +0800">
-    <title lang="zh">Straight Up 80s Hits!</title>
-    <desc>No nonsense, just straight up 80s hits from the most iconic decade in music</desc>
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706080000 +0800" stop="20260706100000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706100000 +0800" stop="20260706120000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706120000 +0800" stop="20260706140000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706140000 +0800" stop="20260706160000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706160000 +0800" stop="20260706180000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706180000 +0800" stop="20260706200000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706200000 +0800" stop="20260706220000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430251" start="20260706220000 +0800" stop="20260707000000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="430251" start="20260707000000 +0800" stop="20260707020000 +0800">
     <title lang="zh">Coming Soon</title>
     <desc />
@@ -828,10 +720,127 @@
     </audio>
   </programme>
   
-<programme channel="430251" start="20260712230000 +0800" stop="20260713000000 +0800">
+<programme channel="430251" start="20260712230000 +0800" stop="20260713010000 +0800">
     <title lang="zh">Songs That Ruled The 80s!</title>
     <desc>These are the songs that defined the decade and are still on everyones playlists!</desc>
     <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713010000 +0800" stop="20260713030000 +0800">
+    <title lang="zh">80s Mega-Stars!</title>
+    <desc>They ruled the charts and graced every magazine cover across the globe! These are the Megastars of the 80s</desc>
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713030000 +0800" stop="20260713040000 +0800">
+    <title lang="zh">80s Movie Magic!</title>
+    <desc>The 80s brought us some of the biggest movies with the coolest soundtracks! Stay tuned for blockbuster hits.</desc>
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713040000 +0800" stop="20260713060000 +0800">
+    <title lang="zh">80s Air Guitar Anthems!</title>
+    <desc>Get your air guitars at the ready and get ready to rock to the biggest sounds of the 80s!</desc>
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713060000 +0800" stop="20260713070000 +0800">
+    <title lang="zh">Biggest Hits Of 1983!</title>
+    <desc>Iconic hits from 1983! Nostalgia guaranteed!</desc>
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713070000 +0800" stop="20260713090000 +0800">
+    <title lang="zh">Ultimate 80s Love Songs!</title>
+    <desc>A swoon-worthy collection of the biggest love songs that ruled the 80s</desc>
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713090000 +0800" stop="20260713110000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713110000 +0800" stop="20260713130000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713130000 +0800" stop="20260713150000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713150000 +0800" stop="20260713170000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713170000 +0800" stop="20260713190000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713190000 +0800" stop="20260713210000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713210000 +0800" stop="20260713230000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430251" start="20260713230000 +0800" stop="20260714000000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

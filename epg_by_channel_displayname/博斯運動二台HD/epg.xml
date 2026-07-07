@@ -1,86 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457256" start="20260706000000 +0800" stop="20260706040000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽(2號球場)DAY71800-0400(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457256" start="20260706040000 +0800" stop="20260706060000 +0800">
-    <title lang="zh">2025-26歐洲籃球聯賽 季後賽(2) 摩納哥 VS 奧林匹亞科斯(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457256" start="20260706060000 +0800" stop="20260706080000 +0800">
-    <title lang="zh">2025-26亞足聯女子冠軍聯賽 B組預賽(5)東孟加拉 vs拿薩夫(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457256" start="20260706080000 +0800" stop="20260706100000 +0800">
-    <title lang="zh">2025-26台灣企業甲級足球聯賽 第19輪 台灣電力 vs 台中FUTURO(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457256" start="20260706100000 +0800" stop="20260706120000 +0800">
-    <title lang="zh">2025-26歐洲籃球聯賽 季後賽(2) 摩納哥 VS 奧林匹亞科斯(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457256" start="20260706120000 +0800" stop="20260706140000 +0800">
-    <title lang="zh">2025-26亞足聯女子冠軍聯賽 B組預賽(5)東孟加拉 vs拿薩夫(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457256" start="20260706140000 +0800" stop="20260706160000 +0800">
-    <title lang="zh">2025-26台灣企業甲級足球聯賽 第19輪 台灣電力 vs 台中FUTURO(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457256" start="20260706160000 +0800" stop="20260706180000 +0800">
-    <title lang="zh">2025-26歐洲籃球聯賽 季後賽(2) 摩納哥 VS 奧林匹亞科斯(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457256" start="20260706180000 +0800" stop="20260707000000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽(2號球場)DAY81800-0400(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457256" start="20260707000000 +0800" stop="20260707040000 +0800">
     <title lang="zh">LIVE2026溫布頓網球錦標賽(2號球場)DAY81800-0400(普)</title>
     <desc />
@@ -715,6 +634,114 @@
     <title lang="zh">2025-26歐洲籃球聯賽 第20輪(1)費內巴切vs奧林匹亞科斯(普)</title>
     <desc />
     <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713000000 +0800" stop="20260713020000 +0800">
+    <title lang="zh">2025-26亞足聯女子冠軍聯賽 C組預賽(6)水原 vs 東京綠茵美人隊(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713020000 +0800" stop="20260713040000 +0800">
+    <title lang="zh">2025-26台灣木蘭足球聯賽 第12輪(1) 花蓮女足 vs臺中櫻花(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713040000 +0800" stop="20260713060000 +0800">
+    <title lang="zh">2025-26歐洲籃球聯賽 第20輪(1)費內巴切vs奧林匹亞科斯(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713060000 +0800" stop="20260713080000 +0800">
+    <title lang="zh">2025-26亞足聯女子冠軍聯賽 C組預賽(6)水原 vs 東京綠茵美人隊(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713080000 +0800" stop="20260713100000 +0800">
+    <title lang="zh">2025-26台灣木蘭足球聯賽 第12輪(1) 花蓮女足 vs臺中櫻花(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713100000 +0800" stop="20260713120000 +0800">
+    <title lang="zh">2025-26歐洲籃球聯賽 第20輪(1)費內巴切vs奧林匹亞科斯(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713120000 +0800" stop="20260713140000 +0800">
+    <title lang="zh">2025-26亞足聯女子冠軍聯賽 C組預賽(6)水原 vs 東京綠茵美人隊(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713140000 +0800" stop="20260713160000 +0800">
+    <title lang="zh">2025-26台灣木蘭足球聯賽 第12輪(1) 花蓮女足 vs臺中櫻花(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713160000 +0800" stop="20260713180000 +0800">
+    <title lang="zh">2025-26歐洲籃球聯賽 第20輪(1)費內巴切vs奧林匹亞科斯(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713180000 +0800" stop="20260713200000 +0800">
+    <title lang="zh">2025-26亞足聯女子冠軍聯賽8強(1)東京綠茵美人隊vs公馬內湖(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713200000 +0800" stop="20260713220000 +0800">
+    <title lang="zh">台灣木蘭足球聯賽 第13輪 花蓮女足vs陽信北競(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457256" start="20260713220000 +0800" stop="20260714000000 +0800">
+    <title lang="zh">2025-26歐洲籃球聯賽 第20輪(2)波隆那vs考納斯綠林(普)</title>
+    <desc />
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

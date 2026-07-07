@@ -1,126 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544404" start="20260706065800 +0800" stop="20260706070000 +0800">
-    <title lang="zh">全天节目导视</title>
+<programme channel="544404" start="20260707070000 +0800" stop="20260707072400 +0800">
+    <title lang="zh">健康绵阳</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544404" start="20260706070000 +0800" stop="20260706072400 +0800">
-    <title lang="zh">健康绵阳(重播)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544404" start="20260706072400 +0800" stop="20260706075800 +0800">
+<programme channel="544404" start="20260707072400 +0800" stop="20260707075800 +0800">
     <title lang="zh">看中国</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544404" start="20260706075800 +0800" stop="20260706083200 +0800">
+<programme channel="544404" start="20260707075800 +0800" stop="20260707083200 +0800">
     <title lang="zh">奋斗(首播)</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544404" start="20260706083200 +0800" stop="20260706123500 +0800">
+<programme channel="544404" start="20260707083200 +0800" stop="20260707123500 +0800">
     <title lang="zh">多彩剧场</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544404" start="20260706123500 +0800" stop="20260706125500 +0800">
-    <title lang="zh">国际时尚汇(重播)</title>
+<programme channel="544404" start="20260707123500 +0800" stop="20260707140000 +0800">
+    <title lang="zh">国际时尚汇</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544404" start="20260706125500 +0800" stop="20260706133500 +0800">
+<programme channel="544404" start="20260707140000 +0800" stop="20260707162000 +0800">
+    <title lang="zh">机器检修</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544404" start="20260707162000 +0800" stop="20260707165600 +0800">
+    <title lang="zh">传奇</title>
+    <desc />
+    <date>20260707</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544404" start="20260707165600 +0800" stop="20260707175500 +0800">
     <title lang="zh">资料栏目</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544404" start="20260706133500 +0800" stop="20260706162000 +0800">
-    <title lang="zh">青春剧场</title>
+<programme channel="544404" start="20260707175500 +0800" stop="20260707182500 +0800">
+    <title lang="zh">文化中国</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544404" start="20260706162000 +0800" stop="20260706173000 +0800">
-    <title lang="zh">传奇(首播)</title>
+<programme channel="544404" start="20260707182500 +0800" stop="20260707190000 +0800">
+    <title lang="zh">快乐星球</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544404" start="20260706173000 +0800" stop="20260706175500 +0800">
-    <title lang="zh">乡韵绵州</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544404" start="20260706175500 +0800" stop="20260706182500 +0800">
-    <title lang="zh">文化中国(重播)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544404" start="20260706182500 +0800" stop="20260706210000 +0800">
-    <title lang="zh">快乐星球(首播)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544404" start="20260706210000 +0800" stop="20260706221000 +0800">
+<programme channel="544404" start="20260707190000 +0800" stop="20260707221000 +0800">
     <title lang="zh">剧乐绵州剧场</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544404" start="20260706221000 +0800" stop="20260707000000 +0800">
+<programme channel="544404" start="20260707221000 +0800" stop="20260708000000 +0800">
     <title lang="zh">大片品鉴汇</title>
     <desc />
-    <date>20260706</date>
+    <date>20260707</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

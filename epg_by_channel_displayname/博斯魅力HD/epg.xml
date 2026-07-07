@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457250" start="20260706000000 +0800" stop="20260706040000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY7 十六強(一號球場)2000-0400(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260706040000 +0800" stop="20260706060000 +0800">
-    <title lang="zh">2026巴特洪堡女網賽4強RUS vs MUC(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260706060000 +0800" stop="20260706080000 +0800">
-    <title lang="zh">2026柏林女網賽16強EAL vs RYB(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260706080000 +0800" stop="20260706100000 +0800">
-    <title lang="zh">2026史特拉斯堡女網賽16強ZHA vs PAR(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260706100000 +0800" stop="20260706120000 +0800">
-    <title lang="zh">2026巴特洪堡女網賽4強RUS vs MUC(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260706120000 +0800" stop="20260706140000 +0800">
-    <title lang="zh">2026柏林女網賽16強EAL vs RYB(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260706140000 +0800" stop="20260706200000 +0800">
-    <title lang="zh">首播2026溫布頓網球錦標賽DAY7 十六強(一號球場)(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260706200000 +0800" stop="20260707000000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY8 十六強(一號球場)2000-0400(普)</title>
-    <desc />
-    <date>20260706</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457250" start="20260707000000 +0800" stop="20260707040000 +0800">
     <title lang="zh">LIVE2026溫布頓網球錦標賽DAY8 十六強(一號球場)2000-0400(普)</title>
     <desc />
@@ -643,6 +571,114 @@
     <title lang="zh">2026史特拉斯堡女網賽決賽MBO vs NAV(普)</title>
     <desc />
     <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713000000 +0800" stop="20260713020000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強ALE vs AND(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713020000 +0800" stop="20260713033000 +0800">
+    <title lang="zh">2026倫敦女網賽4強BOU vs VEK0315(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713033000 +0800" stop="20260713050000 +0800">
+    <title lang="zh">2026倫敦女網賽4強RAD vs JOV(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713050000 +0800" stop="20260713080000 +0800">
+    <title lang="zh">2026史特拉斯堡女網賽決賽MBO vs NAV(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713080000 +0800" stop="20260713100000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強ALE vs AND(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713100000 +0800" stop="20260713111500 +0800">
+    <title lang="zh">2026倫敦女網賽4強BOU vs VEK1115(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713111500 +0800" stop="20260713130000 +0800">
+    <title lang="zh">2026倫敦女網賽4強RAD vs JOV(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713130000 +0800" stop="20260713160000 +0800">
+    <title lang="zh">2026史特拉斯堡女網賽決賽MBO vs NAV(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713160000 +0800" stop="20260713180000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713180000 +0800" stop="20260713200000 +0800">
+    <title lang="zh">2026倫敦女網賽決賽VEK vs RAD2015(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713200000 +0800" stop="20260713213000 +0800">
+    <title lang="zh">2026林茲女網賽16強PLI vs ALE(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260713213000 +0800" stop="20260714000000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強ZHE vs TAU(普)</title>
+    <desc />
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
