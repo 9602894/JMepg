@@ -1,158 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554360" start="20260708001800 +0800" stop="20260708055500 +0800">
-    <title lang="zh">再见</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708055500 +0800" stop="20260708060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708060000 +0800" stop="20260708063500 +0800">
-    <title lang="zh">风车剧场</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708063500 +0800" stop="20260708071500 +0800">
-    <title lang="zh">动画大放映</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708071500 +0800" stop="20260708080000 +0800">
-    <title lang="zh">大风车:动物好伙伴</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708080000 +0800" stop="20260708081500 +0800">
-    <title lang="zh">新闻袋袋裤</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708081500 +0800" stop="20260708084500 +0800">
-    <title lang="zh">小小智慧树</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708084500 +0800" stop="20260708120000 +0800">
-    <title lang="zh">动画大放映</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708120000 +0800" stop="20260708143000 +0800">
-    <title lang="zh">动漫世界</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708143000 +0800" stop="20260708150500 +0800">
-    <title lang="zh">动画大放映</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708150500 +0800" stop="20260708171500 +0800">
-    <title lang="zh">动画大放映</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708171500 +0800" stop="20260708180000 +0800">
-    <title lang="zh">大风车:看我72变</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708180000 +0800" stop="20260708183500 +0800">
-    <title lang="zh">智慧树</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708183500 +0800" stop="20260708215000 +0800">
-    <title lang="zh">动画大放映</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708215000 +0800" stop="20260708223800 +0800">
-    <title lang="zh">归队(16)</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708223800 +0800" stop="20260708232800 +0800">
-    <title lang="zh">归队(17)</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554360" start="20260708232800 +0800" stop="20260709001800 +0800">
-    <title lang="zh">归队(18)</title>
-    <desc />
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="554360" start="20260709001800 +0800" stop="20260709055500 +0800">
     <title lang="zh">再见</title>
     <desc />
@@ -297,10 +144,163 @@
     </audio>
   </programme>
   
-<programme channel="554360" start="20260709232800 +0800" stop="20260710000000 +0800">
+<programme channel="554360" start="20260709232800 +0800" stop="20260710001800 +0800">
     <title lang="zh">归队(21)</title>
     <desc />
     <date>20260709</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710001800 +0800" stop="20260710055500 +0800">
+    <title lang="zh">再见</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710055500 +0800" stop="20260710060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710060000 +0800" stop="20260710063500 +0800">
+    <title lang="zh">风车剧场</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710063500 +0800" stop="20260710071500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710071500 +0800" stop="20260710080000 +0800">
+    <title lang="zh">动感特区</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710080000 +0800" stop="20260710081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710081500 +0800" stop="20260710084500 +0800">
+    <title lang="zh">小小智慧树</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710084500 +0800" stop="20260710120000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710120000 +0800" stop="20260710143000 +0800">
+    <title lang="zh">动漫世界</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710143000 +0800" stop="20260710150500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710150500 +0800" stop="20260710171500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710171500 +0800" stop="20260710180000 +0800">
+    <title lang="zh">快乐大巴</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710180000 +0800" stop="20260710183500 +0800">
+    <title lang="zh">智慧树</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710183500 +0800" stop="20260710215000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710215000 +0800" stop="20260710223800 +0800">
+    <title lang="zh">归队(22)</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710223800 +0800" stop="20260710232800 +0800">
+    <title lang="zh">归队(23)</title>
+    <desc />
+    <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554360" start="20260710232800 +0800" stop="20260711000000 +0800">
+    <title lang="zh">归队(24)</title>
+    <desc />
+    <date>20260710</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

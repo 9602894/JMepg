@@ -1,113 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456819" start="20260708000000 +0800" stop="20260708013000 +0800">
-    <title lang="zh">2026英國公開賽 四強(1)SOU vs SZE</title>
-    <desc>2026英國公開賽 四強(1)SOU vs SZE</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708013000 +0800" stop="20260708030000 +0800">
-    <title lang="zh">2025河內公開賽 4強(2)NEU vs VER</title>
-    <desc>2025河內公開賽 4強(2)NEU vs VER</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708030000 +0800" stop="20260708060000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 WIL vs AND</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 16強 WIL vs AND</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708060000 +0800" stop="20260708073000 +0800">
-    <title lang="zh">2026英國公開賽 四強(1)SOU vs SZE</title>
-    <desc>2026英國公開賽 四強(1)SOU vs SZE</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708073000 +0800" stop="20260708090000 +0800">
-    <title lang="zh">2025河內公開賽 4強(2)NEU vs VER</title>
-    <desc>2025河內公開賽 4強(2)NEU vs VER</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708090000 +0800" stop="20260708120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 WIL vs AND</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 16強 WIL vs AND</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708120000 +0800" stop="20260708133000 +0800">
-    <title lang="zh">2026英國公開賽 四強(1)SOU vs SZE</title>
-    <desc>2026英國公開賽 四強(1)SOU vs SZE</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708133000 +0800" stop="20260708150000 +0800">
-    <title lang="zh">2025河內公開賽 4強(2)NEU vs VER</title>
-    <desc>2025河內公開賽 4強(2)NEU vs VER</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708150000 +0800" stop="20260708180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 WIL vs AND</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 16強 WIL vs AND</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708180000 +0800" stop="20260708193000 +0800">
-    <title lang="zh">2026英國公開賽 四強(2)FIL vs SHA</title>
-    <desc>2026英國公開賽 四強(2)FIL vs SHA</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708193000 +0800" stop="20260708210000 +0800">
-    <title lang="zh">2025河內公開賽 決賽 NEU vs LAB</title>
-    <desc>2025河內公開賽 決賽 NEU vs LAB</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456819" start="20260708210000 +0800" stop="20260709000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 16強 WIL vs DIN</title>
-    <desc>2024-25司諾克賽季 司諾克大師賽 16強 WIL vs DIN</desc>
-    <date>20260708</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456819" start="20260709000000 +0800" stop="20260709013000 +0800">
     <title lang="zh">2026英國公開賽 四強(2)FIL vs SHA</title>
     <desc>2026英國公開賽 四強(2)FIL vs SHA</desc>
@@ -837,7 +729,7 @@
     </audio>
   </programme>
   
-<programme channel="456819" start="20260715000000 +0800" stop="20260716000000 +0800">
+<programme channel="456819" start="20260715000000 +0800" stop="20260715013000 +0800">
     <title lang="zh">2026歐洲公開賽 第二天(4)VRH vs DOC</title>
     <desc>2026歐洲公開賽 第二天(4)VRH vs DOC</desc>
     <date>20260715</date>
@@ -846,109 +738,109 @@
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708000000 +0800" stop="20260708013000 +0800">
-    <title lang="zh">2026歐洲公開賽 第二天(4)VRH vs DOC(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715013000 +0800" stop="20260715030000 +0800">
+    <title lang="zh">2025十號球世錦賽第二天(3)MAT vs JIN</title>
+    <desc>2025十號球世錦賽第二天(3)MAT vs JIN</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708013000 +0800" stop="20260708030000 +0800">
-    <title lang="zh">2025十號球世錦賽第二天(3)MAT vs JIN(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715030000 +0800" stop="20260715060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</title>
+    <desc>2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708030000 +0800" stop="20260708043000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715060000 +0800" stop="20260715073000 +0800">
+    <title lang="zh">2026歐洲公開賽 第二天(4)VRH vs DOC</title>
+    <desc>2026歐洲公開賽 第二天(4)VRH vs DOC</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708043000 +0800" stop="20260708060000 +0800">
-    <title lang="zh">2026歐洲公開賽 第二天(4)VRH vs DOC(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715073000 +0800" stop="20260715090000 +0800">
+    <title lang="zh">2025十號球世錦賽第二天(3)MAT vs JIN</title>
+    <desc>2025十號球世錦賽第二天(3)MAT vs JIN</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708060000 +0800" stop="20260708090000 +0800">
-    <title lang="zh">2025十號球世錦賽第二天(3)MAT vs JIN(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715090000 +0800" stop="20260715120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</title>
+    <desc>2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708090000 +0800" stop="20260708120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715120000 +0800" stop="20260715133000 +0800">
+    <title lang="zh">2026歐洲公開賽 第二天(4)VRH vs DOC</title>
+    <desc>2026歐洲公開賽 第二天(4)VRH vs DOC</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708120000 +0800" stop="20260708133000 +0800">
-    <title lang="zh">2026歐洲公開賽 第二天(4)VRH vs DOC(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715133000 +0800" stop="20260715150000 +0800">
+    <title lang="zh">2025十號球世錦賽第二天(3)MAT vs JIN</title>
+    <desc>2025十號球世錦賽第二天(3)MAT vs JIN</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708133000 +0800" stop="20260708150000 +0800">
-    <title lang="zh">2025十號球世錦賽第二天(3)MAT vs JIN(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715150000 +0800" stop="20260715180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</title>
+    <desc>2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708150000 +0800" stop="20260708180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715180000 +0800" stop="20260715193000 +0800">
+    <title lang="zh">2026歐洲公開賽 第二天(5)PON vs GLO</title>
+    <desc>2026歐洲公開賽 第二天(5)PON vs GLO</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708180000 +0800" stop="20260708193000 +0800">
-    <title lang="zh">2026歐洲公開賽 第二天(5)PON vs GLO(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715193000 +0800" stop="20260715210000 +0800">
+    <title lang="zh">2025十號球世錦賽第二天(4)SHA vs ALI</title>
+    <desc>2025十號球世錦賽第二天(4)SHA vs ALI</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708193000 +0800" stop="20260708210000 +0800">
-    <title lang="zh">2025十號球世錦賽第二天(4)SHA vs ALI(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260715210000 +0800" stop="20260716000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 BRE vs HAM</title>
+    <desc>2024-25司諾克賽季 英格蘭公開賽 第一輪 BRE vs HAM</desc>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457252" start="20260708210000 +0800" stop="20260709000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 BRE vs HAM(普)</title>
-    <desc />
-    <date>20260708</date>
+<programme channel="456819" start="20260716000000 +0800" stop="20260717000000 +0800">
+    <title lang="zh">2026歐洲公開賽 第二天(5)PON vs GLO</title>
+    <desc>2026歐洲公開賽 第二天(5)PON vs GLO</desc>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -1647,109 +1539,154 @@
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708000000 +0800" stop="20260708013000 +0800">
-    <title lang="zh">2026歐洲公開賽 第二天(4)VRH vs DOC(普)</title>
+<programme channel="457252" start="20260714000000 +0800" stop="20260714010000 +0800">
+    <title lang="zh">2026歐洲公開賽 第三天(6)GOR vs WAG(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708013000 +0800" stop="20260708030000 +0800">
-    <title lang="zh">2025十號球世錦賽第二天(3)MAT vs JIN(普)</title>
+<programme channel="457252" start="20260714010000 +0800" stop="20260714020000 +0800">
+    <title lang="zh">2026歐洲公開賽 第三天(7)PEH vs BEG(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708030000 +0800" stop="20260708043000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR(普)</title>
+<programme channel="457252" start="20260714020000 +0800" stop="20260714040000 +0800">
+    <title lang="zh">2025十號球世錦賽八強NEU vs ALA(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708043000 +0800" stop="20260708060000 +0800">
-    <title lang="zh">2026歐洲公開賽 第二天(4)VRH vs DOC(普)</title>
+<programme channel="457252" start="20260714040000 +0800" stop="20260714070000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 ALL vs HIG(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708060000 +0800" stop="20260708090000 +0800">
-    <title lang="zh">2025十號球世錦賽第二天(3)MAT vs JIN(普)</title>
+<programme channel="457252" start="20260714070000 +0800" stop="20260714080000 +0800">
+    <title lang="zh">2026歐洲公開賽 第三天(6)GOR vs WAG(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708090000 +0800" stop="20260708120000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR(普)</title>
+<programme channel="457252" start="20260714080000 +0800" stop="20260714090000 +0800">
+    <title lang="zh">2026歐洲公開賽 第三天(7)PEH vs BEG(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708120000 +0800" stop="20260708133000 +0800">
-    <title lang="zh">2026歐洲公開賽 第二天(4)VRH vs DOC(普)</title>
+<programme channel="457252" start="20260714090000 +0800" stop="20260714110000 +0800">
+    <title lang="zh">2025十號球世錦賽八強NEU vs ALA(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708133000 +0800" stop="20260708150000 +0800">
-    <title lang="zh">2025十號球世錦賽第二天(3)MAT vs JIN(普)</title>
+<programme channel="457252" start="20260714110000 +0800" stop="20260714223000 +0800">
+    <title lang="zh">LIVE2026亞洲花式撞球錦標賽第五天1100-2230(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708150000 +0800" stop="20260708180000 +0800">
-    <title lang="zh">2024-25司諾克賽季 司諾克大師賽 決賽 WIL vs MUR(普)</title>
+<programme channel="457252" start="20260714223000 +0800" stop="20260715000000 +0800">
+    <title lang="zh">2026歐洲公開賽 第四天(2)SAN vs SAV(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708180000 +0800" stop="20260708193000 +0800">
-    <title lang="zh">2026歐洲公開賽 第二天(5)PON vs GLO(普)</title>
+<programme channel="457252" start="20260715000000 +0800" stop="20260715010000 +0800">
+    <title lang="zh">2026歐洲公開賽 第四天(1)HOA vs GAR(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708193000 +0800" stop="20260708210000 +0800">
-    <title lang="zh">2025十號球世錦賽第二天(4)SHA vs ALI(普)</title>
+<programme channel="457252" start="20260715010000 +0800" stop="20260715023000 +0800">
+    <title lang="zh">2026歐洲公開賽 第四天(2)SAN vs SAV(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544785" start="20260708210000 +0800" stop="20260709000000 +0800">
-    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 BRE vs HAM(普)</title>
+<programme channel="457252" start="20260715023000 +0800" stop="20260715050000 +0800">
+    <title lang="zh">2025十號球世錦賽四強KUR vs NAO(普)</title>
     <desc />
-    <date>20260708</date>
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457252" start="20260715050000 +0800" stop="20260715083000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 16強 SEL vs SI(普)</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457252" start="20260715083000 +0800" stop="20260715093000 +0800">
+    <title lang="zh">2026歐洲公開賽 第四天(1)HOA vs GAR(普)</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457252" start="20260715093000 +0800" stop="20260715110000 +0800">
+    <title lang="zh">2026歐洲公開賽 第四天(2)SAN vs SAV(普)</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457252" start="20260715110000 +0800" stop="20260715213000 +0800">
+    <title lang="zh">LIVE2026亞洲花式撞球錦標賽第六天1100-2130(普)</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457252" start="20260715213000 +0800" stop="20260716000000 +0800">
+    <title lang="zh">2025十號球世錦賽決賽MAG vs KUR(普)</title>
+    <desc />
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -2011,6 +1948,150 @@
     <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 SEL vs HIL(普)</title>
     <desc />
     <date>20260710</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711000000 +0800" stop="20260711013000 +0800">
+    <title lang="zh">2026歐洲公開賽 第三天(2)FIL vs MUJ(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711013000 +0800" stop="20260711030000 +0800">
+    <title lang="zh">2025十號球世錦賽第三天(2)MAN vs HOH(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711030000 +0800" stop="20260711043000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 OSUL vs CUO(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711043000 +0800" stop="20260711060000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 SEL vs HIL(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711060000 +0800" stop="20260711073000 +0800">
+    <title lang="zh">2026歐洲公開賽 第三天(2)FIL vs MUJ(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711073000 +0800" stop="20260711090000 +0800">
+    <title lang="zh">2025十號球世錦賽第三天(2)MAN vs HOH(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711090000 +0800" stop="20260711103000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 OSUL vs CUO(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711103000 +0800" stop="20260711120000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 SEL vs HIL(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711120000 +0800" stop="20260711133000 +0800">
+    <title lang="zh">2026歐洲公開賽 第三天(2)FIL vs MUJ(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711133000 +0800" stop="20260711150000 +0800">
+    <title lang="zh">2025十號球世錦賽第三天(2)MAN vs HOH(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711150000 +0800" stop="20260711163000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 OSUL vs CUO(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711163000 +0800" stop="20260711180000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 SEL vs HIL(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711180000 +0800" stop="20260711193000 +0800">
+    <title lang="zh">2026歐洲公開賽 第三天(3)BER vs HAE(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711193000 +0800" stop="20260711210000 +0800">
+    <title lang="zh">2025十號球世錦賽第三天(3)ALO vs SZE(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711210000 +0800" stop="20260711223000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 TRU vs LIU(普)</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544785" start="20260711223000 +0800" stop="20260712000000 +0800">
+    <title lang="zh">2024-25司諾克賽季 英格蘭公開賽 第一輪 WIL vs GRA(普)</title>
+    <desc />
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
