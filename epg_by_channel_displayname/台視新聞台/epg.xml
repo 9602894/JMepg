@@ -1,221 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456645" start="20260709000000 +0800" stop="20260709010000 +0800">
-    <title lang="zh">晚安台灣</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709010000 +0800" stop="20260709020000 +0800">
-    <title lang="zh">台視新聞世界報導</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709020000 +0800" stop="20260709030000 +0800">
-    <title lang="zh">0200台視晚間新聞</title>
-    <desc>由最專業的台視主播，每日為觀眾提供即時新聞與專業的追蹤報導</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709030000 +0800" stop="20260709040000 +0800">
-    <title lang="zh">台視夜線新聞</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709040000 +0800" stop="20260709050000 +0800">
-    <title lang="zh">國際財經脈動</title>
-    <desc>由台視專業團隊，帶你了解國際財經脈動</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709050000 +0800" stop="20260709060000 +0800">
-    <title lang="zh">台灣名人堂</title>
-    <desc>在忙碌的生活中，美食是不可或缺的！每個地方都隱藏著你我不知道的美食，跟著本節目一起挖掘道地美食，輕鬆吃遍台灣美食！</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709060000 +0800" stop="20260709070000 +0800">
-    <title lang="zh">益起看世界</title>
-    <desc>邀請您益起看世界，開拓您的國際視野</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709070000 +0800" stop="20260709080000 +0800">
-    <title lang="zh">早安您好台視新聞</title>
-    <desc>由最專業的台視新聞團隊，每天早晨為您帶來最新、最即時的國內外重要新聞。</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709080000 +0800" stop="20260709090000 +0800">
-    <title lang="zh">0800整點新聞</title>
-    <desc>台視整點新聞播報</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709090000 +0800" stop="20260709100000 +0800">
-    <title lang="zh">早安最前線</title>
-    <desc>現場即時播報當日重大財經、政治等新聞。</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709100000 +0800" stop="20260709110000 +0800">
-    <title lang="zh">台視10點新聞</title>
-    <desc>台視10點新聞</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709110000 +0800" stop="20260709115800 +0800">
-    <title lang="zh">台視1100台語新聞</title>
-    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709115800 +0800" stop="20260709130000 +0800">
-    <title lang="zh">午安您好台視新聞</title>
-    <desc>午安您好台視新聞</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709130000 +0800" stop="20260709140000 +0800">
-    <title lang="zh">1300整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709140000 +0800" stop="20260709150000 +0800">
-    <title lang="zh">1400整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709150000 +0800" stop="20260709160000 +0800">
-    <title lang="zh">1500整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709160000 +0800" stop="20260709170000 +0800">
-    <title lang="zh">1600整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709170000 +0800" stop="20260709175500 +0800">
-    <title lang="zh">1700整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709175500 +0800" stop="20260709185800 +0800">
-    <title lang="zh">台視新聞全球現場</title>
-    <desc>台視新聞全球現場</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709185800 +0800" stop="20260709195900 +0800">
-    <title lang="zh">台視晚間新聞</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709195900 +0800" stop="20260709210000 +0800">
-    <title lang="zh">2000整點新聞</title>
-    <desc>台視頻道整點新聞播報</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709210000 +0800" stop="20260709220000 +0800">
-    <title lang="zh">台視新聞世界報導</title>
-    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709220000 +0800" stop="20260709230000 +0800">
-    <title lang="zh">晚安台灣</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456645" start="20260709230000 +0800" stop="20260710000000 +0800">
-    <title lang="zh">台視夜線新聞</title>
-    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
-    <date>20260709</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456645" start="20260710000000 +0800" stop="20260710010000 +0800">
     <title lang="zh">晚安台灣</title>
     <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
@@ -1602,10 +1386,226 @@
     </audio>
   </programme>
   
-<programme channel="456645" start="20260716000000 +0800" stop="20260717000000 +0800">
+<programme channel="456645" start="20260716000000 +0800" stop="20260716010000 +0800">
     <title lang="zh">晚安台灣</title>
     <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
     <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716010000 +0800" stop="20260716020000 +0800">
+    <title lang="zh">台視新聞世界報導</title>
+    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716020000 +0800" stop="20260716030000 +0800">
+    <title lang="zh">0200台視晚間新聞</title>
+    <desc>由最專業的台視主播，每日為觀眾提供即時新聞與專業的追蹤報導</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716030000 +0800" stop="20260716040000 +0800">
+    <title lang="zh">台視夜線新聞</title>
+    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716040000 +0800" stop="20260716050000 +0800">
+    <title lang="zh">國際財經脈動</title>
+    <desc>由台視專業團隊，帶你了解國際財經脈動</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716050000 +0800" stop="20260716060000 +0800">
+    <title lang="zh">台灣名人堂</title>
+    <desc>在忙碌的生活中，美食是不可或缺的！每個地方都隱藏著你我不知道的美食，跟著本節目一起挖掘道地美食，輕鬆吃遍台灣美食！</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716060000 +0800" stop="20260716070000 +0800">
+    <title lang="zh">益起看世界</title>
+    <desc>邀請您益起看世界，開拓您的國際視野</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716070000 +0800" stop="20260716080000 +0800">
+    <title lang="zh">早安您好台視新聞</title>
+    <desc>由最專業的台視新聞團隊，每天早晨為您帶來最新、最即時的國內外重要新聞。</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716080000 +0800" stop="20260716090000 +0800">
+    <title lang="zh">0800整點新聞</title>
+    <desc>台視整點新聞播報</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716090000 +0800" stop="20260716100000 +0800">
+    <title lang="zh">早安最前線</title>
+    <desc>現場即時播報當日重大財經、政治等新聞。</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716100000 +0800" stop="20260716110000 +0800">
+    <title lang="zh">台視10點新聞</title>
+    <desc>台視10點新聞</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716110000 +0800" stop="20260716115800 +0800">
+    <title lang="zh">台視1100台語新聞</title>
+    <desc>由最專業的台視新聞團隊，為您帶來最新、最即時的國內外重要新</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716115800 +0800" stop="20260716130000 +0800">
+    <title lang="zh">午安您好台視新聞</title>
+    <desc>午安您好台視新聞</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716130000 +0800" stop="20260716140000 +0800">
+    <title lang="zh">1300整點新聞</title>
+    <desc>台視頻道整點新聞播報</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716140000 +0800" stop="20260716150000 +0800">
+    <title lang="zh">1400整點新聞</title>
+    <desc>台視頻道整點新聞播報</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716150000 +0800" stop="20260716160000 +0800">
+    <title lang="zh">1500整點新聞</title>
+    <desc>台視頻道整點新聞播報</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716160000 +0800" stop="20260716170000 +0800">
+    <title lang="zh">1600整點新聞</title>
+    <desc>台視頻道整點新聞播報</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716170000 +0800" stop="20260716175500 +0800">
+    <title lang="zh">1700整點新聞</title>
+    <desc>台視頻道整點新聞播報</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716175500 +0800" stop="20260716185800 +0800">
+    <title lang="zh">台視新聞全球現場</title>
+    <desc>台視新聞全球現場</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716185800 +0800" stop="20260716195900 +0800">
+    <title lang="zh">台視晚間新聞</title>
+    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716195900 +0800" stop="20260716210000 +0800">
+    <title lang="zh">2000整點新聞</title>
+    <desc>台視頻道整點新聞播報</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716210000 +0800" stop="20260716220000 +0800">
+    <title lang="zh">台視新聞世界報導</title>
+    <desc>由台視專業新聞團隊為您播報每日國內外重要新聞</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716220000 +0800" stop="20260716230000 +0800">
+    <title lang="zh">晚安台灣</title>
+    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260716230000 +0800" stop="20260717000000 +0800">
+    <title lang="zh">台視夜線新聞</title>
+    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456645" start="20260717000000 +0800" stop="20260718000000 +0800">
+    <title lang="zh">晚安台灣</title>
+    <desc>台視新聞團隊整合當天即時新聞，讓觀眾掌握時事脈動</desc>
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
