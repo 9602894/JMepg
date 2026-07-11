@@ -1,396 +1,387 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539682" start="20260710002700 +0800" stop="20260710005700 +0800">
+<programme channel="539682" start="20260711001200 +0800" stop="20260711004700 +0800">
+    <title lang="zh">健康生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711004700 +0800" stop="20260711011700 +0800">
     <title lang="zh">中国原产递</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539682" start="20260710005700 +0800" stop="20260710011700 +0800">
+<programme channel="539682" start="20260711011700 +0800" stop="20260711013700 +0800">
     <title lang="zh">乐享银龄</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539682" start="20260710011700 +0800" stop="20260710021100 +0800">
-    <title lang="zh">行进中国</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710021100 +0800" stop="20260710025300 +0800">
-    <title lang="zh">生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710025300 +0800" stop="20260710032500 +0800">
-    <title lang="zh">健康生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710032500 +0800" stop="20260710034500 +0800">
-    <title lang="zh">乐享银龄</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710034500 +0800" stop="20260710043900 +0800">
-    <title lang="zh">行进中国</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710043900 +0800" stop="20260710052100 +0800">
-    <title lang="zh">生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710052100 +0800" stop="20260710055300 +0800">
-    <title lang="zh">健康生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710055300 +0800" stop="20260710055500 +0800">
-    <title lang="zh">农产之美</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710055500 +0800" stop="20260710062600 +0800">
-    <title lang="zh">中国原产递</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710062600 +0800" stop="20260710070900 +0800">
-    <title lang="zh">生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710070900 +0800" stop="20260710073900 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710073900 +0800" stop="20260710081100 +0800">
-    <title lang="zh">健康生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710081100 +0800" stop="20260710084000 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710084000 +0800" stop="20260710090100 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710090100 +0800" stop="20260710092900 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710092900 +0800" stop="20260710095100 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710095100 +0800" stop="20260710101800 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710101800 +0800" stop="20260710104000 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710104000 +0800" stop="20260710110700 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710110700 +0800" stop="20260710112800 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710112800 +0800" stop="20260710115800 +0800">
-    <title lang="zh">纪录片</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710115800 +0800" stop="20260710124000 +0800">
-    <title lang="zh">生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710124000 +0800" stop="20260710134200 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710134200 +0800" stop="20260710141000 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710141000 +0800" stop="20260710143100 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710143100 +0800" stop="20260710145900 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710145900 +0800" stop="20260710152100 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710152100 +0800" stop="20260710154900 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710154900 +0800" stop="20260710161200 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710161200 +0800" stop="20260710164100 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710164100 +0800" stop="20260710172000 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710172000 +0800" stop="20260710175500 +0800">
-    <title lang="zh">纪录片</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710175500 +0800" stop="20260710191000 +0800">
-    <title lang="zh">生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710191000 +0800" stop="20260710194700 +0800">
-    <title lang="zh">健康生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710194700 +0800" stop="20260710200800 +0800">
-    <title lang="zh">乐享银龄</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710200800 +0800" stop="20260710210800 +0800">
+<programme channel="539682" start="20260711013700 +0800" stop="20260711023400 +0800">
     <title lang="zh">好品山东</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539682" start="20260710210800 +0800" stop="20260710214000 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710214000 +0800" stop="20260710221300 +0800">
-    <title lang="zh">健康生活帮</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710221300 +0800" stop="20260710224500 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710224500 +0800" stop="20260710232700 +0800">
+<programme channel="539682" start="20260711023400 +0800" stop="20260711031600 +0800">
     <title lang="zh">生活帮</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539682" start="20260710232700 +0800" stop="20260710235700 +0800">
-    <title lang="zh">中国原产递</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539682" start="20260710235700 +0800" stop="20260711000000 +0800">
+<programme channel="539682" start="20260711031600 +0800" stop="20260711035100 +0800">
     <title lang="zh">健康生活帮</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711035100 +0800" stop="20260711041100 +0800">
+    <title lang="zh">乐享银龄</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711041100 +0800" stop="20260711045300 +0800">
+    <title lang="zh">生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711045300 +0800" stop="20260711052800 +0800">
+    <title lang="zh">健康生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711052800 +0800" stop="20260711054800 +0800">
+    <title lang="zh">乐享银龄</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711054800 +0800" stop="20260711061900 +0800">
+    <title lang="zh">中国原产递</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711061900 +0800" stop="20260711070200 +0800">
+    <title lang="zh">生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711070200 +0800" stop="20260711073200 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711073200 +0800" stop="20260711080700 +0800">
+    <title lang="zh">健康生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711080700 +0800" stop="20260711083500 +0800">
+    <title lang="zh">大漠苍狼</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711083500 +0800" stop="20260711085600 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711085600 +0800" stop="20260711092400 +0800">
+    <title lang="zh">大漠苍狼</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711092400 +0800" stop="20260711094500 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711094500 +0800" stop="20260711101300 +0800">
+    <title lang="zh">大漠苍狼</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711101300 +0800" stop="20260711103400 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711103400 +0800" stop="20260711110200 +0800">
+    <title lang="zh">大漠苍狼</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711110200 +0800" stop="20260711112300 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711112300 +0800" stop="20260711115800 +0800">
+    <title lang="zh">健康生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711115800 +0800" stop="20260711124000 +0800">
+    <title lang="zh">生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711124000 +0800" stop="20260711133100 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711133100 +0800" stop="20260711135900 +0800">
+    <title lang="zh">大漠苍狼</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711135900 +0800" stop="20260711142100 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711142100 +0800" stop="20260711144800 +0800">
+    <title lang="zh">大漠苍狼</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711144800 +0800" stop="20260711151000 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711151000 +0800" stop="20260711153900 +0800">
+    <title lang="zh">大漠苍狼</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711153900 +0800" stop="20260711160100 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711160100 +0800" stop="20260711162800 +0800">
+    <title lang="zh">大漠苍狼</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711162800 +0800" stop="20260711170300 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711170300 +0800" stop="20260711175500 +0800">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711175500 +0800" stop="20260711191000 +0800">
+    <title lang="zh">生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711191000 +0800" stop="20260711194600 +0800">
+    <title lang="zh">健康生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711194600 +0800" stop="20260711201100 +0800">
+    <title lang="zh">医案</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711201100 +0800" stop="20260711211000 +0800">
+    <title lang="zh">好品山东</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711211000 +0800" stop="20260711214200 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711214200 +0800" stop="20260711221600 +0800">
+    <title lang="zh">健康生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711221600 +0800" stop="20260711230600 +0800">
+    <title lang="zh">爱拼才会赢</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711230600 +0800" stop="20260711234800 +0800">
+    <title lang="zh">生活帮</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539682" start="20260711234800 +0800" stop="20260712000000 +0800">
+    <title lang="zh">中国原产递</title>
+    <desc />
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

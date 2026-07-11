@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457240" start="20260710020000 +0800" stop="20260710024500 +0800">
-    <title lang="zh">都會節奏 10大排行榜(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710024500 +0800" stop="20260710030000 +0800">
-    <title lang="zh">金曲不停歇(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710030000 +0800" stop="20260710040000 +0800">
-    <title lang="zh">聚焦(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710040000 +0800" stop="20260710044500 +0800">
-    <title lang="zh">10大流行單曲排行榜(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710044500 +0800" stop="20260710050000 +0800">
-    <title lang="zh">金曲不停歇(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710050000 +0800" stop="20260710060000 +0800">
-    <title lang="zh">金曲不停歇(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710060000 +0800" stop="20260710070000 +0800">
-    <title lang="zh">都會潮流(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710070000 +0800" stop="20260710080000 +0800">
-    <title lang="zh">新鮮發行(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710080000 +0800" stop="20260710140000 +0800">
-    <title lang="zh">TRACE之聲(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710140000 +0800" stop="20260710200000 +0800">
-    <title lang="zh">都會情調(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457240" start="20260710200000 +0800" stop="20260711020000 +0800">
-    <title lang="zh">金曲不停歇(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457240" start="20260711020000 +0800" stop="20260711024500 +0800">
     <title lang="zh">都會節奏 10大排行榜(普)</title>
     <desc />
@@ -684,10 +585,109 @@
     </audio>
   </programme>
   
-<programme channel="457240" start="20260716200000 +0800" stop="20260717000000 +0800">
+<programme channel="457240" start="20260716200000 +0800" stop="20260717020000 +0800">
     <title lang="zh">金曲不停歇(普)</title>
     <desc />
     <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717020000 +0800" stop="20260717024500 +0800">
+    <title lang="zh">都會節奏 10大排行榜(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717024500 +0800" stop="20260717030000 +0800">
+    <title lang="zh">金曲不停歇(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717030000 +0800" stop="20260717040000 +0800">
+    <title lang="zh">聚焦(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717040000 +0800" stop="20260717044500 +0800">
+    <title lang="zh">10大流行單曲排行榜(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717044500 +0800" stop="20260717050000 +0800">
+    <title lang="zh">金曲不停歇(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717050000 +0800" stop="20260717060000 +0800">
+    <title lang="zh">金曲不停歇(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717060000 +0800" stop="20260717070000 +0800">
+    <title lang="zh">都會潮流(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717070000 +0800" stop="20260717080000 +0800">
+    <title lang="zh">新鮮發行(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717080000 +0800" stop="20260717140000 +0800">
+    <title lang="zh">TRACE之聲(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717140000 +0800" stop="20260717200000 +0800">
+    <title lang="zh">都會情調(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457240" start="20260717200000 +0800" stop="20260718000000 +0800">
+    <title lang="zh">金曲不停歇(普)</title>
+    <desc />
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

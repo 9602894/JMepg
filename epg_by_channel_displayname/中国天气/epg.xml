@@ -1,72 +1,657 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539665" start="20260710000000 +0800" stop="20260710020000 +0800">
+<programme channel="539665" start="20260711000000 +0800" stop="20260711020000 +0800">
     <title lang="zh">伴眠时段</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539665" start="20260710020000 +0800" stop="20260710062500 +0800">
+<programme channel="539665" start="20260711020000 +0800" stop="20260711062500 +0800">
     <title lang="zh">专题时段</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539665" start="20260710062500 +0800" stop="20260710065500 +0800">
+<programme channel="539665" start="20260711062500 +0800" stop="20260711065500 +0800">
     <title lang="zh">气象之美,节气茶,三农新气象</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539665" start="20260710065500 +0800" stop="20260710070600 +0800">
+<programme channel="539665" start="20260711065500 +0800" stop="20260711070600 +0800">
     <title lang="zh">四季小厨,预报服务</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539665" start="20260710070600 +0800" stop="20260710072600 +0800">
+<programme channel="539665" start="20260711070600 +0800" stop="20260711072600 +0800">
     <title lang="zh">碳中和访谈,戴云伟说节气等</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539665" start="20260710072600 +0800" stop="20260710073300 +0800">
+<programme channel="539665" start="20260711072600 +0800" stop="20260711073300 +0800">
     <title lang="zh">国内三天城市预报等</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539665" start="20260710073300 +0800" stop="20260710075500 +0800">
+<programme channel="539665" start="20260711073300 +0800" stop="20260711075500 +0800">
     <title lang="zh">碳中和动画片,古代减灾工程</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539665" start="20260710075500 +0800" stop="20260711000000 +0800">
+<programme channel="539665" start="20260711075500 +0800" stop="20260711080000 +0800">
     <title lang="zh">节气手绘,国内三天城市预报</title>
     <desc />
-    <date>20260710</date>
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711080000 +0800" stop="20260711081000 +0800">
+    <title lang="zh">气象科普短片,晨味时节等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711081000 +0800" stop="20260711083000 +0800">
+    <title lang="zh">气象服务时段,节气茶</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711083000 +0800" stop="20260711085600 +0800">
+    <title lang="zh">七天城市预报,古代减灾工程等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711085600 +0800" stop="20260711092000 +0800">
+    <title lang="zh">预报服务,中国地理探奇</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711092000 +0800" stop="20260711093000 +0800">
+    <title lang="zh">碳中和动画片,大美中国等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711093000 +0800" stop="20260711095500 +0800">
+    <title lang="zh">谈风说水</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711095500 +0800" stop="20260711100000 +0800">
+    <title lang="zh">节气手绘,国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711100000 +0800" stop="20260711102600 +0800">
+    <title lang="zh">节气故事,一分钟说健康等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711102600 +0800" stop="20260711105500 +0800">
+    <title lang="zh">小牛顿气象台,最天气等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711105500 +0800" stop="20260711110000 +0800">
+    <title lang="zh">节气手绘,国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711110000 +0800" stop="20260711113000 +0800">
+    <title lang="zh">预报服务,黄河启示录等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711113000 +0800" stop="20260711114100 +0800">
+    <title lang="zh">小云朵朵,一分钟说健康等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711114100 +0800" stop="20260711120000 +0800">
+    <title lang="zh">黄河启示录,国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711120000 +0800" stop="20260711122000 +0800">
+    <title lang="zh">碳中和动画片,我的天呐等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711122000 +0800" stop="20260711123000 +0800">
+    <title lang="zh">减灾科普短片,节气手绘等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711123000 +0800" stop="20260711124000 +0800">
+    <title lang="zh">节气茶,最天气,城市天气预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711124000 +0800" stop="20260711125600 +0800">
+    <title lang="zh">中国地理探奇,大美中国等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711125600 +0800" stop="20260711130500 +0800">
+    <title lang="zh">国际三天城市预报,晨味时节等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711130500 +0800" stop="20260711132500 +0800">
+    <title lang="zh">海之南</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711132500 +0800" stop="20260711133000 +0800">
+    <title lang="zh">一分钟说健康,生活气象指数</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711133000 +0800" stop="20260711135500 +0800">
+    <title lang="zh">城市天气预报,二十四节气</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711135500 +0800" stop="20260711140300 +0800">
+    <title lang="zh">节气手绘,国内三天城市预报等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711140300 +0800" stop="20260711142500 +0800">
+    <title lang="zh">优秀旅游城市,小云朵朵等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711142500 +0800" stop="20260711143500 +0800">
+    <title lang="zh">小牛顿气象台,我的天呐等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711143500 +0800" stop="20260711145500 +0800">
+    <title lang="zh">黄河启示录</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711145500 +0800" stop="20260711150000 +0800">
+    <title lang="zh">节气手绘,国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711150000 +0800" stop="20260711152300 +0800">
+    <title lang="zh">节气故事,气象之美等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711152300 +0800" stop="20260711153000 +0800">
+    <title lang="zh">国际三天城市预报,生活气象指数</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711153000 +0800" stop="20260711154000 +0800">
+    <title lang="zh">碳中和动画片,戴云伟说节气等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711154000 +0800" stop="20260711155600 +0800">
+    <title lang="zh">黄河启示录,小牛顿气象台</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711155600 +0800" stop="20260711160000 +0800">
+    <title lang="zh">国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711160000 +0800" stop="20260711162500 +0800">
+    <title lang="zh">优秀旅游城市,古代减灾工程</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711162500 +0800" stop="20260711163000 +0800">
+    <title lang="zh">节气手绘,生活气象指数</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711163000 +0800" stop="20260711165300 +0800">
+    <title lang="zh">最天气,节气之美,古代减灾工程</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711165300 +0800" stop="20260711170000 +0800">
+    <title lang="zh">节气茶,国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711170000 +0800" stop="20260711172000 +0800">
+    <title lang="zh">晨味时节,一分钟说健康等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711172000 +0800" stop="20260711172600 +0800">
+    <title lang="zh">碳中和访谈,小牛顿气象台</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711172600 +0800" stop="20260711175500 +0800">
+    <title lang="zh">生活气象指数,中国减灾</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711175500 +0800" stop="20260711180000 +0800">
+    <title lang="zh">一分钟说健康,国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711180000 +0800" stop="20260711181000 +0800">
+    <title lang="zh">减灾科普短片,城市天气预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711181000 +0800" stop="20260711182000 +0800">
+    <title lang="zh">节气陪你过日子</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711182000 +0800" stop="20260711183000 +0800">
+    <title lang="zh">优秀旅游城市,节气手绘等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711183000 +0800" stop="20260711185500 +0800">
+    <title lang="zh">三农新气象</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711185500 +0800" stop="20260711190000 +0800">
+    <title lang="zh">气象之美,国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711190000 +0800" stop="20260711192000 +0800">
+    <title lang="zh">海之南</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711192000 +0800" stop="20260711193000 +0800">
+    <title lang="zh">优秀旅游城市,节气手绘等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711193000 +0800" stop="20260711200000 +0800">
+    <title lang="zh">农业气象,气象科普短片等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711200000 +0800" stop="20260711203000 +0800">
+    <title lang="zh">谈风说水,节气手绘,农业气象等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711203000 +0800" stop="20260711205600 +0800">
+    <title lang="zh">联播天气预报,二十四节气</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711205600 +0800" stop="20260711210000 +0800">
+    <title lang="zh">国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711210000 +0800" stop="20260711210500 +0800">
+    <title lang="zh">城市天气预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711210500 +0800" stop="20260711211400 +0800">
+    <title lang="zh">晨味时节,小云朵朵</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711211400 +0800" stop="20260711213000 +0800">
+    <title lang="zh">气象服务时段</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711213000 +0800" stop="20260711213500 +0800">
+    <title lang="zh">农业气象,戴云伟说节气</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711213500 +0800" stop="20260711214100 +0800">
+    <title lang="zh">联播天气预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711214100 +0800" stop="20260711215600 +0800">
+    <title lang="zh">古气候探秘</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711215600 +0800" stop="20260711220000 +0800">
+    <title lang="zh">国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711220000 +0800" stop="20260711222500 +0800">
+    <title lang="zh">预报服务时段,古气候探秘</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711222500 +0800" stop="20260711223000 +0800">
+    <title lang="zh">一分钟说健康,生活气象指数</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711223000 +0800" stop="20260711225600 +0800">
+    <title lang="zh">中国减灾,小牛顿气象台</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711225600 +0800" stop="20260711230000 +0800">
+    <title lang="zh">国际三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711230000 +0800" stop="20260711233000 +0800">
+    <title lang="zh">三农新气象,节气手绘等</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711233000 +0800" stop="20260711235600 +0800">
+    <title lang="zh">谈风说水,小牛顿气象台</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711235600 +0800" stop="20260711235900 +0800">
+    <title lang="zh">国内三天城市预报</title>
+    <desc />
+    <date>20260711</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539665" start="20260711235900 +0800" stop="20260712000000 +0800">
+    <title lang="zh">节目结束</title>
+    <desc />
+    <date>20260711</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

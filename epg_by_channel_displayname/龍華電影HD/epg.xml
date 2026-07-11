@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457361" start="20260710005000 +0800" stop="20260710025000 +0800">
-    <title lang="zh">限時救援(輔15)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710025000 +0800" stop="20260710052000 +0800">
-    <title lang="zh">英雄假面：崛起(護)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710052000 +0800" stop="20260710080000 +0800">
-    <title lang="zh">四海(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710080000 +0800" stop="20260710100000 +0800">
-    <title lang="zh">女醫明妃傳(15,16) (首)(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710100000 +0800" stop="20260710120000 +0800">
-    <title lang="zh">無限復活(護)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710120000 +0800" stop="20260710141000 +0800">
-    <title lang="zh">A計劃(護)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710141000 +0800" stop="20260710161000 +0800">
-    <title lang="zh">行運超人(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710161000 +0800" stop="20260710182500 +0800">
-    <title lang="zh">失孤(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710182500 +0800" stop="20260710210000 +0800">
-    <title lang="zh">赤狐書生(護)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710210000 +0800" stop="20260710232500 +0800">
-    <title lang="zh">人潮洶湧(輔12)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457361" start="20260710232500 +0800" stop="20260711014500 +0800">
-    <title lang="zh">潛行(輔12)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457361" start="20260711014500 +0800" stop="20260711033000 +0800">
     <title lang="zh">遮天：禁區(輔12)</title>
     <desc />
@@ -684,10 +585,109 @@
     </audio>
   </programme>
   
-<programme channel="457361" start="20260716225500 +0800" stop="20260717000000 +0800">
+<programme channel="457361" start="20260716225500 +0800" stop="20260717005000 +0800">
     <title lang="zh">特殊身份(輔12)</title>
     <desc />
     <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717005000 +0800" stop="20260717034000 +0800">
+    <title lang="zh">暹羅戰士：首部曲(輔12)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717034000 +0800" stop="20260717061500 +0800">
+    <title lang="zh">交響情人夢最終樂章：後篇(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717061500 +0800" stop="20260717082500 +0800">
+    <title lang="zh">複身犯(護)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717082500 +0800" stop="20260717102500 +0800">
+    <title lang="zh">女醫明妃傳(25,26) (首)(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717102500 +0800" stop="20260717131500 +0800">
+    <title lang="zh">大稻埕(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717131500 +0800" stop="20260717150000 +0800">
+    <title lang="zh">御前夜巡使(護)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717150000 +0800" stop="20260717171500 +0800">
+    <title lang="zh">七月與安生(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717171500 +0800" stop="20260717192000 +0800">
+    <title lang="zh">倚天屠龍記之魔教教主(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717192000 +0800" stop="20260717210000 +0800">
+    <title lang="zh">畫皮：情滅(護)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717210000 +0800" stop="20260717233500 +0800">
+    <title lang="zh">魔仿犯(首)(輔15)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457361" start="20260717233500 +0800" stop="20260718000000 +0800">
+    <title lang="zh">危機航線(輔12)</title>
+    <desc />
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,50 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457255" start="20260710000000 +0800" stop="20260710020000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY11女單四強/混雙決賽1930-0200(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457255" start="20260710020000 +0800" stop="20260710080000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽DAY9 八強(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457255" start="20260710080000 +0800" stop="20260710140000 +0800">
-    <title lang="zh">首播2026溫布頓網球錦標賽DAY11(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457255" start="20260710140000 +0800" stop="20260710193000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽DAY10 八強(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457255" start="20260710193000 +0800" stop="20260711000000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY12 男單四強1930-0200(普)</title>
-    <desc />
-    <date>20260710</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457255" start="20260711000000 +0800" stop="20260711020000 +0800">
     <title lang="zh">LIVE2026溫布頓網球錦標賽DAY12 男單四強1930-0200(普)</title>
     <desc />
@@ -504,46 +459,64 @@
     </audio>
   </programme>
   
-<programme channel="544780" start="20260710000000 +0800" stop="20260710020000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY11女單四強/混雙決賽1930-0200(普)</title>
+<programme channel="457255" start="20260717000000 +0800" stop="20260717033000 +0800">
+    <title lang="zh">LIVE2026英國公開賽第一天1330-0330(普)</title>
     <desc />
-    <date>20260710</date>
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544780" start="20260710020000 +0800" stop="20260710080000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽DAY9 八強(普)</title>
+<programme channel="457255" start="20260717033000 +0800" stop="20260717060000 +0800">
+    <title lang="zh">2026美國家庭保險錦標賽第一天(普)</title>
     <desc />
-    <date>20260710</date>
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544780" start="20260710080000 +0800" stop="20260710140000 +0800">
-    <title lang="zh">首播2026溫布頓網球錦標賽DAY11(普)</title>
+<programme channel="457255" start="20260717060000 +0800" stop="20260717090000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽第一輪BLO vs ZVE0915(普)</title>
     <desc />
-    <date>20260710</date>
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544780" start="20260710140000 +0800" stop="20260710193000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽DAY10 八強(普)</title>
+<programme channel="457255" start="20260717090000 +0800" stop="20260717110000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3佩魯賈 vs 德國柏林(普)</title>
     <desc />
-    <date>20260710</date>
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544780" start="20260710193000 +0800" stop="20260711000000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY12 男單四強1930-0200(普)</title>
+<programme channel="457255" start="20260717110000 +0800" stop="20260717133000 +0800">
+    <title lang="zh">2026美國家庭保險錦標賽第一天(普)</title>
     <desc />
-    <date>20260710</date>
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457255" start="20260717133000 +0800" stop="20260717190000 +0800">
+    <title lang="zh">LIVE2026英國公開賽第二天1330-0330(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457255" start="20260717190000 +0800" stop="20260718000000 +0800">
+    <title lang="zh">LIVE2026英國公開賽第二天1330-0330(普)</title>
+    <desc />
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -675,46 +648,64 @@
     </audio>
   </programme>
   
-<programme channel="456818" start="20260710040000 +0800" stop="20260710140000 +0800">
-    <title lang="zh">首播2026溫布頓網球錦標賽(中央球場)DAY4 第二輪</title>
-    <desc>首播2026溫布頓網球錦標賽(中央球場)DAY4 第二輪</desc>
-    <date>20260710</date>
+<programme channel="544780" start="20260713000000 +0800" stop="20260713020000 +0800">
+    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY14 男單決賽2300-0200(普)</title>
+    <desc />
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260710140000 +0800" stop="20260710163000 +0800">
-    <title lang="zh">2026企業女子壘球聯賽第七周新世紀黃蜂 vs 中華U18</title>
-    <desc>2026企業女子壘球聯賽第七周新世紀黃蜂 vs 中華U18</desc>
-    <date>20260710</date>
+<programme channel="544780" start="20260713020000 +0800" stop="20260713080000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽DAY12 男單四強(普)</title>
+    <desc />
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260710163000 +0800" stop="20260710183000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG1特倫蒂諾 vs 盧布爾雅納</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG1特倫蒂諾 vs 盧布爾雅納</desc>
-    <date>20260710</date>
+<programme channel="544780" start="20260713080000 +0800" stop="20260713140000 +0800">
+    <title lang="zh">首播2026溫布頓網球錦標賽DAY14男單決賽/女雙決賽(普)</title>
+    <desc />
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260710183000 +0800" stop="20260710193000 +0800">
-    <title lang="zh">2026溫網第3天精華</title>
-    <desc>2026溫網第3天精華</desc>
-    <date>20260710</date>
+<programme channel="544780" start="20260713140000 +0800" stop="20260713190000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽DAY14女雙決賽/男單決賽(普)</title>
+    <desc />
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260710193000 +0800" stop="20260711040000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽(中央球場)DAY5 第三輪</title>
-    <desc>LIVE2026溫布頓網球錦標賽(中央球場)DAY5 第三輪</desc>
-    <date>20260710</date>
+<programme channel="544780" start="20260713190000 +0800" stop="20260713193000 +0800">
+    <title lang="zh">女壘週報 EP.7(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544780" start="20260713193000 +0800" stop="20260713213000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3安卡拉 vs 特倫蒂諾(普)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544780" start="20260713213000 +0800" stop="20260714000000 +0800">
+    <title lang="zh">2026普林瑟伯慈善菁英賽第一天(普)</title>
+    <desc />
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -999,10 +990,46 @@
     </audio>
   </programme>
   
-<programme channel="456818" start="20260716193000 +0800" stop="20260717000000 +0800">
+<programme channel="456818" start="20260716193000 +0800" stop="20260717020000 +0800">
     <title lang="zh">LIVE2026溫布頓網球錦標賽DAY11女單四強/混雙決賽</title>
     <desc>LIVE2026溫布頓網球錦標賽DAY11女單四強/混雙決賽</desc>
     <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260717020000 +0800" stop="20260717080000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽DAY9 八強</title>
+    <desc>2026溫布頓網球錦標賽DAY9 八強</desc>
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260717080000 +0800" stop="20260717140000 +0800">
+    <title lang="zh">首播2026溫布頓網球錦標賽DAY11</title>
+    <desc>首播2026溫布頓網球錦標賽DAY11</desc>
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260717140000 +0800" stop="20260717193000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽DAY10 八強</title>
+    <desc>2026溫布頓網球錦標賽DAY10 八強</desc>
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260717193000 +0800" stop="20260718000000 +0800">
+    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY12 男單四強</title>
+    <desc>LIVE2026溫布頓網球錦標賽DAY12 男單四強</desc>
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
