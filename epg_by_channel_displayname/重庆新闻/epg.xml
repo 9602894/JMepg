@@ -1,360 +1,387 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539779" start="20260711000900 +0800" stop="20260711003300 +0800">
+<programme channel="539779" start="20260712000000 +0800" stop="20260712003300 +0800">
     <title lang="zh">网罗天下</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539779" start="20260711003300 +0800" stop="20260711003800 +0800">
+<programme channel="539779" start="20260712003300 +0800" stop="20260712003800 +0800">
     <title lang="zh">天气旅游</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539779" start="20260711003800 +0800" stop="20260711005800 +0800">
+<programme channel="539779" start="20260712003800 +0800" stop="20260712005800 +0800">
     <title lang="zh">119在行动</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539779" start="20260711005800 +0800" stop="20260711015900 +0800">
+<programme channel="539779" start="20260712005800 +0800" stop="20260712014300 +0800">
     <title lang="zh">重庆发现</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539779" start="20260711015900 +0800" stop="20260711022000 +0800">
-    <title lang="zh">119在行动</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711022000 +0800" stop="20260711032000 +0800">
-    <title lang="zh">网罗天下</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711032000 +0800" stop="20260711032400 +0800">
-    <title lang="zh">鸟瞰新重庆</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711032400 +0800" stop="20260711042500 +0800">
-    <title lang="zh">重庆发现</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711042500 +0800" stop="20260711043000 +0800">
-    <title lang="zh">鸟瞰新重庆</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711043000 +0800" stop="20260711045500 +0800">
-    <title lang="zh">重庆新闻联播</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711045500 +0800" stop="20260711055500 +0800">
-    <title lang="zh">网罗天下</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711055500 +0800" stop="20260711061500 +0800">
-    <title lang="zh">119在行动</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711061500 +0800" stop="20260711062000 +0800">
-    <title lang="zh">鸟瞰新重庆</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711062000 +0800" stop="20260711065100 +0800">
-    <title lang="zh">重庆新闻联播</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711065100 +0800" stop="20260711065400 +0800">
-    <title lang="zh">鸟瞰新重庆</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711065400 +0800" stop="20260711070000 +0800">
-    <title lang="zh">早间气象</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711070000 +0800" stop="20260711080000 +0800">
-    <title lang="zh">直播重庆</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711080000 +0800" stop="20260711090000 +0800">
-    <title lang="zh">网罗天下</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711090000 +0800" stop="20260711100000 +0800">
-    <title lang="zh">630早报</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711100000 +0800" stop="20260711102900 +0800">
-    <title lang="zh">119在行动</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711102900 +0800" stop="20260711112500 +0800">
-    <title lang="zh">网罗天下</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711112500 +0800" stop="20260711114000 +0800">
-    <title lang="zh">环球视界</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711114000 +0800" stop="20260711120000 +0800">
-    <title lang="zh">119在行动</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711120000 +0800" stop="20260711130000 +0800">
-    <title lang="zh">630午报</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711130000 +0800" stop="20260711135200 +0800">
-    <title lang="zh">网罗天下</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711135200 +0800" stop="20260711140000 +0800">
-    <title lang="zh">午间气象</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711140000 +0800" stop="20260711150000 +0800">
-    <title lang="zh">重庆发现</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711150000 +0800" stop="20260711160000 +0800">
-    <title lang="zh">网罗天下</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711160000 +0800" stop="20260711170500 +0800">
-    <title lang="zh">天天630</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711170500 +0800" stop="20260711173000 +0800">
-    <title lang="zh">119在行动</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711173000 +0800" stop="20260711182200 +0800">
-    <title lang="zh">网罗天下</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711182200 +0800" stop="20260711183000 +0800">
-    <title lang="zh">区县气象</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711183000 +0800" stop="20260711200000 +0800">
-    <title lang="zh">天天630</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711200000 +0800" stop="20260711204500 +0800">
-    <title lang="zh">重庆发现</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711204500 +0800" stop="20260711210000 +0800">
+<programme channel="539779" start="20260712014300 +0800" stop="20260712015900 +0800">
     <title lang="zh">安全第一</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539779" start="20260711210000 +0800" stop="20260711220000 +0800">
+<programme channel="539779" start="20260712015900 +0800" stop="20260712022000 +0800">
+    <title lang="zh">119在行动</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712022000 +0800" stop="20260712032000 +0800">
     <title lang="zh">网罗天下</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539779" start="20260711220000 +0800" stop="20260711230000 +0800">
-    <title lang="zh">630晚报</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711230000 +0800" stop="20260711233000 +0800">
-    <title lang="zh">重庆新闻联播</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539779" start="20260711233000 +0800" stop="20260711233300 +0800">
+<programme channel="539779" start="20260712032000 +0800" stop="20260712032400 +0800">
     <title lang="zh">鸟瞰新重庆</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539779" start="20260711233300 +0800" stop="20260712000000 +0800">
+<programme channel="539779" start="20260712032400 +0800" stop="20260712041000 +0800">
+    <title lang="zh">重庆发现</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712041000 +0800" stop="20260712042500 +0800">
+    <title lang="zh">安全第一</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712042500 +0800" stop="20260712043000 +0800">
+    <title lang="zh">鸟瞰新重庆</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712043000 +0800" stop="20260712045500 +0800">
+    <title lang="zh">重庆新闻联播</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712045500 +0800" stop="20260712055500 +0800">
     <title lang="zh">网罗天下</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712055500 +0800" stop="20260712061500 +0800">
+    <title lang="zh">119在行动</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712061500 +0800" stop="20260712062000 +0800">
+    <title lang="zh">鸟瞰新重庆</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712062000 +0800" stop="20260712064500 +0800">
+    <title lang="zh">重庆新闻联播</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712064500 +0800" stop="20260712065400 +0800">
+    <title lang="zh">鸟瞰新重庆</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712065400 +0800" stop="20260712070000 +0800">
+    <title lang="zh">早间气象</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712070000 +0800" stop="20260712080000 +0800">
+    <title lang="zh">直播重庆</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712080000 +0800" stop="20260712090000 +0800">
+    <title lang="zh">网罗天下</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712090000 +0800" stop="20260712100000 +0800">
+    <title lang="zh">630早报</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712100000 +0800" stop="20260712103000 +0800">
+    <title lang="zh">渝警前沿</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712103000 +0800" stop="20260712112500 +0800">
+    <title lang="zh">网罗天下</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712112500 +0800" stop="20260712114000 +0800">
+    <title lang="zh">环球视界</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712114000 +0800" stop="20260712120000 +0800">
+    <title lang="zh">渝警前沿</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712120000 +0800" stop="20260712130000 +0800">
+    <title lang="zh">630午报</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712130000 +0800" stop="20260712135200 +0800">
+    <title lang="zh">网罗天下</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712135200 +0800" stop="20260712140000 +0800">
+    <title lang="zh">午间气象服务</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712140000 +0800" stop="20260712144500 +0800">
+    <title lang="zh">重庆发现</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712144500 +0800" stop="20260712150000 +0800">
+    <title lang="zh">安全第一</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712150000 +0800" stop="20260712160000 +0800">
+    <title lang="zh">网罗天下</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712160000 +0800" stop="20260712170500 +0800">
+    <title lang="zh">天天630</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712170500 +0800" stop="20260712173000 +0800">
+    <title lang="zh">渝警前沿</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712173000 +0800" stop="20260712182400 +0800">
+    <title lang="zh">网罗天下</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712182400 +0800" stop="20260712183000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712183000 +0800" stop="20260712183300 +0800">
+    <title lang="zh">630新闻冲击波</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712183300 +0800" stop="20260712200000 +0800">
+    <title lang="zh">天天630</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712200000 +0800" stop="20260712204500 +0800">
+    <title lang="zh">重庆发现</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712204500 +0800" stop="20260712210000 +0800">
+    <title lang="zh">新闻解码</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712210000 +0800" stop="20260712220000 +0800">
+    <title lang="zh">网罗天下</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712220000 +0800" stop="20260712230000 +0800">
+    <title lang="zh">630晚报</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712230000 +0800" stop="20260712233300 +0800">
+    <title lang="zh">重庆新闻联播</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539779" start="20260712233300 +0800" stop="20260713000000 +0800">
+    <title lang="zh">网罗天下</title>
+    <desc />
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

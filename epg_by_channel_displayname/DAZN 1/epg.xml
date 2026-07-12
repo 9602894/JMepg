@@ -1,131 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456576" start="20260711000000 +0800" stop="20260711010000 +0800">
-    <title lang="zh">2025/26格鬥特區</title>
-    <desc>2025/26格鬥特區</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711010000 +0800" stop="20260711020000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711020000 +0800" stop="20260711040000 +0800">
-    <title lang="zh">2026中華企業射箭聯賽</title>
-    <desc>2026中華企業射箭聯賽</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711040000 +0800" stop="20260711060000 +0800">
-    <title lang="zh">西甲籃球季後賽</title>
-    <desc>西甲籃球季後賽 瓦倫西亞 vs 尤文圖特 (6/11/2026)</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711060000 +0800" stop="20260711090000 +0800">
-    <title lang="zh">2026日本職棒</title>
-    <desc>2026日本職棒</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711090000 +0800" stop="20260711100000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711100000 +0800" stop="20260711120000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711120000 +0800" stop="20260711150000 +0800">
-    <title lang="zh">2026日本職棒</title>
-    <desc>2026日本職棒</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711150000 +0800" stop="20260711180000 +0800">
-    <title lang="zh">2026中華職棒</title>
-    <desc>2026中華職棒</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711180000 +0800" stop="20260711183000 +0800">
-    <title lang="zh">野球名人房</title>
-    <desc>野球名人房</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711183000 +0800" stop="20260711211500 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711211500 +0800" stop="20260711220000 +0800">
-    <title lang="zh">果嶺上的世界盃</title>
-    <desc>果嶺上的世界盃</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711220000 +0800" stop="20260711230000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260711230000 +0800" stop="20260712000000 +0800">
-    <title lang="zh">(首)德州撲克百萬電視大賽</title>
-    <desc>(首)德州撲克百萬電視大賽</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456576" start="20260712000000 +0800" stop="20260712010000 +0800">
     <title lang="zh">2025/26格鬥特區</title>
     <desc>2025/26格鬥特區</desc>
@@ -837,10 +711,136 @@
     </audio>
   </programme>
   
-<programme channel="456576" start="20260717230000 +0800" stop="20260718000000 +0800">
+<programme channel="456576" start="20260717230000 +0800" stop="20260718010000 +0800">
     <title lang="zh">西甲</title>
     <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
     <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718010000 +0800" stop="20260718030000 +0800">
+    <title lang="zh">企業排球聯賽</title>
+    <desc>企業排球聯賽</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718030000 +0800" stop="20260718040000 +0800">
+    <title lang="zh">德州撲克百萬電視大賽</title>
+    <desc>德州撲克百萬電視大賽</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718040000 +0800" stop="20260718060000 +0800">
+    <title lang="zh">西甲籃球季後賽</title>
+    <desc>西甲籃球季後賽 瓦倫西亞 vs 尤文圖特 (6/11/2026)</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718060000 +0800" stop="20260718090000 +0800">
+    <title lang="zh">(首)2026日本職棒</title>
+    <desc>(首)2026日本職棒</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718090000 +0800" stop="20260718100000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718100000 +0800" stop="20260718120000 +0800">
+    <title lang="zh">西甲</title>
+    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718120000 +0800" stop="20260718150000 +0800">
+    <title lang="zh">2026中華職棒</title>
+    <desc>2026中華職棒</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718150000 +0800" stop="20260718160000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718160000 +0800" stop="20260718190000 +0800">
+    <title lang="zh">(LIVE)2026中華職棒</title>
+    <desc>(LIVE)2026中華職棒</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718190000 +0800" stop="20260718193000 +0800">
+    <title lang="zh">球來就講</title>
+    <desc>球來就講</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718193000 +0800" stop="20260718200000 +0800">
+    <title lang="zh">球來就講</title>
+    <desc>球來就講</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718200000 +0800" stop="20260718230000 +0800">
+    <title lang="zh">(首)2026日本職棒</title>
+    <desc>(首)2026日本職棒</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260718230000 +0800" stop="20260719000000 +0800">
+    <title lang="zh">(首)德州撲克百萬電視大賽</title>
+    <desc>(首)德州撲克百萬電視大賽</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260719000000 +0800" stop="20260720000000 +0800">
+    <title lang="zh">2025/26格鬥特區</title>
+    <desc>2025/26格鬥特區</desc>
+    <date>20260719</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

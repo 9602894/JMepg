@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457247" start="20260711000000 +0800" stop="20260711020000 +0800">
-    <title lang="zh">LIVE 2026 歐巡蘇格蘭公開賽 第二天(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711020000 +0800" stop="20260711040000 +0800">
-    <title lang="zh">2026 PGA旅行者錦標賽 第二天(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711040000 +0800" stop="20260711070000 +0800">
-    <title lang="zh">LIVE 2026 PGA肯塔基錦標賽 第二天(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711070000 +0800" stop="20260711080000 +0800">
-    <title lang="zh">2026 約翰迪爾菁英賽 精華(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711080000 +0800" stop="20260711083000 +0800">
-    <title lang="zh">2026 義大利公開賽 精華(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711083000 +0800" stop="20260711113000 +0800">
-    <title lang="zh">2026 PGA旅行者錦標賽 第二天(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711113000 +0800" stop="20260711163000 +0800">
-    <title lang="zh">2026 歐巡BMW國際公開賽 第一天(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711163000 +0800" stop="20260711173000 +0800">
-    <title lang="zh">2026 約翰迪爾菁英賽 精華(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711173000 +0800" stop="20260711203000 +0800">
-    <title lang="zh">首播 2026 PGA肯塔基錦標賽 第二天(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711203000 +0800" stop="20260711213000 +0800">
-    <title lang="zh">2026 加拿大公開賽 精華(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457247" start="20260711213000 +0800" stop="20260712000000 +0800">
-    <title lang="zh">LIVE 2026 歐巡蘇格蘭公開賽 第三天(普)</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457247" start="20260712000000 +0800" stop="20260712030000 +0800">
     <title lang="zh">LIVE 2026 歐巡蘇格蘭公開賽 第三天(普)</title>
     <desc />
@@ -454,6 +355,42 @@
     <title lang="zh">LIVE 2026英國公開賽 第二天(普)</title>
     <desc />
     <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457247" start="20260718000000 +0800" stop="20260718033000 +0800">
+    <title lang="zh">LIVE 2026英國公開賽 第二天(普)</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457247" start="20260718033000 +0800" stop="20260718120000 +0800">
+    <title lang="zh">首播 2026英國公開賽 第二天(普)</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457247" start="20260718120000 +0800" stop="20260718170000 +0800">
+    <title lang="zh">首播 2026英國公開賽 第二天(普)</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457247" start="20260718170000 +0800" stop="20260719000000 +0800">
+    <title lang="zh">LIVE 2026英國公開賽 第三天(普)</title>
+    <desc />
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

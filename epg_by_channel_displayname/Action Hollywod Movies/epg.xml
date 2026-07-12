@@ -1,113 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="430248" start="20260711000000 +0800" stop="20260711020000 +0800">
-    <title lang="zh">The Black Panther</title>
-    <desc>A gung-ho ex-military man pursues a secret life of crime, culminating in the kidnapping of a teenage heiress.</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711020000 +0800" stop="20260711040000 +0800">
-    <title lang="zh">White Fang</title>
-    <desc>The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711040000 +0800" stop="20260711060000 +0800">
-    <title lang="zh">Cry Of The Penguins</title>
-    <desc>Rejected by a young woman (Hayley Mills) in London, a scientist (John Hurt) retreats to Antarctica to study the penguin</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711060000 +0800" stop="20260711080000 +0800">
-    <title lang="zh">The Black Panther</title>
-    <desc>A gung-ho ex-military man pursues a secret life of crime, culminating in the kidnapping of a teenage heiress.</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711080000 +0800" stop="20260711100000 +0800">
-    <title lang="zh">White Fang</title>
-    <desc>The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711100000 +0800" stop="20260711120000 +0800">
-    <title lang="zh">Cry Of The Penguins</title>
-    <desc>Rejected by a young woman (Hayley Mills) in London, a scientist (John Hurt) retreats to Antarctica to study the penguin</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711120000 +0800" stop="20260711140000 +0800">
-    <title lang="zh">The Black Panther</title>
-    <desc>A gung-ho ex-military man pursues a secret life of crime, culminating in the kidnapping of a teenage heiress.</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711140000 +0800" stop="20260711160000 +0800">
-    <title lang="zh">White Fang</title>
-    <desc>The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711160000 +0800" stop="20260711180000 +0800">
-    <title lang="zh">Cry Of The Penguins</title>
-    <desc>Rejected by a young woman (Hayley Mills) in London, a scientist (John Hurt) retreats to Antarctica to study the penguin</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711180000 +0800" stop="20260711200000 +0800">
-    <title lang="zh">The Inglorious Bastards</title>
-    <desc>In 1944 France, a group of escaped American military prisoners en route to Switzerland volunteers to steal a Nazi V2 rocket warhead for the Allies.</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711200000 +0800" stop="20260711220000 +0800">
-    <title lang="zh">All For Her Majesty</title>
-    <desc>Simon Templar is on holiday in Naples when a small uproar on a lunch table draws his attention. An English tourist attempts to greet an Italian businessman as an old friend, but the Italian refuses to acknowledge the greeting and claims never to have met him.</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260711220000 +0800" stop="20260712000000 +0800">
-    <title lang="zh">All the Way Boys</title>
-    <desc>A pair of conniving bush pilots crash-land in the Peruvian jungle, where they come across a community of diamond miners under the thumb of a greedy speculator.</desc>
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="430248" start="20260712000000 +0800" stop="20260712020000 +0800">
     <title lang="zh">The Inglorious Bastards</title>
     <desc>In 1944 France, a group of escaped American military prisoners en route to Switzerland volunteers to steal a Nazi V2 rocket warhead for the Allies.</desc>
@@ -756,10 +648,118 @@
     </audio>
   </programme>
   
-<programme channel="430248" start="20260718000000 +0800" stop="20260719000000 +0800">
+<programme channel="430248" start="20260718000000 +0800" stop="20260718020000 +0800">
     <title lang="zh">Bruce Lee, The Legend</title>
     <desc>The official Golden Harvest tribute to the Master of the Martial Arts Film, Bruce Lee.</desc>
     <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718020000 +0800" stop="20260718040000 +0800">
+    <title lang="zh">The Inglorious Bastards</title>
+    <desc>In 1944 France, a group of escaped American military prisoners en route to Switzerland volunteers to steal a Nazi V2 rocket warhead for the Allies.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718040000 +0800" stop="20260718060000 +0800">
+    <title lang="zh">Sister Street Fighter</title>
+    <desc>A young martial artist is on a mission to rescue her brother who's being held captive by a sadistic drug lord.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718060000 +0800" stop="20260718080000 +0800">
+    <title lang="zh">Bruce Lee, The Legend</title>
+    <desc>The official Golden Harvest tribute to the Master of the Martial Arts Film, Bruce Lee.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718080000 +0800" stop="20260718100000 +0800">
+    <title lang="zh">The Inglorious Bastards</title>
+    <desc>In 1944 France, a group of escaped American military prisoners en route to Switzerland volunteers to steal a Nazi V2 rocket warhead for the Allies.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718100000 +0800" stop="20260718120000 +0800">
+    <title lang="zh">Sister Street Fighter</title>
+    <desc>A young martial artist is on a mission to rescue her brother who's being held captive by a sadistic drug lord.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718120000 +0800" stop="20260718140000 +0800">
+    <title lang="zh">Bruce Lee, The Legend</title>
+    <desc>The official Golden Harvest tribute to the Master of the Martial Arts Film, Bruce Lee.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718140000 +0800" stop="20260718160000 +0800">
+    <title lang="zh">The Inglorious Bastards</title>
+    <desc>In 1944 France, a group of escaped American military prisoners en route to Switzerland volunteers to steal a Nazi V2 rocket warhead for the Allies.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718160000 +0800" stop="20260718180000 +0800">
+    <title lang="zh">Sister Street Fighter</title>
+    <desc>A young martial artist is on a mission to rescue her brother who's being held captive by a sadistic drug lord.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718180000 +0800" stop="20260718200000 +0800">
+    <title lang="zh">Cry Of The Penguins</title>
+    <desc>Rejected by a young woman (Hayley Mills) in London, a scientist (John Hurt) retreats to Antarctica to study the penguin</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718200000 +0800" stop="20260718220000 +0800">
+    <title lang="zh">The Black Panther</title>
+    <desc>A gung-ho ex-military man pursues a secret life of crime, culminating in the kidnapping of a teenage heiress.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260718220000 +0800" stop="20260719000000 +0800">
+    <title lang="zh">Violent City</title>
+    <desc>After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260719000000 +0800" stop="20260720000000 +0800">
+    <title lang="zh">Cry Of The Penguins</title>
+    <desc>Rejected by a young woman (Hayley Mills) in London, a scientist (John Hurt) retreats to Antarctica to study the penguin</desc>
+    <date>20260719</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

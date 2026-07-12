@@ -1,45 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539799" start="20260711000000 +0800" stop="20260711005000 +0800">
-    <title lang="zh">全景世界杯-2026美加墨世界杯 1/8决赛 阿根廷-埃及</title>
-    <desc />
-    <date>20260711</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539799" start="20260711005000 +0800" stop="20260711013500 +0800">
+<programme channel="539799" start="20260712000000 +0800" stop="20260712004000 +0800">
     <title lang="zh">世界杯精华</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260711013500 +0800" stop="20260711020000 +0800">
-    <title lang="zh">睛彩世界杯</title>
+<programme channel="539799" start="20260712004000 +0800" stop="20260712005500 +0800">
+    <title lang="zh">星耀世界杯</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260711020000 +0800" stop="20260711051500 +0800">
-    <title lang="zh">2026美加墨世界杯 1/4决赛 西班牙-比利时 直播</title>
+<programme channel="539799" start="20260712005500 +0800" stop="20260712010500 +0800">
+    <title lang="zh">世界杯宣传</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260711051500 +0800" stop="20260712000000 +0800">
+<programme channel="539799" start="20260712010500 +0800" stop="20260712024500 +0800">
+    <title lang="zh">全景世界杯-2026美加墨世界杯 1/4决赛 法国-摩洛哥</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260712024500 +0800" stop="20260712033000 +0800">
     <title lang="zh">世界杯精华</title>
     <desc />
-    <date>20260711</date>
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260712033000 +0800" stop="20260712034500 +0800">
+    <title lang="zh">世界杯观赛指南</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260712034500 +0800" stop="20260712040000 +0800">
+    <title lang="zh">世界杯最前线</title>
+    <desc />
+    <date>20260712</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260712040000 +0800" stop="20260713000000 +0800">
+    <title lang="zh">2026美加墨世界杯 1/4决赛 挪威-英格兰 直播</title>
+    <desc />
+    <date>20260712</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
