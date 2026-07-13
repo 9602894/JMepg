@@ -1,95 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457370" start="20260712020000 +0800" stop="20260712060000 +0800">
-    <title lang="zh">收播(普)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260712060000 +0800" stop="20260712073000 +0800">
-    <title lang="zh">好萊塢幕後解密(新)(護)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260712073000 +0800" stop="20260712092500 +0800">
-    <title lang="zh">天才樂手行不行(護)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260712092500 +0800" stop="20260712110500 +0800">
-    <title lang="zh">雷鳥神機隊之太空歷險記(普)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260712110500 +0800" stop="20260712130500 +0800">
-    <title lang="zh">朋友再見(護)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260712130500 +0800" stop="20260712153500 +0800">
-    <title lang="zh">狄仁傑之四大天王(護)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260712153500 +0800" stop="20260712172000 +0800">
-    <title lang="zh">633轟炸大隊(普)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260712172000 +0800" stop="20260712190500 +0800">
-    <title lang="zh">新少林五祖(普)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260712190500 +0800" stop="20260712210000 +0800">
-    <title lang="zh">逃出封鎖線(護)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260712210000 +0800" stop="20260713001000 +0800">
-    <title lang="zh">狂沙十萬里(護)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457370" start="20260713001000 +0800" stop="20260713020000 +0800">
     <title lang="zh">葉問：終極一戰(護)</title>
     <desc />
@@ -666,10 +576,100 @@
     </audio>
   </programme>
   
-<programme channel="457370" start="20260718235000 +0800" stop="20260719000000 +0800">
+<programme channel="457370" start="20260718235000 +0800" stop="20260719020000 +0800">
     <title lang="zh">俠盜羅賓漢：突圍(護)</title>
     <desc />
     <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719020000 +0800" stop="20260719060000 +0800">
+    <title lang="zh">收播(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719060000 +0800" stop="20260719073000 +0800">
+    <title lang="zh">好萊塢幕後解密(新)(護)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719073000 +0800" stop="20260719092000 +0800">
+    <title lang="zh">摩斯拉(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719092000 +0800" stop="20260719113500 +0800">
+    <title lang="zh">革命前夕的摩托車日記(護)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719113500 +0800" stop="20260719145500 +0800">
+    <title lang="zh">黃昏三鏢客(護)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719145500 +0800" stop="20260719161500 +0800">
+    <title lang="zh">狄仁傑之九層妖樓(護)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719161500 +0800" stop="20260719175500 +0800">
+    <title lang="zh">大洪荒(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719175500 +0800" stop="20260719193000 +0800">
+    <title lang="zh">怪獸總進擊(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719193000 +0800" stop="20260719210000 +0800">
+    <title lang="zh">白髮魔女傳2(護)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260719210000 +0800" stop="20260720000000 +0800">
+    <title lang="zh">教父(輔15)</title>
+    <desc />
+    <date>20260719</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

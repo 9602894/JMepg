@@ -1,1449 +1,3411 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539856" start="20260712000100 +0800" stop="20260712001100 +0800">
+<programme channel="539856" start="20260713000100 +0800" stop="20260713001100 +0800">
     <title lang="zh">湾区财经</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539856" start="20260712001100 +0800" stop="20260712004800 +0800">
-    <title lang="zh">粤菜大师(9)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712004800 +0800" stop="20260712012000 +0800">
-    <title lang="zh">探秘时刻</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712012000 +0800" stop="20260712015400 +0800">
-    <title lang="zh">粤菜大师(9)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712015400 +0800" stop="20260712023900 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712023900 +0800" stop="20260712032300 +0800">
-    <title lang="zh">瑶山大剿匪(14)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712032300 +0800" stop="20260712040800 +0800">
-    <title lang="zh">瑶山大剿匪(15)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712040800 +0800" stop="20260712045300 +0800">
-    <title lang="zh">瑶山大剿匪(16)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712045300 +0800" stop="20260712051000 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712051000 +0800" stop="20260712052100 +0800">
-    <title lang="zh">湾区财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712052100 +0800" stop="20260712060100 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712060100 +0800" stop="20260712061100 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712061100 +0800" stop="20260712061500 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712061500 +0800" stop="20260712062700 +0800">
-    <title lang="zh">先行</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712062700 +0800" stop="20260712070000 +0800">
-    <title lang="zh">温暖在身边:杭罗织匠</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712070000 +0800" stop="20260712070100 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712070100 +0800" stop="20260712070300 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712070300 +0800" stop="20260712071300 +0800">
-    <title lang="zh">专题</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712071300 +0800" stop="20260712080000 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712080000 +0800" stop="20260712095600 +0800">
-    <title lang="zh">咖宝车神之炫舞战队</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712095600 +0800" stop="20260712105300 +0800">
-    <title lang="zh">尖刀出鞘(17)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712105300 +0800" stop="20260712115000 +0800">
-    <title lang="zh">尖刀出鞘(18)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712115000 +0800" stop="20260712123000 +0800">
-    <title lang="zh">正午看天下</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712123000 +0800" stop="20260712124500 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712124500 +0800" stop="20260712130000 +0800">
-    <title lang="zh">湾区财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712130000 +0800" stop="20260712135500 +0800">
-    <title lang="zh">锁侠(25)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712135500 +0800" stop="20260712145000 +0800">
-    <title lang="zh">锁侠(26)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712145000 +0800" stop="20260712154500 +0800">
-    <title lang="zh">锁侠(27)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712154500 +0800" stop="20260712164000 +0800">
-    <title lang="zh">锁侠(28)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712164000 +0800" stop="20260712173500 +0800">
-    <title lang="zh">锁侠(29)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712173500 +0800" stop="20260712182000 +0800">
-    <title lang="zh">锁侠(30)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712182000 +0800" stop="20260712183000 +0800">
-    <title lang="zh">湾区财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712183000 +0800" stop="20260712190000 +0800">
-    <title lang="zh">深视新闻</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712190000 +0800" stop="20260712193000 +0800">
-    <title lang="zh">转播中央台新闻联播</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712193000 +0800" stop="20260712193500 +0800">
-    <title lang="zh">美好深圳</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712193500 +0800" stop="20260712203000 +0800">
-    <title lang="zh">低智商犯罪(10)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712203000 +0800" stop="20260712212000 +0800">
-    <title lang="zh">低智商犯罪(11)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712212000 +0800" stop="20260712213500 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712213500 +0800" stop="20260712221000 +0800">
-    <title lang="zh">拯救倒计时</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712221000 +0800" stop="20260712225500 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712225500 +0800" stop="20260712230500 +0800">
-    <title lang="zh">湾区财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712230500 +0800" stop="20260712235700 +0800">
-    <title lang="zh">探秘时刻</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539856" start="20260712235700 +0800" stop="20260713000000 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712001000 +0800" stop="20260712003500 +0800">
+<programme channel="539856" start="20260713001100 +0800" stop="20260713003300 +0800">
     <title lang="zh">超级发布会</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712003500 +0800" stop="20260712005200 +0800">
+<programme channel="539856" start="20260713003300 +0800" stop="20260713005100 +0800">
     <title lang="zh">科创最前沿</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712005200 +0800" stop="20260712012200 +0800">
+<programme channel="539856" start="20260713005100 +0800" stop="20260713012300 +0800">
     <title lang="zh">探秘时刻</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712012200 +0800" stop="20260712014400 +0800">
+<programme channel="539856" start="20260713012300 +0800" stop="20260713014300 +0800">
     <title lang="zh">超级发布会</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712014400 +0800" stop="20260712020300 +0800">
+<programme channel="539856" start="20260713014300 +0800" stop="20260713020100 +0800">
     <title lang="zh">科创最前沿</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712020300 +0800" stop="20260712024800 +0800">
+<programme channel="539856" start="20260713020100 +0800" stop="20260713024600 +0800">
     <title lang="zh">直播港澳台</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712024800 +0800" stop="20260712033300 +0800">
-    <title lang="zh">不夜场:血染大青山24</title>
+<programme channel="539856" start="20260713024600 +0800" stop="20260713033100 +0800">
+    <title lang="zh">瑶山大剿匪(17)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712033300 +0800" stop="20260712041800 +0800">
-    <title lang="zh">不夜场:血染大青山25</title>
+<programme channel="539856" start="20260713033100 +0800" stop="20260713041600 +0800">
+    <title lang="zh">瑶山大剿匪(18)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712041800 +0800" stop="20260712050300 +0800">
-    <title lang="zh">不夜场:血染大青山26</title>
+<programme channel="539856" start="20260713041600 +0800" stop="20260713050000 +0800">
+    <title lang="zh">瑶山大剿匪(19)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712050300 +0800" stop="20260712051800 +0800">
+<programme channel="539856" start="20260713050000 +0800" stop="20260713051700 +0800">
     <title lang="zh">科创最前沿</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712051800 +0800" stop="20260712053200 +0800">
-    <title lang="zh">直财经</title>
+<programme channel="539856" start="20260713051700 +0800" stop="20260713052900 +0800">
+    <title lang="zh">湾区财经</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712053200 +0800" stop="20260712062700 +0800">
+<programme channel="539856" start="20260713052900 +0800" stop="20260713060900 +0800">
     <title lang="zh">直播港澳台</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712062700 +0800" stop="20260712065000 +0800">
+<programme channel="539856" start="20260713060900 +0800" stop="20260713061900 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713061900 +0800" stop="20260713062500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713062500 +0800" stop="20260713064800 +0800">
     <title lang="zh">深圳非遗</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712065000 +0800" stop="20260712070000 +0800">
+<programme channel="539856" start="20260713064800 +0800" stop="20260713065800 +0800">
     <title lang="zh">温暖在身边</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546050" start="20260712070000 +0800" stop="20260712070100 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712070100 +0800" stop="20260712080300 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712080300 +0800" stop="20260712095400 +0800">
-    <title lang="zh">动画片:赵琳的探险日记</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712095400 +0800" stop="20260712103500 +0800">
-    <title lang="zh">精品剧场:白狼28</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712103500 +0800" stop="20260712105000 +0800">
-    <title lang="zh">生活服务</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712105000 +0800" stop="20260712113400 +0800">
-    <title lang="zh">精品剧场:白狼29</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712113400 +0800" stop="20260712115000 +0800">
-    <title lang="zh">生活服务</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712115000 +0800" stop="20260712123200 +0800">
-    <title lang="zh">正午看天下</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712123200 +0800" stop="20260712124800 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712124800 +0800" stop="20260712130200 +0800">
-    <title lang="zh">直财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712130200 +0800" stop="20260712131900 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712131900 +0800" stop="20260712140100 +0800">
-    <title lang="zh">热播剧场:枪神传奇</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712140100 +0800" stop="20260712143900 +0800">
-    <title lang="zh">热播剧场:枪神传奇</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712143900 +0800" stop="20260712145300 +0800">
-    <title lang="zh">生活服务</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712145300 +0800" stop="20260712153200 +0800">
-    <title lang="zh">热播剧场:枪神传奇</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712153200 +0800" stop="20260712154500 +0800">
-    <title lang="zh">生活服务</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712154500 +0800" stop="20260712162300 +0800">
-    <title lang="zh">热播剧场:枪神传奇</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712162300 +0800" stop="20260712164000 +0800">
-    <title lang="zh">生活服务</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712164000 +0800" stop="20260712171800 +0800">
-    <title lang="zh">热播剧场:枪神传奇</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712171800 +0800" stop="20260712173400 +0800">
-    <title lang="zh">生活服务</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712173400 +0800" stop="20260712181000 +0800">
-    <title lang="zh">热播剧场:枪神传奇</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712181000 +0800" stop="20260712183000 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712183000 +0800" stop="20260712190000 +0800">
-    <title lang="zh">深视新闻</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712190000 +0800" stop="20260712193000 +0800">
-    <title lang="zh">转播中央台新闻联播</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712193000 +0800" stop="20260712193700 +0800">
-    <title lang="zh">广告</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712193700 +0800" stop="20260712202500 +0800">
-    <title lang="zh">黄金剧场</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712202500 +0800" stop="20260712203600 +0800">
-    <title lang="zh">广告</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712203600 +0800" stop="20260712212000 +0800">
-    <title lang="zh">黄金剧场</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712212000 +0800" stop="20260712213500 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712213500 +0800" stop="20260712221000 +0800">
-    <title lang="zh">电视剧:重生我在苏超踢前锋</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712221000 +0800" stop="20260712225500 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712225500 +0800" stop="20260712231000 +0800">
-    <title lang="zh">直财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712231000 +0800" stop="20260712234100 +0800">
-    <title lang="zh">探秘时刻</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712234100 +0800" stop="20260712235600 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546050" start="20260712235600 +0800" stop="20260713000000 +0800">
-    <title lang="zh">直财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712001400 +0800" stop="20260712002600 +0800">
-    <title lang="zh">湾区财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712002600 +0800" stop="20260712004600 +0800">
-    <title lang="zh">超级发布会</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712004600 +0800" stop="20260712010300 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712010300 +0800" stop="20260712013300 +0800">
-    <title lang="zh">探秘时刻</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712013300 +0800" stop="20260712015300 +0800">
-    <title lang="zh">超级发布会</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712015300 +0800" stop="20260712021000 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712021000 +0800" stop="20260712025400 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712025400 +0800" stop="20260712034100 +0800">
-    <title lang="zh">瑶山大剿匪</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712034100 +0800" stop="20260712042800 +0800">
-    <title lang="zh">瑶山大剿匪</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712042800 +0800" stop="20260712051500 +0800">
-    <title lang="zh">瑶山大剿匪</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712051500 +0800" stop="20260712053000 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712053000 +0800" stop="20260712054300 +0800">
-    <title lang="zh">湾区财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712054300 +0800" stop="20260712063000 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712063000 +0800" stop="20260712065500 +0800">
-    <title lang="zh">深圳非遗</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712065500 +0800" stop="20260712070000 +0800">
-    <title lang="zh">短视频</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712070000 +0800" stop="20260712070100 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712070100 +0800" stop="20260712080000 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712080000 +0800" stop="20260712095600 +0800">
-    <title lang="zh">咖宝车神之炫舞战队</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712095600 +0800" stop="20260712105300 +0800">
-    <title lang="zh">尖刀出鞘(19)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712105300 +0800" stop="20260712115000 +0800">
-    <title lang="zh">尖刀出鞘(20)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712115000 +0800" stop="20260712123000 +0800">
-    <title lang="zh">正午看天下</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712123000 +0800" stop="20260712124500 +0800">
-    <title lang="zh">科创最前沿</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712124500 +0800" stop="20260712130000 +0800">
-    <title lang="zh">湾区财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712130000 +0800" stop="20260712135500 +0800">
-    <title lang="zh">锁侠(31)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712135500 +0800" stop="20260712145000 +0800">
-    <title lang="zh">锁侠(32)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712145000 +0800" stop="20260712154500 +0800">
-    <title lang="zh">锁侠(33)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712154500 +0800" stop="20260712164000 +0800">
-    <title lang="zh">锁侠(34)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712164000 +0800" stop="20260712173500 +0800">
-    <title lang="zh">血色黎明(1)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712173500 +0800" stop="20260712182000 +0800">
-    <title lang="zh">血色黎明(2)</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712182000 +0800" stop="20260712183000 +0800">
-    <title lang="zh">湾区财经</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712183000 +0800" stop="20260712190000 +0800">
-    <title lang="zh">深视新闻</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712190000 +0800" stop="20260712193000 +0800">
-    <title lang="zh">转播中央台新闻联播</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554373" start="20260712193000 +0800" stop="20260712193500 +0800">
+<programme channel="539856" start="20260713065800 +0800" stop="20260713070000 +0800">
     <title lang="zh">美好深圳</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554373" start="20260712193500 +0800" stop="20260712203000 +0800">
-    <title lang="zh">低智商犯罪(12)</title>
+<programme channel="539856" start="20260713070000 +0800" stop="20260713070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554373" start="20260712203000 +0800" stop="20260712212000 +0800">
-    <title lang="zh">低智商犯罪(13)</title>
+<programme channel="539856" start="20260713070100 +0800" stop="20260713074000 +0800">
+    <title lang="zh">直播港澳台</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554373" start="20260712212000 +0800" stop="20260712213500 +0800">
+<programme channel="539856" start="20260713074000 +0800" stop="20260713075000 +0800">
+    <title lang="zh">专题</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713075000 +0800" stop="20260713080000 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713080000 +0800" stop="20260713095600 +0800">
+    <title lang="zh">咖宝车神之炫舞战队</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713095600 +0800" stop="20260713105300 +0800">
+    <title lang="zh">尖刀出鞘(19)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713105300 +0800" stop="20260713115000 +0800">
+    <title lang="zh">尖刀出鞘(20)</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713115000 +0800" stop="20260713123000 +0800">
+    <title lang="zh">正午看天下</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713123000 +0800" stop="20260713124500 +0800">
     <title lang="zh">科创最前沿</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554373" start="20260712213500 +0800" stop="20260712221000 +0800">
-    <title lang="zh">月下之地1</title>
+<programme channel="539856" start="20260713124500 +0800" stop="20260713130000 +0800">
+    <title lang="zh">湾区财经</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554373" start="20260712221000 +0800" stop="20260712225500 +0800">
-    <title lang="zh">直播港澳台</title>
+<programme channel="539856" start="20260713130000 +0800" stop="20260713135500 +0800">
+    <title lang="zh">锁侠(31)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554373" start="20260712225500 +0800" stop="20260712231000 +0800">
-    <title lang="zh">中国股市报道</title>
+<programme channel="539856" start="20260713135500 +0800" stop="20260713145000 +0800">
+    <title lang="zh">锁侠(32)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554373" start="20260712231000 +0800" stop="20260712234500 +0800">
-    <title lang="zh">探秘时刻</title>
+<programme channel="539856" start="20260713145000 +0800" stop="20260713154500 +0800">
+    <title lang="zh">锁侠(33)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554373" start="20260712234500 +0800" stop="20260713000000 +0800">
-    <title lang="zh">科创最前沿</title>
+<programme channel="539856" start="20260713154500 +0800" stop="20260713164000 +0800">
+    <title lang="zh">锁侠(34)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712004800 +0800" stop="20260712013000 +0800">
-    <title lang="zh">探秘时刻</title>
+<programme channel="539856" start="20260713164000 +0800" stop="20260713173500 +0800">
+    <title lang="zh">血色黎明(1)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712013000 +0800" stop="20260712021700 +0800">
-    <title lang="zh">军情直播间</title>
+<programme channel="539856" start="20260713173500 +0800" stop="20260713182000 +0800">
+    <title lang="zh">血色黎明(2)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712021700 +0800" stop="20260712030600 +0800">
-    <title lang="zh">直播港澳台</title>
+<programme channel="539856" start="20260713182000 +0800" stop="20260713183000 +0800">
+    <title lang="zh">湾区财经</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712030600 +0800" stop="20260712034500 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712034500 +0800" stop="20260712043000 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712043000 +0800" stop="20260712051200 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712051200 +0800" stop="20260712060200 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712060200 +0800" stop="20260712070100 +0800">
-    <title lang="zh">纪录片</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712070100 +0800" stop="20260712075500 +0800">
-    <title lang="zh">直播港澳台</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712075500 +0800" stop="20260712090100 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712090100 +0800" stop="20260712103900 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712103900 +0800" stop="20260712111400 +0800">
-    <title lang="zh">辣妈学院</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712111400 +0800" stop="20260712115000 +0800">
-    <title lang="zh">诗意中国4</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712115000 +0800" stop="20260712124600 +0800">
-    <title lang="zh">正午30分</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712124600 +0800" stop="20260712133600 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712133600 +0800" stop="20260712143300 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712143300 +0800" stop="20260712152400 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712152400 +0800" stop="20260712161600 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712161600 +0800" stop="20260712170900 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712170900 +0800" stop="20260712175300 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712175300 +0800" stop="20260712183000 +0800">
-    <title lang="zh">辣妈学院</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545979" start="20260712183000 +0800" stop="20260712190000 +0800">
+<programme channel="539856" start="20260713183000 +0800" stop="20260713190000 +0800">
     <title lang="zh">深视新闻</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712190000 +0800" stop="20260712193600 +0800">
-    <title lang="zh">新闻联播</title>
+<programme channel="539856" start="20260713190000 +0800" stop="20260713193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712193600 +0800" stop="20260712213500 +0800">
-    <title lang="zh">电视剧</title>
+<programme channel="539856" start="20260713193000 +0800" stop="20260713193500 +0800">
+    <title lang="zh">美好深圳</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712213500 +0800" stop="20260712221500 +0800">
-    <title lang="zh">诗意中国</title>
+<programme channel="539856" start="20260713193500 +0800" stop="20260713203000 +0800">
+    <title lang="zh">低智商犯罪(12)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712221500 +0800" stop="20260712222500 +0800">
-    <title lang="zh">晚间报道</title>
+<programme channel="539856" start="20260713203000 +0800" stop="20260713212000 +0800">
+    <title lang="zh">低智商犯罪(13)</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712222500 +0800" stop="20260712232800 +0800">
+<programme channel="539856" start="20260713212000 +0800" stop="20260713213500 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713213500 +0800" stop="20260713221000 +0800">
+    <title lang="zh">月下之地1</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713221000 +0800" stop="20260713225500 +0800">
     <title lang="zh">直播港澳台</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545979" start="20260712232800 +0800" stop="20260713043300 +0800">
+<programme channel="539856" start="20260713225500 +0800" stop="20260713231000 +0800">
+    <title lang="zh">中国股市报道</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713231000 +0800" stop="20260713234500 +0800">
     <title lang="zh">探秘时刻</title>
     <desc />
-    <date>20260712</date>
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539856" start="20260713234500 +0800" stop="20260714000000 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713000800 +0800" stop="20260713004300 +0800">
+    <title lang="zh">纪录片:天下粤菜3</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713004300 +0800" stop="20260713011600 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713011600 +0800" stop="20260713014800 +0800">
+    <title lang="zh">纪录片:天下粤菜3</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713014800 +0800" stop="20260713023500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713023500 +0800" stop="20260713032000 +0800">
+    <title lang="zh">不夜场:血染大青山6</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713032000 +0800" stop="20260713040400 +0800">
+    <title lang="zh">不夜场:血染大青山7</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713040400 +0800" stop="20260713045000 +0800">
+    <title lang="zh">不夜场:血染大青山8</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713045000 +0800" stop="20260713050600 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713050600 +0800" stop="20260713051900 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713051900 +0800" stop="20260713061600 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713061600 +0800" stop="20260713062600 +0800">
+    <title lang="zh">先行</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713062600 +0800" stop="20260713070000 +0800">
+    <title lang="zh">温暖在身边</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713070000 +0800" stop="20260713070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713070100 +0800" stop="20260713080300 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713080300 +0800" stop="20260713085300 +0800">
+    <title lang="zh">精品剧场:白狼6</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713085300 +0800" stop="20260713093600 +0800">
+    <title lang="zh">精品剧场:白狼7</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713093600 +0800" stop="20260713095200 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713095200 +0800" stop="20260713103500 +0800">
+    <title lang="zh">精品剧场:白狼8</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713103500 +0800" stop="20260713105100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713105100 +0800" stop="20260713113500 +0800">
+    <title lang="zh">精品剧场:白狼9</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713113500 +0800" stop="20260713115000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713115000 +0800" stop="20260713123200 +0800">
+    <title lang="zh">正午看天下</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713123200 +0800" stop="20260713124800 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713124800 +0800" stop="20260713130200 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713130200 +0800" stop="20260713131800 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713131800 +0800" stop="20260713135900 +0800">
+    <title lang="zh">热播剧场:枪神传奇18</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713135900 +0800" stop="20260713143700 +0800">
+    <title lang="zh">热播剧场:枪神传奇19</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713143700 +0800" stop="20260713145000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713145000 +0800" stop="20260713152900 +0800">
+    <title lang="zh">热播剧场:枪神传奇20</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713152900 +0800" stop="20260713154300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713154300 +0800" stop="20260713162100 +0800">
+    <title lang="zh">热播剧场:枪神传奇21</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713162100 +0800" stop="20260713163700 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713163700 +0800" stop="20260713171900 +0800">
+    <title lang="zh">热播剧场:枪神传奇22</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713171900 +0800" stop="20260713173500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713173500 +0800" stop="20260713181100 +0800">
+    <title lang="zh">热播剧场:枪神传奇23</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713181100 +0800" stop="20260713183000 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713183000 +0800" stop="20260713190000 +0800">
+    <title lang="zh">深视新闻</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713190000 +0800" stop="20260713193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713193000 +0800" stop="20260713193700 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713193700 +0800" stop="20260713202300 +0800">
+    <title lang="zh">黄金剧场:生命树37</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713202300 +0800" stop="20260713203600 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713203600 +0800" stop="20260713212000 +0800">
+    <title lang="zh">黄金剧场:生命树38</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713212000 +0800" stop="20260713213500 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713213500 +0800" stop="20260713221000 +0800">
+    <title lang="zh">决胜制高点</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713221000 +0800" stop="20260713225500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713225500 +0800" stop="20260713231000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713231000 +0800" stop="20260713234200 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260713234200 +0800" stop="20260714001300 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260713</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714001300 +0800" stop="20260714004800 +0800">
+    <title lang="zh">决胜制高点</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714004800 +0800" stop="20260714012100 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714012100 +0800" stop="20260714015400 +0800">
+    <title lang="zh">决胜制高点</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714015400 +0800" stop="20260714023900 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714023900 +0800" stop="20260714032500 +0800">
+    <title lang="zh">不夜场:血染大青山9</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714032500 +0800" stop="20260714040800 +0800">
+    <title lang="zh">不夜场:血染大青山10</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714040800 +0800" stop="20260714045300 +0800">
+    <title lang="zh">不夜场:血染大青山11</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714045300 +0800" stop="20260714050800 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714050800 +0800" stop="20260714051900 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714051900 +0800" stop="20260714061600 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714061600 +0800" stop="20260714062700 +0800">
+    <title lang="zh">先行</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714062700 +0800" stop="20260714070000 +0800">
+    <title lang="zh">温暖在身边</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714070000 +0800" stop="20260714070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714070100 +0800" stop="20260714080300 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714080300 +0800" stop="20260714085200 +0800">
+    <title lang="zh">精品剧场:白狼10</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714085200 +0800" stop="20260714093500 +0800">
+    <title lang="zh">精品剧场:白狼11</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714093500 +0800" stop="20260714095000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714095000 +0800" stop="20260714103400 +0800">
+    <title lang="zh">精品剧场:白狼12</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714103400 +0800" stop="20260714105100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714105100 +0800" stop="20260714113500 +0800">
+    <title lang="zh">精品剧场:白狼13</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714113500 +0800" stop="20260714115000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714115000 +0800" stop="20260714123200 +0800">
+    <title lang="zh">正午看天下</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714123200 +0800" stop="20260714124900 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714124900 +0800" stop="20260714130300 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714130300 +0800" stop="20260714135000 +0800">
+    <title lang="zh">热播剧场:枪神传奇24</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714135000 +0800" stop="20260714142800 +0800">
+    <title lang="zh">热播剧场:枪神传奇25</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714142800 +0800" stop="20260714144300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714144300 +0800" stop="20260714152100 +0800">
+    <title lang="zh">热播剧场:枪神传奇26</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714152100 +0800" stop="20260714153800 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714153800 +0800" stop="20260714161800 +0800">
+    <title lang="zh">热播剧场:枪神传奇27</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714161800 +0800" stop="20260714163500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714163500 +0800" stop="20260714171800 +0800">
+    <title lang="zh">热播剧场:枪神传奇28</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714171800 +0800" stop="20260714173600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714173600 +0800" stop="20260714183000 +0800">
+    <title lang="zh">热播剧场:枪神传奇29</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714183000 +0800" stop="20260714190000 +0800">
+    <title lang="zh">深视新闻</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714190000 +0800" stop="20260714193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714193000 +0800" stop="20260714193600 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714193600 +0800" stop="20260714202400 +0800">
+    <title lang="zh">黄金剧场:生命树39</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714202400 +0800" stop="20260714203600 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714203600 +0800" stop="20260714212000 +0800">
+    <title lang="zh">黄金剧场:生命树40</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714212000 +0800" stop="20260714213500 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714213500 +0800" stop="20260714221000 +0800">
+    <title lang="zh">军情直播间</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714221000 +0800" stop="20260714225500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714225500 +0800" stop="20260714231000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714231000 +0800" stop="20260714234300 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260714234300 +0800" stop="20260715001200 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715001200 +0800" stop="20260715004700 +0800">
+    <title lang="zh">直说中国斐济季</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715004700 +0800" stop="20260715011900 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715011900 +0800" stop="20260715015300 +0800">
+    <title lang="zh">直说中国斐济季</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715015300 +0800" stop="20260715023900 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715023900 +0800" stop="20260715032400 +0800">
+    <title lang="zh">不夜场:血染大青山12</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715032400 +0800" stop="20260715040800 +0800">
+    <title lang="zh">不夜场:血染大青山13</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715040800 +0800" stop="20260715045200 +0800">
+    <title lang="zh">不夜场:血染大青山14</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715045200 +0800" stop="20260715050700 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715050700 +0800" stop="20260715051800 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715051800 +0800" stop="20260715061400 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715061400 +0800" stop="20260715062700 +0800">
+    <title lang="zh">先行</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715062700 +0800" stop="20260715070000 +0800">
+    <title lang="zh">温暖在身边</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715070000 +0800" stop="20260715070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715070100 +0800" stop="20260715080300 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715080300 +0800" stop="20260715085200 +0800">
+    <title lang="zh">精品剧场:白狼14</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715085200 +0800" stop="20260715093500 +0800">
+    <title lang="zh">精品剧场:白狼15</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715093500 +0800" stop="20260715094900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715094900 +0800" stop="20260715103400 +0800">
+    <title lang="zh">精品剧场:白狼16</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715103400 +0800" stop="20260715104900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715104900 +0800" stop="20260715113400 +0800">
+    <title lang="zh">精品剧场:白狼17</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715113400 +0800" stop="20260715115000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715115000 +0800" stop="20260715123200 +0800">
+    <title lang="zh">正午看天下</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715123200 +0800" stop="20260715124800 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715124800 +0800" stop="20260715130300 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715130300 +0800" stop="20260715131900 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715131900 +0800" stop="20260715140200 +0800">
+    <title lang="zh">热播剧场:枪神传奇30</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715140200 +0800" stop="20260715144000 +0800">
+    <title lang="zh">热播剧场:枪神传奇31</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715144000 +0800" stop="20260715145300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715145300 +0800" stop="20260715153100 +0800">
+    <title lang="zh">热播剧场:枪神传奇32</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715153100 +0800" stop="20260715154500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715154500 +0800" stop="20260715162400 +0800">
+    <title lang="zh">热播剧场:枪神传奇33</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715162400 +0800" stop="20260715164100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715164100 +0800" stop="20260715171900 +0800">
+    <title lang="zh">热播剧场:枪神传奇34</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715171900 +0800" stop="20260715173400 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715173400 +0800" stop="20260715181000 +0800">
+    <title lang="zh">热播剧场:枪神传奇35</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715181000 +0800" stop="20260715183000 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715183000 +0800" stop="20260715190000 +0800">
+    <title lang="zh">深视新闻</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715190000 +0800" stop="20260715193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715193000 +0800" stop="20260715193600 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715193600 +0800" stop="20260715202400 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715202400 +0800" stop="20260715203600 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715203600 +0800" stop="20260715212000 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715212000 +0800" stop="20260715213500 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715213500 +0800" stop="20260715221000 +0800">
+    <title lang="zh">直说中国斐济季</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715221000 +0800" stop="20260715225500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715225500 +0800" stop="20260715231000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715231000 +0800" stop="20260715234200 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715234200 +0800" stop="20260715235700 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260715235700 +0800" stop="20260716000900 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716000900 +0800" stop="20260716003300 +0800">
+    <title lang="zh">超级发布会</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716003300 +0800" stop="20260716004500 +0800">
+    <title lang="zh">先行</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716004500 +0800" stop="20260716011700 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716011700 +0800" stop="20260716013800 +0800">
+    <title lang="zh">超级发布会</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716013800 +0800" stop="20260716015100 +0800">
+    <title lang="zh">先行</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716015100 +0800" stop="20260716023600 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716023600 +0800" stop="20260716032200 +0800">
+    <title lang="zh">不夜场:血染大青山15</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716032200 +0800" stop="20260716040700 +0800">
+    <title lang="zh">不夜场:血染大青山16</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716040700 +0800" stop="20260716045400 +0800">
+    <title lang="zh">不夜场:血染大青山17</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716045400 +0800" stop="20260716050900 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716050900 +0800" stop="20260716052000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716052000 +0800" stop="20260716061500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716061500 +0800" stop="20260716062800 +0800">
+    <title lang="zh">先行</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716062800 +0800" stop="20260716070000 +0800">
+    <title lang="zh">温暖在身边</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716070000 +0800" stop="20260716070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716070100 +0800" stop="20260716080300 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716080300 +0800" stop="20260716085200 +0800">
+    <title lang="zh">精品剧场:白狼18</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716085200 +0800" stop="20260716093500 +0800">
+    <title lang="zh">精品剧场:白狼19</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716093500 +0800" stop="20260716095200 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716095200 +0800" stop="20260716103500 +0800">
+    <title lang="zh">精品剧场:白狼20</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716103500 +0800" stop="20260716105100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716105100 +0800" stop="20260716113300 +0800">
+    <title lang="zh">精品剧场:白狼21</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716113300 +0800" stop="20260716115000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716115000 +0800" stop="20260716123200 +0800">
+    <title lang="zh">正午看天下</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716123200 +0800" stop="20260716124800 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716124800 +0800" stop="20260716130200 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716130200 +0800" stop="20260716131800 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716131800 +0800" stop="20260716140100 +0800">
+    <title lang="zh">热播剧场:枪神传奇36</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716140100 +0800" stop="20260716143700 +0800">
+    <title lang="zh">热播剧场:枪神传奇37</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716143700 +0800" stop="20260716145100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716145100 +0800" stop="20260716153000 +0800">
+    <title lang="zh">热播剧场:枪神传奇38</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716153000 +0800" stop="20260716154300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716154300 +0800" stop="20260716162100 +0800">
+    <title lang="zh">热播剧场:枪神传奇39</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716162100 +0800" stop="20260716163600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716163600 +0800" stop="20260716172100 +0800">
+    <title lang="zh">热播剧场:枪神传奇40</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716172100 +0800" stop="20260716173500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716173500 +0800" stop="20260716181100 +0800">
+    <title lang="zh">热播剧场:枪神传奇41</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716181100 +0800" stop="20260716183000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716183000 +0800" stop="20260716190000 +0800">
+    <title lang="zh">深视新闻</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716190000 +0800" stop="20260716193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716193000 +0800" stop="20260716193700 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716193700 +0800" stop="20260716202400 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716202400 +0800" stop="20260716203600 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716203600 +0800" stop="20260716212000 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716212000 +0800" stop="20260716213500 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716213500 +0800" stop="20260716221000 +0800">
+    <title lang="zh">大湾区会客厅</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716221000 +0800" stop="20260716225500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716225500 +0800" stop="20260716231200 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716231200 +0800" stop="20260716234400 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260716234400 +0800" stop="20260717000000 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717000000 +0800" stop="20260717001300 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717001300 +0800" stop="20260717004600 +0800">
+    <title lang="zh">大湾区会客厅</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717004600 +0800" stop="20260717011700 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717011700 +0800" stop="20260717014900 +0800">
+    <title lang="zh">大湾区会客厅</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717014900 +0800" stop="20260717023600 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717023600 +0800" stop="20260717031900 +0800">
+    <title lang="zh">不夜场:血染大青山18</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717031900 +0800" stop="20260717040300 +0800">
+    <title lang="zh">不夜场:血染大青山19</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717040300 +0800" stop="20260717045200 +0800">
+    <title lang="zh">不夜场:血染大青山20</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717045200 +0800" stop="20260717050700 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717050700 +0800" stop="20260717052000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717052000 +0800" stop="20260717061600 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717061600 +0800" stop="20260717062800 +0800">
+    <title lang="zh">先行</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717062800 +0800" stop="20260717070000 +0800">
+    <title lang="zh">温暖在身边</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717070000 +0800" stop="20260717070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717070100 +0800" stop="20260717080400 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717080400 +0800" stop="20260717085300 +0800">
+    <title lang="zh">精品剧场:白狼22</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717085300 +0800" stop="20260717093500 +0800">
+    <title lang="zh">精品剧场:白狼23</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717093500 +0800" stop="20260717095000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717095000 +0800" stop="20260717103300 +0800">
+    <title lang="zh">精品剧场:白狼24</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717103300 +0800" stop="20260717105000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717105000 +0800" stop="20260717113400 +0800">
+    <title lang="zh">精品剧场:白狼25</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717113400 +0800" stop="20260717115000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717115000 +0800" stop="20260717123200 +0800">
+    <title lang="zh">正午看天下</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717123200 +0800" stop="20260717124800 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717124800 +0800" stop="20260717130200 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717130200 +0800" stop="20260717131800 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717131800 +0800" stop="20260717140300 +0800">
+    <title lang="zh">热播剧场:枪神传奇42</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717140300 +0800" stop="20260717144500 +0800">
+    <title lang="zh">热播剧场:枪神传奇43</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717144500 +0800" stop="20260717145800 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717145800 +0800" stop="20260717154100 +0800">
+    <title lang="zh">热播剧场:枪神传奇44</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717154100 +0800" stop="20260717155400 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717155400 +0800" stop="20260717163100 +0800">
+    <title lang="zh">热播剧场:枪神传奇45</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717163100 +0800" stop="20260717164500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717164500 +0800" stop="20260717172000 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717172000 +0800" stop="20260717173600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717173600 +0800" stop="20260717181000 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717181000 +0800" stop="20260717183000 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717183000 +0800" stop="20260717190000 +0800">
+    <title lang="zh">深视新闻</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717190000 +0800" stop="20260717193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717193000 +0800" stop="20260717193700 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717193700 +0800" stop="20260717202400 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717202400 +0800" stop="20260717203600 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717203600 +0800" stop="20260717212000 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717212000 +0800" stop="20260717213400 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717213400 +0800" stop="20260717221000 +0800">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717221000 +0800" stop="20260717225500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717225500 +0800" stop="20260717231000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717231000 +0800" stop="20260717234300 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260717234300 +0800" stop="20260718001100 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718001100 +0800" stop="20260718004600 +0800">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718004600 +0800" stop="20260718011800 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718011800 +0800" stop="20260718015100 +0800">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718015100 +0800" stop="20260718023800 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718023800 +0800" stop="20260718032300 +0800">
+    <title lang="zh">不夜场:血染大青山21</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718032300 +0800" stop="20260718040800 +0800">
+    <title lang="zh">不夜场:血染大青山22</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718040800 +0800" stop="20260718045400 +0800">
+    <title lang="zh">不夜场:血染大青山23</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718045400 +0800" stop="20260718051000 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718051000 +0800" stop="20260718052100 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718052100 +0800" stop="20260718061600 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718061600 +0800" stop="20260718062800 +0800">
+    <title lang="zh">先行</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718062800 +0800" stop="20260718070000 +0800">
+    <title lang="zh">温暖在身边</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718070000 +0800" stop="20260718070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718070100 +0800" stop="20260718080100 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718080100 +0800" stop="20260718100600 +0800">
+    <title lang="zh">动画片:赵琳的探险日记</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718100600 +0800" stop="20260718105700 +0800">
+    <title lang="zh">精品剧场:白狼26</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718105700 +0800" stop="20260718113400 +0800">
+    <title lang="zh">精品剧场:白狼27</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718113400 +0800" stop="20260718115000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718115000 +0800" stop="20260718123200 +0800">
+    <title lang="zh">正午看天下</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718123200 +0800" stop="20260718124800 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718124800 +0800" stop="20260718130200 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718130200 +0800" stop="20260718131800 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718131800 +0800" stop="20260718135900 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718135900 +0800" stop="20260718145100 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718145100 +0800" stop="20260718154500 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718154500 +0800" stop="20260718163900 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718163900 +0800" stop="20260718173400 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718173400 +0800" stop="20260718181000 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718181000 +0800" stop="20260718183000 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718183000 +0800" stop="20260718190000 +0800">
+    <title lang="zh">深视新闻</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718190000 +0800" stop="20260718193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718193000 +0800" stop="20260718193600 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718193600 +0800" stop="20260718202300 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718202300 +0800" stop="20260718203500 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718203500 +0800" stop="20260718211900 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718211900 +0800" stop="20260718213400 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718213400 +0800" stop="20260718221000 +0800">
+    <title lang="zh">电视剧:重生我在苏超踢前锋</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718221000 +0800" stop="20260718225500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718225500 +0800" stop="20260718231100 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718231100 +0800" stop="20260718234200 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718234200 +0800" stop="20260718235800 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260718235800 +0800" stop="20260719001000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719001000 +0800" stop="20260719003500 +0800">
+    <title lang="zh">超级发布会</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719003500 +0800" stop="20260719005200 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719005200 +0800" stop="20260719012200 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719012200 +0800" stop="20260719014400 +0800">
+    <title lang="zh">超级发布会</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719014400 +0800" stop="20260719020300 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719020300 +0800" stop="20260719024800 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719024800 +0800" stop="20260719033300 +0800">
+    <title lang="zh">不夜场:血染大青山24</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719033300 +0800" stop="20260719041800 +0800">
+    <title lang="zh">不夜场:血染大青山25</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719041800 +0800" stop="20260719050300 +0800">
+    <title lang="zh">不夜场:血染大青山26</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719050300 +0800" stop="20260719051800 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719051800 +0800" stop="20260719053200 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719053200 +0800" stop="20260719062700 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719062700 +0800" stop="20260719065000 +0800">
+    <title lang="zh">深圳非遗</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719065000 +0800" stop="20260719070000 +0800">
+    <title lang="zh">温暖在身边</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719070000 +0800" stop="20260719070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719070100 +0800" stop="20260719080300 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719080300 +0800" stop="20260719095400 +0800">
+    <title lang="zh">动画片:赵琳的探险日记</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719095400 +0800" stop="20260719103500 +0800">
+    <title lang="zh">精品剧场:白狼28</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719103500 +0800" stop="20260719105000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719105000 +0800" stop="20260719113400 +0800">
+    <title lang="zh">精品剧场:白狼29</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719113400 +0800" stop="20260719115000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719115000 +0800" stop="20260719123200 +0800">
+    <title lang="zh">正午看天下</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719123200 +0800" stop="20260719124800 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719124800 +0800" stop="20260719130200 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719130200 +0800" stop="20260719131900 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719131900 +0800" stop="20260719140100 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719140100 +0800" stop="20260719143900 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719143900 +0800" stop="20260719145300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719145300 +0800" stop="20260719153200 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719153200 +0800" stop="20260719154500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719154500 +0800" stop="20260719162300 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719162300 +0800" stop="20260719164000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719164000 +0800" stop="20260719171800 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719171800 +0800" stop="20260719173400 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719173400 +0800" stop="20260719181000 +0800">
+    <title lang="zh">热播剧场:枪神传奇</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719181000 +0800" stop="20260719183000 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719183000 +0800" stop="20260719190000 +0800">
+    <title lang="zh">深视新闻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719190000 +0800" stop="20260719193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719193000 +0800" stop="20260719193700 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719193700 +0800" stop="20260719202500 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719202500 +0800" stop="20260719203600 +0800">
+    <title lang="zh">广告</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719203600 +0800" stop="20260719212000 +0800">
+    <title lang="zh">黄金剧场</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719212000 +0800" stop="20260719213500 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719213500 +0800" stop="20260719221000 +0800">
+    <title lang="zh">电视剧:重生我在苏超踢前锋</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719221000 +0800" stop="20260719225500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719225500 +0800" stop="20260719231000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719231000 +0800" stop="20260719234100 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719234100 +0800" stop="20260719235600 +0800">
+    <title lang="zh">科创最前沿</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546050" start="20260719235600 +0800" stop="20260720000000 +0800">
+    <title lang="zh">直财经</title>
+    <desc />
+    <date>20260719</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -2943,10 +4905,262 @@
     </audio>
   </programme>
   
-<programme channel="545979" start="20260718232800 +0800" stop="20260719000000 +0800">
+<programme channel="545979" start="20260718232800 +0800" stop="20260719004800 +0800">
     <title lang="zh">图鉴中国</title>
     <desc />
     <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719004800 +0800" stop="20260719013000 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719013000 +0800" stop="20260719021700 +0800">
+    <title lang="zh">军情直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719021700 +0800" stop="20260719030600 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719030600 +0800" stop="20260719034500 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719034500 +0800" stop="20260719043000 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719043000 +0800" stop="20260719051200 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719051200 +0800" stop="20260719060200 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719060200 +0800" stop="20260719070100 +0800">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719070100 +0800" stop="20260719075500 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719075500 +0800" stop="20260719090100 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719090100 +0800" stop="20260719103900 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719103900 +0800" stop="20260719111400 +0800">
+    <title lang="zh">辣妈学院</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719111400 +0800" stop="20260719115000 +0800">
+    <title lang="zh">诗意中国4</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719115000 +0800" stop="20260719124600 +0800">
+    <title lang="zh">正午30分</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719124600 +0800" stop="20260719133600 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719133600 +0800" stop="20260719143300 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719143300 +0800" stop="20260719152400 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719152400 +0800" stop="20260719161600 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719161600 +0800" stop="20260719170900 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719170900 +0800" stop="20260719175300 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719175300 +0800" stop="20260719183000 +0800">
+    <title lang="zh">辣妈学院</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719183000 +0800" stop="20260719190000 +0800">
+    <title lang="zh">深视新闻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719190000 +0800" stop="20260719193600 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719193600 +0800" stop="20260719213500 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719213500 +0800" stop="20260719221500 +0800">
+    <title lang="zh">诗意中国</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719221500 +0800" stop="20260719222500 +0800">
+    <title lang="zh">晚间报道</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719222500 +0800" stop="20260719232800 +0800">
+    <title lang="zh">直播港澳台</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545979" start="20260719232800 +0800" stop="20260720000000 +0800">
+    <title lang="zh">探秘时刻</title>
+    <desc />
+    <date>20260719</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

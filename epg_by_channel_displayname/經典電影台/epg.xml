@@ -1,113 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="370259" start="20260712001700 +0800" stop="20260712020000 +0800">
-    <title lang="zh">宮本武藏二部曲 一乘寺決鬥</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712020000 +0800" stop="20260712050900 +0800">
-    <title lang="zh">悲慘世界</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712050900 +0800" stop="20260712071900 +0800">
-    <title lang="zh">風雲人物</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712071900 +0800" stop="20260712091700 +0800">
-    <title lang="zh">紳士現形記</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712091700 +0800" stop="20260712112100 +0800">
-    <title lang="zh">玉女神駒</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712112100 +0800" stop="20260712132300 +0800">
-    <title lang="zh">小婦人</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712132300 +0800" stop="20260712151600 +0800">
-    <title lang="zh">龍鳳配</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712151600 +0800" stop="20260712170900 +0800">
-    <title lang="zh">謎中謎</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712170900 +0800" stop="20260712193400 +0800">
-    <title lang="zh">大都會</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712193400 +0800" stop="20260712214200 +0800">
-    <title lang="zh">凱薩與埃及豔后</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712214200 +0800" stop="20260712233700 +0800">
-    <title lang="zh">卡薩諾瓦</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260712233700 +0800" stop="20260713010300 +0800">
-    <title lang="zh">鐵路英烈傳</title>
-    <desc />
-    <date>20260712</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="370259" start="20260713010300 +0800" stop="20260713022900 +0800">
     <title lang="zh">怪獸特輯 哥吉拉之南海大決鬥</title>
     <desc />
@@ -351,10 +243,136 @@
     </audio>
   </programme>
   
-<programme channel="370259" start="20260714221700 +0800" stop="20260715000000 +0800">
+<programme channel="370259" start="20260714221700 +0800" stop="20260715000700 +0800">
     <title lang="zh">巴黎假期</title>
     <desc />
     <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715000700 +0800" stop="20260715014100 +0800">
+    <title lang="zh">懺情記</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715014100 +0800" stop="20260715030000 +0800">
+    <title lang="zh">姿三四郎</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715030000 +0800" stop="20260715050100 +0800">
+    <title lang="zh">梵谷傳</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715050100 +0800" stop="20260715062200 +0800">
+    <title lang="zh">吸血鬼德古拉 Dracula</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715062200 +0800" stop="20260715080600 +0800">
+    <title lang="zh">鐵血金戈</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715080600 +0800" stop="20260715092800 +0800">
+    <title lang="zh">怪獸特輯 哥吉拉的逆襲</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715092800 +0800" stop="20260715110200 +0800">
+    <title lang="zh">巴士站</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715110200 +0800" stop="20260715125700 +0800">
+    <title lang="zh">007情報員續集</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715125700 +0800" stop="20260715170300 +0800">
+    <title lang="zh">埃及豔后</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715170300 +0800" stop="20260715184700 +0800">
+    <title lang="zh">綠廈</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715184700 +0800" stop="20260715200300 +0800">
+    <title lang="zh">無須敲門</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715200300 +0800" stop="20260715213900 +0800">
+    <title lang="zh">怪獸特輯 哥吉拉的誕生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715213900 +0800" stop="20260715232000 +0800">
+    <title lang="zh">海牙</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260715232000 +0800" stop="20260716000000 +0800">
+    <title lang="zh">用心棒</title>
+    <desc />
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
