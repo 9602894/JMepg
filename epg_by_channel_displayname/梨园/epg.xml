@@ -1,126 +1,378 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539775" start="20260713000500 +0800" stop="20260713022000 +0800">
-    <title lang="zh">豫剧:杜甫大河之子</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713022000 +0800" stop="20260713032600 +0800">
-    <title lang="zh">刘秀传</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713032600 +0800" stop="20260713054000 +0800">
-    <title lang="zh">曲剧:新二进宫</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713054000 +0800" stop="20260713075400 +0800">
-    <title lang="zh">豫剧:八都坊</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713075400 +0800" stop="20260713100800 +0800">
-    <title lang="zh">曲剧:新二进宫</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713100800 +0800" stop="20260713122300 +0800">
-    <title lang="zh">豫剧:杜甫大河之子</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713122300 +0800" stop="20260713132300 +0800">
-    <title lang="zh">刘秀传</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713132300 +0800" stop="20260713153700 +0800">
-    <title lang="zh">豫剧:八都坊</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713153700 +0800" stop="20260713175200 +0800">
+<programme channel="539775" start="20260714000500 +0800" stop="20260714022000 +0800">
     <title lang="zh">豫剧:太行小八路</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260713175200 +0800" stop="20260713181200 +0800">
-    <title lang="zh">唱段欣赏</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713181200 +0800" stop="20260713202600 +0800">
-    <title lang="zh">四平调:小包公-拜小荣</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713202600 +0800" stop="20260713224000 +0800">
-    <title lang="zh">曲剧:荆钗记-刘青</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260713224000 +0800" stop="20260713234000 +0800">
+<programme channel="539775" start="20260714022000 +0800" stop="20260714032600 +0800">
     <title lang="zh">刘秀传</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260713234000 +0800" stop="20260714000000 +0800">
+<programme channel="539775" start="20260714032600 +0800" stop="20260714054000 +0800">
+    <title lang="zh">四平调:小包公-拜小荣</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714054000 +0800" stop="20260714075400 +0800">
+    <title lang="zh">曲剧:荆钗记-刘青</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714075400 +0800" stop="20260714100800 +0800">
+    <title lang="zh">四平调:小包公-拜小荣</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714100800 +0800" stop="20260714122300 +0800">
+    <title lang="zh">豫剧:太行小八路</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714122300 +0800" stop="20260714132300 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714132300 +0800" stop="20260714153700 +0800">
+    <title lang="zh">曲剧:荆钗记-刘青</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714153700 +0800" stop="20260714175200 +0800">
+    <title lang="zh">黄梅戏:女驸马-严凤英</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714175200 +0800" stop="20260714181200 +0800">
     <title lang="zh">唱段欣赏</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714181200 +0800" stop="20260714202600 +0800">
+    <title lang="zh">曲剧:婚姻大事-李亚军</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714202600 +0800" stop="20260714224000 +0800">
+    <title lang="zh">豫剧:南阳关-袁国营</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714224000 +0800" stop="20260714234000 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260714234000 +0800" stop="20260715000000 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714000500 +0800" stop="20260714022000 +0800">
+    <title lang="zh">豫剧:太行小八路</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714022000 +0800" stop="20260714032600 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714032600 +0800" stop="20260714054000 +0800">
+    <title lang="zh">四平调:小包公-拜小荣</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714054000 +0800" stop="20260714075400 +0800">
+    <title lang="zh">曲剧:荆钗记-刘青</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714075400 +0800" stop="20260714100800 +0800">
+    <title lang="zh">四平调:小包公-拜小荣</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714100800 +0800" stop="20260714122300 +0800">
+    <title lang="zh">豫剧:太行小八路</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714122300 +0800" stop="20260714132300 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714132300 +0800" stop="20260714153700 +0800">
+    <title lang="zh">曲剧:荆钗记-刘青</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714153700 +0800" stop="20260714175200 +0800">
+    <title lang="zh">黄梅戏:女驸马-严凤英</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714175200 +0800" stop="20260714181200 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714181200 +0800" stop="20260714202600 +0800">
+    <title lang="zh">曲剧:婚姻大事-李亚军</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714202600 +0800" stop="20260714224000 +0800">
+    <title lang="zh">豫剧:南阳关-袁国营</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714224000 +0800" stop="20260714234000 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260714234000 +0800" stop="20260715000500 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715000500 +0800" stop="20260715022000 +0800">
+    <title lang="zh">黄梅戏:女驸马-严凤英</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715022000 +0800" stop="20260715032600 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715032600 +0800" stop="20260715054000 +0800">
+    <title lang="zh">曲剧:婚姻大事-李亚军</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715054000 +0800" stop="20260715075400 +0800">
+    <title lang="zh">豫剧:南阳关-袁国营</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715075400 +0800" stop="20260715100800 +0800">
+    <title lang="zh">曲剧:婚姻大事-李亚军</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715100800 +0800" stop="20260715122300 +0800">
+    <title lang="zh">黄梅戏:女驸马-严凤英</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715122300 +0800" stop="20260715132300 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715132300 +0800" stop="20260715153700 +0800">
+    <title lang="zh">豫剧:南阳关-袁国营</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715153700 +0800" stop="20260715175200 +0800">
+    <title lang="zh">黄梅戏:太白醉</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715175200 +0800" stop="20260715181200 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715181200 +0800" stop="20260715202600 +0800">
+    <title lang="zh">豫剧:辕门斩子-刘忠河</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715202600 +0800" stop="20260715224000 +0800">
+    <title lang="zh">曲剧:风雪配-王秀玲</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715224000 +0800" stop="20260715234000 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554413" start="20260715234000 +0800" stop="20260716000000 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

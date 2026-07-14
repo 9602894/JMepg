@@ -1,288 +1,1683 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="546007" start="20260713004200 +0800" stop="20260713012800 +0800">
-    <title lang="zh">最美的青春4</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713012800 +0800" stop="20260713021900 +0800">
-    <title lang="zh">普法剧场</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713021900 +0800" stop="20260713055500 +0800">
-    <title lang="zh"> 静屏</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713055500 +0800" stop="20260713060000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713060000 +0800" stop="20260713063300 +0800">
-    <title lang="zh">法律讲堂</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713063300 +0800" stop="20260713070500 +0800">
-    <title lang="zh">剧懂人心</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713070500 +0800" stop="20260713073900 +0800">
-    <title lang="zh">夕阳红</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713073900 +0800" stop="20260713083200 +0800">
-    <title lang="zh">普法剧场</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713083200 +0800" stop="20260713092500 +0800">
-    <title lang="zh">剧懂法</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713092500 +0800" stop="20260713095800 +0800">
-    <title lang="zh">夕阳红</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713095800 +0800" stop="20260713103000 +0800">
-    <title lang="zh">法律讲堂</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713103000 +0800" stop="20260713110500 +0800">
-    <title lang="zh">现在开庭</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713110500 +0800" stop="20260713114000 +0800">
-    <title lang="zh">高墙内外</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713114000 +0800" stop="20260713121000 +0800">
-    <title lang="zh">热心话</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713121000 +0800" stop="20260713123300 +0800">
-    <title lang="zh">道德观察(日播版)</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713123300 +0800" stop="20260713131000 +0800">
-    <title lang="zh">现在开庭</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713131000 +0800" stop="20260713135900 +0800">
-    <title lang="zh">最美的青春5</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713135900 +0800" stop="20260713144800 +0800">
-    <title lang="zh">最美的青春6</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713144800 +0800" stop="20260713154000 +0800">
+<programme channel="546007" start="20260714004200 +0800" stop="20260714012800 +0800">
     <title lang="zh">最美的青春7</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546007" start="20260713154000 +0800" stop="20260713161300 +0800">
-    <title lang="zh">剧懂人心</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713161300 +0800" stop="20260713170100 +0800">
-    <title lang="zh">剧懂法</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713170100 +0800" stop="20260713173400 +0800">
-    <title lang="zh">高墙内外</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713173400 +0800" stop="20260713182500 +0800">
+<programme channel="546007" start="20260714012800 +0800" stop="20260714021900 +0800">
     <title lang="zh">普法剧场</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546007" start="20260713182500 +0800" stop="20260713185800 +0800">
-    <title lang="zh">中国法治观察</title>
+<programme channel="546007" start="20260714021900 +0800" stop="20260714055500 +0800">
+    <title lang="zh"> 静屏</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546007" start="20260713185800 +0800" stop="20260713193200 +0800">
+<programme channel="546007" start="20260714055500 +0800" stop="20260714060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714060000 +0800" stop="20260714063300 +0800">
     <title lang="zh">法律讲堂</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546007" start="20260713193200 +0800" stop="20260713202500 +0800">
+<programme channel="546007" start="20260714063300 +0800" stop="20260714070500 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714070500 +0800" stop="20260714073900 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714073900 +0800" stop="20260714083200 +0800">
     <title lang="zh">普法剧场</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546007" start="20260713202500 +0800" stop="20260713210000 +0800">
-    <title lang="zh">一线</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713210000 +0800" stop="20260713213000 +0800">
-    <title lang="zh">天网</title>
-    <desc />
-    <date>20260713</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546007" start="20260713213000 +0800" stop="20260713222300 +0800">
+<programme channel="546007" start="20260714083200 +0800" stop="20260714092500 +0800">
     <title lang="zh">剧懂法</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546007" start="20260713222300 +0800" stop="20260713230600 +0800">
+<programme channel="546007" start="20260714092500 +0800" stop="20260714095800 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714095800 +0800" stop="20260714103000 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714103000 +0800" stop="20260714110500 +0800">
     <title lang="zh">一线</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546007" start="20260713230600 +0800" stop="20260713235400 +0800">
-    <title lang="zh">最美的青春5</title>
+<programme channel="546007" start="20260714110500 +0800" stop="20260714114000 +0800">
+    <title lang="zh">天网</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546007" start="20260713235400 +0800" stop="20260714000000 +0800">
-    <title lang="zh">最美的青春6</title>
+<programme channel="546007" start="20260714114000 +0800" stop="20260714121000 +0800">
+    <title lang="zh">中国法治观察</title>
     <desc />
-    <date>20260713</date>
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714121000 +0800" stop="20260714123300 +0800">
+    <title lang="zh">道德观察(日播版)</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714123300 +0800" stop="20260714131000 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714131000 +0800" stop="20260714135900 +0800">
+    <title lang="zh">最美的青春8</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714135900 +0800" stop="20260714144800 +0800">
+    <title lang="zh">最美的青春9</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714144800 +0800" stop="20260714154000 +0800">
+    <title lang="zh">最美的青春10</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714154000 +0800" stop="20260714161300 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714161300 +0800" stop="20260714170100 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714170100 +0800" stop="20260714173400 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714173400 +0800" stop="20260714182500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714182500 +0800" stop="20260714185800 +0800">
+    <title lang="zh">中国法治观察</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714185800 +0800" stop="20260714193200 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714193200 +0800" stop="20260714202500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714202500 +0800" stop="20260714210000 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714210000 +0800" stop="20260714213000 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714213000 +0800" stop="20260714222300 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714222300 +0800" stop="20260714230600 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714230600 +0800" stop="20260714235400 +0800">
+    <title lang="zh">最美的青春8</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260714235400 +0800" stop="20260715004200 +0800">
+    <title lang="zh">最美的青春9</title>
+    <desc />
+    <date>20260714</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715004200 +0800" stop="20260715012800 +0800">
+    <title lang="zh">最美的青春10</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715012800 +0800" stop="20260715055500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715055500 +0800" stop="20260715060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715060000 +0800" stop="20260715063300 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715063300 +0800" stop="20260715070500 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715070500 +0800" stop="20260715073900 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715073900 +0800" stop="20260715083200 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715083200 +0800" stop="20260715092500 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715092500 +0800" stop="20260715095800 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715095800 +0800" stop="20260715103000 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715103000 +0800" stop="20260715110500 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715110500 +0800" stop="20260715114000 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715114000 +0800" stop="20260715121000 +0800">
+    <title lang="zh">热线12</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715121000 +0800" stop="20260715123300 +0800">
+    <title lang="zh">道德观察(日播版)</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715123300 +0800" stop="20260715131000 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715131000 +0800" stop="20260715135900 +0800">
+    <title lang="zh">最美的青春11</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715135900 +0800" stop="20260715144800 +0800">
+    <title lang="zh">最美的青春12</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715144800 +0800" stop="20260715154000 +0800">
+    <title lang="zh">最美的青春13</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715154000 +0800" stop="20260715161300 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715161300 +0800" stop="20260715170100 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715170100 +0800" stop="20260715173400 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715173400 +0800" stop="20260715182500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715182500 +0800" stop="20260715185800 +0800">
+    <title lang="zh">热线12</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715185800 +0800" stop="20260715193200 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715193200 +0800" stop="20260715202500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715202500 +0800" stop="20260715210000 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715210000 +0800" stop="20260715213000 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715213000 +0800" stop="20260715222300 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715222300 +0800" stop="20260715230600 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715230600 +0800" stop="20260715235400 +0800">
+    <title lang="zh">最美的青春11</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260715235400 +0800" stop="20260716004200 +0800">
+    <title lang="zh">最美的青春12</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716004200 +0800" stop="20260716012800 +0800">
+    <title lang="zh">最美的青春13</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716012800 +0800" stop="20260716055500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716055500 +0800" stop="20260716060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716060000 +0800" stop="20260716063300 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716063300 +0800" stop="20260716070500 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716070500 +0800" stop="20260716073900 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716073900 +0800" stop="20260716083200 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716083200 +0800" stop="20260716092500 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716092500 +0800" stop="20260716095800 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716095800 +0800" stop="20260716103000 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716103000 +0800" stop="20260716110500 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716110500 +0800" stop="20260716114000 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716114000 +0800" stop="20260716121000 +0800">
+    <title lang="zh">热线12</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716121000 +0800" stop="20260716123300 +0800">
+    <title lang="zh">道德观察(日播版)</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716123300 +0800" stop="20260716131000 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716131000 +0800" stop="20260716135900 +0800">
+    <title lang="zh">最美的青春14</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716135900 +0800" stop="20260716144800 +0800">
+    <title lang="zh">最美的青春15</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716144800 +0800" stop="20260716154000 +0800">
+    <title lang="zh">最美的青春16</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716154000 +0800" stop="20260716161300 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716161300 +0800" stop="20260716170100 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716170100 +0800" stop="20260716173400 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716173400 +0800" stop="20260716182500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716182500 +0800" stop="20260716185800 +0800">
+    <title lang="zh">热线12</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716185800 +0800" stop="20260716193200 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716193200 +0800" stop="20260716202500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716202500 +0800" stop="20260716210000 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716210000 +0800" stop="20260716213000 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716213000 +0800" stop="20260716222300 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716222300 +0800" stop="20260716230600 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716230600 +0800" stop="20260716235400 +0800">
+    <title lang="zh">最美的青春14</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260716235400 +0800" stop="20260717004200 +0800">
+    <title lang="zh">最美的青春15</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717004200 +0800" stop="20260717012800 +0800">
+    <title lang="zh">最美的青春16</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717012800 +0800" stop="20260717055500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717055500 +0800" stop="20260717060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717060000 +0800" stop="20260717063300 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717063300 +0800" stop="20260717070500 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717070500 +0800" stop="20260717073900 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717073900 +0800" stop="20260717083200 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717083200 +0800" stop="20260717092500 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717092500 +0800" stop="20260717095800 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717095800 +0800" stop="20260717103000 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717103000 +0800" stop="20260717110500 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717110500 +0800" stop="20260717114000 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717114000 +0800" stop="20260717121000 +0800">
+    <title lang="zh">热线12</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717121000 +0800" stop="20260717123300 +0800">
+    <title lang="zh">道德观察(日播版)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717123300 +0800" stop="20260717131000 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717131000 +0800" stop="20260717135900 +0800">
+    <title lang="zh">最美的青春17</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717135900 +0800" stop="20260717144800 +0800">
+    <title lang="zh">最美的青春18</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717144800 +0800" stop="20260717154000 +0800">
+    <title lang="zh">最美的青春19</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717154000 +0800" stop="20260717161300 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717161300 +0800" stop="20260717170100 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717170100 +0800" stop="20260717173400 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717173400 +0800" stop="20260717182500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717182500 +0800" stop="20260717185800 +0800">
+    <title lang="zh">热线12</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717185800 +0800" stop="20260717193200 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717193200 +0800" stop="20260717202500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717202500 +0800" stop="20260717205500 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717205500 +0800" stop="20260717212200 +0800">
+    <title lang="zh">奇迹中国第一季-天山之路1</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717212200 +0800" stop="20260717215200 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717215200 +0800" stop="20260717224500 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717224500 +0800" stop="20260717233300 +0800">
+    <title lang="zh">最美的青春17</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260717233300 +0800" stop="20260718002100 +0800">
+    <title lang="zh">最美的青春18</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718002100 +0800" stop="20260718010900 +0800">
+    <title lang="zh">最美的青春19</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718010900 +0800" stop="20260718055500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718055500 +0800" stop="20260718060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718060000 +0800" stop="20260718063300 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718063300 +0800" stop="20260718070500 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718070500 +0800" stop="20260718073900 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718073900 +0800" stop="20260718083200 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718083200 +0800" stop="20260718092500 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718092500 +0800" stop="20260718095800 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718095800 +0800" stop="20260718103000 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718103000 +0800" stop="20260718110500 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718110500 +0800" stop="20260718114000 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718114000 +0800" stop="20260718121000 +0800">
+    <title lang="zh">热线12</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718121000 +0800" stop="20260718123300 +0800">
+    <title lang="zh">道德观察(日播版)</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718123300 +0800" stop="20260718131000 +0800">
+    <title lang="zh">一线</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718131000 +0800" stop="20260718135900 +0800">
+    <title lang="zh">最美的青春20</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718135900 +0800" stop="20260718144800 +0800">
+    <title lang="zh">最美的青春21</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718144800 +0800" stop="20260718154000 +0800">
+    <title lang="zh">最美的青春22</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718154000 +0800" stop="20260718161300 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718161300 +0800" stop="20260718170100 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718170100 +0800" stop="20260718173400 +0800">
+    <title lang="zh">天网</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718173400 +0800" stop="20260718182500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718182500 +0800" stop="20260718185800 +0800">
+    <title lang="zh">心声</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718185800 +0800" stop="20260718193200 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718193200 +0800" stop="20260718202500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718202500 +0800" stop="20260718205500 +0800">
+    <title lang="zh">现在开庭</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718205500 +0800" stop="20260718212200 +0800">
+    <title lang="zh">奇迹中国第一季-天山之路2</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718212200 +0800" stop="20260718215200 +0800">
+    <title lang="zh">法治深壹度</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718215200 +0800" stop="20260718224500 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718224500 +0800" stop="20260718233300 +0800">
+    <title lang="zh">最美的青春20</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260718233300 +0800" stop="20260719002100 +0800">
+    <title lang="zh">最美的青春21</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719002100 +0800" stop="20260719010900 +0800">
+    <title lang="zh">最美的青春22</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719010900 +0800" stop="20260719055500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719055500 +0800" stop="20260719060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719060000 +0800" stop="20260719063300 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719063300 +0800" stop="20260719070500 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719070500 +0800" stop="20260719073900 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719073900 +0800" stop="20260719083200 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719083200 +0800" stop="20260719092500 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719092500 +0800" stop="20260719095800 +0800">
+    <title lang="zh">夕阳红</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719095800 +0800" stop="20260719103000 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719103000 +0800" stop="20260719110500 +0800">
+    <title lang="zh">现在开庭</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719110500 +0800" stop="20260719114000 +0800">
+    <title lang="zh">法治深壹度</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719114000 +0800" stop="20260719121000 +0800">
+    <title lang="zh">心声</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719121000 +0800" stop="20260719123300 +0800">
+    <title lang="zh">道德观察(日播版)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719123300 +0800" stop="20260719131000 +0800">
+    <title lang="zh">现在开庭</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719131000 +0800" stop="20260719135900 +0800">
+    <title lang="zh">最美的青春23</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719135900 +0800" stop="20260719144800 +0800">
+    <title lang="zh">最美的青春24</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719144800 +0800" stop="20260719154000 +0800">
+    <title lang="zh">最美的青春25</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719154000 +0800" stop="20260719161300 +0800">
+    <title lang="zh">剧懂人心</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719161300 +0800" stop="20260719170100 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719170100 +0800" stop="20260719173400 +0800">
+    <title lang="zh">法治深壹度</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719173400 +0800" stop="20260719182500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719182500 +0800" stop="20260719185800 +0800">
+    <title lang="zh">热心话</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719185800 +0800" stop="20260719193200 +0800">
+    <title lang="zh">法律讲堂</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719193200 +0800" stop="20260719202500 +0800">
+    <title lang="zh">普法剧场</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719202500 +0800" stop="20260719205500 +0800">
+    <title lang="zh">现在开庭</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719205500 +0800" stop="20260719212200 +0800">
+    <title lang="zh">奇迹中国第一季-天山之路3</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719212200 +0800" stop="20260719215200 +0800">
+    <title lang="zh">高墙内外</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719215200 +0800" stop="20260719224500 +0800">
+    <title lang="zh">剧懂法</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719224500 +0800" stop="20260719233300 +0800">
+    <title lang="zh">最美的青春23</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546007" start="20260719233300 +0800" stop="20260720000000 +0800">
+    <title lang="zh">最美的青春24</title>
+    <desc />
+    <date>20260719</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
