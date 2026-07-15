@@ -1,171 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539823" start="20260714010400 +0800" stop="20260714013900 +0800">
-    <title lang="zh">武林红毯秀</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714013900 +0800" stop="20260714053000 +0800">
-    <title lang="zh">健康起义</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714053000 +0800" stop="20260714073900 +0800">
+<programme channel="539823" start="20260715004100 +0800" stop="20260715012700 +0800">
     <title lang="zh">剧场</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539823" start="20260714073900 +0800" stop="20260714083700 +0800">
+<programme channel="539823" start="20260715012700 +0800" stop="20260715020100 +0800">
+    <title lang="zh">武林红毯秀</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715020100 +0800" stop="20260715053000 +0800">
+    <title lang="zh">健康起义</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715053000 +0800" stop="20260715074100 +0800">
+    <title lang="zh">剧场</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715074100 +0800" stop="20260715083900 +0800">
     <title lang="zh">大牌价到294</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539823" start="20260714083700 +0800" stop="20260714092900 +0800">
-    <title lang="zh">平安365</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714092900 +0800" stop="20260714110600 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714110600 +0800" stop="20260714122000 +0800">
-    <title lang="zh">大牌价到295</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714122000 +0800" stop="20260714125600 +0800">
-    <title lang="zh">爱影者联盟</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714125600 +0800" stop="20260714171000 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714171000 +0800" stop="20260714180100 +0800">
-    <title lang="zh">我们退休了</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714180100 +0800" stop="20260714182700 +0800">
-    <title lang="zh">爱影者联盟</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714182700 +0800" stop="20260714205900 +0800">
-    <title lang="zh">剧场</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714205900 +0800" stop="20260714212400 +0800">
-    <title lang="zh">武林红毯秀</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714212400 +0800" stop="20260714214700 +0800">
-    <title lang="zh">健康起义</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714214700 +0800" stop="20260714222600 +0800">
-    <title lang="zh">今日新看点</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714222600 +0800" stop="20260714225800 +0800">
-    <title lang="zh">装修面对面</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714225800 +0800" stop="20260714231000 +0800">
+<programme channel="539823" start="20260715083900 +0800" stop="20260715092000 +0800">
     <title lang="zh">房产零距离</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539823" start="20260714231000 +0800" stop="20260714235500 +0800">
-    <title lang="zh">《今日汽车》</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539823" start="20260714235500 +0800" stop="20260715000000 +0800">
+<programme channel="539823" start="20260715092000 +0800" stop="20260715105800 +0800">
     <title lang="zh">剧场</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715105800 +0800" stop="20260715121400 +0800">
+    <title lang="zh">大牌价到</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715121400 +0800" stop="20260715125600 +0800">
+    <title lang="zh">装修面对面</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715125600 +0800" stop="20260715171000 +0800">
+    <title lang="zh">剧场</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715171000 +0800" stop="20260715180100 +0800">
+    <title lang="zh">我们退休了</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715180100 +0800" stop="20260715182800 +0800">
+    <title lang="zh">爱影者联盟</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715182800 +0800" stop="20260715205800 +0800">
+    <title lang="zh">剧场</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715205800 +0800" stop="20260715212500 +0800">
+    <title lang="zh">武林红毯秀</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715212500 +0800" stop="20260715214900 +0800">
+    <title lang="zh">健康起义</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715214900 +0800" stop="20260715222200 +0800">
+    <title lang="zh">今日新看点</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715222200 +0800" stop="20260715225400 +0800">
+    <title lang="zh">装修面对面</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715225400 +0800" stop="20260715230600 +0800">
+    <title lang="zh">房产零距离</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715230600 +0800" stop="20260715234800 +0800">
+    <title lang="zh">今日汽车</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539823" start="20260715234800 +0800" stop="20260716000000 +0800">
+    <title lang="zh">晚会:2017我是星主播(4)上</title>
+    <desc />
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

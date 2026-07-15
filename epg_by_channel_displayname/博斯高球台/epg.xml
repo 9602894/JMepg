@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544778" start="20260714000000 +0800" stop="20260714013000 +0800">
-    <title lang="zh">2026 歐巡BMW國際公開賽 第三天(普)</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544778" start="20260714013000 +0800" stop="20260714043000 +0800">
-    <title lang="zh">2026 PGA肯塔基錦標賽 第二天(普)</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544778" start="20260714043000 +0800" stop="20260714073000 +0800">
-    <title lang="zh">2026 PGA約翰迪爾菁英賽 第二天(普)</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544778" start="20260714073000 +0800" stop="20260714110000 +0800">
-    <title lang="zh">2026 歐巡BMW國際公開賽 第三天(普)</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544778" start="20260714110000 +0800" stop="20260714170000 +0800">
-    <title lang="zh">首播 2026 歐巡蘇格蘭公開賽 第二天(普)</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544778" start="20260714170000 +0800" stop="20260714200000 +0800">
-    <title lang="zh">2026 PGA肯塔基錦標賽 第二天(普)</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544778" start="20260714200000 +0800" stop="20260714223000 +0800">
-    <title lang="zh">2026 歐巡BMW國際公開賽 第四天(普)</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544778" start="20260714223000 +0800" stop="20260715000000 +0800">
-    <title lang="zh">2026 PGA肯塔基錦標賽 第三天(普)</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="544778" start="20260715000000 +0800" stop="20260715013000 +0800">
     <title lang="zh">2026 PGA肯塔基錦標賽 第三天(普)</title>
     <desc />
@@ -184,6 +112,33 @@
     <title lang="zh">LIVE 2026英國公開賽 第一天(普)</title>
     <desc />
     <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544778" start="20260717000000 +0800" stop="20260717033000 +0800">
+    <title lang="zh">LIVE 2026英國公開賽 第一天(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544778" start="20260717033000 +0800" stop="20260717133000 +0800">
+    <title lang="zh">首播 2026英國公開賽 第一天(普)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544778" start="20260717133000 +0800" stop="20260718000000 +0800">
+    <title lang="zh">LIVE 2026英國公開賽 第二天(普)</title>
+    <desc />
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

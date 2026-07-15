@@ -1,86 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="547512" start="20260714024500 +0800" stop="20260714103500 +0800">
-    <title lang="zh">115年 全國社區學生棒球大賽 U10 精彩重播</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260714103500 +0800" stop="20260714123000 +0800">
-    <title lang="zh">115年第二十九屆傳福盃全國少棒錦標賽 精彩重播</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260714123000 +0800" stop="20260714150000 +0800">
-    <title lang="zh">【LIVE】四國菁英棒球對抗賽 G1 USA VS Korea</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260714150000 +0800" stop="20260714174000 +0800">
-    <title lang="zh">115年第二十九屆傳福盃全國少棒錦標賽 精彩重播</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260714174000 +0800" stop="20260714175400 +0800">
-    <title lang="zh">體育班EP01 平成怪物松板大輔 精彩重播</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260714175400 +0800" stop="20260714181000 +0800">
-    <title lang="zh">體育班EP02 台中向上代表台灣出征U13亞洲盃 精彩重播</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260714181000 +0800" stop="20260714183000 +0800">
-    <title lang="zh">115 年 華南金控盃全國青少棒錦標賽 精彩重播</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260714183000 +0800" stop="20260714210000 +0800">
-    <title lang="zh">【LIVE】四國菁英棒球對抗賽 G2 Chinese Taipei VS Japan</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260714210000 +0800" stop="20260715000000 +0800">
-    <title lang="zh">115 年 華南金控盃全國青少棒錦標賽 精彩重播</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="547512" start="20260715000000 +0800" stop="20260715123000 +0800">
     <title lang="zh">115 年 華南金控盃全國青少棒錦標賽 精彩重播</title>
     <desc />
@@ -171,10 +90,55 @@
     </audio>
   </programme>
   
-<programme channel="547512" start="20260716015500 +0800" stop="20260717000000 +0800">
+<programme channel="547512" start="20260716015500 +0800" stop="20260717003800 +0800">
     <title lang="zh">114年 全國社區學生棒球大賽 精彩重播</title>
     <desc />
     <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260717003800 +0800" stop="20260717052000 +0800">
+    <title lang="zh">114年 全國社區學生棒球大賽 精彩重播</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260717052000 +0800" stop="20260717211500 +0800">
+    <title lang="zh">115年 大甲媽祖盃王貞治全國青棒錦標賽 精彩重播</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260717211500 +0800" stop="20260717212900 +0800">
+    <title lang="zh">體育班EP01 平成怪物松板大輔 精彩重播</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260717212900 +0800" stop="20260717214500 +0800">
+    <title lang="zh">體育班EP02 台中向上代表台灣出征U13亞洲盃 精彩重播</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260717214500 +0800" stop="20260718000000 +0800">
+    <title lang="zh">115年第二十九屆傳福盃全國少棒錦標賽 精彩重播</title>
+    <desc />
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

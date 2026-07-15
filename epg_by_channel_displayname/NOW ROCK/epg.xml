@@ -1,122 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="430258" start="20260714010000 +0800" stop="20260714030000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714030000 +0800" stop="20260714050000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714050000 +0800" stop="20260714060000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714060000 +0800" stop="20260714070000 +0800">
-    <title lang="zh">Rock Rewind: 1970 - 1979!</title>
-    <desc>The Biggest Hits that rocked the 70s including Punk, Glam Rock and everything in between</desc>
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714070000 +0800" stop="20260714090000 +0800">
-    <title lang="zh">The Ultimate Rock Mixtape!</title>
-    <desc>Rock, Metal, Grunge, Pop Punk, this playlist has it all and more!</desc>
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714090000 +0800" stop="20260714110000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714110000 +0800" stop="20260714130000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714130000 +0800" stop="20260714150000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714150000 +0800" stop="20260714170000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714170000 +0800" stop="20260714190000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714190000 +0800" stop="20260714210000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714210000 +0800" stop="20260714230000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430258" start="20260714230000 +0800" stop="20260715010000 +0800">
-    <title lang="zh">Coming Soon</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="430258" start="20260715010000 +0800" stop="20260715030000 +0800">
     <title lang="zh">Coming Soon</title>
     <desc />
@@ -810,10 +693,136 @@
     </audio>
   </programme>
   
-<programme channel="430258" start="20260720230000 +0800" stop="20260721000000 +0800">
+<programme channel="430258" start="20260720230000 +0800" stop="20260721010000 +0800">
     <title lang="zh">Maximum Rock Overdrive!</title>
     <desc>The playlist is so huge it comes with a warning! Mega rock hits only from the 70s to 00s</desc>
     <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721010000 +0800" stop="20260721030000 +0800">
+    <title lang="zh">Monster Rock Hits Of The 80s!</title>
+    <desc>The biggest Rock hits that defined the 80s</desc>
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721030000 +0800" stop="20260721040000 +0800">
+    <title lang="zh">Rock Rewind: The Best Of 1996!</title>
+    <desc>The Biggest Rock Hits from the year 1996</desc>
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721040000 +0800" stop="20260721050000 +0800">
+    <title lang="zh">Movie Soundtracks That Rocked!</title>
+    <desc>Grab the popcorn! It's time for huge hits from the most inconic movies ever!</desc>
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721050000 +0800" stop="20260721060000 +0800">
+    <title lang="zh">Legends Of Rock 1970 - 2009!</title>
+    <desc>These are the acts that shaped the sound of Rock music forever! Legends only!</desc>
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721060000 +0800" stop="20260721070000 +0800">
+    <title lang="zh">Legends Of Rock 1970 - 2009!</title>
+    <desc>These are the acts that shaped the sound of Rock music forever! Legends only!</desc>
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721070000 +0800" stop="20260721090000 +0800">
+    <title lang="zh">Big Fat Rock Hits!</title>
+    <desc>Big fat rock hits from 1970 - 2009</desc>
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721090000 +0800" stop="20260721110000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721110000 +0800" stop="20260721130000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721130000 +0800" stop="20260721150000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721150000 +0800" stop="20260721170000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721170000 +0800" stop="20260721190000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721190000 +0800" stop="20260721210000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721210000 +0800" stop="20260721230000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430258" start="20260721230000 +0800" stop="20260722000000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260721</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

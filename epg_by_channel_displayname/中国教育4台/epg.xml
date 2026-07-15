@@ -1,1008 +1,477 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544267" start="20260714000000 +0800" stop="20260714001500 +0800">
+<programme channel="544267" start="20260715000000 +0800" stop="20260715001500 +0800">
     <title lang="zh">导视</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544267" start="20260714001500 +0800" stop="20260714004000 +0800">
+<programme channel="544267" start="20260715001500 +0800" stop="20260715004000 +0800">
     <title lang="zh">体谈</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544267" start="20260714004000 +0800" stop="20260714011000 +0800">
+<programme channel="544267" start="20260715004000 +0800" stop="20260715011000 +0800">
     <title lang="zh">体育大思政课</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544267" start="20260714011000 +0800" stop="20260714013000 +0800">
+<programme channel="544267" start="20260715011000 +0800" stop="20260715013000 +0800">
     <title lang="zh">闪耀职教</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544267" start="20260714013000 +0800" stop="20260714020000 +0800">
-    <title lang="zh">球缘天下</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714020000 +0800" stop="20260714020500 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714020500 +0800" stop="20260714024500 +0800">
-    <title lang="zh">职教中国</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714024500 +0800" stop="20260714025000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714025000 +0800" stop="20260714031000 +0800">
-    <title lang="zh">家长朋友圈</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714031000 +0800" stop="20260714031500 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714031500 +0800" stop="20260714034000 +0800">
-    <title lang="zh">体谈</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714034000 +0800" stop="20260714034500 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714034500 +0800" stop="20260714043000 +0800">
-    <title lang="zh">一职为你</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714043000 +0800" stop="20260714044000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714044000 +0800" stop="20260714051000 +0800">
-    <title lang="zh">球缘天下</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714051000 +0800" stop="20260714055000 +0800">
-    <title lang="zh">职教中国</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714055000 +0800" stop="20260714060000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714060000 +0800" stop="20260714062000 +0800">
-    <title lang="zh">金牌体育课</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714062000 +0800" stop="20260714063500 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714063500 +0800" stop="20260714071500 +0800">
-    <title lang="zh">职教中国</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714071500 +0800" stop="20260714073000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714073000 +0800" stop="20260714075500 +0800">
-    <title lang="zh">体谈</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714075500 +0800" stop="20260714080000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714080000 +0800" stop="20260714083000 +0800">
-    <title lang="zh">风驰电掣</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714083000 +0800" stop="20260714091000 +0800">
-    <title lang="zh">职教中国</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714091000 +0800" stop="20260714091500 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714091500 +0800" stop="20260714093000 +0800">
-    <title lang="zh">墨香</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714093000 +0800" stop="20260714095500 +0800">
-    <title lang="zh">冠军说</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714095500 +0800" stop="20260714100000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714100000 +0800" stop="20260714103000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714103000 +0800" stop="20260714110000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714110000 +0800" stop="20260714113000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714113000 +0800" stop="20260714120000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714120000 +0800" stop="20260714123000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714123000 +0800" stop="20260714130000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714130000 +0800" stop="20260714134500 +0800">
-    <title lang="zh">一职为你</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714134500 +0800" stop="20260714140000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714140000 +0800" stop="20260714143000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714143000 +0800" stop="20260714150000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714150000 +0800" stop="20260714153000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714153000 +0800" stop="20260714160000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714160000 +0800" stop="20260714163000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714163000 +0800" stop="20260714170000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714170000 +0800" stop="20260714173000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714173000 +0800" stop="20260714180000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714180000 +0800" stop="20260714183000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714183000 +0800" stop="20260714190000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714190000 +0800" stop="20260714193000 +0800">
-    <title lang="zh">e体资讯</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714193000 +0800" stop="20260714203000 +0800">
-    <title lang="zh">青春训练营</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714203000 +0800" stop="20260714213000 +0800">
-    <title lang="zh">青春训练营</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714213000 +0800" stop="20260714220000 +0800">
-    <title lang="zh">青春训练营</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714220000 +0800" stop="20260714223000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714223000 +0800" stop="20260714230000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544267" start="20260714230000 +0800" stop="20260714232500 +0800">
+<programme channel="544267" start="20260715013000 +0800" stop="20260715020000 +0800">
     <title lang="zh">数字体育潮</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544267" start="20260714232500 +0800" stop="20260714233000 +0800">
+<programme channel="544267" start="20260715020000 +0800" stop="20260715020500 +0800">
     <title lang="zh">导视</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544267" start="20260714233000 +0800" stop="20260715000000 +0800">
-    <title lang="zh">动起来一起闪亮</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714000000 +0800" stop="20260714001500 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714001500 +0800" stop="20260714004000 +0800">
-    <title lang="zh">体谈</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714004000 +0800" stop="20260714011000 +0800">
-    <title lang="zh">体育大思政课</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714011000 +0800" stop="20260714013000 +0800">
-    <title lang="zh">闪耀职教</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714013000 +0800" stop="20260714020000 +0800">
-    <title lang="zh">球缘天下</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714020000 +0800" stop="20260714020500 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714020500 +0800" stop="20260714024500 +0800">
+<programme channel="544267" start="20260715020500 +0800" stop="20260715024500 +0800">
     <title lang="zh">职教中国</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714024500 +0800" stop="20260714025000 +0800">
+<programme channel="544267" start="20260715024500 +0800" stop="20260715025000 +0800">
     <title lang="zh">导视</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714025000 +0800" stop="20260714031000 +0800">
+<programme channel="544267" start="20260715025000 +0800" stop="20260715031000 +0800">
     <title lang="zh">家长朋友圈</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714031000 +0800" stop="20260714031500 +0800">
+<programme channel="544267" start="20260715031000 +0800" stop="20260715031500 +0800">
     <title lang="zh">导视</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714031500 +0800" stop="20260714034000 +0800">
+<programme channel="544267" start="20260715031500 +0800" stop="20260715034000 +0800">
     <title lang="zh">体谈</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714034000 +0800" stop="20260714034500 +0800">
+<programme channel="544267" start="20260715034000 +0800" stop="20260715034500 +0800">
     <title lang="zh">导视</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714034500 +0800" stop="20260714043000 +0800">
-    <title lang="zh">一职为你</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714043000 +0800" stop="20260714044000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714044000 +0800" stop="20260714051000 +0800">
-    <title lang="zh">球缘天下</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714051000 +0800" stop="20260714055000 +0800">
+<programme channel="544267" start="20260715034500 +0800" stop="20260715043000 +0800">
     <title lang="zh">职教中国</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714055000 +0800" stop="20260714060000 +0800">
+<programme channel="544267" start="20260715043000 +0800" stop="20260715044000 +0800">
     <title lang="zh">导视</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714060000 +0800" stop="20260714062000 +0800">
-    <title lang="zh">金牌体育课</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714062000 +0800" stop="20260714063500 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714063500 +0800" stop="20260714071500 +0800">
-    <title lang="zh">职教中国</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714071500 +0800" stop="20260714073000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714073000 +0800" stop="20260714075500 +0800">
-    <title lang="zh">体谈</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714075500 +0800" stop="20260714080000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714080000 +0800" stop="20260714083000 +0800">
-    <title lang="zh">风驰电掣</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714083000 +0800" stop="20260714091000 +0800">
-    <title lang="zh">职教中国</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714091000 +0800" stop="20260714091500 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714091500 +0800" stop="20260714093000 +0800">
-    <title lang="zh">墨香</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714093000 +0800" stop="20260714095500 +0800">
-    <title lang="zh">冠军说</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714095500 +0800" stop="20260714100000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714100000 +0800" stop="20260714103000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714103000 +0800" stop="20260714110000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714110000 +0800" stop="20260714113000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714113000 +0800" stop="20260714120000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714120000 +0800" stop="20260714123000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714123000 +0800" stop="20260714130000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714130000 +0800" stop="20260714134500 +0800">
-    <title lang="zh">一职为你</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714134500 +0800" stop="20260714140000 +0800">
-    <title lang="zh">导视</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714140000 +0800" stop="20260714143000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714143000 +0800" stop="20260714150000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714150000 +0800" stop="20260714153000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714153000 +0800" stop="20260714160000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714160000 +0800" stop="20260714163000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714163000 +0800" stop="20260714170000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714170000 +0800" stop="20260714173000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714173000 +0800" stop="20260714180000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714180000 +0800" stop="20260714183000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714183000 +0800" stop="20260714190000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714190000 +0800" stop="20260714193000 +0800">
-    <title lang="zh">e体资讯</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714193000 +0800" stop="20260714203000 +0800">
-    <title lang="zh">青春训练营</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714203000 +0800" stop="20260714213000 +0800">
-    <title lang="zh">青春训练营</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714213000 +0800" stop="20260714220000 +0800">
-    <title lang="zh">青春训练营</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714220000 +0800" stop="20260714223000 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714223000 +0800" stop="20260714230000 +0800">
-    <title lang="zh">美丽人生</title>
-    <desc />
-    <date>20260714</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554442" start="20260714230000 +0800" stop="20260714232500 +0800">
+<programme channel="544267" start="20260715044000 +0800" stop="20260715051000 +0800">
     <title lang="zh">数字体育潮</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714232500 +0800" stop="20260714233000 +0800">
+<programme channel="544267" start="20260715051000 +0800" stop="20260715055000 +0800">
+    <title lang="zh">职教中国</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715055000 +0800" stop="20260715060000 +0800">
     <title lang="zh">导视</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554442" start="20260714233000 +0800" stop="20260715000000 +0800">
+<programme channel="544267" start="20260715060000 +0800" stop="20260715062000 +0800">
+    <title lang="zh">金牌体育课</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715062000 +0800" stop="20260715063500 +0800">
+    <title lang="zh">导视</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715063500 +0800" stop="20260715071500 +0800">
+    <title lang="zh">职教中国</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715071500 +0800" stop="20260715073000 +0800">
+    <title lang="zh">导视</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715073000 +0800" stop="20260715075500 +0800">
+    <title lang="zh">体谈</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715075500 +0800" stop="20260715080000 +0800">
+    <title lang="zh">导视</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715080000 +0800" stop="20260715083000 +0800">
+    <title lang="zh">风驰电掣</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715083000 +0800" stop="20260715091500 +0800">
+    <title lang="zh">一职为你</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715091500 +0800" stop="20260715093000 +0800">
+    <title lang="zh">墨香</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715093000 +0800" stop="20260715095500 +0800">
+    <title lang="zh">冠军说</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715095500 +0800" stop="20260715100000 +0800">
+    <title lang="zh">导视</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715100000 +0800" stop="20260715103000 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715103000 +0800" stop="20260715110000 +0800">
+    <title lang="zh">美丽人生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715110000 +0800" stop="20260715113000 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715113000 +0800" stop="20260715120000 +0800">
+    <title lang="zh">美丽人生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715120000 +0800" stop="20260715123000 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715123000 +0800" stop="20260715130000 +0800">
+    <title lang="zh">美丽人生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715130000 +0800" stop="20260715140000 +0800">
+    <title lang="zh">乒乓青春</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715140000 +0800" stop="20260715143000 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715143000 +0800" stop="20260715150000 +0800">
+    <title lang="zh">美丽人生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715150000 +0800" stop="20260715153000 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715153000 +0800" stop="20260715160000 +0800">
+    <title lang="zh">美丽人生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715160000 +0800" stop="20260715163000 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715163000 +0800" stop="20260715170000 +0800">
+    <title lang="zh">美丽人生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715170000 +0800" stop="20260715173000 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715173000 +0800" stop="20260715180000 +0800">
+    <title lang="zh">美丽人生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715180000 +0800" stop="20260715183000 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715183000 +0800" stop="20260715190000 +0800">
+    <title lang="zh">美丽人生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715190000 +0800" stop="20260715193000 +0800">
+    <title lang="zh">e体资讯</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715193000 +0800" stop="20260715203000 +0800">
+    <title lang="zh">青春训练营</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715203000 +0800" stop="20260715213000 +0800">
+    <title lang="zh">青春训练营</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715213000 +0800" stop="20260715220000 +0800">
+    <title lang="zh">青春训练营</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715220000 +0800" stop="20260715223000 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715223000 +0800" stop="20260715230000 +0800">
+    <title lang="zh">美丽人生</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715230000 +0800" stop="20260715233000 +0800">
+    <title lang="zh">球缘天下</title>
+    <desc />
+    <date>20260715</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544267" start="20260715233000 +0800" stop="20260716000000 +0800">
     <title lang="zh">动起来一起闪亮</title>
     <desc />
-    <date>20260714</date>
+    <date>20260715</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
