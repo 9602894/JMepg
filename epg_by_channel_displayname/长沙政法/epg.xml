@@ -1,126 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544397" start="20260715064200 +0800" stop="20260715075000 +0800">
-    <title lang="zh">买房帮帮帮</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544397" start="20260715075000 +0800" stop="20260715095000 +0800">
-    <title lang="zh">夜线</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544397" start="20260715095000 +0800" stop="20260715105000 +0800">
-    <title lang="zh">8点开讲</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544397" start="20260715105000 +0800" stop="20260715124000 +0800">
+<programme channel="544397" start="20260716000000 +0800" stop="20260716002500 +0800">
     <title lang="zh">政法报道</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544397" start="20260715124000 +0800" stop="20260715132500 +0800">
-    <title lang="zh">观点致胜</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544397" start="20260715132500 +0800" stop="20260715141000 +0800">
-    <title lang="zh">专题片</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544397" start="20260715141000 +0800" stop="20260715144500 +0800">
+<programme channel="544397" start="20260716002500 +0800" stop="20260716010000 +0800">
     <title lang="zh">知音人间</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544397" start="20260715144500 +0800" stop="20260715175000 +0800">
+<programme channel="544397" start="20260716010000 +0800" stop="20260716013500 +0800">
     <title lang="zh">养生学+</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544397" start="20260715175000 +0800" stop="20260715200000 +0800">
-    <title lang="zh">政法报道</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544397" start="20260715200000 +0800" stop="20260715210000 +0800">
-    <title lang="zh">8点开讲</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544397" start="20260715210000 +0800" stop="20260715230000 +0800">
-    <title lang="zh">夜线</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544397" start="20260715230000 +0800" stop="20260715234000 +0800">
+<programme channel="544397" start="20260716013500 +0800" stop="20260716021700 +0800">
     <title lang="zh">观点致胜</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544397" start="20260715234000 +0800" stop="20260715235500 +0800">
+<programme channel="544397" start="20260716021700 +0800" stop="20260716043000 +0800">
+    <title lang="zh">夜线</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716043000 +0800" stop="20260716064200 +0800">
+    <title lang="zh">政法报道</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716064200 +0800" stop="20260716075000 +0800">
+    <title lang="zh">买房帮帮帮</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716075000 +0800" stop="20260716095000 +0800">
+    <title lang="zh">夜线</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716095000 +0800" stop="20260716105000 +0800">
+    <title lang="zh">8点开讲</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716105000 +0800" stop="20260716124000 +0800">
+    <title lang="zh">政法报道</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716124000 +0800" stop="20260716132500 +0800">
+    <title lang="zh">观点致胜</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716132500 +0800" stop="20260716141000 +0800">
+    <title lang="zh">专题片</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716141000 +0800" stop="20260716144500 +0800">
+    <title lang="zh">知音人间</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716144500 +0800" stop="20260716175000 +0800">
+    <title lang="zh">养生学+</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716175000 +0800" stop="20260716200000 +0800">
+    <title lang="zh">政法报道</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716200000 +0800" stop="20260716210000 +0800">
+    <title lang="zh">8点开讲</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716210000 +0800" stop="20260716230000 +0800">
+    <title lang="zh">夜线</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716230000 +0800" stop="20260716234000 +0800">
+    <title lang="zh">观点致胜</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544397" start="20260716234000 +0800" stop="20260716235500 +0800">
     <title lang="zh">第1房产</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544397" start="20260715235500 +0800" stop="20260716000000 +0800">
+<programme channel="544397" start="20260716235500 +0800" stop="20260717000000 +0800">
     <title lang="zh">第1家装</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

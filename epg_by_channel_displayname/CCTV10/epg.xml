@@ -1,324 +1,666 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554356" start="20260715002500 +0800" stop="20260715005500 +0800">
-    <title lang="zh">味道-2026-113(精编)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715005500 +0800" stop="20260715013500 +0800">
-    <title lang="zh">探索·发现-2026-195</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715013500 +0800" stop="20260715021500 +0800">
-    <title lang="zh">健康之路-2026-196</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715021500 +0800" stop="20260715025500 +0800">
-    <title lang="zh">百家讲坛-2026-195</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715025500 +0800" stop="20260715060000 +0800">
-    <title lang="zh">再见</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715060000 +0800" stop="20260715061000 +0800">
-    <title lang="zh">读书-2026-249</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715061000 +0800" stop="20260715062000 +0800">
-    <title lang="zh">百家说故事-2026-197</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715062000 +0800" stop="20260715063000 +0800">
-    <title lang="zh">时尚科技秀-2026-196</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715063000 +0800" stop="20260715072300 +0800">
-    <title lang="zh">自然传奇-2026-195</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715072300 +0800" stop="20260715074500 +0800">
-    <title lang="zh">人物故事-2026-140</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715074500 +0800" stop="20260715080700 +0800">
-    <title lang="zh">跟着书本去旅行-2026-140</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715080700 +0800" stop="20260715081000 +0800">
-    <title lang="zh">欣赏-2024年30秒-4</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715081000 +0800" stop="20260715085800 +0800">
-    <title lang="zh">探索·发现-2026-195</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715085800 +0800" stop="20260715094500 +0800">
-    <title lang="zh">健康之路-2026-196</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715094500 +0800" stop="20260715102200 +0800">
-    <title lang="zh">地理·中国-2026-195</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715102200 +0800" stop="20260715112200 +0800">
-    <title lang="zh">自然传奇-2026-195</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715112200 +0800" stop="20260715120000 +0800">
-    <title lang="zh">味道-2026-113(精编)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715120000 +0800" stop="20260715124900 +0800">
-    <title lang="zh">百家讲坛-2026-196</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715124900 +0800" stop="20260715135500 +0800">
-    <title lang="zh">考古公开课-2026-12</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715135500 +0800" stop="20260715140000 +0800">
-    <title lang="zh">欣赏-2024年30秒-4</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715140000 +0800" stop="20260715142200 +0800">
-    <title lang="zh">创新进行时-2026-138</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715142200 +0800" stop="20260715145600 +0800">
-    <title lang="zh">地理·中国-2026-195</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715145600 +0800" stop="20260715150100 +0800">
-    <title lang="zh">欣赏-2024年30秒-4</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715150100 +0800" stop="20260715153900 +0800">
-    <title lang="zh">味道-2026-113(精编)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715153900 +0800" stop="20260715162600 +0800">
-    <title lang="zh">探索·发现-2026-195</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715162600 +0800" stop="20260715172600 +0800">
-    <title lang="zh">自然传奇-2026-195</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715172600 +0800" stop="20260715180500 +0800">
-    <title lang="zh">地理·中国-2026-196</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715180500 +0800" stop="20260715185400 +0800">
-    <title lang="zh">健康之路-2026-197</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715185400 +0800" stop="20260715193200 +0800">
+<programme channel="554356" start="20260716002500 +0800" stop="20260716005500 +0800">
     <title lang="zh">味道-2026-114(精编)</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554356" start="20260715193200 +0800" stop="20260715203200 +0800">
-    <title lang="zh">自然传奇-2026-196</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554356" start="20260715203200 +0800" stop="20260715212000 +0800">
+<programme channel="554356" start="20260716005500 +0800" stop="20260716013500 +0800">
     <title lang="zh">探索·发现-2026-196</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554356" start="20260715212000 +0800" stop="20260715214800 +0800">
-    <title lang="zh">创新进行时-2026-140</title>
+<programme channel="554356" start="20260716013500 +0800" stop="20260716021500 +0800">
+    <title lang="zh">健康之路-2026-197</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554356" start="20260715214800 +0800" stop="20260715224000 +0800">
-    <title lang="zh">2026大千世界-73</title>
+<programme channel="554356" start="20260716021500 +0800" stop="20260716025500 +0800">
+    <title lang="zh">百家讲坛-2026-196</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554356" start="20260715224000 +0800" stop="20260715231200 +0800">
+<programme channel="554356" start="20260716025500 +0800" stop="20260716060000 +0800">
+    <title lang="zh">再见</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716060000 +0800" stop="20260716061000 +0800">
+    <title lang="zh">读书-2026-250</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716061000 +0800" stop="20260716062000 +0800">
+    <title lang="zh">百家说故事-2026-198</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716062000 +0800" stop="20260716063000 +0800">
+    <title lang="zh">时尚科技秀-2026-197</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716063000 +0800" stop="20260716072300 +0800">
+    <title lang="zh">自然传奇-2026-196</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716072300 +0800" stop="20260716074500 +0800">
+    <title lang="zh">人物故事-2026-141</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716074500 +0800" stop="20260716080700 +0800">
+    <title lang="zh">跟着书本去旅行-2026-141</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716080700 +0800" stop="20260716081000 +0800">
+    <title lang="zh">欣赏-2024年30秒-4</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716081000 +0800" stop="20260716085800 +0800">
+    <title lang="zh">探索·发现-2026-196</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716085800 +0800" stop="20260716094500 +0800">
+    <title lang="zh">健康之路-2026-197</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716094500 +0800" stop="20260716102200 +0800">
     <title lang="zh">地理·中国-2026-196</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554356" start="20260715231200 +0800" stop="20260715232500 +0800">
-    <title lang="zh">时尚科技秀-2026-196</title>
+<programme channel="554356" start="20260716102200 +0800" stop="20260716112200 +0800">
+    <title lang="zh">自然传奇-2026-196</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554356" start="20260715232500 +0800" stop="20260716000000 +0800">
-    <title lang="zh">解码科技史-2026-56</title>
+<programme channel="554356" start="20260716112200 +0800" stop="20260716120000 +0800">
+    <title lang="zh">味道-2026-114(精编)</title>
     <desc />
-    <date>20260715</date>
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716120000 +0800" stop="20260716124900 +0800">
+    <title lang="zh">百家讲坛-2026-197</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716124900 +0800" stop="20260716135500 +0800">
+    <title lang="zh">考古公开课-2026-11</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716135500 +0800" stop="20260716140000 +0800">
+    <title lang="zh">欣赏-2024年30秒-4</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716140000 +0800" stop="20260716142200 +0800">
+    <title lang="zh">创新进行时-2026-139</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716142200 +0800" stop="20260716145600 +0800">
+    <title lang="zh">地理·中国-2026-196</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716145600 +0800" stop="20260716150100 +0800">
+    <title lang="zh">欣赏-2024年30秒-4</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716150100 +0800" stop="20260716153900 +0800">
+    <title lang="zh">味道-2026-114(精编)</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716153900 +0800" stop="20260716162600 +0800">
+    <title lang="zh">探索·发现-2026-196</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716162600 +0800" stop="20260716172600 +0800">
+    <title lang="zh">自然传奇-2026-196</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716172600 +0800" stop="20260716180500 +0800">
+    <title lang="zh">地理·中国-2026-197</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716180500 +0800" stop="20260716185400 +0800">
+    <title lang="zh">健康之路-2026-198</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716185400 +0800" stop="20260716193200 +0800">
+    <title lang="zh">味道-2026-115(精编)</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716193200 +0800" stop="20260716203200 +0800">
+    <title lang="zh">自然传奇-2026-197</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716203200 +0800" stop="20260716212000 +0800">
+    <title lang="zh">探索·发现-2026-197</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716212000 +0800" stop="20260716214800 +0800">
+    <title lang="zh">创新进行时-2026-141</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716214800 +0800" stop="20260716224000 +0800">
+    <title lang="zh">2026大千世界-74</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716224000 +0800" stop="20260716231200 +0800">
+    <title lang="zh">地理·中国-2026-197</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716231200 +0800" stop="20260716232500 +0800">
+    <title lang="zh">时尚科技秀-2026-197</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716232500 +0800" stop="20260716235500 +0800">
+    <title lang="zh">实验现场-2026-28</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260716235500 +0800" stop="20260717002500 +0800">
+    <title lang="zh">透视新科技-2026-57</title>
+    <desc />
+    <date>20260716</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717002500 +0800" stop="20260717005500 +0800">
+    <title lang="zh">味道-2026-115(精编)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717005500 +0800" stop="20260717013500 +0800">
+    <title lang="zh">探索·发现-2026-197</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717013500 +0800" stop="20260717021500 +0800">
+    <title lang="zh">健康之路-2026-198</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717021500 +0800" stop="20260717025500 +0800">
+    <title lang="zh">百家讲坛-2026-197</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717025500 +0800" stop="20260717060000 +0800">
+    <title lang="zh">再见</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717060000 +0800" stop="20260717061000 +0800">
+    <title lang="zh">读书-2026-251</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717061000 +0800" stop="20260717062000 +0800">
+    <title lang="zh">百家说故事-2026-199</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717062000 +0800" stop="20260717063000 +0800">
+    <title lang="zh">时尚科技秀-2026-198</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717063000 +0800" stop="20260717072300 +0800">
+    <title lang="zh">自然传奇-2026-197</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717072300 +0800" stop="20260717074500 +0800">
+    <title lang="zh">人物故事-2026-142</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717074500 +0800" stop="20260717080700 +0800">
+    <title lang="zh">跟着书本去旅行-2026-142</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717080700 +0800" stop="20260717081000 +0800">
+    <title lang="zh">欣赏-2024年30秒-4</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717081000 +0800" stop="20260717085800 +0800">
+    <title lang="zh">探索·发现-2026-197</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717085800 +0800" stop="20260717094500 +0800">
+    <title lang="zh">健康之路-2026-198</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717094500 +0800" stop="20260717102200 +0800">
+    <title lang="zh">地理·中国-2026-197</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717102200 +0800" stop="20260717112200 +0800">
+    <title lang="zh">自然传奇-2026-197</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717112200 +0800" stop="20260717120000 +0800">
+    <title lang="zh">味道-2026-115(精编)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717120000 +0800" stop="20260717124900 +0800">
+    <title lang="zh">百家讲坛-2026-198</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717124900 +0800" stop="20260717135500 +0800">
+    <title lang="zh">考古公开课-2026-53</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717135500 +0800" stop="20260717140000 +0800">
+    <title lang="zh">欣赏-2024年30秒-4</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717140000 +0800" stop="20260717142200 +0800">
+    <title lang="zh">创新进行时-2026-140</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717142200 +0800" stop="20260717145600 +0800">
+    <title lang="zh">地理·中国-2026-197</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717145600 +0800" stop="20260717150100 +0800">
+    <title lang="zh">欣赏-2024年30秒-4</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717150100 +0800" stop="20260717153900 +0800">
+    <title lang="zh">味道-2026-115(精编)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717153900 +0800" stop="20260717162600 +0800">
+    <title lang="zh">探索·发现-2026-197</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717162600 +0800" stop="20260717172600 +0800">
+    <title lang="zh">自然传奇-2026-197</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717172600 +0800" stop="20260717180500 +0800">
+    <title lang="zh">地理·中国-2026-198</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717180500 +0800" stop="20260717185400 +0800">
+    <title lang="zh">健康之路-2026-199</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717185400 +0800" stop="20260717193200 +0800">
+    <title lang="zh">味道-2026-116(精编)</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717193200 +0800" stop="20260717203200 +0800">
+    <title lang="zh">自然传奇-2026-198</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717203200 +0800" stop="20260717212000 +0800">
+    <title lang="zh">探索·发现-2026-198</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717212000 +0800" stop="20260717214800 +0800">
+    <title lang="zh">创新进行时-2026-142</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717214800 +0800" stop="20260717224000 +0800">
+    <title lang="zh">2026大千世界-75</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717224000 +0800" stop="20260717231200 +0800">
+    <title lang="zh">地理·中国-2026-198</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717231200 +0800" stop="20260717232500 +0800">
+    <title lang="zh">时尚科技秀-2026-198</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717232500 +0800" stop="20260717235500 +0800">
+    <title lang="zh">实验现场-2026-29</title>
+    <desc />
+    <date>20260717</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554356" start="20260717235500 +0800" stop="20260718000000 +0800">
+    <title lang="zh">透视新科技-2026-58</title>
+    <desc />
+    <date>20260717</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

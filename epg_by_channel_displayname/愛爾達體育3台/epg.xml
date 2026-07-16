@@ -1,113 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457245" start="20260715000000 +0800" stop="20260715003000 +0800">
-    <title lang="zh">體壇最前線 7/14 (新)(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715003000 +0800" stop="20260715030000 +0800">
-    <title lang="zh">【MLB on ELTA 7月】(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715030000 +0800" stop="20260715033000 +0800">
-    <title lang="zh">體壇最前線 7/14(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715033000 +0800" stop="20260715053000 +0800">
-    <title lang="zh">世界鐵人三項系列賽 漢堡站 混合接力賽(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715053000 +0800" stop="20260715060000 +0800">
-    <title lang="zh">2026 BWF世界羽球雜誌#6 女王特集 伊瑟儂/奧原希望/辛度(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715060000 +0800" stop="20260715080000 +0800">
-    <title lang="zh">世界田徑巡迴賽 久萊紀念賽(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715080000 +0800" stop="20260715130000 +0800">
-    <title lang="zh">LIVE BWF 日本公開賽 32強(上) 場1 7/15(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715130000 +0800" stop="20260715184000 +0800">
-    <title lang="zh">LIVE BWF 日本公開賽 32強(下) 場1 7/15(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715184000 +0800" stop="20260715185500 +0800">
-    <title lang="zh">2026 BWF世界羽球週報#22(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715185500 +0800" stop="20260715191000 +0800">
-    <title lang="zh">2026 BWF世界羽球週報#23(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715191000 +0800" stop="20260715194000 +0800">
-    <title lang="zh">2026 BWF世界羽球雜誌#6 女王特集 伊瑟儂/奧原希望/辛度(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457245" start="20260715194000 +0800" stop="20260716000000 +0800">
-    <title lang="zh">LIVE 2026 環法自由車大賽 第11日 平路賽(原音)(普)</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457245" start="20260716000000 +0800" stop="20260716003000 +0800">
     <title lang="zh">體壇最前線 7/15 (新)(普)</title>
     <desc />
@@ -841,6 +733,132 @@
     <title lang="zh">BWF 中國公開賽 32強第一日回顧(普)</title>
     <desc />
     <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722000000 +0800" stop="20260722003000 +0800">
+    <title lang="zh">體壇最前線 7/21 (新)(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722003000 +0800" stop="20260722010000 +0800">
+    <title lang="zh">30分鐘看個GOAL 7/19 季軍戰回顧(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722010000 +0800" stop="20260722013000 +0800">
+    <title lang="zh">30分鐘看個GOAL 7/20 冠軍戰回顧(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722013000 +0800" stop="20260722043000 +0800">
+    <title lang="zh">溫網 男單四強#1 7/10 Fery對Zverev(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722043000 +0800" stop="20260722050000 +0800">
+    <title lang="zh">體壇最前線 7/21(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722050000 +0800" stop="20260722070000 +0800">
+    <title lang="zh">BWF 中國公開賽 32強第一日回顧(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722070000 +0800" stop="20260722090000 +0800">
+    <title lang="zh">BWF 中國公開賽 32強第一日回顧(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722090000 +0800" stop="20260722140000 +0800">
+    <title lang="zh">LIVE BWF 中國公開賽 32強(上) 場2 7/22(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722140000 +0800" stop="20260722190000 +0800">
+    <title lang="zh">LIVE BWF 中國公開賽 32強(下) 場2 7/22(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722190000 +0800" stop="20260722191500 +0800">
+    <title lang="zh">2026 BWF世界羽球週報#23(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722191500 +0800" stop="20260722193000 +0800">
+    <title lang="zh">2026 BWF世界羽球週報#24(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722193000 +0800" stop="20260722200000 +0800">
+    <title lang="zh">2026 BWF世界羽球雜誌#6 女王特集 伊瑟儂/奧原希望/辛度(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722200000 +0800" stop="20260722220000 +0800">
+    <title lang="zh">BWF 中國公開賽 32強第二日回顧(普)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457245" start="20260722220000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">BWF 中國公開賽 32強第二日回顧(普)</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

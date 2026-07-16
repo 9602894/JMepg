@@ -1,113 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="370170" start="20260715000000 +0800" stop="20260715010000 +0800">
-    <title lang="zh">東森夜線新聞</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715010000 +0800" stop="20260715023000 +0800">
-    <title lang="zh">東森新聞精選</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715023000 +0800" stop="20260715043000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715043000 +0800" stop="20260715050000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715050000 +0800" stop="20260715060000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715060000 +0800" stop="20260715090000 +0800">
-    <title lang="zh">Hello 台灣</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715090000 +0800" stop="20260715100000 +0800">
-    <title lang="zh">東森新聞0900</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715100000 +0800" stop="20260715135500 +0800">
-    <title lang="zh">東森午安新聞</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715135500 +0800" stop="20260715162500 +0800">
-    <title lang="zh">東森新聞精選</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715162500 +0800" stop="20260715200000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715200000 +0800" stop="20260715220000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370170" start="20260715220000 +0800" stop="20260716000000 +0800">
-    <title lang="zh">關鍵時刻</title>
-    <desc />
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="370170" start="20260716000000 +0800" stop="20260716010000 +0800">
     <title lang="zh">東森新聞精選</title>
     <desc />
@@ -306,190 +198,145 @@
     </audio>
   </programme>
   
-<programme channel="456552" start="20260715000000 +0800" stop="20260715005000 +0800">
+<programme channel="370170" start="20260718000000 +0800" stop="20260718010000 +0800">
     <title lang="zh">東森夜線新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
+    <desc />
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456552" start="20260715005000 +0800" stop="20260715032000 +0800">
-    <title lang="zh">2026FIFA世界盃象牙海岸vs挪威</title>
-    <desc>2026FIFA世界盃象牙海岸vs挪威</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715032000 +0800" stop="20260715043000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715043000 +0800" stop="20260715045000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715045000 +0800" stop="20260715072000 +0800">
-    <title lang="zh">2026FIFA世界盃法國vs瑞典</title>
-    <desc>2026FIFA世界盃法國vs瑞典</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715072000 +0800" stop="20260715085000 +0800">
-    <title lang="zh">Hello台灣</title>
-    <desc>為觀眾播報最新、最即時的晨間新聞</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715085000 +0800" stop="20260715091000 +0800">
-    <title lang="zh">2026FIFA世界盃</title>
-    <desc>2026FIFA世界盃</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715091000 +0800" stop="20260715095000 +0800">
-    <title lang="zh">東森新聞</title>
-    <desc>帶給觀眾全亞洲最即時的社會、政治與財經資訊。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715095000 +0800" stop="20260715122000 +0800">
-    <title lang="zh">2026FIFA世界盃墨西哥vs厄瓜多</title>
-    <desc>2026FIFA世界盃墨西哥vs厄瓜多</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715122000 +0800" stop="20260715130000 +0800">
-    <title lang="zh">東森午安新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715130000 +0800" stop="20260715135500 +0800">
-    <title lang="zh">東森午安新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715135500 +0800" stop="20260715162500 +0800">
-    <title lang="zh">2026FIFA世界盃象牙海岸vs挪威</title>
-    <desc>2026FIFA世界盃象牙海岸vs挪威</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715162500 +0800" stop="20260715170000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715170000 +0800" stop="20260715180000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715180000 +0800" stop="20260715190000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715190000 +0800" stop="20260715200000 +0800">
-    <title lang="zh">東森晚間新聞</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715200000 +0800" stop="20260715210000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715210000 +0800" stop="20260715220000 +0800">
-    <title lang="zh">東森世界日報</title>
-    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456552" start="20260715220000 +0800" stop="20260715230000 +0800">
+<programme channel="370170" start="20260718010000 +0800" stop="20260718030000 +0800">
     <title lang="zh">關鍵時刻</title>
-    <desc>節目中邀請來賓、名嘴們一同探討國際新聞時事，揭秘各地奇聞軼事、分析各國軍事科技，為您深入剖析不同觀點，讓您關鍵時刻消息不漏接</desc>
-    <date>20260715</date>
+    <desc />
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456552" start="20260715230000 +0800" stop="20260715235000 +0800">
-    <title lang="zh">關鍵時刻</title>
-    <desc>節目中邀請來賓、名嘴們一同探討國際新聞時事，揭秘各地奇聞軼事、分析各國軍事科技，為您深入剖析不同觀點，讓您關鍵時刻消息不漏接</desc>
-    <date>20260715</date>
+<programme channel="370170" start="20260718030000 +0800" stop="20260718040000 +0800">
+    <title lang="zh">東森夜線新聞</title>
+    <desc />
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456552" start="20260715235000 +0800" stop="20260716022000 +0800">
-    <title lang="zh">2026FIFA世界盃英格蘭vs剛果</title>
-    <desc>2026FIFA世界盃英格蘭vs剛果</desc>
-    <date>20260715</date>
+<programme channel="370170" start="20260718040000 +0800" stop="20260718060000 +0800">
+    <title lang="zh">東森世界日報</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718060000 +0800" stop="20260718090000 +0800">
+    <title lang="zh">Hello 台灣</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718090000 +0800" stop="20260718100000 +0800">
+    <title lang="zh">東森新聞0900</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718100000 +0800" stop="20260718110000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718110000 +0800" stop="20260718143000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718143000 +0800" stop="20260718150000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718150000 +0800" stop="20260718153000 +0800">
+    <title lang="zh">海峽拚經濟</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718153000 +0800" stop="20260718160000 +0800">
+    <title lang="zh">東森大社會</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718160000 +0800" stop="20260718200000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718200000 +0800" stop="20260718210000 +0800">
+    <title lang="zh">東森世界日報</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718210000 +0800" stop="20260718220000 +0800">
+    <title lang="zh">東森世界日報</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718220000 +0800" stop="20260718230000 +0800">
+    <title lang="zh">東森夜線新聞</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370170" start="20260718230000 +0800" stop="20260719000000 +0800">
+    <title lang="zh">東森夜線新聞</title>
+    <desc />
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -1575,10 +1422,181 @@
     </audio>
   </programme>
   
-<programme channel="456552" start="20260721235000 +0800" stop="20260722000000 +0800">
+<programme channel="456552" start="20260721235000 +0800" stop="20260722022000 +0800">
     <title lang="zh">2026FIFA世界盃</title>
     <desc>2026FIFA世界盃</desc>
     <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722022000 +0800" stop="20260722033000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722033000 +0800" stop="20260722035000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722035000 +0800" stop="20260722062000 +0800">
+    <title lang="zh">2026FIFA世界盃</title>
+    <desc>2026FIFA世界盃</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722062000 +0800" stop="20260722090000 +0800">
+    <title lang="zh">Hello台灣</title>
+    <desc>為觀眾播報最新、最即時的晨間新聞</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722090000 +0800" stop="20260722100000 +0800">
+    <title lang="zh">東森新聞</title>
+    <desc>帶給觀眾全亞洲最即時的社會、政治與財經資訊。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722100000 +0800" stop="20260722110000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722110000 +0800" stop="20260722120000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722120000 +0800" stop="20260722130000 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722130000 +0800" stop="20260722135500 +0800">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722135500 +0800" stop="20260722162500 +0800">
+    <title lang="zh">2026FIFA世界盃</title>
+    <desc>2026FIFA世界盃</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722162500 +0800" stop="20260722170000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722170000 +0800" stop="20260722180000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722180000 +0800" stop="20260722190000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722190000 +0800" stop="20260722200000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722200000 +0800" stop="20260722210000 +0800">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722210000 +0800" stop="20260722220000 +0800">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722220000 +0800" stop="20260722230000 +0800">
+    <title lang="zh">關鍵時刻</title>
+    <desc>節目中邀請來賓、名嘴們一同探討國際新聞時事，揭秘各地奇聞軼事、分析各國軍事科技，為您深入剖析不同觀點，讓您關鍵時刻消息不漏接</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260722230000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">關鍵時刻</title>
+    <desc>節目中邀請來賓、名嘴們一同探討國際新聞時事，揭秘各地奇聞軼事、分析各國軍事科技，為您深入剖析不同觀點，讓您關鍵時刻消息不漏接</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456552" start="20260723000000 +0800" stop="20260724000000 +0800">
+    <title lang="zh">2026FIFA世界盃</title>
+    <desc>2026FIFA世界盃</desc>
+    <date>20260723</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

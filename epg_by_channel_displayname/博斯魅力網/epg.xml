@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456817" start="20260715040000 +0800" stop="20260715060000 +0800">
-    <title lang="zh">2026倫敦女網賽16強CIR vs RAD</title>
-    <desc>2026倫敦女網賽16強CIR vs RAD</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260715060000 +0800" stop="20260715080000 +0800">
-    <title lang="zh">2026柏林女網賽8強SVI vs EAL</title>
-    <desc>2026柏林女網賽8強SVI vs EAL</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260715080000 +0800" stop="20260715100000 +0800">
-    <title lang="zh">2026史特拉斯堡女網賽8強MBO vs FER</title>
-    <desc>2026史特拉斯堡女網賽8強MBO vs FER</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260715100000 +0800" stop="20260715120000 +0800">
-    <title lang="zh">2026倫敦女網賽16強CIR vs RAD</title>
-    <desc>2026倫敦女網賽16強CIR vs RAD</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260715120000 +0800" stop="20260715140000 +0800">
-    <title lang="zh">2026柏林女網賽8強SVI vs EAL</title>
-    <desc>2026柏林女網賽8強SVI vs EAL</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260715140000 +0800" stop="20260715200000 +0800">
-    <title lang="zh">首播2026溫布頓網球錦標賽DAY9 八強(一號球場)</title>
-    <desc>首播2026溫布頓網球錦標賽DAY9 八強(一號球場)</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260715200000 +0800" stop="20260716040000 +0800">
-    <title lang="zh">LIVE2026溫布頓網球錦標賽DAY10 八強(一號球場)</title>
-    <desc>LIVE2026溫布頓網球錦標賽DAY10 八強(一號球場)</desc>
-    <date>20260715</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456817" start="20260716040000 +0800" stop="20260716063000 +0800">
     <title lang="zh">2026倫敦女網賽16強RYB vs MAR</title>
     <desc>2026倫敦女網賽16強RYB vs MAR</desc>
@@ -693,9 +630,117 @@
     </audio>
   </programme>
   
-<programme channel="456817" start="20260722000000 +0800" stop="20260723000000 +0800">
+<programme channel="456817" start="20260722000000 +0800" stop="20260722023000 +0800">
     <title lang="zh">2026林茲女網賽16強TAG vs SAM</title>
     <desc>2026林茲女網賽16強TAG vs SAM</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722023000 +0800" stop="20260722043000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強SWI vs NAV</title>
+    <desc>2026巴特洪堡女網賽16強SWI vs NAV</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722043000 +0800" stop="20260722060000 +0800">
+    <title lang="zh">2026柏林女網賽16強NOS vs PAR</title>
+    <desc>2026柏林女網賽16強NOS vs PAR</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722060000 +0800" stop="20260722083000 +0800">
+    <title lang="zh">2026林茲女網賽16強TAG vs SAM</title>
+    <desc>2026林茲女網賽16強TAG vs SAM</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722083000 +0800" stop="20260722103000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強SWI vs NAV</title>
+    <desc>2026巴特洪堡女網賽16強SWI vs NAV</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722103000 +0800" stop="20260722120000 +0800">
+    <title lang="zh">2026柏林女網賽16強NOS vs PAR</title>
+    <desc>2026柏林女網賽16強NOS vs PAR</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722120000 +0800" stop="20260722143000 +0800">
+    <title lang="zh">2026林茲女網賽16強TAG vs SAM</title>
+    <desc>2026林茲女網賽16強TAG vs SAM</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722143000 +0800" stop="20260722163000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強SWI vs NAV</title>
+    <desc>2026巴特洪堡女網賽16強SWI vs NAV</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722163000 +0800" stop="20260722180000 +0800">
+    <title lang="zh">2026柏林女網賽16強NOS vs PAR</title>
+    <desc>2026柏林女網賽16強NOS vs PAR</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722180000 +0800" stop="20260722200000 +0800">
+    <title lang="zh">2026林茲女網賽16強KOR vs POT</title>
+    <desc>2026林茲女網賽16強KOR vs POT</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722200000 +0800" stop="20260722213000 +0800">
+    <title lang="zh">2026巴特洪堡女網賽16強MUC vs BEG</title>
+    <desc>2026巴特洪堡女網賽16強MUC vs BEG</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722213000 +0800" stop="20260722230000 +0800">
+    <title lang="zh">2026柏林女網賽16強SVI vs LYS</title>
+    <desc>2026柏林女網賽16強SVI vs LYS</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260722230000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">2026林茲女網賽16強KOR vs POT</title>
+    <desc>2026林茲女網賽16強KOR vs POT</desc>
     <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
