@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="370208" start="20260716000000 +0800" stop="20260716060000 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260716060000 +0800" stop="20260716065300 +0800">
-    <title lang="zh">2025中華大家功德會公開賽 第三回合(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260716065300 +0800" stop="20260716080000 +0800">
-    <title lang="zh">2025全國室內五人制足球錦標賽 國男冠軍賽 中正國中 vs 東港國中(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260716080000 +0800" stop="20260716170000 +0800">
-    <title lang="zh">[Live] 2026年勝求盃全國少棒邀請賽 7/16賽程(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260716170000 +0800" stop="20260716182500 +0800">
-    <title lang="zh">115年榮耀新北全國慢速壘球錦標賽(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260716182500 +0800" stop="20260716215000 +0800">
-    <title lang="zh">[首播] 全民跆拳道品勢比賽(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260716215000 +0800" stop="20260717000000 +0800">
-    <title lang="zh">2023肇喜登峰高球巡迴賽 環台公開賽 第三、四回合(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="370208" start="20260717000000 +0800" stop="20260717060000 +0800">
     <title lang="zh">休播(普)</title>
     <desc />
@@ -202,6 +139,78 @@
     <title lang="zh">2024肇喜登峰巡迴賽 長華公開賽第三、四回合(普)</title>
     <desc />
     <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260719000000 +0800" stop="20260719060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260719060000 +0800" stop="20260719070500 +0800">
+    <title lang="zh">2023鼎邦菁英高球邀請賽 第二回合(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260719070500 +0800" stop="20260719075500 +0800">
+    <title lang="zh">2026東亞盃女子卡巴迪錦標賽 HKG vs KOR(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260719075500 +0800" stop="20260719090000 +0800">
+    <title lang="zh">2026東亞盃女子卡巴迪錦標賽 JAP vs TPE(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260719090000 +0800" stop="20260719140000 +0800">
+    <title lang="zh">[Live] 2026年勝求盃全國少棒邀請賽 7/19賽程(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260719140000 +0800" stop="20260719153700 +0800">
+    <title lang="zh">2026 TARO CUP U12國際女子3X3籃球邀請賽 6/22賽程(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260719153700 +0800" stop="20260719221200 +0800">
+    <title lang="zh">[首播] 115年拖艇滑水國家代表隊選拔賽 7/01賽程(普)</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260719221200 +0800" stop="20260720000000 +0800">
+    <title lang="zh">2025中華大家功德會公開賽 第三、四回合(普)</title>
+    <desc />
+    <date>20260719</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

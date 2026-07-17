@@ -1,86 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457244" start="20260716000000 +0800" stop="20260716023000 +0800">
-    <title lang="zh">【MLB on ELTA 7月】(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260716023000 +0800" stop="20260716053000 +0800">
-    <title lang="zh">溫網 男單決賽 7/12(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260716053000 +0800" stop="20260716080000 +0800">
-    <title lang="zh">中華職棒 富邦 VS 台鋼 例行賽 7/15(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260716080000 +0800" stop="20260716130000 +0800">
-    <title lang="zh">LIVE BWF 日本公開賽 16強(上) 場2 7/16(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260716130000 +0800" stop="20260716183000 +0800">
-    <title lang="zh">LIVE BWF 日本公開賽 16強(下) 場2 7/16(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260716183000 +0800" stop="20260716210000 +0800">
-    <title lang="zh">MLB 全壘打大賽 7/14(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260716210000 +0800" stop="20260716220000 +0800">
-    <title lang="zh">2026溫網第14日精華(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260716220000 +0800" stop="20260716223000 +0800">
-    <title lang="zh">LIVE 體壇最前線 7/16(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260716223000 +0800" stop="20260717003000 +0800">
-    <title lang="zh">2026鑽石聯賽 美國尤金站(普)</title>
-    <desc />
-    <date>20260716</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457244" start="20260717003000 +0800" stop="20260717033000 +0800">
     <title lang="zh">溫網 男單四強#1 7/10 Fery對Zverev(普)</title>
     <desc />
@@ -675,10 +594,100 @@
     </audio>
   </programme>
   
-<programme channel="457244" start="20260722223000 +0800" stop="20260723000000 +0800">
+<programme channel="457244" start="20260722223000 +0800" stop="20260723010000 +0800">
     <title lang="zh">中華職棒 樂天 VS 味全 例行賽 7/22(普)</title>
     <desc />
     <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723010000 +0800" stop="20260723033000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723033000 +0800" stop="20260723060000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723060000 +0800" stop="20260723063000 +0800">
+    <title lang="zh">體壇最前線 7/22(普)</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723063000 +0800" stop="20260723090000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723090000 +0800" stop="20260723130000 +0800">
+    <title lang="zh">LIVE BWF 中國公開賽 16強(上) 場2 7/23(普)</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723130000 +0800" stop="20260723170000 +0800">
+    <title lang="zh">LIVE BWF 中國公開賽 16強(下) 場2 7/23(普)</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723170000 +0800" stop="20260723193000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723193000 +0800" stop="20260723220000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723220000 +0800" stop="20260723223000 +0800">
+    <title lang="zh">LIVE 體壇最前線 7/23(普)</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260723223000 +0800" stop="20260724000000 +0800">
+    <title lang="zh">中華職棒 富邦 VS 統一 例行賽 7/23(普)</title>
+    <desc />
+    <date>20260723</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
