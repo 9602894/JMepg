@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457244" start="20260717003000 +0800" stop="20260717033000 +0800">
-    <title lang="zh">溫網 男單四強#1 7/10 Fery對Zverev(普)</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260717033000 +0800" stop="20260717063000 +0800">
-    <title lang="zh">溫網 男單四強#2 7/10 Sinner對Djokovic(普)</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260717063000 +0800" stop="20260717090000 +0800">
-    <title lang="zh">FIFA世界盃:trade_mark: G99勝者 VS G100勝者 四強 7/16 #102(普)</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260717090000 +0800" stop="20260717140000 +0800">
-    <title lang="zh">LIVE BWF 日本公開賽 八強(上) 場2 7/17(普)</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260717140000 +0800" stop="20260717193000 +0800">
-    <title lang="zh">LIVE BWF 日本公開賽 八強(下) 場2 7/17(普)</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260717193000 +0800" stop="20260717220000 +0800">
-    <title lang="zh">MLB 全明星賽 7/15(普)</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260717220000 +0800" stop="20260717223000 +0800">
-    <title lang="zh">LIVE 體壇最前線 7/17(普)</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260717223000 +0800" stop="20260718003000 +0800">
-    <title lang="zh">2026鑽石聯賽 摩納哥摩納哥站(普)</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457244" start="20260718003000 +0800" stop="20260718033000 +0800">
     <title lang="zh">溫網 男單決賽 7/12 Sinner對Zverev(普)</title>
     <desc />
@@ -684,10 +612,127 @@
     </audio>
   </programme>
   
-<programme channel="457244" start="20260723223000 +0800" stop="20260724000000 +0800">
+<programme channel="457244" start="20260723223000 +0800" stop="20260724010000 +0800">
     <title lang="zh">中華職棒 富邦 VS 統一 例行賽 7/23(普)</title>
     <desc />
     <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724010000 +0800" stop="20260724033000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724033000 +0800" stop="20260724040000 +0800">
+    <title lang="zh">體壇最前線 7/23(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724040000 +0800" stop="20260724063000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724063000 +0800" stop="20260724070000 +0800">
+    <title lang="zh">體壇最前線 7/23(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724070000 +0800" stop="20260724093000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724093000 +0800" stop="20260724100000 +0800">
+    <title lang="zh">體壇最前線 7/23(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724100000 +0800" stop="20260724140000 +0800">
+    <title lang="zh">LIVE BWF 中國公開賽 16強(上) 場2 7/23(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724140000 +0800" stop="20260724163000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724163000 +0800" stop="20260724170000 +0800">
+    <title lang="zh">英超名人堂 #7(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724170000 +0800" stop="20260724210000 +0800">
+    <title lang="zh">LIVE BWF 中國公開賽 16強(下) 場2 7/23(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724210000 +0800" stop="20260724220000 +0800">
+    <title lang="zh">英超百大進球秀 2025-26賽季(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724220000 +0800" stop="20260724223000 +0800">
+    <title lang="zh">LIVE 體壇最前線 7/24(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260724223000 +0800" stop="20260725000000 +0800">
+    <title lang="zh">【MLB on ELTA 7月】(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

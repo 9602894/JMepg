@@ -1,378 +1,765 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554359" start="20260717000000 +0800" stop="20260717005800 +0800">
+<programme channel="554359" start="20260718000000 +0800" stop="20260718003000 +0800">
     <title lang="zh">午夜新闻</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554359" start="20260717005800 +0800" stop="20260717010000 +0800">
-    <title lang="zh">全国主要城市天气预报</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717010000 +0800" stop="20260717012100 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717012100 +0800" stop="20260717013700 +0800">
-    <title lang="zh">焦点访谈</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717013700 +0800" stop="20260717020000 +0800">
-    <title lang="zh">法治在线</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717020000 +0800" stop="20260717023300 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717023300 +0800" stop="20260717030000 +0800">
-    <title lang="zh">新闻1+1</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717030000 +0800" stop="20260717034400 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717034400 +0800" stop="20260717040000 +0800">
-    <title lang="zh">焦点访谈</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717040000 +0800" stop="20260717043300 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717043300 +0800" stop="20260717050000 +0800">
-    <title lang="zh">新闻1+1</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717050000 +0800" stop="20260717051800 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717051800 +0800" stop="20260717053400 +0800">
-    <title lang="zh">焦点访谈</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717053400 +0800" stop="20260717060000 +0800">
-    <title lang="zh">法治在线</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717060000 +0800" stop="20260717065500 +0800">
-    <title lang="zh">朝闻天下</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717065500 +0800" stop="20260717070000 +0800">
-    <title lang="zh">早间天气预报</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717070000 +0800" stop="20260717080000 +0800">
-    <title lang="zh">朝闻天下</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717080000 +0800" stop="20260717085500 +0800">
-    <title lang="zh">朝闻天下</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717085500 +0800" stop="20260717090000 +0800">
-    <title lang="zh">天气预报</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717090000 +0800" stop="20260717100000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717100000 +0800" stop="20260717105800 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717105800 +0800" stop="20260717110000 +0800">
-    <title lang="zh">全国主要城市天气预报</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717110000 +0800" stop="20260717120000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717120000 +0800" stop="20260717123400 +0800">
-    <title lang="zh">新闻30分</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717123400 +0800" stop="20260717130000 +0800">
-    <title lang="zh">法治在线</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717130000 +0800" stop="20260717140000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717140000 +0800" stop="20260717145800 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717145800 +0800" stop="20260717150000 +0800">
-    <title lang="zh">全国主要城市天气预报</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717150000 +0800" stop="20260717160000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717160000 +0800" stop="20260717165800 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717165800 +0800" stop="20260717170000 +0800">
-    <title lang="zh">全国主要城市天气预报</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717170000 +0800" stop="20260717180000 +0800">
-    <title lang="zh">新闻直播间</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717180000 +0800" stop="20260717190000 +0800">
-    <title lang="zh">共同关注</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717190000 +0800" stop="20260717193100 +0800">
-    <title lang="zh">新闻联播</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717193100 +0800" stop="20260717193800 +0800">
-    <title lang="zh">天气预报</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717193800 +0800" stop="20260717200000 +0800">
-    <title lang="zh">焦点访谈</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717200000 +0800" stop="20260717210000 +0800">
-    <title lang="zh">东方时空</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717210000 +0800" stop="20260717213000 +0800">
-    <title lang="zh">新闻联播</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554359" start="20260717213000 +0800" stop="20260717220000 +0800">
+<programme channel="554359" start="20260718003000 +0800" stop="20260718005800 +0800">
     <title lang="zh">高端访谈</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554359" start="20260717220000 +0800" stop="20260717223000 +0800">
+<programme channel="554359" start="20260718005800 +0800" stop="20260718010000 +0800">
+    <title lang="zh">全国主要城市天气预报</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718010000 +0800" stop="20260718012100 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718012100 +0800" stop="20260718013700 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718013700 +0800" stop="20260718020000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718020000 +0800" stop="20260718023300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718023300 +0800" stop="20260718030000 +0800">
     <title lang="zh">新闻1+1</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554359" start="20260717223000 +0800" stop="20260717230000 +0800">
-    <title lang="zh">国际时讯</title>
+<programme channel="554359" start="20260718030000 +0800" stop="20260718033000 +0800">
+    <title lang="zh">新闻直播间</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554359" start="20260717230000 +0800" stop="20260718000000 +0800">
+<programme channel="554359" start="20260718033000 +0800" stop="20260718040000 +0800">
+    <title lang="zh">高端访谈</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718040000 +0800" stop="20260718043300 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718043300 +0800" stop="20260718050000 +0800">
+    <title lang="zh">新闻1+1</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718050000 +0800" stop="20260718051800 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718051800 +0800" stop="20260718053400 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718053400 +0800" stop="20260718060000 +0800">
+    <title lang="zh">法治在线</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718060000 +0800" stop="20260718065500 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718065500 +0800" stop="20260718070000 +0800">
+    <title lang="zh">早间天气预报</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718070000 +0800" stop="20260718080000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718080000 +0800" stop="20260718085500 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718085500 +0800" stop="20260718090000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718090000 +0800" stop="20260718100000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718100000 +0800" stop="20260718105800 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718105800 +0800" stop="20260718110000 +0800">
+    <title lang="zh">全国主要城市天气预报</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718110000 +0800" stop="20260718120000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718120000 +0800" stop="20260718123400 +0800">
+    <title lang="zh">新闻30分</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718123400 +0800" stop="20260718130000 +0800">
+    <title lang="zh">军情时间到</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718130000 +0800" stop="20260718140000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718140000 +0800" stop="20260718145800 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718145800 +0800" stop="20260718150000 +0800">
+    <title lang="zh">全国主要城市天气预报</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718150000 +0800" stop="20260718160000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718160000 +0800" stop="20260718165800 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718165800 +0800" stop="20260718170000 +0800">
+    <title lang="zh">全国主要城市天气预报</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718170000 +0800" stop="20260718180000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718180000 +0800" stop="20260718190000 +0800">
+    <title lang="zh">共同关注</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718190000 +0800" stop="20260718193200 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718193200 +0800" stop="20260718193800 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718193800 +0800" stop="20260718200000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718200000 +0800" stop="20260718210000 +0800">
+    <title lang="zh">东方时空</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718210000 +0800" stop="20260718213000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718213000 +0800" stop="20260718221500 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718221500 +0800" stop="20260718230000 +0800">
+    <title lang="zh">新闻周刊</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260718230000 +0800" stop="20260719000000 +0800">
     <title lang="zh">24小时</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719000000 +0800" stop="20260719001500 +0800">
+    <title lang="zh">午夜新闻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719001500 +0800" stop="20260719005800 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719005800 +0800" stop="20260719010000 +0800">
+    <title lang="zh">全国主要城市天气预报</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719010000 +0800" stop="20260719011500 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719011500 +0800" stop="20260719020000 +0800">
+    <title lang="zh">新闻周刊</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719020000 +0800" stop="20260719021500 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719021500 +0800" stop="20260719030000 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719030000 +0800" stop="20260719032100 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719032100 +0800" stop="20260719033700 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719033700 +0800" stop="20260719040000 +0800">
+    <title lang="zh">军情时间到</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719040000 +0800" stop="20260719041500 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719041500 +0800" stop="20260719050000 +0800">
+    <title lang="zh">新闻周刊</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719050000 +0800" stop="20260719051200 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719051200 +0800" stop="20260719060000 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719060000 +0800" stop="20260719065500 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719065500 +0800" stop="20260719070000 +0800">
+    <title lang="zh">早间天气预报</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719070000 +0800" stop="20260719080000 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719080000 +0800" stop="20260719085500 +0800">
+    <title lang="zh">朝闻天下</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719085500 +0800" stop="20260719090000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719090000 +0800" stop="20260719091200 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719091200 +0800" stop="20260719100000 +0800">
+    <title lang="zh">新闻周刊</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719100000 +0800" stop="20260719105800 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719105800 +0800" stop="20260719110000 +0800">
+    <title lang="zh">全国主要城市天气预报</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719110000 +0800" stop="20260719120000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719120000 +0800" stop="20260719123500 +0800">
+    <title lang="zh">新闻30分</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719123500 +0800" stop="20260719130000 +0800">
+    <title lang="zh">每周质量报告</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719130000 +0800" stop="20260719140000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719140000 +0800" stop="20260719141200 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719141200 +0800" stop="20260719145800 +0800">
+    <title lang="zh">新闻调查</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719145800 +0800" stop="20260719150000 +0800">
+    <title lang="zh">全国主要城市天气预报</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719150000 +0800" stop="20260719160000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719160000 +0800" stop="20260719165800 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719165800 +0800" stop="20260719170000 +0800">
+    <title lang="zh">全国主要城市天气预报</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719170000 +0800" stop="20260719180000 +0800">
+    <title lang="zh">新闻直播间</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719180000 +0800" stop="20260719190000 +0800">
+    <title lang="zh">共同关注</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719190000 +0800" stop="20260719193100 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719193100 +0800" stop="20260719193800 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719193800 +0800" stop="20260719200000 +0800">
+    <title lang="zh">焦点访谈</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719200000 +0800" stop="20260719210000 +0800">
+    <title lang="zh">东方时空</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719210000 +0800" stop="20260719213000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719213000 +0800" stop="20260719221500 +0800">
+    <title lang="zh">面对面</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719221500 +0800" stop="20260719230000 +0800">
+    <title lang="zh">世界周刊</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554359" start="20260719230000 +0800" stop="20260720000000 +0800">
+    <title lang="zh">24小时</title>
+    <desc />
+    <date>20260719</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

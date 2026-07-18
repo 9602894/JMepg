@@ -1,405 +1,756 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554349" start="20260717003500 +0800" stop="20260717012100 +0800">
-    <title lang="zh">灿烂的季节第32集</title>
+<programme channel="554349" start="20260718003500 +0800" stop="20260718012100 +0800">
+    <title lang="zh">灿烂的季节第35集</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554349" start="20260717012100 +0800" stop="20260717015100 +0800">
-    <title lang="zh">中国文艺-2026-141</title>
+<programme channel="554349" start="20260718012100 +0800" stop="20260718015100 +0800">
+    <title lang="zh">中国文艺-2026-142</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554349" start="20260717015100 +0800" stop="20260717020000 +0800">
-    <title lang="zh">记住乡愁-片段展播-2024-35</title>
+<programme channel="554349" start="20260718015100 +0800" stop="20260718020000 +0800">
+    <title lang="zh">记住乡愁-片段展播-2024-36</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554349" start="20260717020000 +0800" stop="20260717023000 +0800">
+<programme channel="554349" start="20260718020000 +0800" stop="20260718023000 +0800">
     <title lang="zh">新闻联播</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554349" start="20260717023000 +0800" stop="20260717025800 +0800">
-    <title lang="zh">走遍中国-2026-113</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717025800 +0800" stop="20260717031200 +0800">
-    <title lang="zh">平凡匠心-2026-28</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717031200 +0800" stop="20260717040000 +0800">
-    <title lang="zh">远方的家2026-146</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717040000 +0800" stop="20260717043000 +0800">
-    <title lang="zh">中国新闻</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717043000 +0800" stop="20260717045700 +0800">
-    <title lang="zh">今日关注</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717045700 +0800" stop="20260717050000 +0800">
-    <title lang="zh">早间天气预报</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717050000 +0800" stop="20260717053000 +0800">
-    <title lang="zh">国家记忆-2026-68</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717053000 +0800" stop="20260717060000 +0800">
-    <title lang="zh">走遍中国-2026-113</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717060000 +0800" stop="20260717063000 +0800">
-    <title lang="zh">海峡两岸-2026-197</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717063000 +0800" stop="20260717070000 +0800">
-    <title lang="zh">今日亚洲</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717070000 +0800" stop="20260717073000 +0800">
-    <title lang="zh">中国新闻</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717073000 +0800" stop="20260717080000 +0800">
-    <title lang="zh">今日关注</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717080000 +0800" stop="20260717090000 +0800">
-    <title lang="zh">今日环球</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717090000 +0800" stop="20260717092800 +0800">
-    <title lang="zh">今日亚洲</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717092800 +0800" stop="20260717095800 +0800">
-    <title lang="zh">中国文艺-2026-141</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717095800 +0800" stop="20260717100200 +0800">
-    <title lang="zh">记住乡愁-片段展播-2024-37</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717100200 +0800" stop="20260717100600 +0800">
-    <title lang="zh">记住乡愁-片段展播-2024-38</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717100600 +0800" stop="20260717105100 +0800">
-    <title lang="zh">远方的家2026-146</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717105100 +0800" stop="20260717105400 +0800">
-    <title lang="zh">记住乡愁-片段展播-2024-29</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717105400 +0800" stop="20260717105700 +0800">
-    <title lang="zh">记住乡愁-片段展播-2024-30</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717105700 +0800" stop="20260717113000 +0800">
-    <title lang="zh">国家记忆-2026-68</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717113000 +0800" stop="20260717120000 +0800">
-    <title lang="zh">海峡两岸-2026-197</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717120000 +0800" stop="20260717130300 +0800">
-    <title lang="zh">中国新闻</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717130300 +0800" stop="20260717135000 +0800">
-    <title lang="zh">春晖6/32</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717135000 +0800" stop="20260717143600 +0800">
-    <title lang="zh">春晖7/32</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717143600 +0800" stop="20260717152400 +0800">
-    <title lang="zh">春晖8/32</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717152400 +0800" stop="20260717161100 +0800">
-    <title lang="zh">春晖9/32</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717161100 +0800" stop="20260717165900 +0800">
-    <title lang="zh">春晖10/32</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717165900 +0800" stop="20260717171500 +0800">
-    <title lang="zh">平凡匠心-2026-29</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717171500 +0800" stop="20260717180000 +0800">
-    <title lang="zh">远方的家2026-147</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717180000 +0800" stop="20260717190000 +0800">
-    <title lang="zh">中国新闻</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717190000 +0800" stop="20260717193000 +0800">
-    <title lang="zh">中国新闻</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717193000 +0800" stop="20260717200000 +0800">
-    <title lang="zh">今日亚洲</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717200000 +0800" stop="20260717203000 +0800">
-    <title lang="zh">国家记忆-2026-69</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717203000 +0800" stop="20260717210000 +0800">
-    <title lang="zh">海峡两岸-2026-198</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717210000 +0800" stop="20260717213000 +0800">
-    <title lang="zh">中国新闻</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717213000 +0800" stop="20260717220000 +0800">
-    <title lang="zh">今日关注</title>
-    <desc />
-    <date>20260717</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554349" start="20260717220000 +0800" stop="20260717223000 +0800">
+<programme channel="554349" start="20260718023000 +0800" stop="20260718025800 +0800">
     <title lang="zh">鲁健访谈-2026-29</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554349" start="20260717223000 +0800" stop="20260717230300 +0800">
+<programme channel="554349" start="20260718025800 +0800" stop="20260718031200 +0800">
+    <title lang="zh">平凡匠心-2026-29</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718031200 +0800" stop="20260718040000 +0800">
+    <title lang="zh">远方的家2026-147</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718040000 +0800" stop="20260718043000 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718043000 +0800" stop="20260718045700 +0800">
+    <title lang="zh">今日关注</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718045700 +0800" stop="20260718050000 +0800">
+    <title lang="zh">早间天气预报</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718050000 +0800" stop="20260718053000 +0800">
+    <title lang="zh">国家记忆-2026-69</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718053000 +0800" stop="20260718060000 +0800">
+    <title lang="zh">鲁健访谈-2026-29</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718060000 +0800" stop="20260718063000 +0800">
+    <title lang="zh">海峡两岸-2026-198</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718063000 +0800" stop="20260718070000 +0800">
+    <title lang="zh">今日亚洲</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718070000 +0800" stop="20260718073000 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718073000 +0800" stop="20260718080000 +0800">
+    <title lang="zh">今日关注</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718080000 +0800" stop="20260718090000 +0800">
+    <title lang="zh">今日环球</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718090000 +0800" stop="20260718092800 +0800">
+    <title lang="zh">时代追梦人-1</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718092800 +0800" stop="20260718102800 +0800">
+    <title lang="zh">中国文艺-致敬经典2026-28</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718102800 +0800" stop="20260718113000 +0800">
+    <title lang="zh">环球综艺秀-2026-28</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718113000 +0800" stop="20260718120000 +0800">
+    <title lang="zh">海峡两岸-2026-198</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718120000 +0800" stop="20260718130300 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718130300 +0800" stop="20260718135000 +0800">
+    <title lang="zh">春晖11/32</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718135000 +0800" stop="20260718143600 +0800">
+    <title lang="zh">春晖12/32</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718143600 +0800" stop="20260718152400 +0800">
+    <title lang="zh">春晖13/32</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718152400 +0800" stop="20260718161100 +0800">
+    <title lang="zh">春晖14/32</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718161100 +0800" stop="20260718170000 +0800">
+    <title lang="zh">春晖15/32</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718170000 +0800" stop="20260718171500 +0800">
+    <title lang="zh">平凡匠心-2026-59</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718171500 +0800" stop="20260718173200 +0800">
+    <title lang="zh">平凡匠心-2026-60</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718173200 +0800" stop="20260718190000 +0800">
+    <title lang="zh">中国中医药大会(第三季)-11(四套)</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718190000 +0800" stop="20260718193000 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718193000 +0800" stop="20260718200000 +0800">
+    <title lang="zh">今日亚洲</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718200000 +0800" stop="20260718203000 +0800">
+    <title lang="zh">深度国际-2026年7月-3</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718203000 +0800" stop="20260718210000 +0800">
+    <title lang="zh">海峡两岸-2026-199</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718210000 +0800" stop="20260718213000 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718213000 +0800" stop="20260718220000 +0800">
+    <title lang="zh">今日关注</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718220000 +0800" stop="20260718223000 +0800">
+    <title lang="zh">华人故事-2026-30</title>
+    <desc />
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260718223000 +0800" stop="20260718230300 +0800">
     <title lang="zh">新闻联播</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554349" start="20260717230300 +0800" stop="20260717234900 +0800">
-    <title lang="zh">灿烂的季节33/40</title>
+<programme channel="554349" start="20260718230300 +0800" stop="20260718235800 +0800">
+    <title lang="zh">健康中国-2026-28</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554349" start="20260717234900 +0800" stop="20260718000000 +0800">
-    <title lang="zh">灿烂的季节34/40</title>
+<programme channel="554349" start="20260718235800 +0800" stop="20260719004400 +0800">
+    <title lang="zh">灿烂的季节36/40</title>
     <desc />
-    <date>20260717</date>
+    <date>20260718</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719004400 +0800" stop="20260719013000 +0800">
+    <title lang="zh">灿烂的季节第37集</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719013000 +0800" stop="20260719020000 +0800">
+    <title lang="zh">中国缘-2026-28</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719020000 +0800" stop="20260719023000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719023000 +0800" stop="20260719024500 +0800">
+    <title lang="zh">平凡匠心-2026-59</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719024500 +0800" stop="20260719031500 +0800">
+    <title lang="zh">华人故事-2026-30</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719031500 +0800" stop="20260719034300 +0800">
+    <title lang="zh">深度国际-2026年7月-3</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719034300 +0800" stop="20260719034600 +0800">
+    <title lang="zh">记住乡愁-片段展播-2024-22</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719034600 +0800" stop="20260719034900 +0800">
+    <title lang="zh">记住乡愁-片段展播-2024-23</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719034900 +0800" stop="20260719035200 +0800">
+    <title lang="zh">记住乡愁-片段展播-2024-24</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719035200 +0800" stop="20260719040000 +0800">
+    <title lang="zh">记住乡愁-片段展播-2024-25</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719040000 +0800" stop="20260719043000 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719043000 +0800" stop="20260719045700 +0800">
+    <title lang="zh">今日关注</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719045700 +0800" stop="20260719050000 +0800">
+    <title lang="zh">早间天气预报</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719050000 +0800" stop="20260719060000 +0800">
+    <title lang="zh">中国文艺-致敬经典2026-29</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719060000 +0800" stop="20260719063000 +0800">
+    <title lang="zh">海峡两岸-2026-199</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719063000 +0800" stop="20260719070000 +0800">
+    <title lang="zh">今日亚洲</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719070000 +0800" stop="20260719073000 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719073000 +0800" stop="20260719080000 +0800">
+    <title lang="zh">今日关注</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719080000 +0800" stop="20260719090200 +0800">
+    <title lang="zh">今日环球</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719090200 +0800" stop="20260719092900 +0800">
+    <title lang="zh">国家记忆-2026-65</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719092900 +0800" stop="20260719100000 +0800">
+    <title lang="zh">国家记忆-2026-66</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719100000 +0800" stop="20260719102700 +0800">
+    <title lang="zh">国家记忆-2026-67</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719102700 +0800" stop="20260719105700 +0800">
+    <title lang="zh">国家记忆-2026-68</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719105700 +0800" stop="20260719113000 +0800">
+    <title lang="zh">国家记忆-2026-69</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719113000 +0800" stop="20260719120000 +0800">
+    <title lang="zh">海峡两岸-2026-199</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719120000 +0800" stop="20260719130200 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719130200 +0800" stop="20260719132900 +0800">
+    <title lang="zh">中国缘-2026-29</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719132900 +0800" stop="20260719141500 +0800">
+    <title lang="zh">春晖16/32</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719141500 +0800" stop="20260719150400 +0800">
+    <title lang="zh">春晖17/32</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719150400 +0800" stop="20260719155100 +0800">
+    <title lang="zh">春晖18/32</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719155100 +0800" stop="20260719163900 +0800">
+    <title lang="zh">春晖19/32</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719163900 +0800" stop="20260719165300 +0800">
+    <title lang="zh">平凡匠心-2026-3</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719165300 +0800" stop="20260719170000 +0800">
+    <title lang="zh">记住乡愁-片段展播-2024-1</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719170000 +0800" stop="20260719180000 +0800">
+    <title lang="zh">健康中国-2026-29</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719180000 +0800" stop="20260719190000 +0800">
+    <title lang="zh">环球综艺秀-2026-29</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719190000 +0800" stop="20260719193000 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719193000 +0800" stop="20260719203000 +0800">
+    <title lang="zh">中国舆论场-2026-29</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719203000 +0800" stop="20260719210000 +0800">
+    <title lang="zh">海峡两岸-2026-200</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719210000 +0800" stop="20260719213000 +0800">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719213000 +0800" stop="20260719220000 +0800">
+    <title lang="zh">今日关注</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719220000 +0800" stop="20260719223000 +0800">
+    <title lang="zh">时代追梦人-2</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719223000 +0800" stop="20260719230300 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719230300 +0800" stop="20260719233000 +0800">
+    <title lang="zh">国宝发现-2026-29</title>
+    <desc />
+    <date>20260719</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="554349" start="20260719233000 +0800" stop="20260720000000 +0800">
+    <title lang="zh">灿烂的季节38/40</title>
+    <desc />
+    <date>20260719</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
