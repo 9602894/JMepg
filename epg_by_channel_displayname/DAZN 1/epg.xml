@@ -1,122 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456576" start="20260718010000 +0800" stop="20260718030000 +0800">
-    <title lang="zh">企業排球聯賽</title>
-    <desc>企業排球聯賽</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718030000 +0800" stop="20260718040000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718040000 +0800" stop="20260718060000 +0800">
-    <title lang="zh">西甲籃球季後賽</title>
-    <desc>西甲籃球季後賽 瓦倫西亞 vs 尤文圖特 (6/11/2026)</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718060000 +0800" stop="20260718090000 +0800">
-    <title lang="zh">(首)2026日本職棒</title>
-    <desc>(首)2026日本職棒</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718090000 +0800" stop="20260718100000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718100000 +0800" stop="20260718120000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718120000 +0800" stop="20260718150000 +0800">
-    <title lang="zh">2026中華職棒</title>
-    <desc>2026中華職棒</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718150000 +0800" stop="20260718160000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718160000 +0800" stop="20260718190000 +0800">
-    <title lang="zh">(LIVE)2026中華職棒</title>
-    <desc>(LIVE)2026中華職棒</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718190000 +0800" stop="20260718193000 +0800">
-    <title lang="zh">球來就講</title>
-    <desc>球來就講</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718193000 +0800" stop="20260718200000 +0800">
-    <title lang="zh">球來就講</title>
-    <desc>球來就講</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718200000 +0800" stop="20260718230000 +0800">
-    <title lang="zh">(首)2026日本職棒</title>
-    <desc>(首)2026日本職棒</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260718230000 +0800" stop="20260719000000 +0800">
-    <title lang="zh">(首)德州撲克百萬電視大賽</title>
-    <desc>(首)德州撲克百萬電視大賽</desc>
-    <date>20260718</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456576" start="20260719000000 +0800" stop="20260719010000 +0800">
     <title lang="zh">2025/26格鬥特區</title>
     <desc>2025/26格鬥特區</desc>
@@ -891,10 +774,127 @@
     </audio>
   </programme>
   
-<programme channel="456576" start="20260724233000 +0800" stop="20260725000000 +0800">
+<programme channel="456576" start="20260724233000 +0800" stop="20260725013000 +0800">
     <title lang="zh">西甲</title>
     <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
     <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725013000 +0800" stop="20260725020000 +0800">
+    <title lang="zh">球來就講</title>
+    <desc>球來就講</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725020000 +0800" stop="20260725040000 +0800">
+    <title lang="zh">西甲</title>
+    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725040000 +0800" stop="20260725060000 +0800">
+    <title lang="zh">企業排球聯賽</title>
+    <desc>企業排球聯賽</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725060000 +0800" stop="20260725090000 +0800">
+    <title lang="zh">2026日本職棒</title>
+    <desc>2026日本職棒</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725090000 +0800" stop="20260725100000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725100000 +0800" stop="20260725113000 +0800">
+    <title lang="zh">2025第四屆 Universal 台北職業撞球公開賽</title>
+    <desc>2025第四屆 Universal 台北職業撞球公開賽</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725113000 +0800" stop="20260725125700 +0800">
+    <title lang="zh">2025第四屆 Universal 台北職業撞球公開賽</title>
+    <desc>2025第四屆 Universal 台北職業撞球公開賽</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725125700 +0800" stop="20260725160000 +0800">
+    <title lang="zh">(LIVE)2026日本職棒</title>
+    <desc>(LIVE)2026日本職棒</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725160000 +0800" stop="20260725180000 +0800">
+    <title lang="zh">西甲</title>
+    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725180000 +0800" stop="20260725200000 +0800">
+    <title lang="zh">企業排球聯賽</title>
+    <desc>企業排球聯賽</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725200000 +0800" stop="20260725230000 +0800">
+    <title lang="zh">2026日本職棒</title>
+    <desc>2026日本職棒</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260725230000 +0800" stop="20260726000000 +0800">
+    <title lang="zh">(首)德州撲克百萬電視大賽</title>
+    <desc>(首)德州撲克百萬電視大賽</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260726000000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">2022巨人挑戰賽</title>
+    <desc>2022巨人挑戰賽</desc>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
