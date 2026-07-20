@@ -1,126 +1,1017 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="546008" start="20260719055500 +0800" stop="20260719060000 +0800">
+<programme channel="546008" start="20260720011400 +0800" stop="20260720055500 +0800">
+    <title lang="zh"> 静屏</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720055500 +0800" stop="20260720060400 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719060000 +0800" stop="20260719074500 +0800">
+<programme channel="546008" start="20260720060400 +0800" stop="20260720063600 +0800">
+    <title lang="zh">风车剧场:全托学校</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720063600 +0800" stop="20260720071500 +0800">
+    <title lang="zh">动画大放映:熊猫和高卢鸡</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720071500 +0800" stop="20260720080000 +0800">
+    <title lang="zh">大风车-异想天开</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720080000 +0800" stop="20260720081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720081500 +0800" stop="20260720084500 +0800">
+    <title lang="zh">小小智慧树</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720084500 +0800" stop="20260720120100 +0800">
+    <title lang="zh">动画大放映:熊熊帮帮团第五季</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720120100 +0800" stop="20260720143000 +0800">
+    <title lang="zh">动漫世界:丛林救援队之火速到达</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720143000 +0800" stop="20260720150500 +0800">
+    <title lang="zh">动画大放映:海底小纵队·中国之旅第二季</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720150500 +0800" stop="20260720161600 +0800">
+    <title lang="zh">动画大放映:猪猪侠之竞速小英雄第十季</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720161600 +0800" stop="20260720171500 +0800">
+    <title lang="zh">动画大放映:熊出没之神奇宝物</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720171500 +0800" stop="20260720180000 +0800">
+    <title lang="zh">大手牵小手</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720180000 +0800" stop="20260720183500 +0800">
+    <title lang="zh">智慧树</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720183500 +0800" stop="20260720203400 +0800">
+    <title lang="zh">动画大放映:熊熊帮帮团第五季</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720203400 +0800" stop="20260720215000 +0800">
+    <title lang="zh">动画大放映:熊熊乐园第四季</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720215000 +0800" stop="20260720223800 +0800">
+    <title lang="zh">天下同心5</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720223800 +0800" stop="20260720232800 +0800">
+    <title lang="zh">天下同心6</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260720232800 +0800" stop="20260721001800 +0800">
+    <title lang="zh">天下同心7</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721001800 +0800" stop="20260721055500 +0800">
+    <title lang="zh"> 静屏</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721055500 +0800" stop="20260721060400 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721060400 +0800" stop="20260721063600 +0800">
+    <title lang="zh">风车剧场:全托学校</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721063600 +0800" stop="20260721071500 +0800">
+    <title lang="zh">动画大放映:熊猫和高卢鸡</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721071500 +0800" stop="20260721080000 +0800">
+    <title lang="zh">大风车-风车转转转</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721080000 +0800" stop="20260721081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721081500 +0800" stop="20260721084700 +0800">
+    <title lang="zh">小小智慧树</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721084700 +0800" stop="20260721104400 +0800">
+    <title lang="zh">动画大放映:熊熊帮帮团第五季</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721104400 +0800" stop="20260721120000 +0800">
+    <title lang="zh">动画大放映:熊出没之熊熊乐园第四季</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721120000 +0800" stop="20260721143000 +0800">
+    <title lang="zh">动漫世界:丛林救援队之火速到达</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721143000 +0800" stop="20260721150500 +0800">
+    <title lang="zh">动画大放映:海底小纵队·中国之旅第二季</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721150500 +0800" stop="20260721171500 +0800">
+    <title lang="zh">动画大放映:熊出没之神奇宝物</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721171500 +0800" stop="20260721180000 +0800">
+    <title lang="zh">智力快车</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721180000 +0800" stop="20260721183500 +0800">
+    <title lang="zh">智慧树</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721183500 +0800" stop="20260721215000 +0800">
+    <title lang="zh">动画大放映:熊熊帮帮团第五季</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721215000 +0800" stop="20260721223800 +0800">
+    <title lang="zh">天下同心8</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721223800 +0800" stop="20260721232800 +0800">
+    <title lang="zh">天下同心9</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260721232800 +0800" stop="20260722055500 +0800">
+    <title lang="zh">天下同心10</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722055500 +0800" stop="20260722060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722060000 +0800" stop="20260722063500 +0800">
+    <title lang="zh">风车剧场:全托学校</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722063500 +0800" stop="20260722071500 +0800">
     <title lang="zh">动画大放映</title>
     <desc />
-    <date>20260719</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719074500 +0800" stop="20260719084500 +0800">
-    <title lang="zh">英雄出少年</title>
+<programme channel="546008" start="20260722071500 +0800" stop="20260722080000 +0800">
+    <title lang="zh">大风车-动物好伙伴</title>
     <desc />
-    <date>20260719</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719084500 +0800" stop="20260719094500 +0800">
+<programme channel="546008" start="20260722080000 +0800" stop="20260722081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722081500 +0800" stop="20260722084500 +0800">
+    <title lang="zh">小小智慧树</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722084500 +0800" stop="20260722120000 +0800">
     <title lang="zh">动画大放映</title>
     <desc />
-    <date>20260719</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719094500 +0800" stop="20260719120000 +0800">
-    <title lang="zh">熊出没-逆转时空</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546008" start="20260719120000 +0800" stop="20260719143000 +0800">
+<programme channel="546008" start="20260722120000 +0800" stop="20260722143000 +0800">
     <title lang="zh">动漫世界</title>
     <desc />
-    <date>20260719</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719143000 +0800" stop="20260719163000 +0800">
+<programme channel="546008" start="20260722143000 +0800" stop="20260722150500 +0800">
     <title lang="zh">动画大放映</title>
     <desc />
-    <date>20260719</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719163000 +0800" stop="20260719164000 +0800">
+<programme channel="546008" start="20260722150500 +0800" stop="20260722171500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722171500 +0800" stop="20260722180000 +0800">
+    <title lang="zh">大风车-看我72变</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722180000 +0800" stop="20260722183500 +0800">
+    <title lang="zh">智慧树</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722183500 +0800" stop="20260722215000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722215000 +0800" stop="20260722223800 +0800">
+    <title lang="zh">天下同心11</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722223800 +0800" stop="20260722232800 +0800">
+    <title lang="zh">天下同心12</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260722232800 +0800" stop="20260723055500 +0800">
+    <title lang="zh">天下同心13</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723055500 +0800" stop="20260723060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723060000 +0800" stop="20260723063500 +0800">
+    <title lang="zh">风车剧场:全托学校</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723063500 +0800" stop="20260723071500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723071500 +0800" stop="20260723080000 +0800">
+    <title lang="zh">音乐快递</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723080000 +0800" stop="20260723081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723081500 +0800" stop="20260723084500 +0800">
+    <title lang="zh">小小智慧树</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723084500 +0800" stop="20260723120000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723120000 +0800" stop="20260723143000 +0800">
+    <title lang="zh">动漫世界</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723143000 +0800" stop="20260723150500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723150500 +0800" stop="20260723171500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723171500 +0800" stop="20260723180000 +0800">
+    <title lang="zh">大风车-快乐体验</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723180000 +0800" stop="20260723183500 +0800">
+    <title lang="zh">智慧树</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723183500 +0800" stop="20260723215000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723215000 +0800" stop="20260723223800 +0800">
+    <title lang="zh">天下同心14</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723223800 +0800" stop="20260723232800 +0800">
+    <title lang="zh">天下同心15</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260723232800 +0800" stop="20260724055500 +0800">
+    <title lang="zh">天下同心16</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724055500 +0800" stop="20260724060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724060000 +0800" stop="20260724063500 +0800">
+    <title lang="zh">风车剧场:全托学校</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724063500 +0800" stop="20260724071500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724071500 +0800" stop="20260724080000 +0800">
+    <title lang="zh">动感特区</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724080000 +0800" stop="20260724081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724081500 +0800" stop="20260724084500 +0800">
+    <title lang="zh">小小智慧树</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724084500 +0800" stop="20260724120000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724120000 +0800" stop="20260724143000 +0800">
+    <title lang="zh">动漫世界</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724143000 +0800" stop="20260724150500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724150500 +0800" stop="20260724171500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724171500 +0800" stop="20260724180000 +0800">
+    <title lang="zh">快乐大巴</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724180000 +0800" stop="20260724183500 +0800">
+    <title lang="zh">智慧树</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724183500 +0800" stop="20260724193500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724193500 +0800" stop="20260724215000 +0800">
+    <title lang="zh">熊出没-重启未来</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724215000 +0800" stop="20260724223800 +0800">
+    <title lang="zh">天下同心17</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724223800 +0800" stop="20260724232800 +0800">
+    <title lang="zh">天下同心18</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260724232800 +0800" stop="20260725055500 +0800">
+    <title lang="zh">电影:五朵金花</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725055500 +0800" stop="20260725060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725060000 +0800" stop="20260725074500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725074500 +0800" stop="20260725084500 +0800">
+    <title lang="zh">七巧板</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725084500 +0800" stop="20260725094500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725094500 +0800" stop="20260725120000 +0800">
+    <title lang="zh">熊出没-重启未来</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725120000 +0800" stop="20260725143000 +0800">
+    <title lang="zh">动漫世界</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725143000 +0800" stop="20260725163000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725163000 +0800" stop="20260725183500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725183500 +0800" stop="20260725193500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725193500 +0800" stop="20260725215000 +0800">
+    <title lang="zh">熊出没-逆转时空</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725215000 +0800" stop="20260725223800 +0800">
+    <title lang="zh">天下同心19</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725223800 +0800" stop="20260725232800 +0800">
+    <title lang="zh">天下同心20</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260725232800 +0800" stop="20260726055500 +0800">
+    <title lang="zh">电影:护士日记</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260726055500 +0800" stop="20260726060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260726060000 +0800" stop="20260726074500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260726074500 +0800" stop="20260726084500 +0800">
+    <title lang="zh">英雄出少年</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260726084500 +0800" stop="20260726094500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260726094500 +0800" stop="20260726120000 +0800">
+    <title lang="zh">熊出没-逆转时空</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260726120000 +0800" stop="20260726143000 +0800">
+    <title lang="zh">动漫世界</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260726143000 +0800" stop="20260726163000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546008" start="20260726163000 +0800" stop="20260726164000 +0800">
     <title lang="zh">超级玩具店</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719164000 +0800" stop="20260719183500 +0800">
+<programme channel="546008" start="20260726164000 +0800" stop="20260726183500 +0800">
     <title lang="zh">动画大放映</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719183500 +0800" stop="20260719194500 +0800">
+<programme channel="546008" start="20260726183500 +0800" stop="20260726194500 +0800">
     <title lang="zh">动画大放映</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719194500 +0800" stop="20260719215000 +0800">
+<programme channel="546008" start="20260726194500 +0800" stop="20260726215000 +0800">
     <title lang="zh">熊出没-狂野大陆</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719215000 +0800" stop="20260719223800 +0800">
+<programme channel="546008" start="20260726215000 +0800" stop="20260726223800 +0800">
     <title lang="zh">天下同心21</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719223800 +0800" stop="20260719232800 +0800">
+<programme channel="546008" start="20260726223800 +0800" stop="20260726232800 +0800">
     <title lang="zh">我们的河山1</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546008" start="20260719232800 +0800" stop="20260720000000 +0800">
+<programme channel="546008" start="20260726232800 +0800" stop="20260727000000 +0800">
     <title lang="zh">电影:冰山上的来客</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457258" start="20260719000000 +0800" stop="20260719060000 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260719060000 +0800" stop="20260719070500 +0800">
-    <title lang="zh">2023鼎邦菁英高球邀請賽 第二回合(普)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260719070500 +0800" stop="20260719075500 +0800">
-    <title lang="zh">2026東亞盃女子卡巴迪錦標賽 HKG vs KOR(普)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260719075500 +0800" stop="20260719090000 +0800">
-    <title lang="zh">2026東亞盃女子卡巴迪錦標賽 JAP vs TPE(普)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260719090000 +0800" stop="20260719140000 +0800">
-    <title lang="zh">[Live] 2026年勝求盃全國少棒邀請賽 7/19賽程(普)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260719140000 +0800" stop="20260719153700 +0800">
-    <title lang="zh">2026 TARO CUP U12國際女子3X3籃球邀請賽 6/22賽程(普)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260719153700 +0800" stop="20260719221200 +0800">
-    <title lang="zh">[首播] 115年拖艇滑水國家代表隊選拔賽 7/01賽程(普)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260719221200 +0800" stop="20260720000000 +0800">
-    <title lang="zh">2025中華大家功德會公開賽 第三、四回合(普)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457258" start="20260720000000 +0800" stop="20260720060000 +0800">
     <title lang="zh">休播(普)</title>
     <desc />
@@ -598,6 +526,114 @@
     <title lang="zh">2025南寶公開賽 第三、四回合(普)</title>
     <desc />
     <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726000000 +0800" stop="20260726060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726060000 +0800" stop="20260726070700 +0800">
+    <title lang="zh">2025老爺逐夢公開賽 第四回合(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726070700 +0800" stop="20260726083800 +0800">
+    <title lang="zh">2025長耀盃 輔仁大學 vs 政治大學(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726083800 +0800" stop="20260726101700 +0800">
+    <title lang="zh">2025長耀盃 亞特蘭大 vs 長耀白隊(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726101700 +0800" stop="20260726120900 +0800">
+    <title lang="zh">2025長耀盃 福岡第一 vs 長耀藍隊(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726120900 +0800" stop="20260726130000 +0800">
+    <title lang="zh">115年中華桌球排名賽 男子第一次賽決選 郭冠宏 vs 馮翊新(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726130000 +0800" stop="20260726163000 +0800">
+    <title lang="zh">[Live] 2026 SDK全國羽球分齡錦標賽(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726163000 +0800" stop="20260726173000 +0800">
+    <title lang="zh">115年莒光盃排球 東山高中 vs 華僑高中(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726173000 +0800" stop="20260726185400 +0800">
+    <title lang="zh">114學年國小軟式 季軍戰 臺南歸南 vs 竹縣中山(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726185400 +0800" stop="20260726205100 +0800">
+    <title lang="zh">114學年國小軟式 冠軍戰 臺中德芙蘭 vs 臺東新生(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726205100 +0800" stop="20260726221100 +0800">
+    <title lang="zh">115年榮耀新北全國慢速壘球錦標賽(普)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260726221100 +0800" stop="20260727000000 +0800">
+    <title lang="zh">2025中華大家功德會公開賽 第三、四回合(普)</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

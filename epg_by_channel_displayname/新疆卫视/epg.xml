@@ -1,1251 +1,3303 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539831" start="20260719000400 +0800" stop="20260719004400 +0800">
-    <title lang="zh">四季牧歌</title>
+<programme channel="546038" start="20260720002300 +0800" stop="20260720004200 +0800">
+    <title lang="zh">法在身边</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539831" start="20260719004400 +0800" stop="20260719011200 +0800">
+<programme channel="546038" start="20260720004200 +0800" stop="20260720010900 +0800">
     <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539831" start="20260719011200 +0800" stop="20260719015700 +0800">
-    <title lang="zh">王牌部队(19)</title>
+<programme channel="546038" start="20260720010900 +0800" stop="20260720015200 +0800">
+    <title lang="zh">星夜剧场一:铁马豪情的日子40</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539831" start="20260719015700 +0800" stop="20260719024200 +0800">
-    <title lang="zh">王牌部队(20)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719024200 +0800" stop="20260719034400 +0800">
-    <title lang="zh">健康公开课</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719034400 +0800" stop="20260719043800 +0800">
-    <title lang="zh">真实纪录</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719043800 +0800" stop="20260719053500 +0800">
-    <title lang="zh">破晓东方(4)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719053500 +0800" stop="20260719063200 +0800">
-    <title lang="zh">破晓东方(5)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719063200 +0800" stop="20260719073000 +0800">
-    <title lang="zh">破晓东方(6)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719073000 +0800" stop="20260719075900 +0800">
-    <title lang="zh">真实纪录</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719075900 +0800" stop="20260719080000 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719080000 +0800" stop="20260719083200 +0800">
-    <title lang="zh">新疆新闻联播</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719083200 +0800" stop="20260719084300 +0800">
-    <title lang="zh">今日聚焦</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719084300 +0800" stop="20260719091400 +0800">
-    <title lang="zh">真实纪录</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719091400 +0800" stop="20260719101100 +0800">
-    <title lang="zh">蜂巢(3)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719101100 +0800" stop="20260719110800 +0800">
-    <title lang="zh">蜂巢(4)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719110800 +0800" stop="20260719120500 +0800">
-    <title lang="zh">蜂巢(5)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719120500 +0800" stop="20260719130200 +0800">
-    <title lang="zh">蜂巢(6)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719130200 +0800" stop="20260719140000 +0800">
-    <title lang="zh">蜂巢(7)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719140000 +0800" stop="20260719143400 +0800">
-    <title lang="zh">新闻午报</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719143400 +0800" stop="20260719152900 +0800">
-    <title lang="zh">走西口(49)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719152900 +0800" stop="20260719162400 +0800">
-    <title lang="zh">走西口(50)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719162400 +0800" stop="20260719171900 +0800">
-    <title lang="zh">走西口(51)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719171900 +0800" stop="20260719181500 +0800">
-    <title lang="zh">走西口(52)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719181500 +0800" stop="20260719182700 +0800">
-    <title lang="zh">2026年自治区党教片</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719182700 +0800" stop="20260719190000 +0800">
-    <title lang="zh">健康公开课</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719190000 +0800" stop="20260719193000 +0800">
-    <title lang="zh">转播中央台新闻联播</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719193000 +0800" stop="20260719200000 +0800">
-    <title lang="zh">新疆新闻联播</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719200000 +0800" stop="20260719201200 +0800">
-    <title lang="zh">今日聚焦</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719201200 +0800" stop="20260719210600 +0800">
-    <title lang="zh">以法之名(17)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719210600 +0800" stop="20260719220000 +0800">
-    <title lang="zh">以法之名(18)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719220000 +0800" stop="20260719223000 +0800">
-    <title lang="zh">新疆新闻联播</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719223000 +0800" stop="20260719223500 +0800">
-    <title lang="zh">天气预报</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719223500 +0800" stop="20260719230600 +0800">
-    <title lang="zh">健康公开课</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719230600 +0800" stop="20260719233300 +0800">
-    <title lang="zh">真实纪录</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719233300 +0800" stop="20260719235600 +0800">
-    <title lang="zh">新闻夜班车</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539831" start="20260719235600 +0800" stop="20260720000000 +0800">
-    <title lang="zh">健康公开课</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719001000 +0800" stop="20260719004000 +0800">
-    <title lang="zh">真实纪录</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719004000 +0800" stop="20260719012500 +0800">
-    <title lang="zh">星夜剧场一:三大队7</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719012500 +0800" stop="20260719014500 +0800">
+<programme channel="546038" start="20260720015200 +0800" stop="20260720021200 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719014500 +0800" stop="20260719024400 +0800">
-    <title lang="zh">星夜剧场一:三大队8</title>
+<programme channel="546038" start="20260720021200 +0800" stop="20260720025500 +0800">
+    <title lang="zh">星夜剧场一:铁马豪情的日子41</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719024400 +0800" stop="20260719030900 +0800">
-    <title lang="zh">新疆大地</title>
+<programme channel="546038" start="20260720025500 +0800" stop="20260720031100 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719030900 +0800" stop="20260719040500 +0800">
+<programme channel="546038" start="20260720031100 +0800" stop="20260720040800 +0800">
     <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719040500 +0800" stop="20260719044500 +0800">
-    <title lang="zh">星夜剧场二:义勇义勇27</title>
+<programme channel="546038" start="20260720040800 +0800" stop="20260720044900 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇9</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719044500 +0800" stop="20260719050500 +0800">
+<programme channel="546038" start="20260720044900 +0800" stop="20260720050900 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719050500 +0800" stop="20260719054600 +0800">
-    <title lang="zh">星夜剧场二:义勇义勇28</title>
+<programme channel="546038" start="20260720050900 +0800" stop="20260720055100 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇10</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719054600 +0800" stop="20260719060600 +0800">
+<programme channel="546038" start="20260720055100 +0800" stop="20260720061000 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719060600 +0800" stop="20260719064700 +0800">
-    <title lang="zh">星夜剧场二:义勇义勇29</title>
+<programme channel="546038" start="20260720061000 +0800" stop="20260720065200 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇11</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719064700 +0800" stop="20260719072900 +0800">
+<programme channel="546038" start="20260720065200 +0800" stop="20260720072700 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719072900 +0800" stop="20260719075900 +0800">
+<programme channel="546038" start="20260720072700 +0800" stop="20260720075900 +0800">
     <title lang="zh">动画片:萌宝战警4幻世虫界</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719075900 +0800" stop="20260719080000 +0800">
+<programme channel="546038" start="20260720075900 +0800" stop="20260720080000 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719080000 +0800" stop="20260719083100 +0800">
+<programme channel="546038" start="20260720080000 +0800" stop="20260720083100 +0800">
     <title lang="zh">新疆新闻联播</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719083100 +0800" stop="20260719084200 +0800">
+<programme channel="546038" start="20260720083100 +0800" stop="20260720084200 +0800">
     <title lang="zh">今日聚焦</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719084200 +0800" stop="20260719091700 +0800">
-    <title lang="zh">真实纪录</title>
+<programme channel="546038" start="20260720084200 +0800" stop="20260720093100 +0800">
+    <title lang="zh">上午剧场:绝地枪王二松花江上的枪声41</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719091700 +0800" stop="20260719100600 +0800">
-    <title lang="zh">上午剧场:大决战29</title>
+<programme channel="546038" start="20260720093100 +0800" stop="20260720102300 +0800">
+    <title lang="zh">上午剧场:绝地枪王二松花江上的枪声42</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719100600 +0800" stop="20260719104700 +0800">
-    <title lang="zh">上午剧场:大决战30</title>
+<programme channel="546038" start="20260720102300 +0800" stop="20260720112800 +0800">
+    <title lang="zh">上午剧场:大决战1</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719104700 +0800" stop="20260719105800 +0800">
+<programme channel="546038" start="20260720112800 +0800" stop="20260720123100 +0800">
+    <title lang="zh">上午剧场:大决战2</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720123100 +0800" stop="20260720131400 +0800">
+    <title lang="zh">上午剧场:大决战3</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720131400 +0800" stop="20260720132900 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719105800 +0800" stop="20260719113800 +0800">
-    <title lang="zh">上午剧场:大决战31</title>
+<programme channel="546038" start="20260720132900 +0800" stop="20260720140000 +0800">
+    <title lang="zh">健康公开课</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719113800 +0800" stop="20260719115900 +0800">
-    <title lang="zh">生活服务</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719115900 +0800" stop="20260719124100 +0800">
-    <title lang="zh">上午剧场:大决战32</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719124100 +0800" stop="20260719130300 +0800">
-    <title lang="zh">生活服务</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719130300 +0800" stop="20260719134500 +0800">
-    <title lang="zh">上午剧场:大决战33</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719134500 +0800" stop="20260719140000 +0800">
-    <title lang="zh">生活服务</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719140000 +0800" stop="20260719142500 +0800">
+<programme channel="546038" start="20260720140000 +0800" stop="20260720142300 +0800">
     <title lang="zh">新闻午报</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719142500 +0800" stop="20260719150800 +0800">
-    <title lang="zh">红石榴剧场:战地枪王3</title>
+<programme channel="546038" start="20260720142300 +0800" stop="20260720150800 +0800">
+    <title lang="zh">红石榴剧场:伪装者20</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719150800 +0800" stop="20260719152100 +0800">
+<programme channel="546038" start="20260720150800 +0800" stop="20260720151900 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719152100 +0800" stop="20260719160400 +0800">
-    <title lang="zh">红石榴剧场:战地枪王4</title>
+<programme channel="546038" start="20260720151900 +0800" stop="20260720160400 +0800">
+    <title lang="zh">红石榴剧场:伪装者21</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719160400 +0800" stop="20260719162600 +0800">
+<programme channel="546038" start="20260720160400 +0800" stop="20260720162500 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719162600 +0800" stop="20260719170900 +0800">
-    <title lang="zh">红石榴剧场:战地枪王5</title>
+<programme channel="546038" start="20260720162500 +0800" stop="20260720171000 +0800">
+    <title lang="zh">红石榴剧场:伪装者22</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719170900 +0800" stop="20260719173100 +0800">
+<programme channel="546038" start="20260720171000 +0800" stop="20260720173100 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719173100 +0800" stop="20260719181400 +0800">
-    <title lang="zh">红石榴剧场:战地枪王6</title>
+<programme channel="546038" start="20260720173100 +0800" stop="20260720181500 +0800">
+    <title lang="zh">红石榴剧场:伪装者23</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719181400 +0800" stop="20260719183700 +0800">
+<programme channel="546038" start="20260720181500 +0800" stop="20260720183900 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719183700 +0800" stop="20260719190000 +0800">
+<programme channel="546038" start="20260720183900 +0800" stop="20260720190000 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720190000 +0800" stop="20260720193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720193000 +0800" stop="20260720200000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720200000 +0800" stop="20260720201200 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720201200 +0800" stop="20260720210400 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警7</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720210400 +0800" stop="20260720214700 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警8</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720214700 +0800" stop="20260720220000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720220000 +0800" stop="20260720223000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720223000 +0800" stop="20260720223500 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720223500 +0800" stop="20260720230000 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720230000 +0800" stop="20260720233000 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720233000 +0800" stop="20260720235000 +0800">
+    <title lang="zh">新闻夜班车</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260720235000 +0800" stop="20260721001000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721001000 +0800" stop="20260721004100 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721004100 +0800" stop="20260721011800 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721011800 +0800" stop="20260721015900 +0800">
+    <title lang="zh">星夜剧场一:铁马豪情的日子42</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721015900 +0800" stop="20260721021900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721021900 +0800" stop="20260721030100 +0800">
+    <title lang="zh">星夜剧场一:铁马豪情的日子43</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721030100 +0800" stop="20260721031600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721031600 +0800" stop="20260721041800 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721041800 +0800" stop="20260721045900 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇12</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721045900 +0800" stop="20260721051900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721051900 +0800" stop="20260721060000 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇13</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721060000 +0800" stop="20260721061900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721061900 +0800" stop="20260721070100 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇14</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721070100 +0800" stop="20260721073200 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721073200 +0800" stop="20260721075900 +0800">
+    <title lang="zh">动画片:萌宝战警之幻世虫界</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721075900 +0800" stop="20260721080000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721080000 +0800" stop="20260721083100 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721083100 +0800" stop="20260721084200 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721084200 +0800" stop="20260721093200 +0800">
+    <title lang="zh">上午剧场:大决战4</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721093200 +0800" stop="20260721101400 +0800">
+    <title lang="zh">上午剧场:大决战5</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721101400 +0800" stop="20260721102600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721102600 +0800" stop="20260721110800 +0800">
+    <title lang="zh">上午剧场:大决战6</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721110800 +0800" stop="20260721113000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721113000 +0800" stop="20260721121300 +0800">
+    <title lang="zh">上午剧场:大决战7</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721121300 +0800" stop="20260721123500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721123500 +0800" stop="20260721131700 +0800">
+    <title lang="zh">上午剧场:大决战8</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721131700 +0800" stop="20260721133100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721133100 +0800" stop="20260721140000 +0800">
+    <title lang="zh">健康公开课</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721140000 +0800" stop="20260721142300 +0800">
+    <title lang="zh">新闻午报</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721142300 +0800" stop="20260721150600 +0800">
+    <title lang="zh">红石榴剧场:伪装者24</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721150600 +0800" stop="20260721151600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721151600 +0800" stop="20260721155900 +0800">
+    <title lang="zh">红石榴剧场:伪装者25</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721155900 +0800" stop="20260721162000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721162000 +0800" stop="20260721170300 +0800">
+    <title lang="zh">红石榴剧场:伪装者26</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721170300 +0800" stop="20260721172500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721172500 +0800" stop="20260721180700 +0800">
+    <title lang="zh">红石榴剧场:伪装者27</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721180700 +0800" stop="20260721183100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721183100 +0800" stop="20260721190000 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721190000 +0800" stop="20260721193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721193000 +0800" stop="20260721200000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721200000 +0800" stop="20260721201300 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721201300 +0800" stop="20260721210500 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警9</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721210500 +0800" stop="20260721214700 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警10</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721214700 +0800" stop="20260721220000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721220000 +0800" stop="20260721223000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721223000 +0800" stop="20260721223500 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721223500 +0800" stop="20260721230000 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721230000 +0800" stop="20260721233000 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260721233000 +0800" stop="20260722001000 +0800">
+    <title lang="zh">新闻夜班车</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722001000 +0800" stop="20260722004400 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722004400 +0800" stop="20260722011600 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722011600 +0800" stop="20260722015800 +0800">
+    <title lang="zh">星夜剧场一:铁马豪情的日子44</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722015800 +0800" stop="20260722021800 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722021800 +0800" stop="20260722025900 +0800">
+    <title lang="zh">星夜剧场一:铁马豪情的日子45</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722025900 +0800" stop="20260722031400 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722031400 +0800" stop="20260722035100 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722035100 +0800" stop="20260722042300 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722042300 +0800" stop="20260722050500 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇15</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722050500 +0800" stop="20260722052400 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722052400 +0800" stop="20260722055800 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇16</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722055800 +0800" stop="20260722062200 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722062200 +0800" stop="20260722070100 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇17</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722070100 +0800" stop="20260722073200 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722073200 +0800" stop="20260722075900 +0800">
+    <title lang="zh">动画片:萌宝战警之幻世虫界</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722075900 +0800" stop="20260722080000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722080000 +0800" stop="20260722083100 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722083100 +0800" stop="20260722084200 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722084200 +0800" stop="20260722091400 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722091400 +0800" stop="20260722095500 +0800">
+    <title lang="zh">上午剧场:大决战9</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722095500 +0800" stop="20260722100300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722100300 +0800" stop="20260722104600 +0800">
+    <title lang="zh">上午剧场:大决战10</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722104600 +0800" stop="20260722105800 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722105800 +0800" stop="20260722113900 +0800">
+    <title lang="zh">上午剧场:大决战11</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722113900 +0800" stop="20260722120100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722120100 +0800" stop="20260722124200 +0800">
+    <title lang="zh">上午剧场:大决战12</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722124200 +0800" stop="20260722130200 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722130200 +0800" stop="20260722134500 +0800">
+    <title lang="zh">上午剧场:大决战13</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722134500 +0800" stop="20260722140000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722140000 +0800" stop="20260722142300 +0800">
+    <title lang="zh">新闻午报</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722142300 +0800" stop="20260722150600 +0800">
+    <title lang="zh">红石榴剧场:伪装者28</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722150600 +0800" stop="20260722151700 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722151700 +0800" stop="20260722160100 +0800">
+    <title lang="zh">红石榴剧场:伪装者29</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722160100 +0800" stop="20260722162100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722162100 +0800" stop="20260722170500 +0800">
+    <title lang="zh">红石榴剧场:伪装者30</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722170500 +0800" stop="20260722172500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722172500 +0800" stop="20260722180900 +0800">
+    <title lang="zh">红石榴剧场:伪装者31</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722180900 +0800" stop="20260722182900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722182900 +0800" stop="20260722190000 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722190000 +0800" stop="20260722193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722193000 +0800" stop="20260722200000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722200000 +0800" stop="20260722201200 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722201200 +0800" stop="20260722210400 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警11</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722210400 +0800" stop="20260722214700 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警12</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722214700 +0800" stop="20260722220000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722220000 +0800" stop="20260722223000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722223000 +0800" stop="20260722223500 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722223500 +0800" stop="20260722230000 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722230000 +0800" stop="20260722233000 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260722233000 +0800" stop="20260723001000 +0800">
+    <title lang="zh">新闻夜班车</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723001000 +0800" stop="20260723004000 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723004000 +0800" stop="20260723011200 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723011200 +0800" stop="20260723015300 +0800">
+    <title lang="zh">星夜剧场一:三大队1</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723015300 +0800" stop="20260723021700 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723021700 +0800" stop="20260723025900 +0800">
+    <title lang="zh">星夜剧场一:三大队2</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723025900 +0800" stop="20260723031600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723031600 +0800" stop="20260723041600 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723041600 +0800" stop="20260723045800 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇18</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723045800 +0800" stop="20260723051700 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723051700 +0800" stop="20260723055900 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇19</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723055900 +0800" stop="20260723061800 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723061800 +0800" stop="20260723065900 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇20</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723065900 +0800" stop="20260723073200 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723073200 +0800" stop="20260723075900 +0800">
+    <title lang="zh">动画片:萌宝战警之幻世虫界</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723075900 +0800" stop="20260723080000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723080000 +0800" stop="20260723083100 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723083100 +0800" stop="20260723084200 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723084200 +0800" stop="20260723091000 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723091000 +0800" stop="20260723095900 +0800">
+    <title lang="zh">上午剧场:大决战14</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723095900 +0800" stop="20260723104200 +0800">
+    <title lang="zh">上午剧场:大决战15</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723104200 +0800" stop="20260723105300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723105300 +0800" stop="20260723113500 +0800">
+    <title lang="zh">上午剧场:大决战16</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723113500 +0800" stop="20260723115700 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723115700 +0800" stop="20260723124000 +0800">
+    <title lang="zh">上午剧场:大决战17</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723124000 +0800" stop="20260723130200 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723130200 +0800" stop="20260723134400 +0800">
+    <title lang="zh">上午剧场:大决战18</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723134400 +0800" stop="20260723140000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723140000 +0800" stop="20260723142500 +0800">
+    <title lang="zh">新闻午报</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723142500 +0800" stop="20260723150800 +0800">
+    <title lang="zh">红石榴剧场:伪装者32</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723150800 +0800" stop="20260723152100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723152100 +0800" stop="20260723160400 +0800">
+    <title lang="zh">红石榴剧场:伪装者33</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723160400 +0800" stop="20260723162600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723162600 +0800" stop="20260723170900 +0800">
+    <title lang="zh">红石榴剧场:伪装者34</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723170900 +0800" stop="20260723173100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723173100 +0800" stop="20260723181300 +0800">
+    <title lang="zh">红石榴剧场:伪装者35</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723181300 +0800" stop="20260723183700 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723183700 +0800" stop="20260723190000 +0800">
     <title lang="zh">国宝时刻</title>
     <desc />
-    <date>20260719</date>
+    <date>20260723</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719190000 +0800" stop="20260719193000 +0800">
+<programme channel="546038" start="20260723190000 +0800" stop="20260723193000 +0800">
     <title lang="zh">转播中央台新闻联播</title>
     <desc />
-    <date>20260719</date>
+    <date>20260723</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719193000 +0800" stop="20260719200000 +0800">
+<programme channel="546038" start="20260723193000 +0800" stop="20260723200000 +0800">
     <title lang="zh">新疆新闻联播</title>
     <desc />
-    <date>20260719</date>
+    <date>20260723</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719200000 +0800" stop="20260719201200 +0800">
+<programme channel="546038" start="20260723200000 +0800" stop="20260723201300 +0800">
     <title lang="zh">今日聚焦</title>
     <desc />
-    <date>20260719</date>
+    <date>20260723</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719201200 +0800" stop="20260719210500 +0800">
-    <title lang="zh">一千零一夜剧场:我是刑警17</title>
+<programme channel="546038" start="20260723201300 +0800" stop="20260723202000 +0800">
+    <title lang="zh">国宝里的新疆第四季</title>
     <desc />
-    <date>20260719</date>
+    <date>20260723</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719210500 +0800" stop="20260719214700 +0800">
-    <title lang="zh">一千零一夜剧场:我是刑警18</title>
+<programme channel="546038" start="20260723202000 +0800" stop="20260723220000 +0800">
+    <title lang="zh">“致敬劳动者”2026年自治区庆祝“五一”国际劳动节文艺晚会</title>
     <desc />
-    <date>20260719</date>
+    <date>20260723</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719214700 +0800" stop="20260719220000 +0800">
+<programme channel="546038" start="20260723220000 +0800" stop="20260723223000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723223000 +0800" stop="20260723223500 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723223500 +0800" stop="20260723230000 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723230000 +0800" stop="20260723233000 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260723233000 +0800" stop="20260724001000 +0800">
+    <title lang="zh">新闻夜班车</title>
+    <desc />
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724001000 +0800" stop="20260724004300 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724004300 +0800" stop="20260724011700 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724011700 +0800" stop="20260724015800 +0800">
+    <title lang="zh">星夜剧场一:三大队3</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724015800 +0800" stop="20260724021900 +0800">
     <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719220000 +0800" stop="20260719223000 +0800">
-    <title lang="zh">新疆新闻联播</title>
+<programme channel="546038" start="20260724021900 +0800" stop="20260724031700 +0800">
+    <title lang="zh">星夜剧场一:三大队4</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="546038" start="20260719223000 +0800" stop="20260719223500 +0800">
-    <title lang="zh">天气预报</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719223500 +0800" stop="20260719233000 +0800">
-    <title lang="zh">新疆大地</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="546038" start="20260719233000 +0800" stop="20260720000000 +0800">
-    <title lang="zh">新闻夜班车</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554394" start="20260719002900 +0800" stop="20260719005800 +0800">
+<programme channel="546038" start="20260724031700 +0800" stop="20260724034600 +0800">
     <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719005800 +0800" stop="20260719014400 +0800">
-    <title lang="zh">王牌部队(21)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554394" start="20260719014400 +0800" stop="20260719023000 +0800">
-    <title lang="zh">王牌部队(22)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554394" start="20260719023000 +0800" stop="20260719033300 +0800">
-    <title lang="zh">健康公开课</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554394" start="20260719033300 +0800" stop="20260719040200 +0800">
+<programme channel="546038" start="20260724034600 +0800" stop="20260724041900 +0800">
     <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719040200 +0800" stop="20260719051000 +0800">
-    <title lang="zh">破晓东方(7)</title>
+<programme channel="546038" start="20260724041900 +0800" stop="20260724050000 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇21</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719051000 +0800" stop="20260719061800 +0800">
-    <title lang="zh">破晓东方(8)</title>
+<programme channel="546038" start="20260724050000 +0800" stop="20260724052000 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719061800 +0800" stop="20260719072600 +0800">
-    <title lang="zh">破晓东方(9)</title>
+<programme channel="546038" start="20260724052000 +0800" stop="20260724060100 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇22</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719072600 +0800" stop="20260719075900 +0800">
-    <title lang="zh">动画片</title>
+<programme channel="546038" start="20260724060100 +0800" stop="20260724062000 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719075900 +0800" stop="20260719080000 +0800">
+<programme channel="546038" start="20260724062000 +0800" stop="20260724070200 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇23</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724070200 +0800" stop="20260724073300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724073300 +0800" stop="20260724075900 +0800">
+    <title lang="zh">动画片:萌宝战警之幻世虫界</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724075900 +0800" stop="20260724080000 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719080000 +0800" stop="20260719083200 +0800">
+<programme channel="546038" start="20260724080000 +0800" stop="20260724083100 +0800">
     <title lang="zh">新疆新闻联播</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719083200 +0800" stop="20260719084300 +0800">
+<programme channel="546038" start="20260724083100 +0800" stop="20260724084200 +0800">
     <title lang="zh">今日聚焦</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719084300 +0800" stop="20260719091400 +0800">
+<programme channel="546038" start="20260724084200 +0800" stop="20260724091500 +0800">
     <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719091400 +0800" stop="20260719101100 +0800">
-    <title lang="zh">蜂巢(8)</title>
+<programme channel="546038" start="20260724091500 +0800" stop="20260724100200 +0800">
+    <title lang="zh">上午剧场:大决战19</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719101100 +0800" stop="20260719110800 +0800">
-    <title lang="zh">蜂巢(9)</title>
+<programme channel="546038" start="20260724100200 +0800" stop="20260724104500 +0800">
+    <title lang="zh">上午剧场:大决战20</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719110800 +0800" stop="20260719120500 +0800">
-    <title lang="zh">蜂巢(10)</title>
+<programme channel="546038" start="20260724104500 +0800" stop="20260724105600 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719120500 +0800" stop="20260719130200 +0800">
-    <title lang="zh">蜂巢(11)</title>
+<programme channel="546038" start="20260724105600 +0800" stop="20260724113900 +0800">
+    <title lang="zh">上午剧场:大决战21</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719130200 +0800" stop="20260719140000 +0800">
-    <title lang="zh">蜂巢(12)</title>
+<programme channel="546038" start="20260724113900 +0800" stop="20260724115900 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719140000 +0800" stop="20260719143400 +0800">
+<programme channel="546038" start="20260724115900 +0800" stop="20260724124100 +0800">
+    <title lang="zh">上午剧场:大决战22</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724124100 +0800" stop="20260724130300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724130300 +0800" stop="20260724134600 +0800">
+    <title lang="zh">上午剧场:大决战23</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724134600 +0800" stop="20260724140000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724140000 +0800" stop="20260724142500 +0800">
     <title lang="zh">新闻午报</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719143400 +0800" stop="20260719152900 +0800">
-    <title lang="zh">走西口(53)</title>
+<programme channel="546038" start="20260724142500 +0800" stop="20260724150700 +0800">
+    <title lang="zh">红石榴剧场:伪装者36</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719152900 +0800" stop="20260719162400 +0800">
-    <title lang="zh">走西口(54)</title>
+<programme channel="546038" start="20260724150700 +0800" stop="20260724152100 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719162400 +0800" stop="20260719171900 +0800">
-    <title lang="zh">走西口(55)</title>
+<programme channel="546038" start="20260724152100 +0800" stop="20260724160400 +0800">
+    <title lang="zh">红石榴剧场:伪装者37</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719171900 +0800" stop="20260719181500 +0800">
-    <title lang="zh">走西口(56)</title>
+<programme channel="546038" start="20260724160400 +0800" stop="20260724162600 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719181500 +0800" stop="20260719182700 +0800">
-    <title lang="zh">2026年自治区党教片</title>
+<programme channel="546038" start="20260724162600 +0800" stop="20260724170900 +0800">
+    <title lang="zh">红石榴剧场:伪装者38</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719182700 +0800" stop="20260719190000 +0800">
-    <title lang="zh">健康公开课</title>
+<programme channel="546038" start="20260724170900 +0800" stop="20260724173100 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719190000 +0800" stop="20260719193000 +0800">
+<programme channel="546038" start="20260724173100 +0800" stop="20260724181400 +0800">
+    <title lang="zh">红石榴剧场:伪装者39</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724181400 +0800" stop="20260724183600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724183600 +0800" stop="20260724190000 +0800">
+    <title lang="zh">国宝时刻</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724190000 +0800" stop="20260724193000 +0800">
     <title lang="zh">转播中央台新闻联播</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719193000 +0800" stop="20260719200000 +0800">
+<programme channel="546038" start="20260724193000 +0800" stop="20260724200000 +0800">
     <title lang="zh">新疆新闻联播</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719200000 +0800" stop="20260719201200 +0800">
+<programme channel="546038" start="20260724200000 +0800" stop="20260724201200 +0800">
     <title lang="zh">今日聚焦</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719201200 +0800" stop="20260719210600 +0800">
-    <title lang="zh">以法之名(19)</title>
+<programme channel="546038" start="20260724201200 +0800" stop="20260724210400 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警13</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719210600 +0800" stop="20260719220000 +0800">
-    <title lang="zh">以法之名(20)</title>
+<programme channel="546038" start="20260724210400 +0800" stop="20260724214700 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警14</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719220000 +0800" stop="20260719223000 +0800">
+<programme channel="546038" start="20260724214700 +0800" stop="20260724220000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260724220000 +0800" stop="20260724223000 +0800">
     <title lang="zh">新疆新闻联播</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719223000 +0800" stop="20260719223500 +0800">
+<programme channel="546038" start="20260724223000 +0800" stop="20260724223500 +0800">
     <title lang="zh">天气预报</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719223500 +0800" stop="20260719230600 +0800">
-    <title lang="zh">健康公开课</title>
+<programme channel="546038" start="20260724223500 +0800" stop="20260724230000 +0800">
+    <title lang="zh">法在身边</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719230600 +0800" stop="20260719233300 +0800">
+<programme channel="546038" start="20260724230000 +0800" stop="20260724233000 +0800">
     <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719233300 +0800" stop="20260719235600 +0800">
+<programme channel="546038" start="20260724233000 +0800" stop="20260725001000 +0800">
     <title lang="zh">新闻夜班车</title>
     <desc />
-    <date>20260719</date>
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554394" start="20260719235600 +0800" stop="20260720000000 +0800">
-    <title lang="zh">健康公开课</title>
+<programme channel="546038" start="20260725001000 +0800" stop="20260725004000 +0800">
+    <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719034000 +0800" stop="20260719042900 +0800">
-    <title lang="zh">好大一个家</title>
+<programme channel="546038" start="20260725004000 +0800" stop="20260725014000 +0800">
+    <title lang="zh">星夜剧场一:三大队5</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719042900 +0800" stop="20260719074800 +0800">
-    <title lang="zh">电视剧</title>
+<programme channel="546038" start="20260725014000 +0800" stop="20260725024400 +0800">
+    <title lang="zh">星夜剧场一:三大队6</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719074800 +0800" stop="20260719080000 +0800">
-    <title lang="zh">雪莲花动漫城</title>
+<programme channel="546038" start="20260725024400 +0800" stop="20260725031200 +0800">
+    <title lang="zh">新疆大地</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719080000 +0800" stop="20260719083200 +0800">
-    <title lang="zh">新疆台新闻联播</title>
+<programme channel="546038" start="20260725031200 +0800" stop="20260725041900 +0800">
+    <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719083200 +0800" stop="20260719084200 +0800">
+<programme channel="546038" start="20260725041900 +0800" stop="20260725050000 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇24</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725050000 +0800" stop="20260725051900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725051900 +0800" stop="20260725060000 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇25</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725060000 +0800" stop="20260725061900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725061900 +0800" stop="20260725070100 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725070100 +0800" stop="20260725073200 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725073200 +0800" stop="20260725075900 +0800">
+    <title lang="zh">动画片:萌宝战警之幻世虫界</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725075900 +0800" stop="20260725080000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725080000 +0800" stop="20260725083100 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725083100 +0800" stop="20260725084200 +0800">
     <title lang="zh">今日聚焦</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719084200 +0800" stop="20260719124800 +0800">
-    <title lang="zh">电视剧</title>
+<programme channel="546038" start="20260725084200 +0800" stop="20260725091600 +0800">
+    <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719124800 +0800" stop="20260719140000 +0800">
-    <title lang="zh">电视剧</title>
+<programme channel="546038" start="20260725091600 +0800" stop="20260725100400 +0800">
+    <title lang="zh">上午剧场:大决战24</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719140000 +0800" stop="20260719142000 +0800">
+<programme channel="546038" start="20260725100400 +0800" stop="20260725104500 +0800">
+    <title lang="zh">上午剧场:大决战25</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725104500 +0800" stop="20260725105800 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725105800 +0800" stop="20260725114000 +0800">
+    <title lang="zh">上午剧场:大决战26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725114000 +0800" stop="20260725120000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725120000 +0800" stop="20260725124300 +0800">
+    <title lang="zh">上午剧场:大决战27</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725124300 +0800" stop="20260725130300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725130300 +0800" stop="20260725134600 +0800">
+    <title lang="zh">上午剧场:大决战28</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725134600 +0800" stop="20260725140000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725140000 +0800" stop="20260725142500 +0800">
     <title lang="zh">新闻午报</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719142000 +0800" stop="20260719173800 +0800">
-    <title lang="zh">电视剧</title>
+<programme channel="546038" start="20260725142500 +0800" stop="20260725150800 +0800">
+    <title lang="zh">红石榴剧场:伪装者40</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719173800 +0800" stop="20260719182400 +0800">
-    <title lang="zh">开心时刻</title>
+<programme channel="546038" start="20260725150800 +0800" stop="20260725152100 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719182400 +0800" stop="20260719190000 +0800">
-    <title lang="zh">雪莲花动漫城</title>
+<programme channel="546038" start="20260725152100 +0800" stop="20260725160400 +0800">
+    <title lang="zh">红石榴剧场:伪装者41</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719190000 +0800" stop="20260719193000 +0800">
-    <title lang="zh">新闻联播</title>
+<programme channel="546038" start="20260725160400 +0800" stop="20260725162600 +0800">
+    <title lang="zh">生活服务</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719193000 +0800" stop="20260719200500 +0800">
+<programme channel="546038" start="20260725162600 +0800" stop="20260725170800 +0800">
+    <title lang="zh">红石榴剧场:战地枪王1</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725170800 +0800" stop="20260725173100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725173100 +0800" stop="20260725181300 +0800">
+    <title lang="zh">红石榴剧场:战地枪王2</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725181300 +0800" stop="20260725183700 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725183700 +0800" stop="20260725190000 +0800">
+    <title lang="zh">国宝时刻</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725190000 +0800" stop="20260725193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725193000 +0800" stop="20260725200000 +0800">
     <title lang="zh">新疆新闻联播</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719200500 +0800" stop="20260719202000 +0800">
+<programme channel="546038" start="20260725200000 +0800" stop="20260725201200 +0800">
     <title lang="zh">今日聚焦</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719202000 +0800" stop="20260719215500 +0800">
-    <title lang="zh">电视剧</title>
+<programme channel="546038" start="20260725201200 +0800" stop="20260725210500 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警15</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719215500 +0800" stop="20260719220000 +0800">
-    <title lang="zh">新疆天气预报</title>
+<programme channel="546038" start="20260725210500 +0800" stop="20260725214700 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警16</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719220000 +0800" stop="20260719223500 +0800">
+<programme channel="546038" start="20260725214700 +0800" stop="20260725220000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725220000 +0800" stop="20260725223000 +0800">
     <title lang="zh">新疆新闻联播</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719223500 +0800" stop="20260719233000 +0800">
-    <title lang="zh">青春激扬中国梦</title>
+<programme channel="546038" start="20260725223000 +0800" stop="20260725223500 +0800">
+    <title lang="zh">天气预报</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719233000 +0800" stop="20260719235000 +0800">
+<programme channel="546038" start="20260725223500 +0800" stop="20260725230000 +0800">
+    <title lang="zh">法在身边</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725230000 +0800" stop="20260725233000 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260725233000 +0800" stop="20260726001000 +0800">
     <title lang="zh">新闻夜班车</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="545991" start="20260719235000 +0800" stop="20260720043000 +0800">
-    <title lang="zh">电视剧</title>
+<programme channel="546038" start="20260726001000 +0800" stop="20260726004000 +0800">
+    <title lang="zh">真实纪录</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726004000 +0800" stop="20260726012500 +0800">
+    <title lang="zh">星夜剧场一:三大队7</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726012500 +0800" stop="20260726014500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726014500 +0800" stop="20260726024400 +0800">
+    <title lang="zh">星夜剧场一:三大队8</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726024400 +0800" stop="20260726030900 +0800">
+    <title lang="zh">新疆大地</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726030900 +0800" stop="20260726040500 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726040500 +0800" stop="20260726044500 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇27</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726044500 +0800" stop="20260726050500 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726050500 +0800" stop="20260726054600 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇28</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726054600 +0800" stop="20260726060600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726060600 +0800" stop="20260726064700 +0800">
+    <title lang="zh">星夜剧场二:义勇义勇29</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726064700 +0800" stop="20260726072900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726072900 +0800" stop="20260726075900 +0800">
+    <title lang="zh">动画片:萌宝战警4幻世虫界</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726075900 +0800" stop="20260726080000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726080000 +0800" stop="20260726083100 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726083100 +0800" stop="20260726084200 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726084200 +0800" stop="20260726091700 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726091700 +0800" stop="20260726100600 +0800">
+    <title lang="zh">上午剧场:大决战29</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726100600 +0800" stop="20260726104700 +0800">
+    <title lang="zh">上午剧场:大决战30</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726104700 +0800" stop="20260726105800 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726105800 +0800" stop="20260726113800 +0800">
+    <title lang="zh">上午剧场:大决战31</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726113800 +0800" stop="20260726115900 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726115900 +0800" stop="20260726124100 +0800">
+    <title lang="zh">上午剧场:大决战32</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726124100 +0800" stop="20260726130300 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726130300 +0800" stop="20260726134500 +0800">
+    <title lang="zh">上午剧场:大决战33</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726134500 +0800" stop="20260726140000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726140000 +0800" stop="20260726142500 +0800">
+    <title lang="zh">新闻午报</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726142500 +0800" stop="20260726150800 +0800">
+    <title lang="zh">红石榴剧场:战地枪王3</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726150800 +0800" stop="20260726152100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726152100 +0800" stop="20260726160400 +0800">
+    <title lang="zh">红石榴剧场:战地枪王4</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726160400 +0800" stop="20260726162600 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726162600 +0800" stop="20260726170900 +0800">
+    <title lang="zh">红石榴剧场:战地枪王5</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726170900 +0800" stop="20260726173100 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726173100 +0800" stop="20260726181400 +0800">
+    <title lang="zh">红石榴剧场:战地枪王6</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726181400 +0800" stop="20260726183700 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726183700 +0800" stop="20260726190000 +0800">
+    <title lang="zh">国宝时刻</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726190000 +0800" stop="20260726193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726193000 +0800" stop="20260726200000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726200000 +0800" stop="20260726201200 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726201200 +0800" stop="20260726210500 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警17</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726210500 +0800" stop="20260726214700 +0800">
+    <title lang="zh">一千零一夜剧场:我是刑警18</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726214700 +0800" stop="20260726220000 +0800">
+    <title lang="zh">生活服务</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726220000 +0800" stop="20260726223000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726223000 +0800" stop="20260726223500 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726223500 +0800" stop="20260726233000 +0800">
+    <title lang="zh">新疆大地</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="546038" start="20260726233000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">新闻夜班车</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720002900 +0800" stop="20260720005800 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720005800 +0800" stop="20260720014400 +0800">
+    <title lang="zh">王牌部队(21)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720014400 +0800" stop="20260720023000 +0800">
+    <title lang="zh">王牌部队(22)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720023000 +0800" stop="20260720033300 +0800">
+    <title lang="zh">健康公开课</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720033300 +0800" stop="20260720040200 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720040200 +0800" stop="20260720051000 +0800">
+    <title lang="zh">破晓东方(7)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720051000 +0800" stop="20260720061800 +0800">
+    <title lang="zh">破晓东方(8)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720061800 +0800" stop="20260720072600 +0800">
+    <title lang="zh">破晓东方(9)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720072600 +0800" stop="20260720075900 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720075900 +0800" stop="20260720080000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720080000 +0800" stop="20260720083200 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720083200 +0800" stop="20260720084300 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720084300 +0800" stop="20260720091400 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720091400 +0800" stop="20260720101100 +0800">
+    <title lang="zh">蜂巢(8)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720101100 +0800" stop="20260720110800 +0800">
+    <title lang="zh">蜂巢(9)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720110800 +0800" stop="20260720120500 +0800">
+    <title lang="zh">蜂巢(10)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720120500 +0800" stop="20260720130200 +0800">
+    <title lang="zh">蜂巢(11)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720130200 +0800" stop="20260720140000 +0800">
+    <title lang="zh">蜂巢(12)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720140000 +0800" stop="20260720143400 +0800">
+    <title lang="zh">新闻午报</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720143400 +0800" stop="20260720152900 +0800">
+    <title lang="zh">走西口(53)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720152900 +0800" stop="20260720162400 +0800">
+    <title lang="zh">走西口(54)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720162400 +0800" stop="20260720171900 +0800">
+    <title lang="zh">走西口(55)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720171900 +0800" stop="20260720181500 +0800">
+    <title lang="zh">走西口(56)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720181500 +0800" stop="20260720182700 +0800">
+    <title lang="zh">2026年自治区党教片</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720182700 +0800" stop="20260720190000 +0800">
+    <title lang="zh">健康公开课</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720190000 +0800" stop="20260720193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720193000 +0800" stop="20260720200000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720200000 +0800" stop="20260720201200 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720201200 +0800" stop="20260720210600 +0800">
+    <title lang="zh">以法之名(19)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720210600 +0800" stop="20260720220000 +0800">
+    <title lang="zh">以法之名(20)</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720220000 +0800" stop="20260720223000 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720223000 +0800" stop="20260720223500 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720223500 +0800" stop="20260720230600 +0800">
+    <title lang="zh">健康公开课</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720230600 +0800" stop="20260720233300 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720233300 +0800" stop="20260720235600 +0800">
+    <title lang="zh">新闻夜班车</title>
+    <desc />
+    <date>20260720</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539831" start="20260720235600 +0800" stop="20260721000000 +0800">
+    <title lang="zh">健康公开课</title>
+    <desc />
+    <date>20260720</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -2583,10 +4635,190 @@
     </audio>
   </programme>
   
-<programme channel="545991" start="20260725235000 +0800" stop="20260726000000 +0800">
+<programme channel="545991" start="20260725235000 +0800" stop="20260726034000 +0800">
     <title lang="zh">电视剧</title>
     <desc />
     <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726034000 +0800" stop="20260726042900 +0800">
+    <title lang="zh">好大一个家</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726042900 +0800" stop="20260726074800 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726074800 +0800" stop="20260726080000 +0800">
+    <title lang="zh">雪莲花动漫城</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726080000 +0800" stop="20260726083200 +0800">
+    <title lang="zh">新疆台新闻联播</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726083200 +0800" stop="20260726084200 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726084200 +0800" stop="20260726124800 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726124800 +0800" stop="20260726140000 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726140000 +0800" stop="20260726142000 +0800">
+    <title lang="zh">新闻午报</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726142000 +0800" stop="20260726173800 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726173800 +0800" stop="20260726182400 +0800">
+    <title lang="zh">开心时刻</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726182400 +0800" stop="20260726190000 +0800">
+    <title lang="zh">雪莲花动漫城</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726190000 +0800" stop="20260726193000 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726193000 +0800" stop="20260726200500 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726200500 +0800" stop="20260726202000 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726202000 +0800" stop="20260726215500 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726215500 +0800" stop="20260726220000 +0800">
+    <title lang="zh">新疆天气预报</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726220000 +0800" stop="20260726223500 +0800">
+    <title lang="zh">新疆新闻联播</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726223500 +0800" stop="20260726233000 +0800">
+    <title lang="zh">青春激扬中国梦</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726233000 +0800" stop="20260726235000 +0800">
+    <title lang="zh">新闻夜班车</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545991" start="20260726235000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
