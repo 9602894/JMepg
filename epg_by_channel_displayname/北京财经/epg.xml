@@ -1,207 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539872" start="20260720054500 +0800" stop="20260720060800 +0800">
+<programme channel="539872" start="20260721000000 +0800" stop="20260721054500 +0800">
+    <title lang="zh">电视购物</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721054500 +0800" stop="20260721060800 +0800">
     <title lang="zh">播前乐</title>
     <desc />
-    <date>20260720</date>
+    <date>20260721</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539872" start="20260720060800 +0800" stop="20260720065000 +0800">
-    <title lang="zh">总裁读书会</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720065000 +0800" stop="20260720072000 +0800">
-    <title lang="zh">数说北京</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720072000 +0800" stop="20260720075300 +0800">
-    <title lang="zh">首都经济报道</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720075300 +0800" stop="20260720082600 +0800">
-    <title lang="zh">财富故事</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720082600 +0800" stop="20260720091900 +0800">
-    <title lang="zh">理财周末版</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720091900 +0800" stop="20260720102000 +0800">
-    <title lang="zh">财富晚间道</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720102000 +0800" stop="20260720112500 +0800">
-    <title lang="zh">财富晚间道</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720112500 +0800" stop="20260720123100 +0800">
-    <title lang="zh">天下财经-投资者说</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720123100 +0800" stop="20260720131700 +0800">
-    <title lang="zh">午间剧场</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720131700 +0800" stop="20260720140400 +0800">
-    <title lang="zh">午间剧场</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720140400 +0800" stop="20260720145800 +0800">
-    <title lang="zh">午间剧场</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720145800 +0800" stop="20260720155400 +0800">
-    <title lang="zh">拍宝</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720155400 +0800" stop="20260720163500 +0800">
-    <title lang="zh">电视先锋榜</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720163500 +0800" stop="20260720173000 +0800">
-    <title lang="zh">理财周末版</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720173000 +0800" stop="20260720183000 +0800">
-    <title lang="zh">大牌价到</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720183000 +0800" stop="20260720190000 +0800">
-    <title lang="zh">影响者</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720190000 +0800" stop="20260720193000 +0800">
-    <title lang="zh">首都经济报道</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539872" start="20260720193000 +0800" stop="20260720200000 +0800">
+<programme channel="539872" start="20260721060800 +0800" stop="20260721065000 +0800">
     <title lang="zh">天下财经</title>
     <desc />
-    <date>20260720</date>
+    <date>20260721</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539872" start="20260720200000 +0800" stop="20260720211500 +0800">
-    <title lang="zh">天下财经-投资者说</title>
+<programme channel="539872" start="20260721065000 +0800" stop="20260721072000 +0800">
+    <title lang="zh">财富故事</title>
     <desc />
-    <date>20260720</date>
+    <date>20260721</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539872" start="20260720211500 +0800" stop="20260720221000 +0800">
-    <title lang="zh">理财</title>
+<programme channel="539872" start="20260721072000 +0800" stop="20260721075300 +0800">
+    <title lang="zh">首都经济报道</title>
     <desc />
-    <date>20260720</date>
+    <date>20260721</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539872" start="20260720221000 +0800" stop="20260720224500 +0800">
+<programme channel="539872" start="20260721075300 +0800" stop="20260721082600 +0800">
     <title lang="zh">财经商圈</title>
     <desc />
-    <date>20260720</date>
+    <date>20260721</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539872" start="20260720224500 +0800" stop="20260721000000 +0800">
+<programme channel="539872" start="20260721082600 +0800" stop="20260721091900 +0800">
+    <title lang="zh">理财</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721091900 +0800" stop="20260721102000 +0800">
+    <title lang="zh">财富晚间道</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721102000 +0800" stop="20260721112500 +0800">
+    <title lang="zh">财富晚间道</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721112500 +0800" stop="20260721123100 +0800">
+    <title lang="zh">天下财经-投资者说</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721123100 +0800" stop="20260721131700 +0800">
+    <title lang="zh">午间剧场</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721131700 +0800" stop="20260721140300 +0800">
+    <title lang="zh">午间剧场</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721140300 +0800" stop="20260721145700 +0800">
+    <title lang="zh">午间剧场</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721145700 +0800" stop="20260721155300 +0800">
+    <title lang="zh">拍宝</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721155300 +0800" stop="20260721163400 +0800">
+    <title lang="zh">财经商圈</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721163400 +0800" stop="20260721172900 +0800">
+    <title lang="zh">理财</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721172900 +0800" stop="20260721182900 +0800">
     <title lang="zh">大牌价到</title>
     <desc />
-    <date>20260720</date>
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721182900 +0800" stop="20260721185900 +0800">
+    <title lang="zh">总裁读书会</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721185900 +0800" stop="20260721192900 +0800">
+    <title lang="zh">首都经济报道</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721192900 +0800" stop="20260721195900 +0800">
+    <title lang="zh">天下财经</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721195900 +0800" stop="20260721211400 +0800">
+    <title lang="zh">天下财经-投资者说</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721211400 +0800" stop="20260721220900 +0800">
+    <title lang="zh">理财</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721220900 +0800" stop="20260721224400 +0800">
+    <title lang="zh">财经商圈</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721224400 +0800" stop="20260721235800 +0800">
+    <title lang="zh">天下财经-投资者说</title>
+    <desc />
+    <date>20260721</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539872" start="20260721235800 +0800" stop="20260722000000 +0800">
+    <title lang="zh">电视购物</title>
+    <desc />
+    <date>20260721</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
