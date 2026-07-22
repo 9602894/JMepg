@@ -1,122 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457363" start="20260721003500 +0800" stop="20260721021000 +0800">
-    <title lang="zh">神鬼謀略(輔12)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721021000 +0800" stop="20260721040000 +0800">
-    <title lang="zh">史前魔種(輔12)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721040000 +0800" stop="20260721060000 +0800">
-    <title lang="zh">馬戲團大逃殺(輔15)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721060000 +0800" stop="20260721075500 +0800">
-    <title lang="zh">靈異穿梭(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721075500 +0800" stop="20260721095500 +0800">
-    <title lang="zh">無處安放的心(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721095500 +0800" stop="20260721114500 +0800">
-    <title lang="zh">高地公園夢(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721114500 +0800" stop="20260721133000 +0800">
-    <title lang="zh">漂浪人生(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721133000 +0800" stop="20260721153500 +0800">
-    <title lang="zh">礦塵迷途(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721153500 +0800" stop="20260721173500 +0800">
-    <title lang="zh">超人力霸王傑洛 : 超決戰!貝利亞銀河帝國(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721173500 +0800" stop="20260721193500 +0800">
-    <title lang="zh">愛無悔(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721193500 +0800" stop="20260721212500 +0800">
-    <title lang="zh">網紅的光鮮之下(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721212500 +0800" stop="20260721231500 +0800">
-    <title lang="zh">諜血女戰士(輔12)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457363" start="20260721231500 +0800" stop="20260722011000 +0800">
-    <title lang="zh">詭棋(輔15)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="457363" start="20260722011000 +0800" stop="20260722030000 +0800">
     <title lang="zh">異形殺戮(輔12)</title>
     <desc />
@@ -801,10 +684,127 @@
     </audio>
   </programme>
   
-<programme channel="457363" start="20260727232000 +0800" stop="20260728000000 +0800">
+<programme channel="457363" start="20260727232000 +0800" stop="20260728011000 +0800">
     <title lang="zh">惡作劇(輔12)</title>
     <desc />
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728011000 +0800" stop="20260728025500 +0800">
+    <title lang="zh">撕人派對(輔15)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728025500 +0800" stop="20260728043000 +0800">
+    <title lang="zh">紅皮書-招魂(輔15)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728043000 +0800" stop="20260728060000 +0800">
+    <title lang="zh">侏儸紀大逃殺(輔15)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728060000 +0800" stop="20260728075000 +0800">
+    <title lang="zh">星際嗨客(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728075000 +0800" stop="20260728094000 +0800">
+    <title lang="zh">大學開外掛(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728094000 +0800" stop="20260728112500 +0800">
+    <title lang="zh">全民審判秀(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728112500 +0800" stop="20260728130500 +0800">
+    <title lang="zh">噤入墳場(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728130500 +0800" stop="20260728152500 +0800">
+    <title lang="zh">咖啡莊園的亡靈(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728152500 +0800" stop="20260728173000 +0800">
+    <title lang="zh">市長你累了嗎？(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728173000 +0800" stop="20260728191000 +0800">
+    <title lang="zh">祕寶夥伴大冒險(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728191000 +0800" stop="20260728210500 +0800">
+    <title lang="zh">我們戰在一起：攻無不克(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728210500 +0800" stop="20260728224500 +0800">
+    <title lang="zh">徹底失控(輔12)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457363" start="20260728224500 +0800" stop="20260729000000 +0800">
+    <title lang="zh">死亡突擊(輔15)</title>
+    <desc />
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

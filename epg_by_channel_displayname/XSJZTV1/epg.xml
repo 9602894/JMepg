@@ -1,180 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="547083" start="20260721001500 +0800" stop="20260721023000 +0800">
-    <title lang="zh">电视剧:《决战前》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721023000 +0800" stop="20260721071000 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="547083" start="20260722001500 +0800" stop="20260722073000 +0800">
     <title lang="zh">电视剧:《枫叶红了》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="547083" start="20260721071000 +0800" stop="20260721073000 +0800">
-    <title lang="zh">《工会在线》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721073000 +0800" stop="20260721090000 +0800">
+<programme channel="547083" start="20260722073000 +0800" stop="20260722090000 +0800">
     <title lang="zh">《晋中新闻联播》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="547083" start="20260721090000 +0800" stop="20260721120000 +0800">
+<programme channel="547083" start="20260722090000 +0800" stop="20260722120000 +0800">
     <title lang="zh">电视剧:《决战前》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="547083" start="20260721120000 +0800" stop="20260721123500 +0800">
+<programme channel="547083" start="20260722120000 +0800" stop="20260722130000 +0800">
     <title lang="zh">《晋中新闻联播》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="547083" start="20260721123500 +0800" stop="20260721132000 +0800">
-    <title lang="zh">《清廉晋中》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721132000 +0800" stop="20260721163000 +0800">
-    <title lang="zh">电视剧:《枫叶红了》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721163000 +0800" stop="20260721183000 +0800">
-    <title lang="zh">《清廉晋中》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721183000 +0800" stop="20260721190000 +0800">
-    <title lang="zh">《榆次新闻》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721190000 +0800" stop="20260721193200 +0800">
-    <title lang="zh">转播中央台新闻联播</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721193200 +0800" stop="20260721195500 +0800">
-    <title lang="zh">《晋中新闻联播》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721195500 +0800" stop="20260721202000 +0800">
-    <title lang="zh">《天气预报》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721202000 +0800" stop="20260721204500 +0800">
+<programme channel="547083" start="20260722130000 +0800" stop="20260722132000 +0800">
     <title lang="zh">《大家谈》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="547083" start="20260721204500 +0800" stop="20260721210000 +0800">
-    <title lang="zh">《工会在线》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721210000 +0800" stop="20260721221000 +0800">
-    <title lang="zh">《晋中县区特别报道》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547083" start="20260721221000 +0800" stop="20260721230000 +0800">
+<programme channel="547083" start="20260722132000 +0800" stop="20260722181000 +0800">
     <title lang="zh">电视剧:《枫叶红了》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="547083" start="20260721230000 +0800" stop="20260721231800 +0800">
+<programme channel="547083" start="20260722181000 +0800" stop="20260722183000 +0800">
+    <title lang="zh">《大家谈》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547083" start="20260722183000 +0800" stop="20260722190000 +0800">
+    <title lang="zh">《榆次新闻》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547083" start="20260722190000 +0800" stop="20260722193200 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547083" start="20260722193200 +0800" stop="20260722195500 +0800">
     <title lang="zh">《晋中新闻联播》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="547083" start="20260721231800 +0800" stop="20260721232000 +0800">
-    <title lang="zh">《晚间气象预报》</title>
+<programme channel="547083" start="20260722195500 +0800" stop="20260722200000 +0800">
+    <title lang="zh">《天气预报》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="547083" start="20260721232000 +0800" stop="20260722000000 +0800">
+<programme channel="547083" start="20260722200000 +0800" stop="20260722210000 +0800">
+    <title lang="zh">《党建视窗》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547083" start="20260722210000 +0800" stop="20260722220500 +0800">
     <title lang="zh">《晋中县区特别报道》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547083" start="20260722220500 +0800" stop="20260722230000 +0800">
+    <title lang="zh">电视剧:《枫叶红了》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547083" start="20260722230000 +0800" stop="20260722231700 +0800">
+    <title lang="zh">《晋中新闻联播》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547083" start="20260722231700 +0800" stop="20260722232000 +0800">
+    <title lang="zh">《晚间气象预报》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547083" start="20260722232000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">《晋中县区特别报道》</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

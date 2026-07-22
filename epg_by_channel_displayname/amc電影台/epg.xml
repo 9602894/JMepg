@@ -1,149 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="370245" start="20260721000000 +0800" stop="20260721013200 +0800">
-    <title lang="zh">靈魂配對師 Love s Match</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721013200 +0800" stop="20260721025900 +0800">
-    <title lang="zh">CEO的禮物 The Kept Mistress Killer</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721025900 +0800" stop="20260721043100 +0800">
-    <title lang="zh">二次心動服裝店 Loves Second Chance</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721043100 +0800" stop="20260721060300 +0800">
-    <title lang="zh">心動友情線 Love in Full Swing</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721060300 +0800" stop="20260721073500 +0800">
-    <title lang="zh">靈魂配對師 Love s Match</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721073500 +0800" stop="20260721090200 +0800">
-    <title lang="zh">CEO的禮物 The Kept Mistress Killer</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721090200 +0800" stop="20260721103500 +0800">
-    <title lang="zh">二次心動服裝店 Loves Second Chance</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721103500 +0800" stop="20260721120700 +0800">
-    <title lang="zh">心動友情線 Love in Full Swing</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721120700 +0800" stop="20260721133900 +0800">
-    <title lang="zh">靈魂配對師 Love s Match</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721133900 +0800" stop="20260721150600 +0800">
-    <title lang="zh">CEO的禮物 The Kept Mistress Killer</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721150600 +0800" stop="20260721163800 +0800">
-    <title lang="zh">二次心動服裝店 Loves Second Chance</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721163800 +0800" stop="20260721181100 +0800">
-    <title lang="zh">心動友情線 Love in Full Swing</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721181100 +0800" stop="20260721194300 +0800">
-    <title lang="zh">靈魂配對師 Love s Match</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721194300 +0800" stop="20260721211000 +0800">
-    <title lang="zh">CEO的禮物 The Kept Mistress Killer</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721211000 +0800" stop="20260721224200 +0800">
-    <title lang="zh">二次心動服裝店 Loves Second Chance</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370245" start="20260721224200 +0800" stop="20260722000000 +0800">
-    <title lang="zh">心動友情線 Love in Full Swing</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="370245" start="20260722000000 +0800" stop="20260722013200 +0800">
     <title lang="zh">心動迷航 Love Map</title>
     <desc />
@@ -432,155 +288,145 @@
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721000000 +0800" stop="20260721020500 +0800">
-    <title lang="zh">王的男妃</title>
-    <desc>五代十國時期，天下大亂，群雄割據。在東北一隅，有一個叫做“北唐”的小政權，在戰亂中苦苦自保。但是一種名叫“褐面天花”的奇怪絕症突然席捲全國，被感染者皆為男性，不論年齡身份，患上這種天花後必死無疑。北唐國男性急劇衰減，久而久之，男女地位發生了反轉。嘉儀帝登基五年卻還未生育，六宮之中雖有男妃子卻也是獨守空閨。今天，在皇太后的苦苦相逼之下，嘉儀帝終於鬆了口：同意選男妃</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724000000 +0800" stop="20260724012900 +0800">
+    <title lang="zh">單身指南 The Single’s Guidebook</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721020500 +0800" stop="20260721033000 +0800">
-    <title lang="zh">牙仙殺人狂</title>
-    <desc>在一場可怕的校外教學中，學生與老師接連被殺，僅存的老師莎米（Sammy）倖存下來並重返工作崗位。然而，她開始聽到詭異的聲音，並感覺自己被監視著。當那熟悉的敲門聲再次響起時，她才意識到——這場惡夢，遠遠還沒有結束。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724012900 +0800" stop="20260724025900 +0800">
+    <title lang="zh">單身程式愛情 BUGThe Perfect Wedding Match</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721033000 +0800" stop="20260721050000 +0800">
-    <title lang="zh">霉菌入侵</title>
-    <desc>人們被困在一棟公寓大樓裡，牆壁上蔓延的黴菌正將居民一個接一個地變成怪物。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724025900 +0800" stop="20260724042900 +0800">
+    <title lang="zh">愛在海濱莊園 Love on Harbor Island</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721050000 +0800" stop="20260721061500 +0800">
-    <title lang="zh">外星AI-遺產</title>
-    <desc>在前兩部電影事件之後，一對年輕情侶在週末旅行中受困，卻逐漸發現自己被一個古老的外星生物選中——成為牠綁架實驗的下一個目標。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724042900 +0800" stop="20260724060000 +0800">
+    <title lang="zh">暗孕 The Pregnancy Promise</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721061500 +0800" stop="20260721084000 +0800">
-    <title lang="zh">秘密與謊言-4K數位修復版</title>
-    <desc>住在倫敦的黑人眼鏡配光師霍坦絲意外發現自己是被領養的，在養母過世後她決定去找尋生母，她驚訝發現生母辛西亞是位白人。辛西亞在工廠工作，與在當街道清潔員的21歲女兒羅珊住在一起；辛西亞的弟弟莫里斯是位成功的攝影師，而他太太莫妮卡看不起貧窮又不振作的辛西亞。而在一場生日聚會過後，霍坦絲自己身世真相也被揭曉。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724060000 +0800" stop="20260724072900 +0800">
+    <title lang="zh">單身指南 The Single’s Guidebook</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721084000 +0800" stop="20260721100500 +0800">
-    <title lang="zh">維京傳奇-血脈之戰</title>
-    <desc>一名年輕的維京人必須面對殘酷的事實——他可能是被調包於出生時的國王之子。然而，在他接受這一命運之前，其他人已經試圖奪取他本應擁有的王位。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724072900 +0800" stop="20260724085900 +0800">
+    <title lang="zh">單身程式愛情 BUGThe Perfect Wedding Match</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721100500 +0800" stop="20260721113000 +0800">
-    <title lang="zh">媽媽黑幫</title>
-    <desc>一名堅韌的倖存者被迫為生存而戰，當兩個擁有數百年恩怨的幫派展開血腥鬥爭，戰火最終蔓延到她所棲身的破舊住處門前。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724085900 +0800" stop="20260724102900 +0800">
+    <title lang="zh">愛在海濱莊園 Love on Harbor Island</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721113000 +0800" stop="20260721124500 +0800">
-    <title lang="zh">皇家衛士</title>
-    <desc>奧克拉荷馬著名的國民警衛隊受命清除威脅美國生活方式的歹徒。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724102900 +0800" stop="20260724120000 +0800">
+    <title lang="zh">暗孕 The Pregnancy Promise</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721124500 +0800" stop="20260721140000 +0800">
-    <title lang="zh">皇家衛士2</title>
-    <desc>這部作品講述了奧克拉荷馬州著名的「三名衛士」（Three Guardsmen）的故事。他們在狂野西部繼續追捕臭名昭著的亡命之徒，努力清除這片土地上的犯罪勢力，維護邊境的和平與秩序。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724120000 +0800" stop="20260724132900 +0800">
+    <title lang="zh">單身指南 The Single’s Guidebook</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721140000 +0800" stop="20260721150500 +0800">
-    <title lang="zh">好運天天來:21</title>
-    <desc>節目聚焦於紫微斗數、八字命理、風水解析等傳統國學領域，並設有 Call in 互動環節，由命理老師即時為觀眾解惑。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724132900 +0800" stop="20260724145900 +0800">
+    <title lang="zh">單身程式愛情 BUGThe Perfect Wedding Match</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721150500 +0800" stop="20260721153000 +0800">
-    <title lang="zh">品牌故事:3</title>
-    <desc>在超級跑車的世界裡，只要聽到藍寶堅尼這個名字，人們都會感到興奮不已。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724145900 +0800" stop="20260724162900 +0800">
+    <title lang="zh">愛在海濱莊園 Love on Harbor Island</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721153000 +0800" stop="20260721160000 +0800">
-    <title lang="zh">品牌故事:4</title>
-    <desc>在超級跑車的世界裡，只要聽到藍寶堅尼這個名字，人們都會感到興奮不已。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724162900 +0800" stop="20260724180000 +0800">
+    <title lang="zh">暗孕 The Pregnancy Promise</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721160000 +0800" stop="20260721173000 +0800">
-    <title lang="zh">香氛裡的心動</title>
-    <desc>絲凱正準備迎接她的事業“泡沫與奢華”又一豐收年，她販售色彩繽紛、香氣迷人的沐浴產品和面膜，應有盡有！當童年初戀蓋文回到小鎮，提出要幫她優化商業模式時，絲凱一開始堅決拒絕。但隨著兩人相處的時間增多，愛意逐漸升溫，他們很快發現，人生中最奢華的享受，其實是墜入愛河。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724180000 +0800" stop="20260724192900 +0800">
+    <title lang="zh">單身指南 The Single’s Guidebook</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721173000 +0800" stop="20260721190000 +0800">
-    <title lang="zh">蟲蛙車奇遇記</title>
-    <desc>故事講述一名年輕男子在與交往多年的女友突然分手後，情緒低落地停在俄克拉荷馬州的一條老舊高速公路旁。為了逃避現實，他決定搬進一部外型奇特的 1968 年式沃爾夫斯堡甲蟲車（VW Beetle），這輛車居然長了八只龐大的蜘蛛腿，宛如「Bug Man」載著他展開一段意想不到的療癒與自我重建之旅。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724192900 +0800" stop="20260724205900 +0800">
+    <title lang="zh">單身程式愛情 BUGThe Perfect Wedding Match</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721190000 +0800" stop="20260721210000 +0800">
-    <title lang="zh">颶風行動</title>
-    <desc>這是關於波蘭飛行員在外國領空爭取自己國家自由的故事。透過王牌飛行員祖巴赫的視角，了解波蘭人如何飛躍歐洲天際，與德軍交戰，並生存下來。
-這群開著英國皇家颶風戰機的人，是英國空軍「一小撮」成為傳奇的關鍵之一。協助英國擊退納粹入侵的他們，夢想能夠活著讓波蘭自由化。1940年夏天的生死戰，讓他們失去了一些同袍，同時，也因為他們的韌性和技術獲得整個大不列顛王國的讚賞。然而，長期的戰爭使許多人失去理智，祖巴赫也逐漸明白「王牌飛行員」之於波蘭的命運，只是無用的虛名，以及政治操弄可能會抹殺他的希望及尊嚴，甚至將他帶往更黑暗的地方。</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724205900 +0800" stop="20260724222900 +0800">
+    <title lang="zh">愛在海濱莊園 Love on Harbor Island</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456571" start="20260721210000 +0800" stop="20260721230000 +0800">
-    <title lang="zh">殺手保鑣2</title>
-    <desc>這次故事延續上一集，嗆辣老婆「索妮亞」出獄後和老公被國際惡煞綁架，她逃出後找上3A保鑣-麥可協助，但麥克心不甘情不願的出馬，防止獨裁勢力摧毀整個歐洲，三人合體的嘴賤攻防，前所未見超乎想像。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456571" start="20260721230000 +0800" stop="20260722002000 +0800">
-    <title lang="zh">休假</title>
-    <desc>和媽媽一起的美好回憶在艱難的現實中掙紮著，像每一天都堅持一樣生活的 37 歲女人，劉娜。她來了一通電話。從醫院傳來母親臨終的消息。劉娜決定從飯店老闆那裏申請休假，時隔 10 年來的再次休假。第二天早上，在劉娜的房間門前，平時對劉娜有意思的社長兒子民在來找她，他說：我送妳…</desc>
-    <date>20260721</date>
+<programme channel="370245" start="20260724222900 +0800" stop="20260725000000 +0800">
+    <title lang="zh">暗孕 The Pregnancy Promise</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -1454,7 +1300,7 @@
     </audio>
   </programme>
   
-<programme channel="456571" start="20260727225000 +0800" stop="20260728000000 +0800">
+<programme channel="456571" start="20260727225000 +0800" stop="20260728003500 +0800">
     <title lang="zh">混混天團</title>
     <desc>一個整天惹事生非、鬱鬱不得志的街頭混混阿豪《立威廉 飾》，個性衝動火爆的他，卻偏偏有著黑社會不該有的正義感。阿豪本來只是要去唱片公司收債，卻碰上唱片公司老闆跑路，只剩一個倒楣樂團揹黑鍋。</desc>
     <date>20260727</date>
@@ -1463,154 +1309,154 @@
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721000000 +0800" stop="20260721020500 +0800">
-    <title lang="zh">王的男妃(輔12)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728003500 +0800" stop="20260728021500 +0800">
+    <title lang="zh">天怒</title>
+    <desc>當一名危險的殺手接到暗殺任務時（追殺一名目睹親生哥哥遭南方犯罪集團所殺的少年），他過去腥風血雨的世界有了救贖的希望。對兄弟突如其來的死亡感到震驚的他，在距離葬禮只有幾個小時的時候，這名殺手必須在對手以及聯邦調查局找到這名少年之前，搶先一步找到他。隨著時間一點一滴流逝，這名殺手開始質疑自己的殘忍手段，他必須在最後的一刻作出選擇。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721020500 +0800" stop="20260721033000 +0800">
-    <title lang="zh">牙仙殺人狂(輔12)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728021500 +0800" stop="20260728034000 +0800">
+    <title lang="zh">邊防戰區</title>
+    <desc>《邊防戰區》是描述一名駐紮在阿富汗烏魯茲根的年輕荷蘭士兵在戰區所面臨的困境。某天，他的車隊遭到路邊的炸彈攻擊，於是他馬上朝一名阿富汗嫌犯開槍，但是他萬萬沒有想到，這件事很快就引發了一連串的事件，並給炸彈攻擊的倖存者留下了一道無法抹滅的陰影。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721033000 +0800" stop="20260721050000 +0800">
-    <title lang="zh">霉菌入侵(輔12)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728034000 +0800" stop="20260728045500 +0800">
+    <title lang="zh">全境殲滅</title>
+    <desc>一心尋找失?女兒的傑克亨特，追?至一個沙漠小鎮，卻發現一家資金雄厚的維安公司負責人和他心狠手辣的妹妹所保護的家族祕密，很可能破壞他的老闆與美國政府十億美元的水源交易。隨著傑克揭開女兒的下落，同時也揭開了駭人的真相，他踏上無情報復的征途，並將所有涉入的同夥繩之以法，過去傭兵團的導師是否能在他掃平一切之前阻止他嗎?</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721050000 +0800" stop="20260721061500 +0800">
-    <title lang="zh">外星 AI：遺產(護)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728045500 +0800" stop="20260728062500 +0800">
+    <title lang="zh">蟲蛙車奇遇記</title>
+    <desc>故事講述一名年輕男子在與交往多年的女友突然分手後，情緒低落地停在俄克拉荷馬州的一條老舊高速公路旁。為了逃避現實，他決定搬進一部外型奇特的 1968 年式沃爾夫斯堡甲蟲車（VW Beetle），這輛車居然長了八只龐大的蜘蛛腿，宛如「Bug Man」載著他展開一段意想不到的療癒與自我重建之旅。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721061500 +0800" stop="20260721084000 +0800">
-    <title lang="zh">秘密與謊言-4K數位修復版(護)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728062500 +0800" stop="20260728074500 +0800">
+    <title lang="zh">戰狼部隊-同袍回歸</title>
+    <desc>戰狼部隊隸屬於警察特種部隊無線電34-50偵查小組，是小組中最傑出強悍的一支部隊。故事開始於2014年秋季的迪亞巴克爾，隨著圖蘭卡拉（艾米爾‧班德利奧盧飾）結束兩年的緩刑，他重回部隊的懷抱，戰狼部隊此次的任務是前往一處遭恐怖份子劫持的學區，該處的市長與學生們都被迫成為人質。戰狼堡壘闡述一個不因個人困境而放棄，為保護家園犧牲生命在所不惜的英勇故事。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721084000 +0800" stop="20260721100500 +0800">
-    <title lang="zh">維京傳奇：血脈之戰(護)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728074500 +0800" stop="20260728091000 +0800">
+    <title lang="zh">維京傳奇-血脈之戰</title>
+    <desc>一名年輕的維京人必須面對殘酷的事實——他可能是被調包於出生時的國王之子。然而，在他接受這一命運之前，其他人已經試圖奪取他本應擁有的王位。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721100500 +0800" stop="20260721113000 +0800">
-    <title lang="zh">媽媽黑幫(護)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728091000 +0800" stop="20260728103500 +0800">
+    <title lang="zh">媽媽黑幫</title>
+    <desc>一名堅韌的倖存者被迫為生存而戰，當兩個擁有數百年恩怨的幫派展開血腥鬥爭，戰火最終蔓延到她所棲身的破舊住處門前。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721113000 +0800" stop="20260721124500 +0800">
-    <title lang="zh">皇家衛士(護)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728103500 +0800" stop="20260728122000 +0800">
+    <title lang="zh">西遊記女兒國</title>
+    <desc>唐僧一行人前去西天取經，不料闖進神秘的西梁女國一個從未有過男人的國家。女兒國國王對唐僧一見鍾情，卻因不知情為何物自以為患上是絕症，國師警告國王男人乃劇毒生物，並下令處死唐僧一行人。師徒四人在國王的協助下逃離法場。就在孫悟空施展72變解救師徒三人時，唐僧似也打爛齋砵對國王漸生情愫…講述了1941年抗日戰爭期間，鐵道工人們利用自己的工作經驗成功阻擊日軍突襲，並為百姓的奪取生存補給的傳奇經歷，成龍將在電影中出演足智多謀的鐵道遊擊隊隊長。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721124500 +0800" stop="20260721140000 +0800">
-    <title lang="zh">皇家衛士 2(護)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728122000 +0800" stop="20260728140000 +0800">
+    <title lang="zh">拆彈倒數30分鐘</title>
+    <desc>*英國2021 GRIMMFEST 電影節最佳導演在巴黎的一個停車場，拆彈專家索尼婭和男友的兒女被困在車裡，她發現車底被安裝感應炸彈，若未在時間內拆除，炸彈將會炸毀整棟大樓…</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721140000 +0800" stop="20260721150500 +0800">
-    <title lang="zh">好運天天來#21(護)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728140000 +0800" stop="20260728150500 +0800">
+    <title lang="zh">好運天天來:28</title>
+    <desc>節目聚焦於紫微斗數、八字命理、風水解析等傳統國學領域，並設有 Call in 互動環節，由命理老師即時為觀眾解惑。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721150500 +0800" stop="20260721153000 +0800">
-    <title lang="zh">品牌故事 第3集(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728150500 +0800" stop="20260728153000 +0800">
+    <title lang="zh">品牌故事:3</title>
+    <desc>瑪莎拉蒂以Ghibli衝入更具吸引力的市場區間，競爭激烈。更別提我們將帶您與Maserati GranCabrio MC一同漫遊阿爾卑斯。這部影片將完美揭示Maserati的奢華與強大，您將瞭解Ghibli和GranCabrio MC的每一處細節，感受瑪莎拉蒂的精彩與不凡。不僅如此，我們將與您共用穿越阿爾卑斯的令人驚艷之旅。現在就來體驗，讓瑪莎拉蒂帶您進入奢華的世界。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721153000 +0800" stop="20260721160000 +0800">
-    <title lang="zh">品牌故事 第4集(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728153000 +0800" stop="20260728160000 +0800">
+    <title lang="zh">品牌故事:4</title>
+    <desc>1964年，原是拖拉機製造商的Ferruccio Lamborghini決定在寧靜的Sant'Agata Bolognese小鎮，製造出世界上最好的跑車。此舉大膽又挑戰性，尤其當這座小鎮距離法拉利的地盤只有幾公里。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721160000 +0800" stop="20260721173000 +0800">
-    <title lang="zh">香氛裡的心動(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728160000 +0800" stop="20260728173500 +0800">
+    <title lang="zh">造型師的城市戀曲</title>
+    <desc>一位雄心勃勃的個人造型師從愛荷華州的小鎮搬到芝加哥，僱用了一位專業攝影師來幫助推廣她的新時尚事業；這段合作關係教會她，在城市中找到愛情和成功，只需要忠於自己內心的風格。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721173000 +0800" stop="20260721190000 +0800">
-    <title lang="zh">蟲蛙車奇遇記(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728173500 +0800" stop="20260728191000 +0800">
+    <title lang="zh">效率女王的愛情清單</title>
+    <desc>艾瑪是一位極度高效的企業活動策劃師，忙碌到沒時間談戀愛，直到妹妹米蘭達突然宣布，夢想中的婚禮只剩六週就要舉行，而她自己又臨時要出差。艾瑪答應親自操辦婚禮，並與新郎最好的朋友利亞姆合作，而利亞姆正是她多年前那場災難性相親的對象。兩人要找到合作默契並不容易，但在為朋友們的愛情做後盾的同時，他們也逐漸發現，或許正在為彼此騰出空間。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721190000 +0800" stop="20260721210000 +0800">
-    <title lang="zh">颶風行動(護)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728191000 +0800" stop="20260728210000 +0800">
+    <title lang="zh">摔角王-風雲再起</title>
+    <desc>每個傳奇都需要有人扛下去！重振冠軍頭銜！已故的父親除了是東加王國的男爵更是大名鼎鼎的摔角冠軍，他返鄉處理遺產時竟被捲入黑白兩道的衝突，現在他必須為了奪回父親被盜的冠軍腰帶而奮鬥…</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721210000 +0800" stop="20260721230000 +0800">
-    <title lang="zh">殺手保鑣2(輔12)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728210000 +0800" stop="20260728223000 +0800">
+    <title lang="zh">霉菌入侵</title>
+    <desc>人們被困在一棟公寓大樓裡，牆壁上蔓延的黴菌正將居民一個接一個地變成怪物。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457368" start="20260721230000 +0800" stop="20260722002000 +0800">
-    <title lang="zh">休假(輔12)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456571" start="20260728223000 +0800" stop="20260729000000 +0800">
+    <title lang="zh">叛諜檔案</title>
+    <desc>★繼《全面攻佔》系列以後，又一殺手為主角的動作強片。★以《黑暗騎士》雙面人成名之性格男星亞倫·艾克哈特領銜主演。改編自諾亞·博伊德Noah Boyd同名小說。前任美國中情局CIA成員韋爾（Vail）本可享受退休後的清閒時光，卻被嫁禍於一樁國外記者謀殺案件中脫不了身。能力高超的他，在美國成為各國眼中釘的情況下，被迫回歸CIA只為了釐清嫌疑，殊不知此舉讓他深陷更危險的陰謀當中……</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -2480,10 +2326,163 @@
     </audio>
   </programme>
   
-<programme channel="457368" start="20260727225000 +0800" stop="20260728000000 +0800">
+<programme channel="457368" start="20260727225000 +0800" stop="20260728003500 +0800">
     <title lang="zh">混混天團(護)</title>
     <desc />
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728003500 +0800" stop="20260728021500 +0800">
+    <title lang="zh">天怒(輔12)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728021500 +0800" stop="20260728034000 +0800">
+    <title lang="zh">邊防戰區(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728034000 +0800" stop="20260728045500 +0800">
+    <title lang="zh">全境殲滅(輔12)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728045500 +0800" stop="20260728062500 +0800">
+    <title lang="zh">蟲蛙車奇遇記(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728062500 +0800" stop="20260728074500 +0800">
+    <title lang="zh">戰狼部隊-同袍回歸(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728074500 +0800" stop="20260728091000 +0800">
+    <title lang="zh">維京傳奇：血脈之戰(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728091000 +0800" stop="20260728103500 +0800">
+    <title lang="zh">媽媽黑幫(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728103500 +0800" stop="20260728122000 +0800">
+    <title lang="zh">西遊記女兒國(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728122000 +0800" stop="20260728140000 +0800">
+    <title lang="zh">拆彈倒數30分鐘(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728140000 +0800" stop="20260728150000 +0800">
+    <title lang="zh">好運天天來#28(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728150000 +0800" stop="20260728153000 +0800">
+    <title lang="zh">品牌故事 第3集(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728153000 +0800" stop="20260728160000 +0800">
+    <title lang="zh">品牌故事 第4集(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728160000 +0800" stop="20260728173500 +0800">
+    <title lang="zh">造型師的城市戀曲(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728173500 +0800" stop="20260728191000 +0800">
+    <title lang="zh">效率女王的愛情清單(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728191000 +0800" stop="20260728210000 +0800">
+    <title lang="zh">摔角王-風雲再起(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728210000 +0800" stop="20260728223000 +0800">
+    <title lang="zh">霉菌入侵(輔12)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457368" start="20260728223000 +0800" stop="20260729000000 +0800">
+    <title lang="zh">叛諜檔案(輔12)</title>
+    <desc />
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

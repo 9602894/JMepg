@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457370" start="20260721002000 +0800" stop="20260721020000 +0800">
-    <title lang="zh">上帝創造女人(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721020000 +0800" stop="20260721060000 +0800">
-    <title lang="zh">收播(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721060000 +0800" stop="20260721080000 +0800">
-    <title lang="zh">舞樂傳奇(25-26)(首)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721080000 +0800" stop="20260721101000 +0800">
-    <title lang="zh">江湖女間諜(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721101000 +0800" stop="20260721123500 +0800">
-    <title lang="zh">五億探長雷洛傳I：雷老虎(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721123500 +0800" stop="20260721144000 +0800">
-    <title lang="zh">五億探長雷洛傳II：父子情仇(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721144000 +0800" stop="20260721172000 +0800">
-    <title lang="zh">孤雛淚(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721172000 +0800" stop="20260721190000 +0800">
-    <title lang="zh">庖丁傳奇之金刀御廚(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721190000 +0800" stop="20260721210000 +0800">
-    <title lang="zh">舞樂傳奇(25-26)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721210000 +0800" stop="20260721231000 +0800">
-    <title lang="zh">雷瑪根鐵橋(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260721231000 +0800" stop="20260722011000 +0800">
-    <title lang="zh">放牛班足球隊(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="457370" start="20260722011000 +0800" stop="20260722020000 +0800">
     <title lang="zh">唐獎第六屆：永續發展獎(普)</title>
     <desc />
@@ -675,10 +576,109 @@
     </audio>
   </programme>
   
-<programme channel="457370" start="20260727225000 +0800" stop="20260728000000 +0800">
+<programme channel="457370" start="20260727225000 +0800" stop="20260728001500 +0800">
     <title lang="zh">蘇乞兒之武功蓋世(護)</title>
     <desc />
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728001500 +0800" stop="20260728020000 +0800">
+    <title lang="zh">太空英雌(輔15)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728020000 +0800" stop="20260728060000 +0800">
+    <title lang="zh">收播(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728060000 +0800" stop="20260728080000 +0800">
+    <title lang="zh">舞樂傳奇(35-36)(首)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728080000 +0800" stop="20260728100000 +0800">
+    <title lang="zh">七月與安生(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728100000 +0800" stop="20260728122500 +0800">
+    <title lang="zh">野戰雄獅(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728122500 +0800" stop="20260728145500 +0800">
+    <title lang="zh">狄仁傑之四大天王(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728145500 +0800" stop="20260728172000 +0800">
+    <title lang="zh">2001太空漫遊(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728172000 +0800" stop="20260728190000 +0800">
+    <title lang="zh">報告班長3(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728190000 +0800" stop="20260728210000 +0800">
+    <title lang="zh">舞樂傳奇(35-36)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728210000 +0800" stop="20260728225500 +0800">
+    <title lang="zh">龍爭虎鬥(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260728225500 +0800" stop="20260729000000 +0800">
+    <title lang="zh">唐門之神犼雙雄(護)</title>
+    <desc />
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

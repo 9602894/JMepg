@@ -1,131 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457360" start="20260721012500 +0800" stop="20260721031500 +0800">
-    <title lang="zh">俠骨仁心(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721031500 +0800" stop="20260721050500 +0800">
-    <title lang="zh">生日快樂(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721050500 +0800" stop="20260721064500 +0800">
-    <title lang="zh">紅場飛龍(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721064500 +0800" stop="20260721082000 +0800">
-    <title lang="zh">黑貓(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721082000 +0800" stop="20260721100000 +0800">
-    <title lang="zh">黑皮與白牙(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721100000 +0800" stop="20260721120500 +0800">
-    <title lang="zh">聽風者(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721120500 +0800" stop="20260721134000 +0800">
-    <title lang="zh">龍的心(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721134000 +0800" stop="20260721153500 +0800">
-    <title lang="zh">心動(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721153500 +0800" stop="20260721171500 +0800">
-    <title lang="zh">靈氣迫人(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721171500 +0800" stop="20260721184500 +0800">
-    <title lang="zh">戰神傳說(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721184500 +0800" stop="20260721210000 +0800">
-    <title lang="zh">條子阿不拉(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721210000 +0800" stop="20260721215000 +0800">
-    <title lang="zh">烈火如歌(4)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721215000 +0800" stop="20260721234500 +0800">
-    <title lang="zh">烈火戰車2極速傳說(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457360" start="20260721234500 +0800" stop="20260722012500 +0800">
-    <title lang="zh">吉屋藏嬌(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="457360" start="20260722012500 +0800" stop="20260722030500 +0800">
     <title lang="zh">同根生(輔15)</title>
     <desc />
@@ -873,10 +747,136 @@
     </audio>
   </programme>
   
-<programme channel="457360" start="20260727233000 +0800" stop="20260728000000 +0800">
+<programme channel="457360" start="20260727233000 +0800" stop="20260728011500 +0800">
     <title lang="zh">葉問-終極一戰(輔12)</title>
     <desc />
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728011500 +0800" stop="20260728030000 +0800">
+    <title lang="zh">旺角卡門(輔15)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728030000 +0800" stop="20260728044500 +0800">
+    <title lang="zh">瘦虎肥龍(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728044500 +0800" stop="20260728062500 +0800">
+    <title lang="zh">望夫成龍(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728062500 +0800" stop="20260728080500 +0800">
+    <title lang="zh">生化壽屍(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728080500 +0800" stop="20260728094500 +0800">
+    <title lang="zh">無敵幸運星(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728094500 +0800" stop="20260728113500 +0800">
+    <title lang="zh">金錢帝國：追虎擒龍(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728113500 +0800" stop="20260728142500 +0800">
+    <title lang="zh">紅柿子(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728142500 +0800" stop="20260728160500 +0800">
+    <title lang="zh">初戀嗱喳麵(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728160500 +0800" stop="20260728174000 +0800">
+    <title lang="zh">伴我縱橫(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728174000 +0800" stop="20260728192000 +0800">
+    <title lang="zh">風雨操場(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728192000 +0800" stop="20260728210000 +0800">
+    <title lang="zh">飛龍猛將(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728210000 +0800" stop="20260728215000 +0800">
+    <title lang="zh">烈火如歌(9)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728215000 +0800" stop="20260728232500 +0800">
+    <title lang="zh">烈火情仇(輔15)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457360" start="20260728232500 +0800" stop="20260729000000 +0800">
+    <title lang="zh">紫雨風暴(輔12)</title>
+    <desc />
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

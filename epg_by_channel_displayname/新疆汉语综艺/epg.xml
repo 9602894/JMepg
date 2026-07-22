@@ -1,162 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539902" start="20260721000000 +0800" stop="20260721002500 +0800">
-    <title lang="zh">翡翠剧场:(37集)人生之路(7-10)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721002500 +0800" stop="20260721005500 +0800">
-    <title lang="zh">行走山水间(121)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721005500 +0800" stop="20260721012500 +0800">
-    <title lang="zh">真实纪录(2948)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721012500 +0800" stop="20260721014500 +0800">
-    <title lang="zh">致富田园(447)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721014500 +0800" stop="20260721080000 +0800">
-    <title lang="zh">创业在新疆(180)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721080000 +0800" stop="20260721082500 +0800">
-    <title lang="zh">致富田园(447)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721082500 +0800" stop="20260721095500 +0800">
-    <title lang="zh">11集栏目:五星耀中华第二季(2)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721095500 +0800" stop="20260721101000 +0800">
-    <title lang="zh">创业在新疆(180)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721101000 +0800" stop="20260721104500 +0800">
-    <title lang="zh">栏目:行走山水间(121)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721104500 +0800" stop="20260721153000 +0800">
-    <title lang="zh">经典剧场:(73集):知否知否应是绿肥红瘦(56-61)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721153000 +0800" stop="20260721160300 +0800">
-    <title lang="zh">栏目:行走山水间(121)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721160300 +0800" stop="20260721161600 +0800">
-    <title lang="zh">2026年7月20日直播民生</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721161600 +0800" stop="20260721201500 +0800">
-    <title lang="zh">经典剧场:(73集):知否知否应是绿肥红瘦(62-66)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721201500 +0800" stop="20260721203500 +0800">
-    <title lang="zh">创业在新疆(180)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721203500 +0800" stop="20260721210000 +0800">
-    <title lang="zh">致富田园(447)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721210000 +0800" stop="20260721211000 +0800">
-    <title lang="zh">2026年7月21日直播民生(正播)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721211000 +0800" stop="20260721211500 +0800">
-    <title lang="zh">2026年7月21日天气预报地面(正播)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539902" start="20260721211500 +0800" stop="20260722000000 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539902" start="20260722000000 +0800" stop="20260722003000 +0800">
     <title lang="zh">翡翠剧场:(37集)人生之路(11-14)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722003000 +0800" stop="20260722010000 +0800">
+    <title lang="zh">栏目:行走山水间(121)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722010000 +0800" stop="20260722080000 +0800">
+    <title lang="zh">真实纪录(2948-2949)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722080000 +0800" stop="20260722083000 +0800">
+    <title lang="zh">真实纪录(2949)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722083000 +0800" stop="20260722101300 +0800">
+    <title lang="zh">8集栏目:新民族舞大会第二季(8)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722101300 +0800" stop="20260722104500 +0800">
+    <title lang="zh">栏目:行走山水间(121)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722104500 +0800" stop="20260722153300 +0800">
+    <title lang="zh">经典剧场:(73集):知否知否应是绿肥红瘦(67-72)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722153300 +0800" stop="20260722160600 +0800">
+    <title lang="zh">栏目:行走山水间(121)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722160600 +0800" stop="20260722161900 +0800">
+    <title lang="zh">2026年7月21日直播民生(正播)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722161900 +0800" stop="20260722170700 +0800">
+    <title lang="zh">经典剧场:(73集):知否知否应是绿肥红瘦(73)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722170700 +0800" stop="20260722202500 +0800">
+    <title lang="zh">经典剧场:(40集):无所畏惧(1-4)不设置回看</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722202500 +0800" stop="20260722210000 +0800">
+    <title lang="zh">真实纪录(2950)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722210000 +0800" stop="20260722211000 +0800">
+    <title lang="zh">2026年7月22日直播民生(正播)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722211000 +0800" stop="20260722211500 +0800">
+    <title lang="zh">2026年7月22日天气预报地面(正播)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539902" start="20260722211500 +0800" stop="20260723000000 +0800">
+    <title lang="zh">翡翠剧场:(37集)人生之路(15-18)</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

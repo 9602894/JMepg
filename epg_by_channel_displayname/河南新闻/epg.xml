@@ -1,252 +1,342 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539789" start="20260721002000 +0800" stop="20260721013600 +0800">
-    <title lang="zh">英超之夜</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721013600 +0800" stop="20260721023000 +0800">
-    <title lang="zh">探秘天下</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721023000 +0800" stop="20260721030000 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539789" start="20260722001800 +0800" stop="20260722004800 +0800">
     <title lang="zh">新闻365</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721030000 +0800" stop="20260721041000 +0800">
-    <title lang="zh">天天养生</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721041000 +0800" stop="20260721050000 +0800">
+<programme channel="539789" start="20260722004800 +0800" stop="20260722010800 +0800">
     <title lang="zh">探秘天下</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721050000 +0800" stop="20260721051500 +0800">
-    <title lang="zh">传承</title>
+<programme channel="539789" start="20260722010800 +0800" stop="20260722013600 +0800">
+    <title lang="zh">风云百年</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721051500 +0800" stop="20260721060000 +0800">
-    <title lang="zh">对话中原</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721060000 +0800" stop="20260721062800 +0800">
+<programme channel="539789" start="20260722013600 +0800" stop="20260722023000 +0800">
     <title lang="zh">探秘天下</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721062800 +0800" stop="20260721065900 +0800">
+<programme channel="539789" start="20260722023000 +0800" stop="20260722030000 +0800">
     <title lang="zh">新闻365</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721065900 +0800" stop="20260721141000 +0800">
-    <title lang="zh">新闻60分</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721141000 +0800" stop="20260721144000 +0800">
-    <title lang="zh">风云百年</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721144000 +0800" stop="20260721151000 +0800">
-    <title lang="zh">探秘天下</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721151000 +0800" stop="20260721161200 +0800">
+<programme channel="539789" start="20260722030000 +0800" stop="20260722041000 +0800">
     <title lang="zh">天天养生</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721161200 +0800" stop="20260721164200 +0800">
-    <title lang="zh">探秘天下:历史纵横版</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721164200 +0800" stop="20260721171500 +0800">
-    <title lang="zh">风云百年</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721171500 +0800" stop="20260721173700 +0800">
+<programme channel="539789" start="20260722041000 +0800" stop="20260722053000 +0800">
     <title lang="zh">探秘天下</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721173700 +0800" stop="20260721175300 +0800">
-    <title lang="zh">传承</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721175300 +0800" stop="20260721185500 +0800">
-    <title lang="zh">天天养生</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721185500 +0800" stop="20260721192500 +0800">
+<programme channel="539789" start="20260722053000 +0800" stop="20260722060000 +0800">
     <title lang="zh">聚焦</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721192500 +0800" stop="20260721200000 +0800">
-    <title lang="zh">新闻365</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539789" start="20260721200000 +0800" stop="20260721203000 +0800">
+<programme channel="539789" start="20260722060000 +0800" stop="20260722062800 +0800">
     <title lang="zh">风云百年</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721203000 +0800" stop="20260721210000 +0800">
-    <title lang="zh">河南新闻联播</title>
+<programme channel="539789" start="20260722062800 +0800" stop="20260722065900 +0800">
+    <title lang="zh">新闻365</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721210000 +0800" stop="20260721220100 +0800">
+<programme channel="539789" start="20260722065900 +0800" stop="20260722080000 +0800">
     <title lang="zh">新闻60分</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721220100 +0800" stop="20260721223500 +0800">
+<programme channel="539789" start="20260722080000 +0800" stop="20260722083000 +0800">
+    <title lang="zh">河南新闻联播</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722083000 +0800" stop="20260722100000 +0800">
+    <title lang="zh">探秘天下</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722100000 +0800" stop="20260722110200 +0800">
+    <title lang="zh">天天养生</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722110200 +0800" stop="20260722113000 +0800">
+    <title lang="zh">聚焦</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722113000 +0800" stop="20260722115900 +0800">
+    <title lang="zh">探秘天下</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722115900 +0800" stop="20260722123000 +0800">
     <title lang="zh">新闻365</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721223500 +0800" stop="20260721225000 +0800">
+<programme channel="539789" start="20260722123000 +0800" stop="20260722133000 +0800">
+    <title lang="zh">新闻60分</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722133000 +0800" stop="20260722134600 +0800">
     <title lang="zh">传承</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721225000 +0800" stop="20260721232000 +0800">
+<programme channel="539789" start="20260722134600 +0800" stop="20260722141000 +0800">
+    <title lang="zh">探秘天下</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722141000 +0800" stop="20260722144000 +0800">
     <title lang="zh">风云百年</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721232000 +0800" stop="20260721235000 +0800">
+<programme channel="539789" start="20260722144000 +0800" stop="20260722151000 +0800">
     <title lang="zh">探秘天下</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539789" start="20260721235000 +0800" stop="20260722000000 +0800">
+<programme channel="539789" start="20260722151000 +0800" stop="20260722161200 +0800">
+    <title lang="zh">天天养生</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722161200 +0800" stop="20260722164200 +0800">
     <title lang="zh">探秘天下</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722164200 +0800" stop="20260722171500 +0800">
+    <title lang="zh">风云百年</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722171500 +0800" stop="20260722173700 +0800">
+    <title lang="zh">探秘天下</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722173700 +0800" stop="20260722175300 +0800">
+    <title lang="zh">传承</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722175300 +0800" stop="20260722185500 +0800">
+    <title lang="zh">天天养生</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722185500 +0800" stop="20260722192500 +0800">
+    <title lang="zh">聚焦</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722192500 +0800" stop="20260722200000 +0800">
+    <title lang="zh">新闻365</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722200000 +0800" stop="20260722201000 +0800">
+    <title lang="zh">河南环境攻坚进行时</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722201000 +0800" stop="20260722203000 +0800">
+    <title lang="zh">探秘天下</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722203000 +0800" stop="20260722210000 +0800">
+    <title lang="zh">河南新闻联播</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722210000 +0800" stop="20260722220100 +0800">
+    <title lang="zh">新闻60分</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722220100 +0800" stop="20260722223500 +0800">
+    <title lang="zh">新闻365</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722223500 +0800" stop="20260722225000 +0800">
+    <title lang="zh">传承</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722225000 +0800" stop="20260722232000 +0800">
+    <title lang="zh">风云百年</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539789" start="20260722232000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">探秘天下</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,279 +1,288 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539858" start="20260721000000 +0800" stop="20260721004000 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539858" start="20260722000000 +0800" stop="20260722004500 +0800">
     <title lang="zh">财经夜行线</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539858" start="20260721004000 +0800" stop="20260721010000 +0800">
-    <title lang="zh">《首席评论》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721010000 +0800" stop="20260721060300 +0800">
-    <title lang="zh">《公司与行业》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721060300 +0800" stop="20260721063000 +0800">
-    <title lang="zh">《创时代》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721063000 +0800" stop="20260721070000 +0800">
-    <title lang="zh">投资有看头</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721070000 +0800" stop="20260721080000 +0800">
-    <title lang="zh">《公司与行业》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721080000 +0800" stop="20260721090000 +0800">
-    <title lang="zh">《今日股市》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721090000 +0800" stop="20260721092700 +0800">
-    <title lang="zh">直播：市场零距离</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721092700 +0800" stop="20260721110000 +0800">
-    <title lang="zh">直播：市场零距离</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721110000 +0800" stop="20260721114500 +0800">
-    <title lang="zh">直播：市场零距离</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721114500 +0800" stop="20260721120500 +0800">
-    <title lang="zh">直播：市场零距离</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721120500 +0800" stop="20260721123000 +0800">
-    <title lang="zh">《首席评论》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721123000 +0800" stop="20260721130000 +0800">
-    <title lang="zh">《创时代·引领区观察》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721130000 +0800" stop="20260721143000 +0800">
-    <title lang="zh">直播：市场零距离</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721143000 +0800" stop="20260721153000 +0800">
-    <title lang="zh">直播：市场零距离</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721153000 +0800" stop="20260721160500 +0800">
-    <title lang="zh">直播：市场零距离</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721160500 +0800" stop="20260721163500 +0800">
-    <title lang="zh">直播：投资有看头</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721163500 +0800" stop="20260721170800 +0800">
+<programme channel="539858" start="20260722004500 +0800" stop="20260722011500 +0800">
     <title lang="zh">《财经视频集萃-价值投研社》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539858" start="20260721170800 +0800" stop="20260721173500 +0800">
-    <title lang="zh">《创时代》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721173500 +0800" stop="20260721180000 +0800">
+<programme channel="539858" start="20260722011500 +0800" stop="20260722014000 +0800">
     <title lang="zh">《首席评论》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539858" start="20260721180000 +0800" stop="20260721185500 +0800">
-    <title lang="zh">直播：今日股市</title>
+<programme channel="539858" start="20260722014000 +0800" stop="20260722060300 +0800">
+    <title lang="zh">《公司与行业》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539858" start="20260721185500 +0800" stop="20260721190000 +0800">
-    <title lang="zh">天财报道</title>
+<programme channel="539858" start="20260722060300 +0800" stop="20260722063000 +0800">
+    <title lang="zh">《中国经营者》</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539858" start="20260721190000 +0800" stop="20260721200000 +0800">
-    <title lang="zh">直播：公司与行业</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721200000 +0800" stop="20260721205500 +0800">
-    <title lang="zh">直播：谈股论金</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721205500 +0800" stop="20260721210000 +0800">
-    <title lang="zh">天财报道</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721210000 +0800" stop="20260721214000 +0800">
-    <title lang="zh">直播：财经夜行线</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721214000 +0800" stop="20260721214100 +0800">
-    <title lang="zh">天财报道</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721214100 +0800" stop="20260721220500 +0800">
-    <title lang="zh">《首席评论》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721220500 +0800" stop="20260721223000 +0800">
-    <title lang="zh">《财经视频集萃》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721223000 +0800" stop="20260721233000 +0800">
-    <title lang="zh">《今日股市》</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539858" start="20260721233000 +0800" stop="20260722000000 +0800">
+<programme channel="539858" start="20260722063000 +0800" stop="20260722070000 +0800">
     <title lang="zh">投资有看头</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722070000 +0800" stop="20260722080000 +0800">
+    <title lang="zh">《公司与行业》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722080000 +0800" stop="20260722090000 +0800">
+    <title lang="zh">《今日股市》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722090000 +0800" stop="20260722092700 +0800">
+    <title lang="zh">直播：市场零距离</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722092700 +0800" stop="20260722110000 +0800">
+    <title lang="zh">直播：市场零距离</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722110000 +0800" stop="20260722114500 +0800">
+    <title lang="zh">直播：市场零距离</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722114500 +0800" stop="20260722120500 +0800">
+    <title lang="zh">直播：市场零距离</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722120500 +0800" stop="20260722123000 +0800">
+    <title lang="zh">《首席评论》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722123000 +0800" stop="20260722130000 +0800">
+    <title lang="zh">《两说》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722130000 +0800" stop="20260722143000 +0800">
+    <title lang="zh">直播：市场零距离</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722143000 +0800" stop="20260722153000 +0800">
+    <title lang="zh">直播：市场零距离</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722153000 +0800" stop="20260722160500 +0800">
+    <title lang="zh">直播：市场零距离</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722160500 +0800" stop="20260722163500 +0800">
+    <title lang="zh">直播：投资有看头</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722163500 +0800" stop="20260722170000 +0800">
+    <title lang="zh">《中国经营者》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722170000 +0800" stop="20260722173000 +0800">
+    <title lang="zh">《创时代》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722173000 +0800" stop="20260722180000 +0800">
+    <title lang="zh">《首席评论》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722180000 +0800" stop="20260722185500 +0800">
+    <title lang="zh">直播：今日股市</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722185500 +0800" stop="20260722190000 +0800">
+    <title lang="zh">天财报道</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722190000 +0800" stop="20260722200000 +0800">
+    <title lang="zh">直播：公司与行业</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722200000 +0800" stop="20260722205500 +0800">
+    <title lang="zh">直播：谈股论金</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722205500 +0800" stop="20260722210000 +0800">
+    <title lang="zh">天财报道</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722210000 +0800" stop="20260722214000 +0800">
+    <title lang="zh">直播：财经夜行线</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722214000 +0800" stop="20260722214100 +0800">
+    <title lang="zh">天财报道</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722214100 +0800" stop="20260722220400 +0800">
+    <title lang="zh">《首席评论》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722220400 +0800" stop="20260722223000 +0800">
+    <title lang="zh">《两说》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722223000 +0800" stop="20260722233000 +0800">
+    <title lang="zh">《今日股市》</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539858" start="20260722233000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">投资有看头</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

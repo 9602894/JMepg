@@ -1,252 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544263" start="20260721000000 +0800" stop="20260721012200 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="544263" start="20260722000000 +0800" stop="20260722012300 +0800">
     <title lang="zh">青春剧场</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544263" start="20260721012200 +0800" stop="20260721015100 +0800">
+<programme channel="544263" start="20260722012300 +0800" stop="20260722015200 +0800">
     <title lang="zh">芒果头条</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544263" start="20260721015100 +0800" stop="20260721031500 +0800">
-    <title lang="zh">天天向上(重播)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721031500 +0800" stop="20260721033900 +0800">
-    <title lang="zh">新闻大求真</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721033900 +0800" stop="20260721034600 +0800">
-    <title lang="zh">青春湖南</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721034600 +0800" stop="20260721041800 +0800">
-    <title lang="zh">芒果头条</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721041800 +0800" stop="20260721050300 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721050300 +0800" stop="20260721060500 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721060500 +0800" stop="20260721065500 +0800">
-    <title lang="zh">湖南新闻联播</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721065500 +0800" stop="20260721074500 +0800">
-    <title lang="zh">芒果头条</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721074500 +0800" stop="20260721085000 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721085000 +0800" stop="20260721095300 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721095300 +0800" stop="20260721105700 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721105700 +0800" stop="20260721115800 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721115800 +0800" stop="20260721120700 +0800">
-    <title lang="zh">青春湖南</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721120700 +0800" stop="20260721125900 +0800">
-    <title lang="zh">芒果头条</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721125900 +0800" stop="20260721140000 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721140000 +0800" stop="20260721150000 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721150000 +0800" stop="20260721160000 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721160000 +0800" stop="20260721170100 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721170100 +0800" stop="20260721180000 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721180000 +0800" stop="20260721182500 +0800">
-    <title lang="zh">时光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721182500 +0800" stop="20260721185500 +0800">
-    <title lang="zh">芒果头条</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721185500 +0800" stop="20260721194300 +0800">
-    <title lang="zh">青春剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721194300 +0800" stop="20260721202800 +0800">
-    <title lang="zh">青春剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544263" start="20260721202800 +0800" stop="20260721220100 +0800">
+<programme channel="544263" start="20260722015200 +0800" stop="20260722031900 +0800">
     <title lang="zh">舞蹈风暴</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544263" start="20260721220100 +0800" stop="20260721233500 +0800">
+<programme channel="544263" start="20260722031900 +0800" stop="20260722034600 +0800">
+    <title lang="zh">新闻大求真</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722034600 +0800" stop="20260722041700 +0800">
+    <title lang="zh">芒果头条</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722041700 +0800" stop="20260722050200 +0800">
     <title lang="zh">时光剧场</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544263" start="20260721233500 +0800" stop="20260722000000 +0800">
+<programme channel="544263" start="20260722050200 +0800" stop="20260722060500 +0800">
+    <title lang="zh">时光剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722060500 +0800" stop="20260722065500 +0800">
+    <title lang="zh">湖南新闻联播</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722065500 +0800" stop="20260722074500 +0800">
+    <title lang="zh">芒果头条</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722074500 +0800" stop="20260722115800 +0800">
+    <title lang="zh">时光剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722115800 +0800" stop="20260722120800 +0800">
+    <title lang="zh">青春湖南</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722120800 +0800" stop="20260722125900 +0800">
+    <title lang="zh">芒果头条</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722125900 +0800" stop="20260722182500 +0800">
+    <title lang="zh">时光剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722182500 +0800" stop="20260722185500 +0800">
+    <title lang="zh">世界潮我看</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722185500 +0800" stop="20260722194200 +0800">
     <title lang="zh">青春剧场</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722194200 +0800" stop="20260722202800 +0800">
+    <title lang="zh">青春剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722202800 +0800" stop="20260722220000 +0800">
+    <title lang="zh">声临其境(重播)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722220000 +0800" stop="20260722233700 +0800">
+    <title lang="zh">时光剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544263" start="20260722233700 +0800" stop="20260723000000 +0800">
+    <title lang="zh">青春剧场</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

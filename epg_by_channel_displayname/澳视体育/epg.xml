@@ -1,108 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539653" start="20260721095900 +0800" stop="20260721100000 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539653" start="20260722095900 +0800" stop="20260722100000 +0800">
     <title lang="zh">开台</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721100000 +0800" stop="20260721121500 +0800">
-    <title lang="zh">2025美国网球公开赛︰混双4强</title>
+<programme channel="539653" start="20260722100000 +0800" stop="20260722114500 +0800">
+    <title lang="zh">2025美国网球公开赛︰混双决赛</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721121500 +0800" stop="20260721123000 +0800">
+<programme channel="539653" start="20260722114500 +0800" stop="20260722120000 +0800">
     <title lang="zh">澳门经典车小百科</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721123000 +0800" stop="20260721130000 +0800">
-    <title lang="zh">2026勒芒杯杂志：第一集 巴塞罗那站</title>
+<programme channel="539653" start="20260722120000 +0800" stop="20260722130000 +0800">
+    <title lang="zh">2026街头联盟滑板赛精华：第三集 洛杉矶站 - 男子组</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721130000 +0800" stop="20260721131500 +0800">
+<programme channel="539653" start="20260722130000 +0800" stop="20260722131500 +0800">
     <title lang="zh">体育新闻</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721131500 +0800" stop="20260721181500 +0800">
-    <title lang="zh">2025苏迪曼杯羽毛球赛：泰国   对  中国香港 - 小组赛</title>
+<programme channel="539653" start="20260722131500 +0800" stop="20260722165000 +0800">
+    <title lang="zh">2025苏迪曼杯羽毛球赛：丹麦  对  印度 - 小组赛</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721181500 +0800" stop="20260721183000 +0800">
+<programme channel="539653" start="20260722165000 +0800" stop="20260722170000 +0800">
     <title lang="zh">澳门经典车小百科</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721183000 +0800" stop="20260721205000 +0800">
-    <title lang="zh">2026 FIFA世界杯：墨西哥 对 南非</title>
+<programme channel="539653" start="20260722170000 +0800" stop="20260722180000 +0800">
+    <title lang="zh">2026年超级跑车锦标赛精华：第七集 - 基督城站</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721205000 +0800" stop="20260721210000 +0800">
+<programme channel="539653" start="20260722180000 +0800" stop="20260722184000 +0800">
+    <title lang="zh">竞健群英2026</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539653" start="20260722184000 +0800" stop="20260722194000 +0800">
+    <title lang="zh">2025/2026亚洲勒芒系列赛精华</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539653" start="20260722194000 +0800" stop="20260722205000 +0800">
+    <title lang="zh">2026新加坡羽毛球公开赛：女单4强</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539653" start="20260722205000 +0800" stop="20260722210000 +0800">
     <title lang="zh">体育新闻</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721210000 +0800" stop="20260721225500 +0800">
-    <title lang="zh">2026 FIFA世界杯：韩国  对 捷克</title>
+<programme channel="539653" start="20260722210000 +0800" stop="20260722225000 +0800">
+    <title lang="zh">2026 FIFA世界杯：美国 对 巴拉圭</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721225500 +0800" stop="20260721230000 +0800">
+<programme channel="539653" start="20260722225000 +0800" stop="20260722230000 +0800">
     <title lang="zh">体育新闻</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539653" start="20260721230000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">2026 FIFA世界杯：加拿大 对 波斯尼亚</title>
+<programme channel="539653" start="20260722230000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">2026 FIFA世界杯：卡塔尔 对 瑞士</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

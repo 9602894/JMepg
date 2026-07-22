@@ -1,149 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="370238" start="20260721000000 +0800" stop="20260721012600 +0800">
-    <title lang="zh">戰血天道第21集</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721012600 +0800" stop="20260721025400 +0800">
-    <title lang="zh">戰血天道第22集</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721025400 +0800" stop="20260721043000 +0800">
-    <title lang="zh">戰血天道第23集</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721043000 +0800" stop="20260721060000 +0800">
-    <title lang="zh">戰血天道第24集</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721060000 +0800" stop="20260721072400 +0800">
-    <title lang="zh">金光御九界之仙古狂濤21</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721072400 +0800" stop="20260721085800 +0800">
-    <title lang="zh">金光御九界之仙古狂濤22</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721085800 +0800" stop="20260721103300 +0800">
-    <title lang="zh">金光御九界之仙古狂濤23</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721103300 +0800" stop="20260721120000 +0800">
-    <title lang="zh">金光御九界之仙古狂濤24</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721120000 +0800" stop="20260721132600 +0800">
-    <title lang="zh">戰血天道第21集</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721132600 +0800" stop="20260721145400 +0800">
-    <title lang="zh">戰血天道第22集</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721145400 +0800" stop="20260721163200 +0800">
-    <title lang="zh">戰血天道第23集</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721163200 +0800" stop="20260721180000 +0800">
-    <title lang="zh">戰血天道第24集</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721180000 +0800" stop="20260721192400 +0800">
-    <title lang="zh">金光御九界之仙古狂濤21</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721192400 +0800" stop="20260721205800 +0800">
-    <title lang="zh">金光御九界之仙古狂濤22</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721205800 +0800" stop="20260721223300 +0800">
-    <title lang="zh">金光御九界之仙古狂濤23</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370238" start="20260721223300 +0800" stop="20260722000000 +0800">
-    <title lang="zh">金光御九界之仙古狂濤24</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="370238" start="20260722000000 +0800" stop="20260722012600 +0800">
     <title lang="zh">戰血天道第25集</title>
     <desc />
@@ -427,6 +283,168 @@
     <title lang="zh">金光御九界之仙古狂濤32</title>
     <desc />
     <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724000000 +0800" stop="20260724013600 +0800">
+    <title lang="zh">戰血天道第01集</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724013600 +0800" stop="20260724030800 +0800">
+    <title lang="zh">戰血天道第02集</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724030800 +0800" stop="20260724043300 +0800">
+    <title lang="zh">戰血天道第03集</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724043300 +0800" stop="20260724060000 +0800">
+    <title lang="zh">戰血天道第04集</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724060000 +0800" stop="20260724071200 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724071200 +0800" stop="20260724083000 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724083000 +0800" stop="20260724094300 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724094300 +0800" stop="20260724105600 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724105600 +0800" stop="20260724120000 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724120000 +0800" stop="20260724133500 +0800">
+    <title lang="zh">戰血天道第01集</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724133500 +0800" stop="20260724150700 +0800">
+    <title lang="zh">戰血天道第02集</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724150700 +0800" stop="20260724163300 +0800">
+    <title lang="zh">戰血天道第03集</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724163300 +0800" stop="20260724180000 +0800">
+    <title lang="zh">戰血天道第04集</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724180000 +0800" stop="20260724191200 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724191200 +0800" stop="20260724203000 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724203000 +0800" stop="20260724214300 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724214300 +0800" stop="20260724225600 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370238" start="20260724225600 +0800" stop="20260725000000 +0800">
+    <title lang="zh">金光御九界之仙古狂濤33</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,329 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456511" start="20260721000000 +0800" stop="20260721001000 +0800">
-    <title lang="zh">公視越南語新聞</title>
-    <desc>公視越南語新聞</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721001000 +0800" stop="20260721002000 +0800">
-    <title lang="zh">公視印尼語新聞</title>
-    <desc>公視印尼語新聞</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721002000 +0800" stop="20260721003000 +0800">
-    <title lang="zh">公視泰語新聞</title>
-    <desc>公視泰語新聞</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721003000 +0800" stop="20260721010000 +0800">
-    <title lang="zh">８點新世界</title>
-    <desc>本節目的「學者專家顧問團」將針對每日重大事件與熱門話題,即時進行視訊講評,做到新聞速度與深度的平衡。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721010000 +0800" stop="20260721020000 +0800">
-    <title lang="zh">我們的島</title>
-    <desc>在台灣,許多大型的光電及風力案場,在設置選址時引發爭議,如何運用當地的環境特質,尋找適合發展的能源,朝向小型、分散而多元的發電方式,是未來需要努力的方向,從個人、學校到社區,自己的電自己發,這場「微」綠能行動正在路上。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721020000 +0800" stop="20260721033500 +0800">
-    <title lang="zh">2026倫敦世界桌球團體錦標賽</title>
-    <desc>2026倫敦世界桌球團體錦標賽</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721033500 +0800" stop="20260721052500 +0800">
-    <title lang="zh">2026倫敦世界桌球團體錦標賽</title>
-    <desc>2026倫敦世界桌球團體錦標賽</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721052500 +0800" stop="20260721060000 +0800">
-    <title lang="zh">殺人之眾</title>
-    <desc>阿文，那些年刻意隱藏匿蹤的無名聲援，在2014年非常意外地成為了一個事件裡的主要人物，在社群媒體與廣播媒體大量發送下，已經藏不住這樣的無名狀態了，遍及到身邊所有人都知道此事，但無從解釋那只是一次的偶然，只能任由人們詮釋、想像、解讀。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721060000 +0800" stop="20260721063000 +0800">
-    <title lang="zh">看公視說英語</title>
-    <desc>由大家說英語提供的電視英語教學節目</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721063000 +0800" stop="20260721070000 +0800">
-    <title lang="zh">水果冰淇淋</title>
-    <desc>融合本土文化及價值觀的節目，由幼教老師及文字工作創作具新意的幼兒童話。並向國內兒童文學作家邀稿，為節目量身訂做全新的童話故事。由趙自強飾演水果奶奶，在說故事時提供不同的觀點，引領孩子進入故事的趣味天地。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721070000 +0800" stop="20260721080000 +0800">
-    <title lang="zh">公視早安新聞</title>
-    <desc>《公視早安新聞》準時陪您更新世界、開啟思緒，讓新聞成為您一天的開場白。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721080000 +0800" stop="20260721083000 +0800">
-    <title lang="zh">公視手語新聞</title>
-    <desc>每天由手語方式為觀眾播報即時新聞，提供最新的各項訊息，與當天報紙頭條新聞。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721083000 +0800" stop="20260721084000 +0800">
-    <title lang="zh">公視越南語新聞</title>
-    <desc>公視越南語新聞</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721084000 +0800" stop="20260721085000 +0800">
-    <title lang="zh">公視印尼語新聞</title>
-    <desc>公視印尼語新聞</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721085000 +0800" stop="20260721090000 +0800">
-    <title lang="zh">公視泰語新聞</title>
-    <desc>公視泰語新聞</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721090000 +0800" stop="20260721103000 +0800">
-    <title lang="zh">黑暗中的笑臉</title>
-    <desc>《 一個強迫症患者遇上愛情控制狂 》這故事，從黑暗中的笑聲開始…刺激、冒險、驚喜，從來都不是魏亭（寇家瑞 飾）的選項。從事電影翻譯工作，專注面對文字，精準校稿按時交件，完全無須與人溝通，中規中矩、日復一日的生活猶如某種儀式，安全而可靠。這份價值觀，是他對抗混亂世界最好的方式。某天，翻譯工作出了障礙，魏亭踏入二輪戲院檢視自己作品的那個午候，卻意外改變了他的世界。漆黑裡傳來一陣陣誇張的笑聲，笑得放縱、笑得心碎，笑裡帶出另一個有故事的人，看似豪邁、潑辣的女孩趙曉恭（李亦捷　飾）這麼無預警地闖入他的人生，打破所有規則。原本直線開始扭曲，空白沾染上色彩，愛情帶來的溫柔甜美，讓他極度不適應卻難以抗拒，隨著日漸擴大的心慌意亂，生活漸漸失控，魏亭開始懷疑曉恭是愛原本的自己？還是她塑造的樣子。或許相愛的過程對她來說是種成長，但對魏亭而言，卻是生命的極限。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721103000 +0800" stop="20260721110000 +0800">
-    <title lang="zh">無家女孩</title>
-    <desc>7歲的春妮來到城裡舅舅家參加暑期營隊，因緣際會認識了獨居老人老康以及外籍看護阿蒂。三人漸漸地發展出特殊的情誼，忽然一天老康不見了……。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721110000 +0800" stop="20260721120000 +0800">
-    <title lang="zh">失落的納巴泰王國</title>
-    <desc>帶領觀眾探索西元前三世紀曾叱吒一時、壟斷「乳香」貿易的古老遊牧帝國，揭開其由盛轉衰及被黃沙吞噬的神秘面紗。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721120000 +0800" stop="20260721125500 +0800">
-    <title lang="zh">公視午間新聞</title>
-    <desc>即時新聞,讓更多元的閱聽大眾,得知最易於親近的國內外大事。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721125500 +0800" stop="20260721130000 +0800">
-    <title lang="zh">PeoPo公民新聞報</title>
-    <desc>導在台灣甚至世界各地公民觀點的新聞，不論您以文字、照片甚至影音方式來報導，PeoPo公民新聞報的主持人將會訪問您對這則新聞的看法，以全新的觀點來展現公民記者的行動力。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721130000 +0800" stop="20260721140000 +0800">
-    <title lang="zh">哈!真相大白了</title>
-    <desc>真假新聞充斥，我們如何快速分辨真偽？本節目透過策略選擇與即時反應，打造高張力比賽。運用壯闊場景設計，打造通往知識殿堂的階梯，帶來震撼視覺體驗。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721140000 +0800" stop="20260721150000 +0800">
-    <title lang="zh">幸福返鄉30+</title>
-    <desc>這部戲是描述一位年過三十的名模古宥莉（潘慧如飾），在時尚圈奮鬥十幾年後，卻星運平平，拚不過不斷崛起的新秀。為了那紙保障生活的經紀約，以及自己反敗為勝的最後機會，她不得已接下「名模返鄉」實境秀的節目，帶著拍攝團隊回到自己生長的地方，期待頂著名模光環可以東山再起。但事實卻與願違。歷經了職場鬥爭、八卦事件、親情的衝突，以及愛情的徬徨，讓宥莉失去了追尋幸福的方向。所幸在人生最低潮的時刻，宥莉回到了自己的故鄉。原以為這裡不過是個毫無特色的鄉下小鎮，但在返鄉的歷程中，漸漸喚起了她心中一幕幕深刻的印象，這才發現自己的故鄉充滿著豐富的人文與自然風貌，還有濃濃的人情味。在這裡他遇見兒時的同窗好友趙大全（吳定謙飾），兩人一齊參與了許多守護家園的活動，從中慢慢找回了兒時的幸福記憶。原來，守護最愛的人，才是人生幸福的方程式。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721150000 +0800" stop="20260721160000 +0800">
-    <title lang="zh">出外人生</title>
-    <desc>民國 五、六十年間，一群在大稻埕的出外人，如何在陌生的環境裡求生存，胼手胝足的開創出個人一片天的故事。 還在襁褓中就被丟在廟口的林有志，從小被廟公扶養長大，原本過著樸實的生活。不料青梅竹馬的女友蔡秋滿竟然被養父賣給土財主當續弦，有志只好帶著秋滿逃離故鄉，然而途中為了躲避追趕的人馬，相約在台北後火車站碰頭後，分散逃避。秋滿隻身來到台北，人生地不熟，想要投靠同鄉紅蟳，卻被職業介紹所的老闆娘拐騙。有志在歷經波折後，也來到了台北，找不到秋滿的他，住進了影響他一生命運的一個大雜院。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721160000 +0800" stop="20260721163000 +0800">
-    <title lang="zh">行走TIT</title>
-    <desc>深入臺灣原住民部落，探索傳統部落文化。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721163000 +0800" stop="20260721164000 +0800">
-    <title lang="zh">笑笑羊</title>
-    <desc>主角「尚恩」（Shaun）是一隻比人類還聰明的領頭羊，牠帶領著一群貪玩又調皮的羊咩咩夥伴，與有點無厘頭的農夫及盡忠職守的牧羊犬「比澤爾」（Bitzer）展開逗趣的農場生活。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721164000 +0800" stop="20260721165000 +0800">
-    <title lang="zh">笑笑羊</title>
-    <desc>主角「尚恩」（Shaun）是一隻比人類還聰明的領頭羊，牠帶領著一群貪玩又調皮的羊咩咩夥伴，與有點無厘頭的農夫及盡忠職守的牧羊犬「比澤爾」（Bitzer）展開逗趣的農場生活。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721165000 +0800" stop="20260721170000 +0800">
-    <title lang="zh">笑笑羊</title>
-    <desc>主角「尚恩」（Shaun）是一隻比人類還聰明的領頭羊，牠帶領著一群貪玩又調皮的羊咩咩夥伴，與有點無厘頭的農夫及盡忠職守的牧羊犬「比澤爾」（Bitzer）展開逗趣的農場生活。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721170000 +0800" stop="20260721173000 +0800">
-    <title lang="zh">侏羅紀世界-混沌理論</title>
-    <desc>白堊冒險營的成員發現一樁世界級的陰謀，不僅威脅到恐龍的安危，甚至可能殃及他們自身，大夥齊心協力調查真相。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721173000 +0800" stop="20260721180000 +0800">
-    <title lang="zh">水果冰淇淋</title>
-    <desc>融合本土文化及價值觀的節目，由幼教老師及文字工作創作具新意的幼兒童話。並向國內兒童文學作家邀稿，為節目量身訂做全新的童話故事。由趙自強飾演水果奶奶，在說故事時提供不同的觀點，引領孩子進入故事的趣味天地。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721180000 +0800" stop="20260721190000 +0800">
-    <title lang="zh">艋舺的女人</title>
-    <desc>兩位失去至愛的女人，與四位父母迥異的孩子們共組家庭，雖然沒有父親卻有兩位母親，他們用愛與關懷共同扶持，譜出溫馨感人的生命樂章。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721190000 +0800" stop="20260721200000 +0800">
-    <title lang="zh">公視晚間新聞</title>
-    <desc>每天晚間公共電視為您播報即時新聞，提供最新的各項訊息，與當天報紙頭條新聞。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721200000 +0800" stop="20260721203000 +0800">
-    <title lang="zh">８點新世界</title>
-    <desc>本節目的「學者專家顧問團」將針對每日重大事件與熱門話題,即時進行視訊講評,做到新聞速度與深度的平衡。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721203000 +0800" stop="20260721210000 +0800">
-    <title lang="zh">尖鋒對話</title>
-    <desc>《尖鋒對話》,就是要給大家一個說真話、講重點的空間。不繞圈、不誇大不渲染,直球對決當天最重要、最受關注的時事話題,力求在喧囂之中釐清真相,為觀眾提供清晰的脈絡與多元視角。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721210000 +0800" stop="20260721220000 +0800">
-    <title lang="zh">哈!真相大白了</title>
-    <desc>真假新聞充斥，我們如何快速分辨真偽？本節目透過策略選擇與即時反應，打造高張力比賽。運用壯闊場景設計，打造通往知識殿堂的階梯，帶來震撼視覺體驗。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721220000 +0800" stop="20260721230000 +0800">
-    <title lang="zh">與恐龍共舞</title>
-    <desc>節目結合古生物學家的考古現場解說，試著從化石狀態解釋恐龍的社會行為與進化，以化石證據為基礎，融入如羽毛恐龍等新發現，呈現栩栩如生的史前樣態。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456511" start="20260721230000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">返校</title>
-    <desc>被禁錮的六Ｏ年代，翠華中學有師生因組織讀書會遭捕。隨之女學生方芮欣墜樓身亡，從此鬼魂傳聞不斷，校方舉辦法會、鎮魂驅邪。三十年過去，翠華中學威權的校風依舊。轉學生劉芸香意外闖入校園禁地『涵翠樓』，意外遭遇被封印的鬼魂方芮欣，同時也逐步揭開校園內塵封的悲劇真相......</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="456511" start="20260722000000 +0800" stop="20260722001000 +0800">
     <title lang="zh">公視越南語新聞</title>
     <desc>公視越南語新聞</desc>
@@ -2187,10 +1863,334 @@
     </audio>
   </programme>
   
-<programme channel="456511" start="20260728000000 +0800" stop="20260729000000 +0800">
+<programme channel="456511" start="20260728000000 +0800" stop="20260728001000 +0800">
     <title lang="zh">公視越南語新聞</title>
     <desc>公視越南語新聞</desc>
     <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728001000 +0800" stop="20260728002000 +0800">
+    <title lang="zh">公視印尼語新聞</title>
+    <desc>公視印尼語新聞</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728002000 +0800" stop="20260728003000 +0800">
+    <title lang="zh">公視泰語新聞</title>
+    <desc>公視泰語新聞</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728003000 +0800" stop="20260728010000 +0800">
+    <title lang="zh">８點新世界</title>
+    <desc>本節目的「學者專家顧問團」將針對每日重大事件與熱門話題,即時進行視訊講評,做到新聞速度與深度的平衡。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728010000 +0800" stop="20260728020000 +0800">
+    <title lang="zh">我們的島</title>
+    <desc>在台灣,許多大型的光電及風力案場,在設置選址時引發爭議,如何運用當地的環境特質,尋找適合發展的能源,朝向小型、分散而多元的發電方式,是未來需要努力的方向,從個人、學校到社區,自己的電自己發,這場「微」綠能行動正在路上。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728020000 +0800" stop="20260728040000 +0800">
+    <title lang="zh">2025-26歐洲冠軍足球聯賽</title>
+    <desc>2025-26歐洲冠軍足球聯賽</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728040000 +0800" stop="20260728050000 +0800">
+    <title lang="zh">聽聽看</title>
+    <desc>民國八十四年十一月，在媒體上有史以來首度試播全台灣唯一的聽障節目「聽聽看」，節目長度為三十分鐘，從第一集「認識耳朵」開始，之後播出各集「手語與口語」、「親子關係」、「婚姻關係」、「台灣是否應設立聽障大學」等等，透過現場的聾人、聽人來賓、專家各自的觀點與想法，討論聽障朋友在日常生活中常碰到的問題，以及尋求實際可行的解決方法，而且藉由手語、字幕、旁白傳達內容，讓聽障朋友和正常人都能接收資訊，有效發揮電視媒體的服務性和互動功能。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728050000 +0800" stop="20260728060000 +0800">
+    <title lang="zh">哈!真相大白了</title>
+    <desc>真假新聞充斥，我們如何快速分辨真偽？本節目透過策略選擇與即時反應，打造高張力比賽。運用壯闊場景設計，打造通往知識殿堂的階梯，帶來震撼視覺體驗。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728060000 +0800" stop="20260728063000 +0800">
+    <title lang="zh">看公視說英語</title>
+    <desc>由大家說英語提供的電視英語教學節目</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728063000 +0800" stop="20260728070000 +0800">
+    <title lang="zh">水果冰淇淋</title>
+    <desc>融合本土文化及價值觀的節目，由幼教老師及文字工作創作具新意的幼兒童話。並向國內兒童文學作家邀稿，為節目量身訂做全新的童話故事。由趙自強飾演水果奶奶，在說故事時提供不同的觀點，引領孩子進入故事的趣味天地。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728070000 +0800" stop="20260728080000 +0800">
+    <title lang="zh">公視早安新聞</title>
+    <desc>《公視早安新聞》準時陪您更新世界、開啟思緒，讓新聞成為您一天的開場白。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728080000 +0800" stop="20260728083000 +0800">
+    <title lang="zh">公視手語新聞</title>
+    <desc>每天由手語方式為觀眾播報即時新聞，提供最新的各項訊息，與當天報紙頭條新聞。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728083000 +0800" stop="20260728084000 +0800">
+    <title lang="zh">公視越南語新聞</title>
+    <desc>公視越南語新聞</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728084000 +0800" stop="20260728085000 +0800">
+    <title lang="zh">公視印尼語新聞</title>
+    <desc>公視印尼語新聞</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728085000 +0800" stop="20260728090000 +0800">
+    <title lang="zh">公視泰語新聞</title>
+    <desc>公視泰語新聞</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728090000 +0800" stop="20260728103000 +0800">
+    <title lang="zh">我愛親家(口述影像版)</title>
+    <desc>是一部溫馨逗趣的家庭喜劇，劇情描述兩位原本各自要幫兒女相親的單身父母，卻在為兒女作堆的過程中，漸漸愛上對方，雙雙因而陷入掙扎。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728103000 +0800" stop="20260728110000 +0800">
+    <title lang="zh">同款的路</title>
+    <desc>十五歲這一天，佩萱滿心期待會有個完美的生日，父母會從遠方回鄉與她一同慶生；寄住在家裡的麻煩精—雅婷，會被她的父親接回家，將是個沒有外人、沒有麻煩的一天。但自一早開始，雅婷便不斷闖禍，佩萱一路替她收拾善後，兩人狼狽地出門、趕不上校車、上學遲到，想像中完美的一天已沒有完美的開頭。期待已久的晚上到來，雅婷的父親並沒有出現，佩萱的父母再次食言。面對同樣失約的父母，雅婷仍舊相信父親會出現，只有佩萱知道—今晚她們只有彼此；雅婷給了佩萱一個笨拙但可愛的生日驚喜，十五歲的生日，也因此有了一些些暖意。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728110000 +0800" stop="20260728120000 +0800">
+    <title lang="zh">來自北國的禮物-富良野廚房</title>
+    <desc>介紹日本北海道富良野知名大廚的美食創意與哲理，以一年四季食材為題，結合在地與異國料理。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728120000 +0800" stop="20260728125500 +0800">
+    <title lang="zh">公視午間新聞</title>
+    <desc>即時新聞,讓更多元的閱聽大眾,得知最易於親近的國內外大事。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728125500 +0800" stop="20260728130000 +0800">
+    <title lang="zh">PeoPo公民新聞報</title>
+    <desc>導在台灣甚至世界各地公民觀點的新聞，不論您以文字、照片甚至影音方式來報導，PeoPo公民新聞報的主持人將會訪問您對這則新聞的看法，以全新的觀點來展現公民記者的行動力。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728130000 +0800" stop="20260728140000 +0800">
+    <title lang="zh">哈!真相大白了</title>
+    <desc>真假新聞充斥，我們如何快速分辨真偽？本節目透過策略選擇與即時反應，打造高張力比賽。運用壯闊場景設計，打造通往知識殿堂的階梯，帶來震撼視覺體驗。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728140000 +0800" stop="20260728150000 +0800">
+    <title lang="zh">幸福返鄉30+</title>
+    <desc>這部戲是描述一位年過三十的名模古宥莉（潘慧如飾），在時尚圈奮鬥十幾年後，卻星運平平，拚不過不斷崛起的新秀。為了那紙保障生活的經紀約，以及自己反敗為勝的最後機會，她不得已接下「名模返鄉」實境秀的節目，帶著拍攝團隊回到自己生長的地方，期待頂著名模光環可以東山再起。但事實卻與願違。歷經了職場鬥爭、八卦事件、親情的衝突，以及愛情的徬徨，讓宥莉失去了追尋幸福的方向。所幸在人生最低潮的時刻，宥莉回到了自己的故鄉。原以為這裡不過是個毫無特色的鄉下小鎮，但在返鄉的歷程中，漸漸喚起了她心中一幕幕深刻的印象，這才發現自己的故鄉充滿著豐富的人文與自然風貌，還有濃濃的人情味。在這裡他遇見兒時的同窗好友趙大全（吳定謙飾），兩人一齊參與了許多守護家園的活動，從中慢慢找回了兒時的幸福記憶。原來，守護最愛的人，才是人生幸福的方程式。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728150000 +0800" stop="20260728160000 +0800">
+    <title lang="zh">出外人生</title>
+    <desc>民國 五、六十年間，一群在大稻埕的出外人，如何在陌生的環境裡求生存，胼手胝足的開創出個人一片天的故事。 還在襁褓中就被丟在廟口的林有志，從小被廟公扶養長大，原本過著樸實的生活。不料青梅竹馬的女友蔡秋滿竟然被養父賣給土財主當續弦，有志只好帶著秋滿逃離故鄉，然而途中為了躲避追趕的人馬，相約在台北後火車站碰頭後，分散逃避。秋滿隻身來到台北，人生地不熟，想要投靠同鄉紅蟳，卻被職業介紹所的老闆娘拐騙。有志在歷經波折後，也來到了台北，找不到秋滿的他，住進了影響他一生命運的一個大雜院。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728160000 +0800" stop="20260728163000 +0800">
+    <title lang="zh">行走TIT</title>
+    <desc>深入臺灣原住民部落，探索傳統部落文化。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728163000 +0800" stop="20260728164000 +0800">
+    <title lang="zh">笑笑羊</title>
+    <desc>主角「尚恩」（Shaun）是一隻比人類還聰明的領頭羊，牠帶領著一群貪玩又調皮的羊咩咩夥伴，與有點無厘頭的農夫及盡忠職守的牧羊犬「比澤爾」（Bitzer）展開逗趣的農場生活。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728164000 +0800" stop="20260728165000 +0800">
+    <title lang="zh">笑笑羊</title>
+    <desc>主角「尚恩」（Shaun）是一隻比人類還聰明的領頭羊，牠帶領著一群貪玩又調皮的羊咩咩夥伴，與有點無厘頭的農夫及盡忠職守的牧羊犬「比澤爾」（Bitzer）展開逗趣的農場生活。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728165000 +0800" stop="20260728170000 +0800">
+    <title lang="zh">笑笑羊</title>
+    <desc>主角「尚恩」（Shaun）是一隻比人類還聰明的領頭羊，牠帶領著一群貪玩又調皮的羊咩咩夥伴，與有點無厘頭的農夫及盡忠職守的牧羊犬「比澤爾」（Bitzer）展開逗趣的農場生活。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728170000 +0800" stop="20260728173000 +0800">
+    <title lang="zh">侏羅紀世界-混沌理論</title>
+    <desc>白堊冒險營的成員發現一樁世界級的陰謀，不僅威脅到恐龍的安危，甚至可能殃及他們自身，大夥齊心協力調查真相。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728173000 +0800" stop="20260728180000 +0800">
+    <title lang="zh">水果冰淇淋</title>
+    <desc>融合本土文化及價值觀的節目，由幼教老師及文字工作創作具新意的幼兒童話。並向國內兒童文學作家邀稿，為節目量身訂做全新的童話故事。由趙自強飾演水果奶奶，在說故事時提供不同的觀點，引領孩子進入故事的趣味天地。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728180000 +0800" stop="20260728190000 +0800">
+    <title lang="zh">艋舺的女人</title>
+    <desc>兩位失去至愛的女人，與四位父母迥異的孩子們共組家庭，雖然沒有父親卻有兩位母親，他們用愛與關懷共同扶持，譜出溫馨感人的生命樂章。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728190000 +0800" stop="20260728200000 +0800">
+    <title lang="zh">公視晚間新聞</title>
+    <desc>每天晚間公共電視為您播報即時新聞，提供最新的各項訊息，與當天報紙頭條新聞。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728200000 +0800" stop="20260728203000 +0800">
+    <title lang="zh">８點新世界</title>
+    <desc>本節目的「學者專家顧問團」將針對每日重大事件與熱門話題,即時進行視訊講評,做到新聞速度與深度的平衡。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728203000 +0800" stop="20260728210000 +0800">
+    <title lang="zh">尖鋒對話</title>
+    <desc>《尖鋒對話》,就是要給大家一個說真話、講重點的空間。不繞圈、不誇大不渲染,直球對決當天最重要、最受關注的時事話題,力求在喧囂之中釐清真相,為觀眾提供清晰的脈絡與多元視角。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728210000 +0800" stop="20260728220000 +0800">
+    <title lang="zh">哈!真相大白了</title>
+    <desc>真假新聞充斥，我們如何快速分辨真偽？本節目透過策略選擇與即時反應，打造高張力比賽。運用壯闊場景設計，打造通往知識殿堂的階梯，帶來震撼視覺體驗。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728220000 +0800" stop="20260728230000 +0800">
+    <title lang="zh">與恐龍共舞</title>
+    <desc>節目結合古生物學家的考古現場解說，試著從化石狀態解釋恐龍的社會行為與進化，以化石證據為基礎，融入如羽毛恐龍等新發現，呈現栩栩如生的史前樣態。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260728230000 +0800" stop="20260729000000 +0800">
+    <title lang="zh">返校</title>
+    <desc>被禁錮的六Ｏ年代，翠華中學有師生因組織讀書會遭捕。隨之女學生方芮欣墜樓身亡，從此鬼魂傳聞不斷，校方舉辦法會、鎮魂驅邪。三十年過去，翠華中學威權的校風依舊。轉學生劉芸香意外闖入校園禁地『涵翠樓』，意外遭遇被封印的鬼魂方芮欣，同時也逐步揭開校園內塵封的悲劇真相......</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456511" start="20260729000000 +0800" stop="20260730000000 +0800">
+    <title lang="zh">公視越南語新聞</title>
+    <desc>公視越南語新聞</desc>
+    <date>20260729</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

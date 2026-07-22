@@ -1,113 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457362" start="20260721014000 +0800" stop="20260721031500 +0800">
-    <title lang="zh">亡命保鑣(輔15)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721031500 +0800" stop="20260721053000 +0800">
-    <title lang="zh">來不及對你說(輔12)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721053000 +0800" stop="20260721075000 +0800">
-    <title lang="zh">假面閨蜜(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721075000 +0800" stop="20260721094500 +0800">
-    <title lang="zh">窒愛家鎖(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721094500 +0800" stop="20260721113500 +0800">
-    <title lang="zh">喜歡妳是妳(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721113500 +0800" stop="20260721134000 +0800">
-    <title lang="zh">生而為人(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721134000 +0800" stop="20260721153000 +0800">
-    <title lang="zh">媽媽不在家(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721153000 +0800" stop="20260721174500 +0800">
-    <title lang="zh">今天決定我愛你(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721174500 +0800" stop="20260721193500 +0800">
-    <title lang="zh">搶救葡萄大作戰(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721193500 +0800" stop="20260721210000 +0800">
-    <title lang="zh">黑鴉事務所：最初的信念(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721210000 +0800" stop="20260721231000 +0800">
-    <title lang="zh">向日葵(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457362" start="20260721231000 +0800" stop="20260722012000 +0800">
-    <title lang="zh">風暴(輔15)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="457362" start="20260722012000 +0800" stop="20260722031000 +0800">
     <title lang="zh">香港蘭桂坊(輔12)</title>
     <desc />
@@ -747,10 +639,118 @@
     </audio>
   </programme>
   
-<programme channel="457362" start="20260727230000 +0800" stop="20260728000000 +0800">
+<programme channel="457362" start="20260727230000 +0800" stop="20260728003500 +0800">
     <title lang="zh">懸命看護(輔12)</title>
     <desc />
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728003500 +0800" stop="20260728025000 +0800">
+    <title lang="zh">武俠(輔12)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728025000 +0800" stop="20260728044000 +0800">
+    <title lang="zh">捍衛樵夫(輔12)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728044000 +0800" stop="20260728065000 +0800">
+    <title lang="zh">不丹是教室(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728065000 +0800" stop="20260728090000 +0800">
+    <title lang="zh">我親愛的蕾娜(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728090000 +0800" stop="20260728105000 +0800">
+    <title lang="zh">我戀愛的記憶(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728105000 +0800" stop="20260728132000 +0800">
+    <title lang="zh">回到20歲(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728132000 +0800" stop="20260728153500 +0800">
+    <title lang="zh">每天上班總是累得要死(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728153500 +0800" stop="20260728175000 +0800">
+    <title lang="zh">風中浮沉的花蕊(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728175000 +0800" stop="20260728193500 +0800">
+    <title lang="zh">車牌仔(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728193500 +0800" stop="20260728210000 +0800">
+    <title lang="zh">移工之城(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728210000 +0800" stop="20260728232500 +0800">
+    <title lang="zh">王的男人(輔12)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457362" start="20260728232500 +0800" stop="20260729000000 +0800">
+    <title lang="zh">逃出索命島(輔15)</title>
+    <desc />
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,180 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544612" start="20260721070500 +0800" stop="20260721084800 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="544612" start="20260722070500 +0800" stop="20260722084800 +0800">
     <title lang="zh">电视剧场</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544612" start="20260721084800 +0800" stop="20260721094000 +0800">
+<programme channel="544612" start="20260722084800 +0800" stop="20260722094000 +0800">
     <title lang="zh">电视剧场</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544612" start="20260721094000 +0800" stop="20260721102000 +0800">
+<programme channel="544612" start="20260722094000 +0800" stop="20260722102000 +0800">
     <title lang="zh">奋斗</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544612" start="20260721102000 +0800" stop="20260721110000 +0800">
+<programme channel="544612" start="20260722102000 +0800" stop="20260722110000 +0800">
     <title lang="zh">情感面对面</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544612" start="20260721110000 +0800" stop="20260721113000 +0800">
-    <title lang="zh">深度空间</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721113000 +0800" stop="20260721120000 +0800">
-    <title lang="zh">动画剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721120000 +0800" stop="20260721131400 +0800">
-    <title lang="zh">午间剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721131400 +0800" stop="20260721142800 +0800">
-    <title lang="zh">午间剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721142800 +0800" stop="20260721154200 +0800">
-    <title lang="zh">午间剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721154200 +0800" stop="20260721165600 +0800">
-    <title lang="zh">午间剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721165600 +0800" stop="20260721181000 +0800">
-    <title lang="zh">午间剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721181000 +0800" stop="20260721183500 +0800">
-    <title lang="zh">动画剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721183500 +0800" stop="20260721192300 +0800">
-    <title lang="zh">电视剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721192300 +0800" stop="20260721201100 +0800">
-    <title lang="zh">电视剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721201100 +0800" stop="20260721210000 +0800">
-    <title lang="zh">电视剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544612" start="20260721210000 +0800" stop="20260721212500 +0800">
+<programme channel="544612" start="20260722110000 +0800" stop="20260722113000 +0800">
     <title lang="zh">汉江风</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544612" start="20260721212500 +0800" stop="20260721220000 +0800">
+<programme channel="544612" start="20260722113000 +0800" stop="20260722120000 +0800">
+    <title lang="zh">动画剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722120000 +0800" stop="20260722131400 +0800">
+    <title lang="zh">午间剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722131400 +0800" stop="20260722142800 +0800">
+    <title lang="zh">午间剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722142800 +0800" stop="20260722154200 +0800">
+    <title lang="zh">午间剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722154200 +0800" stop="20260722165600 +0800">
+    <title lang="zh">午间剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722165600 +0800" stop="20260722181000 +0800">
+    <title lang="zh">午间剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722181000 +0800" stop="20260722183500 +0800">
+    <title lang="zh">动画剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722183500 +0800" stop="20260722192300 +0800">
+    <title lang="zh">电视剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722192300 +0800" stop="20260722201100 +0800">
+    <title lang="zh">电视剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722201100 +0800" stop="20260722210000 +0800">
+    <title lang="zh">电视剧场</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722210000 +0800" stop="20260722211500 +0800">
+    <title lang="zh">襄阳警讯</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722211500 +0800" stop="20260722212500 +0800">
+    <title lang="zh">逐梦扬帆创辉煌</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544612" start="20260722212500 +0800" stop="20260722220000 +0800">
     <title lang="zh">情感面对面</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544612" start="20260721220000 +0800" stop="20260721224500 +0800">
+<programme channel="544612" start="20260722220000 +0800" stop="20260722224500 +0800">
     <title lang="zh">今日播报</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544612" start="20260721224500 +0800" stop="20260721232000 +0800">
+<programme channel="544612" start="20260722224500 +0800" stop="20260722232000 +0800">
     <title lang="zh">奋斗</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544612" start="20260721232000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">汉江风</title>
+<programme channel="544612" start="20260722232000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">襄阳警讯</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,126 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539775" start="20260721000500 +0800" stop="20260721022000 +0800">
-    <title lang="zh">京剧:杜鹃山</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721022000 +0800" stop="20260721032600 +0800">
-    <title lang="zh">刘秀传</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721032600 +0800" stop="20260721054000 +0800">
-    <title lang="zh">越调:智收姜维-申凤梅</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721054000 +0800" stop="20260721075400 +0800">
-    <title lang="zh">豫剧:对花枪-柏青</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721075400 +0800" stop="20260721100800 +0800">
-    <title lang="zh">越调:智收姜维-申凤梅</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721100800 +0800" stop="20260721122300 +0800">
-    <title lang="zh">京剧:杜鹃山</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721122300 +0800" stop="20260721132300 +0800">
-    <title lang="zh">刘秀传</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721132300 +0800" stop="20260721153700 +0800">
-    <title lang="zh">豫剧:对花枪-柏青</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721153700 +0800" stop="20260721175200 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539775" start="20260722000500 +0800" stop="20260722022000 +0800">
     <title lang="zh">京剧:野猪林</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260721175200 +0800" stop="20260721181200 +0800">
-    <title lang="zh">唱段欣赏</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721181200 +0800" stop="20260721202600 +0800">
-    <title lang="zh">豫剧:樊梨花-孙映雪</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721202600 +0800" stop="20260721224000 +0800">
-    <title lang="zh">豫剧:拷红</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260721224000 +0800" stop="20260721234000 +0800">
+<programme channel="539775" start="20260722022000 +0800" stop="20260722032600 +0800">
     <title lang="zh">刘秀传</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260721234000 +0800" stop="20260722000000 +0800">
+<programme channel="539775" start="20260722032600 +0800" stop="20260722054000 +0800">
+    <title lang="zh">豫剧:樊梨花-孙映雪</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722054000 +0800" stop="20260722075400 +0800">
+    <title lang="zh">豫剧:拷红</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722075400 +0800" stop="20260722100800 +0800">
+    <title lang="zh">豫剧:樊梨花-孙映雪</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722100800 +0800" stop="20260722122300 +0800">
+    <title lang="zh">京剧:野猪林</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722122300 +0800" stop="20260722132300 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722132300 +0800" stop="20260722153700 +0800">
+    <title lang="zh">豫剧:拷红</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722153700 +0800" stop="20260722175200 +0800">
+    <title lang="zh">京剧:定军山·阳平关</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722175200 +0800" stop="20260722181200 +0800">
     <title lang="zh">唱段欣赏</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722181200 +0800" stop="20260722202600 +0800">
+    <title lang="zh">曲剧:琵琶记-黄德华,蔡文侠等</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722202600 +0800" stop="20260722224000 +0800">
+    <title lang="zh">豫剧:风雨行宫-周红梅</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722224000 +0800" stop="20260722234000 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260722234000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

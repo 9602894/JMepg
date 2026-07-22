@@ -1,81 +1,567 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457255" start="20260721000000 +0800" stop="20260721010000 +0800">
-    <title lang="zh">LIVE2026奧地利男網賽第一天1700-0100(普)</title>
-    <desc />
-    <date>20260721</date>
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="456818" start="20260722000000 +0800" stop="20260722030000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3帕爾馬斯 vs 布拉格</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG3帕爾馬斯 vs 布拉格</desc>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457255" start="20260721010000 +0800" stop="20260721020000 +0800">
-    <title lang="zh">2026美國家庭保險錦標賽精華(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456818" start="20260722030000 +0800" stop="20260722053000 +0800">
+    <title lang="zh">2026普林瑟伯慈善菁英賽第二天</title>
+    <desc>2026普林瑟伯慈善菁英賽第二天</desc>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457255" start="20260721020000 +0800" stop="20260721043000 +0800">
-    <title lang="zh">2026哈桑二世錦標賽第二天(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456818" start="20260722053000 +0800" stop="20260722090000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽第一輪WU vs DJO</title>
+    <desc>2026溫布頓網球錦標賽第一輪WU vs DJO</desc>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457255" start="20260721043000 +0800" stop="20260721073000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第二輪SIN vs BOR(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456818" start="20260722090000 +0800" stop="20260722100000 +0800">
+    <title lang="zh">2026溫網第1天精華</title>
+    <desc>2026溫網第1天精華</desc>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457255" start="20260721073000 +0800" stop="20260721093000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG4扎維爾切 vs里斯本競技(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456818" start="20260722100000 +0800" stop="20260722130000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3帕爾馬斯 vs 布拉格</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG3帕爾馬斯 vs 布拉格</desc>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457255" start="20260721093000 +0800" stop="20260721120000 +0800">
-    <title lang="zh">2026哈桑二世錦標賽第二天(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456818" start="20260722130000 +0800" stop="20260722153000 +0800">
+    <title lang="zh">2026普林瑟伯慈善菁英賽第二天</title>
+    <desc>2026普林瑟伯慈善菁英賽第二天</desc>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457255" start="20260721120000 +0800" stop="20260721150000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第二輪SIN vs BOR(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456818" start="20260722153000 +0800" stop="20260722190000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽第一輪WU vs DJO</title>
+    <desc>2026溫布頓網球錦標賽第一輪WU vs DJO</desc>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457255" start="20260721150000 +0800" stop="20260721170000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG4扎維爾切 vs里斯本競技(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456818" start="20260722190000 +0800" stop="20260722203000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第一輪SAB vs KOS</title>
+    <desc>2026溫布頓網球錦標賽女單第一輪SAB vs KOS</desc>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457255" start="20260721170000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">LIVE2026奧地利男網賽第二天1700-0100(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456818" start="20260722203000 +0800" stop="20260722223000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260722223000 +0800" stop="20260723010000 +0800">
+    <title lang="zh">2026普林瑟伯慈善菁英賽第三天</title>
+    <desc>2026普林瑟伯慈善菁英賽第三天</desc>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260723010000 +0800" stop="20260723023000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第一輪SAB vs KOS</title>
+    <desc>2026溫布頓網球錦標賽女單第一輪SAB vs KOS</desc>
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260723023000 +0800" stop="20260723043000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</desc>
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260723043000 +0800" stop="20260723070000 +0800">
+    <title lang="zh">2026普林瑟伯慈善菁英賽第三天</title>
+    <desc>2026普林瑟伯慈善菁英賽第三天</desc>
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260723070000 +0800" stop="20260723083000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第一輪SAB vs KOS</title>
+    <desc>2026溫布頓網球錦標賽女單第一輪SAB vs KOS</desc>
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260723083000 +0800" stop="20260723103000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</desc>
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260723103000 +0800" stop="20260723130000 +0800">
+    <title lang="zh">2026普林瑟伯慈善菁英賽第三天</title>
+    <desc>2026普林瑟伯慈善菁英賽第三天</desc>
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260723130000 +0800" stop="20260723133000 +0800">
+    <title lang="zh">美巡焦點</title>
+    <desc>美巡焦點</desc>
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260723133000 +0800" stop="20260724033000 +0800">
+    <title lang="zh">LIVE2026英國公開賽第一天</title>
+    <desc>LIVE2026英國公開賽第一天</desc>
+    <date>20260723</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260724033000 +0800" stop="20260724060000 +0800">
+    <title lang="zh">2026美國家庭保險錦標賽第一天</title>
+    <desc>2026美國家庭保險錦標賽第一天</desc>
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260724060000 +0800" stop="20260724091500 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽第一輪BLO vs ZVE</title>
+    <desc>2026溫布頓網球錦標賽第一輪BLO vs ZVE</desc>
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260724091500 +0800" stop="20260724110000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3佩魯賈 vs 德國柏林</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG3佩魯賈 vs 德國柏林</desc>
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260724110000 +0800" stop="20260724133000 +0800">
+    <title lang="zh">2026美國家庭保險錦標賽第一天</title>
+    <desc>2026美國家庭保險錦標賽第一天</desc>
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260724133000 +0800" stop="20260725033000 +0800">
+    <title lang="zh">LIVE2026英國公開賽第二天</title>
+    <desc>LIVE2026英國公開賽第二天</desc>
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260725033000 +0800" stop="20260725060000 +0800">
+    <title lang="zh">2026美國家庭保險錦標賽第二天</title>
+    <desc>2026美國家庭保險錦標賽第二天</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260725060000 +0800" stop="20260725090000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第一輪WIL vs JOI</title>
+    <desc>2026溫布頓網球錦標賽女單第一輪WIL vs JOI</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260725090000 +0800" stop="20260725103000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3德國呂訥堡 vs 札維爾切</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG3德國呂訥堡 vs 札維爾切</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260725103000 +0800" stop="20260725130000 +0800">
+    <title lang="zh">2026美國家庭保險錦標賽第二天</title>
+    <desc>2026美國家庭保險錦標賽第二天</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260725130000 +0800" stop="20260725160000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第一輪WIL vs JOI</title>
+    <desc>2026溫布頓網球錦標賽女單第一輪WIL vs JOI</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260725160000 +0800" stop="20260725170000 +0800">
+    <title lang="zh">2026溫網第2天精華</title>
+    <desc>2026溫網第2天精華</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260725170000 +0800" stop="20260726030000 +0800">
+    <title lang="zh">LIVE2026英國公開賽第三天</title>
+    <desc>LIVE2026英國公開賽第三天</desc>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726030000 +0800" stop="20260726053000 +0800">
+    <title lang="zh">2026美國家庭保險錦標賽第三天</title>
+    <desc>2026美國家庭保險錦標賽第三天</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726053000 +0800" stop="20260726080000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第一輪TOW vs SWI</title>
+    <desc>2026溫布頓網球錦標賽女單第一輪TOW vs SWI</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726080000 +0800" stop="20260726110000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG4德國柏林 vs 布拉格</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG4德國柏林 vs 布拉格</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726110000 +0800" stop="20260726133000 +0800">
+    <title lang="zh">2026美國家庭保險錦標賽第三天</title>
+    <desc>2026美國家庭保險錦標賽第三天</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726133000 +0800" stop="20260726160000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第一輪TOW vs SWI</title>
+    <desc>2026溫布頓網球錦標賽女單第一輪TOW vs SWI</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726160000 +0800" stop="20260726180000 +0800">
+    <title lang="zh">LIVE2026英國公開賽第四天</title>
+    <desc>LIVE2026英國公開賽第四天</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726180000 +0800" stop="20260726190000 +0800">
+    <title lang="zh">2026哈桑二世錦標賽精華</title>
+    <desc>2026哈桑二世錦標賽精華</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726190000 +0800" stop="20260726203000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第二輪MCN vs RYB</title>
+    <desc>2026溫布頓網球錦標賽女單第二輪MCN vs RYB</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726203000 +0800" stop="20260726220000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第二輪PLI vs SWI</title>
+    <desc>2026溫布頓網球錦標賽女單第二輪PLI vs SWI</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260726220000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG5雷索維亞 vs 扎維爾切</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG5雷索維亞 vs 扎維爾切</desc>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727000000 +0800" stop="20260727023000 +0800">
+    <title lang="zh">2026印斯貝洛提邀請賽第三天</title>
+    <desc>2026印斯貝洛提邀請賽第三天</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727023000 +0800" stop="20260727040000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第二輪MCN vs RYB</title>
+    <desc>2026溫布頓網球錦標賽女單第二輪MCN vs RYB</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727040000 +0800" stop="20260727053000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第二輪PLI vs SWI</title>
+    <desc>2026溫布頓網球錦標賽女單第二輪PLI vs SWI</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727053000 +0800" stop="20260727073000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG5雷索維亞 vs 扎維爾切</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG5雷索維亞 vs 扎維爾切</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727073000 +0800" stop="20260727100000 +0800">
+    <title lang="zh">2026印斯貝洛提邀請賽第三天</title>
+    <desc>2026印斯貝洛提邀請賽第三天</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727100000 +0800" stop="20260727113000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第二輪MCN vs RYB</title>
+    <desc>2026溫布頓網球錦標賽女單第二輪MCN vs RYB</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727113000 +0800" stop="20260727153000 +0800">
+    <title lang="zh">首播2026中華職棒場次 212樂天桃猿 vs 味全龍</title>
+    <desc>首播2026中華職棒場次 212樂天桃猿 vs 味全龍</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727153000 +0800" stop="20260727160000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727160000 +0800" stop="20260727173000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第二輪PLI vs SWI</title>
+    <desc>2026溫布頓網球錦標賽女單第二輪PLI vs SWI</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727173000 +0800" stop="20260727190000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第二輪MCN vs RYB</title>
+    <desc>2026溫布頓網球錦標賽女單第二輪MCN vs RYB</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727190000 +0800" stop="20260727223000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽第三輪RIN vs DJO</title>
+    <desc>2026溫布頓網球錦標賽第三輪RIN vs DJO</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260727223000 +0800" stop="20260728003000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG5布拉格 vs 佩魯賈</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG5布拉格 vs 佩魯賈</desc>
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728003000 +0800" stop="20260728023000 +0800">
+    <title lang="zh">2026哈桑二世錦標賽第二天</title>
+    <desc>2026哈桑二世錦標賽第二天</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728023000 +0800" stop="20260728053000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽第二輪SIN vs BOR</title>
+    <desc>2026溫布頓網球錦標賽第二輪SIN vs BOR</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728053000 +0800" stop="20260728073000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG4扎維爾切 vs里斯本競技</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG4扎維爾切 vs里斯本競技</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728073000 +0800" stop="20260728083000 +0800">
+    <title lang="zh">2026美國家庭保險錦標賽精華</title>
+    <desc>2026美國家庭保險錦標賽精華</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728083000 +0800" stop="20260728110000 +0800">
+    <title lang="zh">2026哈桑二世錦標賽第二天</title>
+    <desc>2026哈桑二世錦標賽第二天</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728110000 +0800" stop="20260728140000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽第二輪SIN vs BOR</title>
+    <desc>2026溫布頓網球錦標賽第二輪SIN vs BOR</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728140000 +0800" stop="20260728160000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG4扎維爾切 vs里斯本競技</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG4扎維爾切 vs里斯本競技</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728160000 +0800" stop="20260728183000 +0800">
+    <title lang="zh">2026哈桑二世錦標賽第二天</title>
+    <desc>2026哈桑二世錦標賽第二天</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728183000 +0800" stop="20260728220000 +0800">
+    <title lang="zh">LIVE2026中華職棒場次 212樂天桃猿 vs 味全龍</title>
+    <desc>LIVE2026中華職棒場次 212樂天桃猿 vs 味全龍</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260728220000 +0800" stop="20260729000000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽第二輪TSI vs DJO</title>
+    <desc>2026溫布頓網球錦標賽第二輪TSI vs DJO</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456818" start="20260729000000 +0800" stop="20260730000000 +0800">
+    <title lang="zh">2026歐冠男排聯賽第四輪 LEG4安卡拉 vs盧布爾雅納</title>
+    <desc>2026歐冠男排聯賽第四輪 LEG4安卡拉 vs盧布爾雅納</desc>
+    <date>20260729</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -585,87 +1071,6 @@
     </audio>
   </programme>
   
-<programme channel="544780" start="20260721000000 +0800" stop="20260721010000 +0800">
-    <title lang="zh">LIVE2026奧地利男網賽第一天1700-0100(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544780" start="20260721010000 +0800" stop="20260721020000 +0800">
-    <title lang="zh">2026美國家庭保險錦標賽精華(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544780" start="20260721020000 +0800" stop="20260721043000 +0800">
-    <title lang="zh">2026哈桑二世錦標賽第二天(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544780" start="20260721043000 +0800" stop="20260721073000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第二輪SIN vs BOR(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544780" start="20260721073000 +0800" stop="20260721093000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG4扎維爾切 vs里斯本競技(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544780" start="20260721093000 +0800" stop="20260721120000 +0800">
-    <title lang="zh">2026哈桑二世錦標賽第二天(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544780" start="20260721120000 +0800" stop="20260721150000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第二輪SIN vs BOR(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544780" start="20260721150000 +0800" stop="20260721170000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG4扎維爾切 vs里斯本競技(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544780" start="20260721170000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">LIVE2026奧地利男網賽第二天1700-0100(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="544780" start="20260722000000 +0800" stop="20260722010000 +0800">
     <title lang="zh">LIVE2026奧地利男網賽第二天1700-0100(普)</title>
     <desc />
@@ -801,568 +1206,73 @@
     </audio>
   </programme>
   
-<programme channel="456818" start="20260721010000 +0800" stop="20260721040000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第一輪SIN vs KEC</title>
-    <desc>2026溫布頓網球錦標賽第一輪SIN vs KEC</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721040000 +0800" stop="20260721050000 +0800">
-    <title lang="zh">2026溫網第1天精華</title>
-    <desc>2026溫網第1天精華</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721050000 +0800" stop="20260721070000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3安卡拉 vs 特倫蒂諾</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG3安卡拉 vs 特倫蒂諾</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721070000 +0800" stop="20260721093000 +0800">
-    <title lang="zh">2026普林瑟伯慈善菁英賽第一天</title>
-    <desc>2026普林瑟伯慈善菁英賽第一天</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721093000 +0800" stop="20260721133000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第一輪SIN vs KEC</title>
-    <desc>2026溫布頓網球錦標賽第一輪SIN vs KEC</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721133000 +0800" stop="20260721143000 +0800">
-    <title lang="zh">2026溫網第1天精華</title>
-    <desc>2026溫網第1天精華</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721143000 +0800" stop="20260721163000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3安卡拉 vs 特倫蒂諾</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG3安卡拉 vs 特倫蒂諾</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721163000 +0800" stop="20260721190000 +0800">
-    <title lang="zh">2026普林瑟伯慈善菁英賽第一天</title>
-    <desc>2026普林瑟伯慈善菁英賽第一天</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721190000 +0800" stop="20260721223000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第一輪WU vs DJO</title>
-    <desc>2026溫布頓網球錦標賽第一輪WU vs DJO</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721223000 +0800" stop="20260721233000 +0800">
-    <title lang="zh">2026溫網第1天精華</title>
-    <desc>2026溫網第1天精華</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260721233000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">美巡焦點</title>
-    <desc>美巡焦點</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722000000 +0800" stop="20260722030000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3帕爾馬斯 vs 布拉格</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG3帕爾馬斯 vs 布拉格</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722030000 +0800" stop="20260722053000 +0800">
-    <title lang="zh">2026普林瑟伯慈善菁英賽第二天</title>
-    <desc>2026普林瑟伯慈善菁英賽第二天</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722053000 +0800" stop="20260722090000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第一輪WU vs DJO</title>
-    <desc>2026溫布頓網球錦標賽第一輪WU vs DJO</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722090000 +0800" stop="20260722100000 +0800">
-    <title lang="zh">2026溫網第1天精華</title>
-    <desc>2026溫網第1天精華</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722100000 +0800" stop="20260722130000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3帕爾馬斯 vs 布拉格</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG3帕爾馬斯 vs 布拉格</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722130000 +0800" stop="20260722153000 +0800">
-    <title lang="zh">2026普林瑟伯慈善菁英賽第二天</title>
-    <desc>2026普林瑟伯慈善菁英賽第二天</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722153000 +0800" stop="20260722190000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第一輪WU vs DJO</title>
-    <desc>2026溫布頓網球錦標賽第一輪WU vs DJO</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722190000 +0800" stop="20260722203000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第一輪SAB vs KOS</title>
-    <desc>2026溫布頓網球錦標賽女單第一輪SAB vs KOS</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722203000 +0800" stop="20260722223000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260722223000 +0800" stop="20260723010000 +0800">
-    <title lang="zh">2026普林瑟伯慈善菁英賽第三天</title>
-    <desc>2026普林瑟伯慈善菁英賽第三天</desc>
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260723010000 +0800" stop="20260723023000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第一輪SAB vs KOS</title>
-    <desc>2026溫布頓網球錦標賽女單第一輪SAB vs KOS</desc>
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260723023000 +0800" stop="20260723043000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</desc>
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260723043000 +0800" stop="20260723070000 +0800">
-    <title lang="zh">2026普林瑟伯慈善菁英賽第三天</title>
-    <desc>2026普林瑟伯慈善菁英賽第三天</desc>
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260723070000 +0800" stop="20260723083000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第一輪SAB vs KOS</title>
-    <desc>2026溫布頓網球錦標賽女單第一輪SAB vs KOS</desc>
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260723083000 +0800" stop="20260723103000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG3盧布爾雅納 vs 法國圖爾斯</desc>
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260723103000 +0800" stop="20260723130000 +0800">
-    <title lang="zh">2026普林瑟伯慈善菁英賽第三天</title>
-    <desc>2026普林瑟伯慈善菁英賽第三天</desc>
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260723130000 +0800" stop="20260723133000 +0800">
-    <title lang="zh">美巡焦點</title>
-    <desc>美巡焦點</desc>
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260723133000 +0800" stop="20260724033000 +0800">
-    <title lang="zh">LIVE2026英國公開賽第一天</title>
-    <desc>LIVE2026英國公開賽第一天</desc>
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260724033000 +0800" stop="20260724060000 +0800">
-    <title lang="zh">2026美國家庭保險錦標賽第一天</title>
-    <desc>2026美國家庭保險錦標賽第一天</desc>
+<programme channel="544780" start="20260724000000 +0800" stop="20260724010000 +0800">
+    <title lang="zh">LIVE2026奧地利男網賽八強1700-0100(普)</title>
+    <desc />
     <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260724060000 +0800" stop="20260724091500 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第一輪BLO vs ZVE</title>
-    <desc>2026溫布頓網球錦標賽第一輪BLO vs ZVE</desc>
+<programme channel="544780" start="20260724010000 +0800" stop="20260724033000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽女單第二輪SIN vs GAU(普)</title>
+    <desc />
     <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260724091500 +0800" stop="20260724110000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3佩魯賈 vs 德國柏林</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG3佩魯賈 vs 德國柏林</desc>
+<programme channel="544780" start="20260724033000 +0800" stop="20260724040000 +0800">
+    <title lang="zh">美巡焦點(普)</title>
+    <desc />
     <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260724110000 +0800" stop="20260724133000 +0800">
-    <title lang="zh">2026美國家庭保險錦標賽第一天</title>
-    <desc>2026美國家庭保險錦標賽第一天</desc>
+<programme channel="544780" start="20260724040000 +0800" stop="20260724110000 +0800">
+    <title lang="zh">首播2026英國公開賽第二天(普)</title>
+    <desc />
     <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260724133000 +0800" stop="20260725033000 +0800">
-    <title lang="zh">LIVE2026英國公開賽第二天</title>
-    <desc>LIVE2026英國公開賽第二天</desc>
+<programme channel="544780" start="20260724110000 +0800" stop="20260724180000 +0800">
+    <title lang="zh">首播2026英國公開賽第二天(普)</title>
+    <desc />
     <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260725033000 +0800" stop="20260725060000 +0800">
-    <title lang="zh">2026美國家庭保險錦標賽第二天</title>
-    <desc>2026美國家庭保險錦標賽第二天</desc>
-    <date>20260725</date>
+<programme channel="544780" start="20260724180000 +0800" stop="20260724183000 +0800">
+    <title lang="zh">網球雜誌(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260725060000 +0800" stop="20260725090000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第一輪WIL vs JOI</title>
-    <desc>2026溫布頓網球錦標賽女單第一輪WIL vs JOI</desc>
-    <date>20260725</date>
+<programme channel="544780" start="20260724183000 +0800" stop="20260724223000 +0800">
+    <title lang="zh">LIVE2026奧地利男網賽四強1830-2230(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456818" start="20260725090000 +0800" stop="20260725103000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG3德國呂訥堡 vs 札維爾切</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG3德國呂訥堡 vs 札維爾切</desc>
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260725103000 +0800" stop="20260725130000 +0800">
-    <title lang="zh">2026美國家庭保險錦標賽第二天</title>
-    <desc>2026美國家庭保險錦標賽第二天</desc>
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260725130000 +0800" stop="20260725160000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第一輪WIL vs JOI</title>
-    <desc>2026溫布頓網球錦標賽女單第一輪WIL vs JOI</desc>
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260725160000 +0800" stop="20260725170000 +0800">
-    <title lang="zh">2026溫網第2天精華</title>
-    <desc>2026溫網第2天精華</desc>
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260725170000 +0800" stop="20260726030000 +0800">
-    <title lang="zh">LIVE2026英國公開賽第三天</title>
-    <desc>LIVE2026英國公開賽第三天</desc>
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726030000 +0800" stop="20260726053000 +0800">
-    <title lang="zh">2026美國家庭保險錦標賽第三天</title>
-    <desc>2026美國家庭保險錦標賽第三天</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726053000 +0800" stop="20260726080000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第一輪TOW vs SWI</title>
-    <desc>2026溫布頓網球錦標賽女單第一輪TOW vs SWI</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726080000 +0800" stop="20260726110000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG4德國柏林 vs 布拉格</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG4德國柏林 vs 布拉格</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726110000 +0800" stop="20260726133000 +0800">
-    <title lang="zh">2026美國家庭保險錦標賽第三天</title>
-    <desc>2026美國家庭保險錦標賽第三天</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726133000 +0800" stop="20260726160000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第一輪TOW vs SWI</title>
-    <desc>2026溫布頓網球錦標賽女單第一輪TOW vs SWI</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726160000 +0800" stop="20260726180000 +0800">
-    <title lang="zh">LIVE2026英國公開賽第四天</title>
-    <desc>LIVE2026英國公開賽第四天</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726180000 +0800" stop="20260726190000 +0800">
-    <title lang="zh">2026哈桑二世錦標賽精華</title>
-    <desc>2026哈桑二世錦標賽精華</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726190000 +0800" stop="20260726203000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第二輪MCN vs RYB</title>
-    <desc>2026溫布頓網球錦標賽女單第二輪MCN vs RYB</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726203000 +0800" stop="20260726220000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第二輪PLI vs SWI</title>
-    <desc>2026溫布頓網球錦標賽女單第二輪PLI vs SWI</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260726220000 +0800" stop="20260727000000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG5雷索維亞 vs 扎維爾切</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG5雷索維亞 vs 扎維爾切</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727000000 +0800" stop="20260727023000 +0800">
-    <title lang="zh">2026印斯貝洛提邀請賽第三天</title>
-    <desc>2026印斯貝洛提邀請賽第三天</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727023000 +0800" stop="20260727040000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第二輪MCN vs RYB</title>
-    <desc>2026溫布頓網球錦標賽女單第二輪MCN vs RYB</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727040000 +0800" stop="20260727053000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第二輪PLI vs SWI</title>
-    <desc>2026溫布頓網球錦標賽女單第二輪PLI vs SWI</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727053000 +0800" stop="20260727073000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG5雷索維亞 vs 扎維爾切</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG5雷索維亞 vs 扎維爾切</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727073000 +0800" stop="20260727100000 +0800">
-    <title lang="zh">2026印斯貝洛提邀請賽第三天</title>
-    <desc>2026印斯貝洛提邀請賽第三天</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727100000 +0800" stop="20260727113000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第二輪MCN vs RYB</title>
-    <desc>2026溫布頓網球錦標賽女單第二輪MCN vs RYB</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727113000 +0800" stop="20260727153000 +0800">
-    <title lang="zh">首播2026中華職棒場次 212樂天桃猿 vs 味全龍</title>
-    <desc>首播2026中華職棒場次 212樂天桃猿 vs 味全龍</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727153000 +0800" stop="20260727160000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727160000 +0800" stop="20260727173000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第二輪PLI vs SWI</title>
-    <desc>2026溫布頓網球錦標賽女單第二輪PLI vs SWI</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727173000 +0800" stop="20260727190000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第二輪MCN vs RYB</title>
-    <desc>2026溫布頓網球錦標賽女單第二輪MCN vs RYB</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727190000 +0800" stop="20260727223000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽第三輪RIN vs DJO</title>
-    <desc>2026溫布頓網球錦標賽第三輪RIN vs DJO</desc>
-    <date>20260727</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456818" start="20260727223000 +0800" stop="20260728000000 +0800">
-    <title lang="zh">2026歐冠男排聯賽第四輪 LEG5布拉格 vs 佩魯賈</title>
-    <desc>2026歐冠男排聯賽第四輪 LEG5布拉格 vs 佩魯賈</desc>
-    <date>20260727</date>
+<programme channel="544780" start="20260724223000 +0800" stop="20260725000000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽第二輪BER vs FIL(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

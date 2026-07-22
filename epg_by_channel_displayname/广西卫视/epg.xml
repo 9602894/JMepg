@@ -1,639 +1,270 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539698" start="20260721003000 +0800" stop="20260721012400 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539698" start="20260722001000 +0800" stop="20260722005300 +0800">
     <title lang="zh">传奇剧场:再造之恩</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721012400 +0800" stop="20260721021800 +0800">
-    <title lang="zh">传奇剧场:再造之恩</title>
+<programme channel="539698" start="20260722005300 +0800" stop="20260722013700 +0800">
+    <title lang="zh">第1书记</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721021800 +0800" stop="20260721023000 +0800">
-    <title lang="zh">丝绸之路品牌万里行</title>
+<programme channel="539698" start="20260722013700 +0800" stop="20260722045300 +0800">
+    <title lang="zh">静屏</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721023000 +0800" stop="20260721024500 +0800">
-    <title lang="zh">剧·精彩</title>
+<programme channel="539698" start="20260722045300 +0800" stop="20260722054000 +0800">
+    <title lang="zh">百寿探秘</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721024500 +0800" stop="20260721031700 +0800">
-    <title lang="zh">超级点子王</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539698" start="20260721031700 +0800" stop="20260721033400 +0800">
-    <title lang="zh">时尚中国</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539698" start="20260721033400 +0800" stop="20260721042400 +0800">
-    <title lang="zh">收藏马未都</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539698" start="20260721042400 +0800" stop="20260721044700 +0800">
-    <title lang="zh">时尚中国</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539698" start="20260721044700 +0800" stop="20260721054000 +0800">
-    <title lang="zh">超级点子王</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539698" start="20260721054000 +0800" stop="20260721060500 +0800">
+<programme channel="539698" start="20260722054000 +0800" stop="20260722060500 +0800">
     <title lang="zh">海丝路</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721060500 +0800" stop="20260721061500 +0800">
+<programme channel="539698" start="20260722060500 +0800" stop="20260722061700 +0800">
     <title lang="zh">壮语新闻</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721061500 +0800" stop="20260721064800 +0800">
+<programme channel="539698" start="20260722061700 +0800" stop="20260722064800 +0800">
     <title lang="zh">广西新闻</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721064800 +0800" stop="20260721065200 +0800">
+<programme channel="539698" start="20260722064800 +0800" stop="20260722065200 +0800">
     <title lang="zh">广西旅游天气预报</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721065200 +0800" stop="20260721070000 +0800">
+<programme channel="539698" start="20260722065200 +0800" stop="20260722070000 +0800">
     <title lang="zh">广西海洋预报</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721070000 +0800" stop="20260721070300 +0800">
+<programme channel="539698" start="20260722070000 +0800" stop="20260722070300 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721070300 +0800" stop="20260721073700 +0800">
+<programme channel="539698" start="20260722070300 +0800" stop="20260722073700 +0800">
     <title lang="zh">纪录中国故事</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721073700 +0800" stop="20260721083300 +0800">
+<programme channel="539698" start="20260722073700 +0800" stop="20260722090900 +0800">
     <title lang="zh">动画片剧场</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721083300 +0800" stop="20260721090900 +0800">
-    <title lang="zh">阳光剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539698" start="20260721090900 +0800" stop="20260721112200 +0800">
+<programme channel="539698" start="20260722090900 +0800" stop="20260722112200 +0800">
     <title lang="zh">重温经典电影</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721112200 +0800" stop="20260721122700 +0800">
+<programme channel="539698" start="20260722112200 +0800" stop="20260722122700 +0800">
     <title lang="zh">重温经典电影</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721122700 +0800" stop="20260721132500 +0800">
-    <title lang="zh">索芙特剧场:苦菜花(29)</title>
+<programme channel="539698" start="20260722122700 +0800" stop="20260722132500 +0800">
+    <title lang="zh">索芙特剧场:苦菜花(35)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721132500 +0800" stop="20260721141800 +0800">
-    <title lang="zh">索芙特剧场:苦菜花(30)</title>
+<programme channel="539698" start="20260722132500 +0800" stop="20260722141800 +0800">
+    <title lang="zh">索芙特剧场:苦菜花(36)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721141800 +0800" stop="20260721150000 +0800">
-    <title lang="zh">索芙特剧场:苦菜花(31)</title>
+<programme channel="539698" start="20260722141800 +0800" stop="20260722150000 +0800">
+    <title lang="zh">索芙特剧场:苦菜花(37)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721150000 +0800" stop="20260721160200 +0800">
-    <title lang="zh">索芙特剧场:苦菜花(32)</title>
+<programme channel="539698" start="20260722150000 +0800" stop="20260722160200 +0800">
+    <title lang="zh">索芙特剧场:苦菜花(38)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721160200 +0800" stop="20260721165600 +0800">
-    <title lang="zh">索芙特剧场:苦菜花(33)</title>
+<programme channel="539698" start="20260722160200 +0800" stop="20260722165600 +0800">
+    <title lang="zh">索芙特剧场:苦菜花(39)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721165600 +0800" stop="20260721180000 +0800">
-    <title lang="zh">索芙特剧场:苦菜花(34)</title>
+<programme channel="539698" start="20260722165600 +0800" stop="20260722180000 +0800">
+    <title lang="zh">索芙特剧场:苦菜花(40)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721180000 +0800" stop="20260721182500 +0800">
+<programme channel="539698" start="20260722180000 +0800" stop="20260722182500 +0800">
     <title lang="zh">海丝路</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721182500 +0800" stop="20260721183000 +0800">
+<programme channel="539698" start="20260722182500 +0800" stop="20260722183000 +0800">
     <title lang="zh">广西天气预报</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721183000 +0800" stop="20260721190000 +0800">
+<programme channel="539698" start="20260722183000 +0800" stop="20260722190000 +0800">
     <title lang="zh">广西新闻</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721190000 +0800" stop="20260721193500 +0800">
+<programme channel="539698" start="20260722190000 +0800" stop="20260722193500 +0800">
     <title lang="zh">新闻联播</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721193500 +0800" stop="20260721203700 +0800">
-    <title lang="zh">美丽剧场:沉默的荣耀(33)</title>
+<programme channel="539698" start="20260722193500 +0800" stop="20260722202700 +0800">
+    <title lang="zh">美丽剧场:沉默的荣耀(35)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721203700 +0800" stop="20260721211800 +0800">
-    <title lang="zh">美丽剧场:沉默的荣耀(34)</title>
+<programme channel="539698" start="20260722202700 +0800" stop="20260722211700 +0800">
+    <title lang="zh">美丽剧场:沉默的荣耀(36)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721211800 +0800" stop="20260721215200 +0800">
-    <title lang="zh">百寿探秘</title>
+<programme channel="539698" start="20260722211700 +0800" stop="20260722215100 +0800">
+    <title lang="zh">民族文化</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721215200 +0800" stop="20260721224000 +0800">
+<programme channel="539698" start="20260722215100 +0800" stop="20260722224100 +0800">
     <title lang="zh">时尚中国</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721224000 +0800" stop="20260721234000 +0800">
+<programme channel="539698" start="20260722224100 +0800" stop="20260722234000 +0800">
     <title lang="zh">传奇剧场:再造之恩</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539698" start="20260721234000 +0800" stop="20260722000000 +0800">
+<programme channel="539698" start="20260722234000 +0800" stop="20260723000000 +0800">
     <title lang="zh">传奇剧场:再造之恩</title>
     <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721003000 +0800" stop="20260721012400 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721012400 +0800" stop="20260721021800 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721021800 +0800" stop="20260721023000 +0800">
-    <title lang="zh">丝绸之路品牌万里行</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721023000 +0800" stop="20260721024500 +0800">
-    <title lang="zh">剧・精彩</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721024500 +0800" stop="20260721031700 +0800">
-    <title lang="zh">超级点子王</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721031700 +0800" stop="20260721033400 +0800">
-    <title lang="zh">时尚中国</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721033400 +0800" stop="20260721042400 +0800">
-    <title lang="zh">收藏马未都</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721042400 +0800" stop="20260721044700 +0800">
-    <title lang="zh">时尚中国</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721044700 +0800" stop="20260721054000 +0800">
-    <title lang="zh">超级点子王</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721054000 +0800" stop="20260721060500 +0800">
-    <title lang="zh">海丝路</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721060500 +0800" stop="20260721061500 +0800">
-    <title lang="zh">壮语新闻</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721061500 +0800" stop="20260721064800 +0800">
-    <title lang="zh">广西新闻</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721064800 +0800" stop="20260721065200 +0800">
-    <title lang="zh">广西旅游天气预报</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721065200 +0800" stop="20260721070000 +0800">
-    <title lang="zh">广西海洋预报</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721070000 +0800" stop="20260721070300 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721070300 +0800" stop="20260721073700 +0800">
-    <title lang="zh">纪录中国故事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721073700 +0800" stop="20260721083900 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721083900 +0800" stop="20260721110300 +0800">
-    <title lang="zh">经典电影</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721110300 +0800" stop="20260721121100 +0800">
-    <title lang="zh">等着我</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721121100 +0800" stop="20260721131400 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721131400 +0800" stop="20260721140900 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721140900 +0800" stop="20260721150100 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721150100 +0800" stop="20260721155500 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721155500 +0800" stop="20260721165700 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721165700 +0800" stop="20260721180000 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721180000 +0800" stop="20260721182500 +0800">
-    <title lang="zh">海丝路</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721182500 +0800" stop="20260721183000 +0800">
-    <title lang="zh">广西天气预报</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721183000 +0800" stop="20260721185700 +0800">
-    <title lang="zh">广西新闻</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721185700 +0800" stop="20260721190000 +0800">
-    <title lang="zh">广西天气预报</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721190000 +0800" stop="20260721193200 +0800">
-    <title lang="zh">新闻联播</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721193200 +0800" stop="20260721211800 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721211800 +0800" stop="20260721215200 +0800">
-    <title lang="zh">百寿探秘</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721215200 +0800" stop="20260721224000 +0800">
-    <title lang="zh">时尚中国</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721224000 +0800" stop="20260721234000 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545982" start="20260721234000 +0800" stop="20260722001000 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

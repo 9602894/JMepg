@@ -1,131 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="370246" start="20260721003000 +0800" stop="20260721021500 +0800">
-    <title lang="zh">瑪格麗塔：明日星空(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721021500 +0800" stop="20260721041500 +0800">
-    <title lang="zh">傷我最深的愛人(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721041500 +0800" stop="20260721060000 +0800">
-    <title lang="zh">逐夢自行車(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721060000 +0800" stop="20260721073500 +0800">
-    <title lang="zh">失親變奏曲(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721073500 +0800" stop="20260721090500 +0800">
-    <title lang="zh">托嬰風暴(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721090500 +0800" stop="20260721104500 +0800">
-    <title lang="zh">吉爾維內克謀殺案(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721104500 +0800" stop="20260721125500 +0800">
-    <title lang="zh">花樣姐妹圖鑑(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721125500 +0800" stop="20260721142500 +0800">
-    <title lang="zh">少年禁戀(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721142500 +0800" stop="20260721154500 +0800">
-    <title lang="zh">天國牧民(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721154500 +0800" stop="20260721172000 +0800">
-    <title lang="zh">游牧警探：荒風孤宅(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721172000 +0800" stop="20260721191500 +0800">
-    <title lang="zh">閨蜜瘋上路(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721191500 +0800" stop="20260721210000 +0800">
-    <title lang="zh">失控社會(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721210000 +0800" stop="20260721225500 +0800">
-    <title lang="zh">失去理智(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370246" start="20260721225500 +0800" stop="20260722003000 +0800">
-    <title lang="zh">游牧警探：暗谷疑雲(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="370246" start="20260722003000 +0800" stop="20260722020000 +0800">
     <title lang="zh">托嬰風暴(普)</title>
     <desc />
@@ -378,7 +252,7 @@
     </audio>
   </programme>
   
-<programme channel="370246" start="20260723224000 +0800" stop="20260724000000 +0800">
+<programme channel="370246" start="20260723224000 +0800" stop="20260724001500 +0800">
     <title lang="zh">游牧警探：夜盡之時(普)</title>
     <desc />
     <date>20260723</date>
@@ -387,127 +261,136 @@
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721003000 +0800" stop="20260721021500 +0800">
-    <title lang="zh">瑪格麗塔-明日星空</title>
-    <desc>義大利天體物理學家瑪格麗塔哈克傳記電影。從小獨立而好奇的她，最終成為里雅斯特天文台第一位女台長。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724001500 +0800" stop="20260724020000 +0800">
+    <title lang="zh">浮生幸福路(護)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721021500 +0800" stop="20260721041500 +0800">
-    <title lang="zh">傷我最深的愛人</title>
-    <desc>Fernando是一個善良的人，照顧著唯一孩子Daniel。自從妻子Ana去世後，每晚整理愛妻的遺物時，都會回憶起他們的愛情。某天，他發現了一捲會改變一切的VHS錄影帶。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724020000 +0800" stop="20260724035000 +0800">
+    <title lang="zh">人生多美好(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721041500 +0800" stop="20260721060000 +0800">
-    <title lang="zh">逐夢自行車</title>
-    <desc>菲利斯從小在自行車競賽的環境長大，看多了酒精與藥物的放縱生活，年輕的他決心成為職業車手，希望能比父親更有成就。然而殘忍的競爭以及個人健康狀況，導致他的夢想無法實現。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724035000 +0800" stop="20260724060000 +0800">
+    <title lang="zh">遙遠的地方(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721060000 +0800" stop="20260721073500 +0800">
-    <title lang="zh">失親變奏曲</title>
-    <desc>9歲的Roman與在德國當無照護士的母親Oksana相依為命。Oksana愛上了62歲的Gert，Gert試圖與Roman成為朋友。Gert與Roman共度一個下午時，突然心臟病發去世，留下Roman一人。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724060000 +0800" stop="20260724074000 +0800">
+    <title lang="zh">叛婚真相(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721073500 +0800" stop="20260721090500 +0800">
-    <title lang="zh">托嬰風暴</title>
-    <desc>女大生的父母忽然來探望，她被迫藏起私生女嬰，過程中面臨許多考驗。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724074000 +0800" stop="20260724093000 +0800">
+    <title lang="zh">不朽戀習曲(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721090500 +0800" stop="20260721104500 +0800">
-    <title lang="zh">吉爾維內克謀殺案</title>
-    <desc>一名裝扮成美人魚的女子被發現陳屍在荒涼的海岸上，而她的 DNA 竟然出現在一艘空無一人的廢棄漁船上。隨著漁夫憑空消失，一樁令人毛骨悚然的神秘謎團，將兩名調查員捲入了危險的深淵。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724093000 +0800" stop="20260724110000 +0800">
+    <title lang="zh">雪地事件簿2：懸崖之上(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721104500 +0800" stop="20260721125500 +0800">
-    <title lang="zh">花樣姐妹圖鑑</title>
-    <desc>五位不同年齡的女性，包括對自己外貌失去信心的60歲退休女性，以及懷抱模特兒夢的年輕女子，重新檢視自我形象以及身邊的人對她們的期望。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724110000 +0800" stop="20260724123000 +0800">
+    <title lang="zh">她的正義偵緝(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721125500 +0800" stop="20260721142500 +0800">
-    <title lang="zh">少年禁戀</title>
-    <desc>瑪格麗特（瑞秋格瑞菲斯飾演）喪子又離婚，在年輕遊民喬（貝瑞科漢）的身上得到親情般的慰藉，兩人的關係逐漸發展成曖昧情愫，但瑪格麗特的前夫和喬的幫派友人卻無法接受。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724123000 +0800" stop="20260724141000 +0800">
+    <title lang="zh">雪地密令(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721142500 +0800" stop="20260721154500 +0800">
-    <title lang="zh">天國牧民</title>
-    <desc>一個住在吉爾吉斯高山上的游牧家庭，他們不需要便利的現代文明就能快樂生活。但文明的進步正無情地侵入他們的生活，並摧毀著傳統和習俗。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724141000 +0800" stop="20260724152500 +0800">
+    <title lang="zh">逐歐之志(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721154500 +0800" stop="20260721172000 +0800">
-    <title lang="zh">游牧警探-荒風孤宅</title>
-    <desc>在神秘的游牧警探意外死亡後，Yann Kandinsky隊長回到亞爾丁，重新調查一起十年前的謀殺案，而這起案件可能與兩起尚未解決的連環殺人案有關。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724152500 +0800" stop="20260724170000 +0800">
+    <title lang="zh">游牧警探：夜盡之時(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721172000 +0800" stop="20260721191500 +0800">
-    <title lang="zh">閨蜜瘋上路</title>
-    <desc>(義大利)兩位在社區醫院相識的精神病患，一位是喋喋不休的幻想家，另一位則是滿身刺青的內向女子。她們決定逃離醫院，踏上一段從托斯卡尼前往羅馬的公路之旅，在這個所謂正常人的世界裡，努力尋找愛與快樂。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724170000 +0800" stop="20260724185000 +0800">
+    <title lang="zh">雨林心之聲(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721191500 +0800" stop="20260721210000 +0800">
-    <title lang="zh">失控社會</title>
-    <desc>快遞司機 Young Gil 在賭場揮霍掉所有贏得的獎金後，陷入了負債與絕望的深淵。在典當掉自己的車子後， Young Gil 為了趕去見未婚妻，竟鋌而走險偷了一輛車，卻沒想到在後車廂裡，一場駭人的發現正等著他。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724185000 +0800" stop="20260724203500 +0800">
+    <title lang="zh">浮生幸福路(護)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721210000 +0800" stop="20260721225500 +0800">
-    <title lang="zh">失去理智</title>
-    <desc>一位醫生將一個男孩帶到比利時，並將他視如己出地撫養長大。當男孩長大後，結了婚並成立自己的家庭，仍然依賴著養父。當他們的家庭遭遇困難，依賴則轉變為控制。</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724203500 +0800" stop="20260724220000 +0800">
+    <title lang="zh">阿伊努之森(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456654" start="20260721225500 +0800" stop="20260722003000 +0800">
-    <title lang="zh">游牧警探-暗谷疑雲</title>
-    <desc>Yann Kandinsky隊長在巴斯克地區調查一名年輕書商的失蹤案件，而此案與二十年前的一起謀殺案如出一轍。所有證據都指向因第一起案件被定罪的Yves Cesnoz，但Yann Kandinsky隊長相信真正的兇手仍然在逃</desc>
-    <date>20260721</date>
+<programme channel="370246" start="20260724220000 +0800" stop="20260724233500 +0800">
+    <title lang="zh">達瓦爾謎案(普)</title>
+    <desc />
+    <date>20260724</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370246" start="20260724233500 +0800" stop="20260725000000 +0800">
+    <title lang="zh">雪域重生(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -1307,10 +1190,136 @@
     </audio>
   </programme>
   
-<programme channel="456654" start="20260727231500 +0800" stop="20260728000000 +0800">
+<programme channel="456654" start="20260727231500 +0800" stop="20260728005000 +0800">
     <title lang="zh">浪跡伊斯坦堡</title>
     <desc>一位勇敢的希臘年輕女子Djam，為了尋找叔叔船隻所需的引擎零件，展開了前往伊斯坦堡的旅程。在路上，她遇到了一位無家可歸又身無分文的義工Avril，她致力於幫助敘利亞難民。兩人結伴同行，踏上了一段充滿音樂與冒險的旅程，目的地是米蒂利尼。</desc>
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728005000 +0800" stop="20260728033500 +0800">
+    <title lang="zh">摯愛極地</title>
+    <desc>17歲的Maja嫁給了謙遜的漁夫Janne，並在名為Stormskerry的遙遠島嶼上開始了家庭生活。在充滿挑戰的生活裡，Maja逐漸發現了自己的潛能，並找到了超越生死的堅韌與愛情。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728033500 +0800" stop="20260728050000 +0800">
+    <title lang="zh">盲情軌跡</title>
+    <desc>天生失明的Emma即將邁入三十歲，渴望成為一位母親的她。當發現男友不孕後毅然分手，開始尋找「最完美的精子捐贈者」，一切不涉及愛情與情感，看似簡單。但她很快意識到，她的視覺失明並不是唯一的盲點。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728050000 +0800" stop="20260728063000 +0800">
+    <title lang="zh">北海罪案-暗夜圖騰</title>
+    <desc>督察Ann Kathrin Klaasen必須在東菲士蘭追捕一名連續殺人犯，歹徒專門鎖定身上紋有薩滿文化「力量動物」刺青的女性。與此同時，她不僅要將丈夫從危機中解救出來，還得應對來自聯邦刑事調查局的干預與阻撓。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728063000 +0800" stop="20260728075500 +0800">
+    <title lang="zh">人為因素</title>
+    <desc>警探Monaco自從喪妻後便一蹶不振，深陷憂鬱而無心工作。然而，當一名富商遭到謀殺，而他自己的親生女兒竟然成為頭號嫌疑犯時，他被迫振作精神，在法律與親情之間展開艱難的追查。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728075500 +0800" stop="20260728093500 +0800">
+    <title lang="zh">禁戀之網</title>
+    <desc>Amir愛著Narges，而Narges也愛著Amir。但他們對共同生活的希望和夢想，卻與傳統、腐敗和社會階級的價值背道而馳，種種結構和制度依舊深深影響著伊朗新一代民眾的生活。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728093500 +0800" stop="20260728111000 +0800">
+    <title lang="zh">德國懸案事件簿-親親小寶貝</title>
+    <desc>在一次燈籠遊行之後，兩歲的Paulina從房間消失了。這起令人毛骨悚然的綁架案讓調查員Martin Bruhl不禁被迫拉回兩年前經歷的失眠夢魘。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728111000 +0800" stop="20260728125000 +0800">
+    <title lang="zh">談情夜說愛</title>
+    <desc>經過一整晚，三對情侶被捲入一場充滿吸引力、幻想、寬恕和希望的碰撞之中，他們探索愛情、死亡、慾望以及電影的魔力對他們的意義</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728125000 +0800" stop="20260728144500 +0800">
+    <title lang="zh">血戰阿拉曼</title>
+    <desc>以日夜急劇溫差的地理環境為背景，榮獲三屆義大利奧斯卡肯定的義大利導演恩佐蒙提里奧尼執導，描繪二次大戰義大利軍隊與德軍在北非與盟軍的戰事。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728144500 +0800" stop="20260728162500 +0800">
+    <title lang="zh">屏息之下</title>
+    <desc>Emma原本擁有完美人生，卻因滿身傷痕、意外懷孕而被迫住進庇護所。在那裡，她與一群性格各異的女性建立起不尋常的友誼，並共同展開一場奪回力量的抗爭。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728162500 +0800" stop="20260728180000 +0800">
+    <title lang="zh">浪跡伊斯坦堡</title>
+    <desc>一位勇敢的希臘年輕女子Djam，為了尋找叔叔船隻所需的引擎零件，展開了前往伊斯坦堡的旅程。在路上，她遇到了一位無家可歸又身無分文的義工Avril，她致力於幫助敘利亞難民。兩人結伴同行，踏上了一段充滿音樂與冒險的旅程，目的地是米蒂利尼。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728180000 +0800" stop="20260728192500 +0800">
+    <title lang="zh">患難真兄弟</title>
+    <desc>一部喜劇作品，描述一對疏遠的諾曼第兄弟，事業有成的船夫Antoine婚姻幸福美滿，育有兩個孩子，Christian則是週遊世界的騙徒。當Antoine陷入危機，Christian出手相救。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728192500 +0800" stop="20260728210000 +0800">
+    <title lang="zh">德國懸案事件簿-私法正義</title>
+    <desc>突然其來的贖金要求，讓19歲的Tim Jatzkowski失蹤案成為一個令人擔憂的問題。雖然男孩的父親希望警方展開救援行動，但調查員Martin Bruhl試圖說服他的家人支付贖金。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728210000 +0800" stop="20260728225500 +0800">
+    <title lang="zh">雪山之間</title>
+    <desc>在母親去世後，Rein 一心追求孤獨，於是前往阿爾卑斯山擔任單板滑雪教練。然而，當性格外向的父親 Gijs 前來探望時，兩人的緊張關係在一次危險的登山活動中爆發，頓時大自然將他們的對立關係變成了一場生存之戰。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456654" start="20260728225500 +0800" stop="20260729000000 +0800">
+    <title lang="zh">瘋好運行動</title>
+    <desc>一家人參加親愛祖父的葬禮，葬禮結束後，大家發現祖父常買的一組彩券號碼剛中了大獎，但中獎彩券卻一起下葬了。一場爭奪彩券的競賽就此開始。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

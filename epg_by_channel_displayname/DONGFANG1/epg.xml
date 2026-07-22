@@ -1,351 +1,441 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544389" start="20260721001100 +0800" stop="20260721005300 +0800">
-    <title lang="zh">我们的河山(9)</title>
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="544389" start="20260722000900 +0800" stop="20260722005400 +0800">
+    <title lang="zh">我们的河山(13)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721005300 +0800" stop="20260721013500 +0800">
-    <title lang="zh">我们的河山(10)</title>
+<programme channel="544389" start="20260722005400 +0800" stop="20260722013500 +0800">
+    <title lang="zh">我们的河山(14)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721013500 +0800" stop="20260721060000 +0800">
-    <title lang="zh">我们的河山(11)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721060000 +0800" stop="20260721061700 +0800">
-    <title lang="zh">我们的河山(11)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721061700 +0800" stop="20260721070000 +0800">
-    <title lang="zh">我们的河山(12)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721070000 +0800" stop="20260721070100 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721070100 +0800" stop="20260721085900 +0800">
-    <title lang="zh">看东方</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721085900 +0800" stop="20260721090200 +0800">
-    <title lang="zh">天气预报</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721090200 +0800" stop="20260721094500 +0800">
-    <title lang="zh">蜜语纪(13)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721094500 +0800" stop="20260721102400 +0800">
-    <title lang="zh">蜜语纪(14)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721102400 +0800" stop="20260721110300 +0800">
-    <title lang="zh">蜜语纪(15)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721110300 +0800" stop="20260721120000 +0800">
-    <title lang="zh">蜜语纪(16)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721120000 +0800" stop="20260721122600 +0800">
-    <title lang="zh">午间30分</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721122600 +0800" stop="20260721123000 +0800">
-    <title lang="zh">天气预报</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721123000 +0800" stop="20260721124300 +0800">
-    <title lang="zh">ShanghaiEye</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721124300 +0800" stop="20260721132800 +0800">
-    <title lang="zh">藏海传(16)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721132800 +0800" stop="20260721141000 +0800">
-    <title lang="zh">藏海传(17)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721141000 +0800" stop="20260721145200 +0800">
-    <title lang="zh">藏海传(18)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721145200 +0800" stop="20260721153400 +0800">
-    <title lang="zh">藏海传(19)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721153400 +0800" stop="20260721161700 +0800">
-    <title lang="zh">藏海传(20)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721161700 +0800" stop="20260721165900 +0800">
-    <title lang="zh">藏海传(21)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721165900 +0800" stop="20260721172500 +0800">
-    <title lang="zh">东方新娱乐</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721172500 +0800" stop="20260721180000 +0800">
-    <title lang="zh">名医话养生</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721180000 +0800" stop="20260721185700 +0800">
-    <title lang="zh">东方新闻</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721185700 +0800" stop="20260721190000 +0800">
-    <title lang="zh">天气预报</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721190000 +0800" stop="20260721193100 +0800">
-    <title lang="zh">转播中央台新闻联播</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721193100 +0800" stop="20260721201400 +0800">
-    <title lang="zh">东方剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721201400 +0800" stop="20260721205600 +0800">
-    <title lang="zh">东方剧场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544389" start="20260721205600 +0800" stop="20260721210100 +0800">
+<programme channel="544389" start="20260722013500 +0800" stop="20260722013900 +0800">
     <title lang="zh">明日精彩看点</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721210100 +0800" stop="20260721210500 +0800">
-    <title lang="zh">东方看大剧</title>
+<programme channel="544389" start="20260722013900 +0800" stop="20260722022300 +0800">
+    <title lang="zh">我们的河山(15)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721210500 +0800" stop="20260721210800 +0800">
-    <title lang="zh">朝花(16)</title>
+<programme channel="544389" start="20260722022300 +0800" stop="20260722030500 +0800">
+    <title lang="zh">我们的河山(16)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721210800 +0800" stop="20260721211100 +0800">
-    <title lang="zh">朝花(17)</title>
+<programme channel="544389" start="20260722030500 +0800" stop="20260722034700 +0800">
+    <title lang="zh">我们的河山(17)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721211100 +0800" stop="20260721212000 +0800">
-    <title lang="zh">朝花(18)</title>
+<programme channel="544389" start="20260722034700 +0800" stop="20260722042800 +0800">
+    <title lang="zh">我们的河山(18)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721212000 +0800" stop="20260721215900 +0800">
-    <title lang="zh">今晚</title>
+<programme channel="544389" start="20260722042800 +0800" stop="20260722043100 +0800">
+    <title lang="zh">明日精彩看点</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721215900 +0800" stop="20260721220100 +0800">
+<programme channel="544389" start="20260722043100 +0800" stop="20260722051400 +0800">
+    <title lang="zh">我们的河山(19)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722051400 +0800" stop="20260722055900 +0800">
+    <title lang="zh">我们的河山(20)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722055900 +0800" stop="20260722064100 +0800">
+    <title lang="zh">我们的河山(21)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722064100 +0800" stop="20260722070000 +0800">
+    <title lang="zh">我们的河山(22)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722070000 +0800" stop="20260722070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722070100 +0800" stop="20260722085900 +0800">
+    <title lang="zh">看东方</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722085900 +0800" stop="20260722090200 +0800">
     <title lang="zh">天气预报</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721220100 +0800" stop="20260721230100 +0800">
-    <title lang="zh">前浪第二季(2)</title>
+<programme channel="544389" start="20260722090200 +0800" stop="20260722092100 +0800">
+    <title lang="zh">蜜语纪(17)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721230100 +0800" stop="20260721232300 +0800">
-    <title lang="zh">成长的烦恼第二季(15)</title>
+<programme channel="544389" start="20260722092100 +0800" stop="20260722100300 +0800">
+    <title lang="zh">蜜语纪(18)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721232300 +0800" stop="20260721234600 +0800">
-    <title lang="zh">成长的烦恼第二季(16)</title>
+<programme channel="544389" start="20260722100300 +0800" stop="20260722104100 +0800">
+    <title lang="zh">蜜语纪(19)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544389" start="20260721234600 +0800" stop="20260722000000 +0800">
-    <title lang="zh">成长的烦恼第二季(17)</title>
+<programme channel="544389" start="20260722104100 +0800" stop="20260722112000 +0800">
+    <title lang="zh">蜜语纪(20)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722112000 +0800" stop="20260722120000 +0800">
+    <title lang="zh">蜜语纪(21)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722120000 +0800" stop="20260722122600 +0800">
+    <title lang="zh">午间30分</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722122600 +0800" stop="20260722123000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722123000 +0800" stop="20260722124300 +0800">
+    <title lang="zh">ShanghaiEye</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722124300 +0800" stop="20260722132800 +0800">
+    <title lang="zh">藏海传(22)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722132800 +0800" stop="20260722141100 +0800">
+    <title lang="zh">藏海传(23)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722141100 +0800" stop="20260722145600 +0800">
+    <title lang="zh">藏海传(24)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722145600 +0800" stop="20260722153800 +0800">
+    <title lang="zh">藏海传(25)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722153800 +0800" stop="20260722162300 +0800">
+    <title lang="zh">藏海传(26)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722162300 +0800" stop="20260722170400 +0800">
+    <title lang="zh">藏海传(27)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722170400 +0800" stop="20260722170800 +0800">
+    <title lang="zh">明日精彩看点</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722170800 +0800" stop="20260722173400 +0800">
+    <title lang="zh">东方新娱乐</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722173400 +0800" stop="20260722180000 +0800">
+    <title lang="zh">名医话养生(34)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722180000 +0800" stop="20260722185700 +0800">
+    <title lang="zh">东方新闻</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722185700 +0800" stop="20260722190000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722190000 +0800" stop="20260722193100 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722193100 +0800" stop="20260722201800 +0800">
+    <title lang="zh">悬案(6)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722201800 +0800" stop="20260722210000 +0800">
+    <title lang="zh">悬案(7)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722210000 +0800" stop="20260722210600 +0800">
+    <title lang="zh">明日精彩看点</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722210600 +0800" stop="20260722211000 +0800">
+    <title lang="zh">东方看大剧</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722211000 +0800" stop="20260722211300 +0800">
+    <title lang="zh">朝花(19)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722211300 +0800" stop="20260722211500 +0800">
+    <title lang="zh">朝花(20)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722211500 +0800" stop="20260722212000 +0800">
+    <title lang="zh">朝花(21)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722212000 +0800" stop="20260722215900 +0800">
+    <title lang="zh">今晚</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722215900 +0800" stop="20260722220000 +0800">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722220000 +0800" stop="20260722222700 +0800">
+    <title lang="zh">锚点</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722222700 +0800" stop="20260722225200 +0800">
+    <title lang="zh">两说(67)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722225200 +0800" stop="20260722231500 +0800">
+    <title lang="zh">成长的烦恼第二季(18)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722231500 +0800" stop="20260722233800 +0800">
+    <title lang="zh">成长的烦恼第二季(19)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544389" start="20260722233800 +0800" stop="20260723000000 +0800">
+    <title lang="zh">成长的烦恼第二季(20)</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

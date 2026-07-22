@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457246" start="20260721000000 +0800" stop="20260721033000 +0800">
-    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721033000 +0800" stop="20260721053000 +0800">
-    <title lang="zh">世界鐵人三項系列賽 漢堡站 菁英女子賽(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721053000 +0800" stop="20260721073000 +0800">
-    <title lang="zh">世界鐵人三項系列賽 漢堡站 菁英男子賽(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721073000 +0800" stop="20260721080000 +0800">
-    <title lang="zh">2026 BWF世界羽球雜誌#6 女王特集 伊瑟儂/奧原希望/辛度(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721080000 +0800" stop="20260721110000 +0800">
-    <title lang="zh">LIVE MLB 老虎 VS 小熊 例行賽 7/21(原音)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721110000 +0800" stop="20260721133000 +0800">
-    <title lang="zh">四國菁英棒球對抗賽 南韓 VS 美國 7/14(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721133000 +0800" stop="20260721140000 +0800">
-    <title lang="zh">電動方程式 賽道零距離S3 #1 美國夢(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721140000 +0800" stop="20260721143000 +0800">
-    <title lang="zh">電動方程式 賽道零距離S3 #2 德國雄心(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721143000 +0800" stop="20260721173000 +0800">
-    <title lang="zh">四國菁英棒球對抗賽 日本 VS 中華 7/14(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721173000 +0800" stop="20260721185000 +0800">
-    <title lang="zh">2026 環法自由車大賽第15日精華(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457246" start="20260721185000 +0800" stop="20260722003000 +0800">
-    <title lang="zh">LIVE 2026 環法自由車大賽 第16日 個人計時賽(原音)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="457246" start="20260722003000 +0800" stop="20260722010000 +0800">
     <title lang="zh">電動方程式 賽道零距離S3 #1 美國夢(普)</title>
     <desc />
@@ -778,6 +679,141 @@
     <title lang="zh">團長會客室#12 葛吳諺明(普)</title>
     <desc />
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728000000 +0800" stop="20260728033000 +0800">
+    <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728033000 +0800" stop="20260728063000 +0800">
+    <title lang="zh">日本職業桌球T.League T.T彩玉 VS 東京木下大師 7/25 開幕戰(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728063000 +0800" stop="20260728090000 +0800">
+    <title lang="zh">日本職業桌球T.League 名古屋TOP少女 VS 神奈川木下 7/25 開幕戰(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728090000 +0800" stop="20260728104000 +0800">
+    <title lang="zh">LIVE 佛光盃大學籃球 臺灣師大 VS 馬來西亞代表隊 7/28(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728104000 +0800" stop="20260728122000 +0800">
+    <title lang="zh">LIVE 佛光盃大學籃球 筑波大學 VS 澳門昊駿 7/28(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728122000 +0800" stop="20260728130000 +0800">
+    <title lang="zh">電動方程式 賽道零距離S3 #5 掌舵初體驗(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728130000 +0800" stop="20260728140000 +0800">
+    <title lang="zh">2026 WEC世界耐久錦標賽特輯#4 - 聖保羅6小時(原音)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728140000 +0800" stop="20260728150000 +0800">
+    <title lang="zh">LIVE 佛光盃國際大學籃球 開幕典禮 7/28(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728150000 +0800" stop="20260728164000 +0800">
+    <title lang="zh">LIVE 佛光盃大學籃球 佛光大學 VS 東北學院大學 7/28(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728164000 +0800" stop="20260728182000 +0800">
+    <title lang="zh">LIVE 佛光盃大學籃球 光明大學 VS 林肯大學 7/28(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728182000 +0800" stop="20260728200000 +0800">
+    <title lang="zh">LIVE 佛光盃大學籃球 雪梨大學 VS 澳門昊駿 7/28(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728200000 +0800" stop="20260728203000 +0800">
+    <title lang="zh">電動方程式 賽道零距離S3 #4 築夢先鋒(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728203000 +0800" stop="20260728220000 +0800">
+    <title lang="zh">佛光盃大學籃球 臺灣師大 VS 馬來西亞代表隊 7/28(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728220000 +0800" stop="20260728233000 +0800">
+    <title lang="zh">佛光盃大學籃球 筑波大學 VS 澳門昊駿 7/28(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457246" start="20260728233000 +0800" stop="20260729000000 +0800">
+    <title lang="zh">佛光盃大學籃球 佛光大學 VS 東北學院大學 7/28(普)</title>
+    <desc />
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,207 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539796" start="20260721000000 +0800" stop="20260721003000 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539796" start="20260722000000 +0800" stop="20260722003000 +0800">
     <title lang="zh">体坛点击</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539796" start="20260721003000 +0800" stop="20260721010000 +0800">
+<programme channel="539796" start="20260722003000 +0800" stop="20260722010000 +0800">
     <title lang="zh">今日睇弹</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539796" start="20260721010000 +0800" stop="20260721070000 +0800">
-    <title lang="zh">体育赛事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721070000 +0800" stop="20260721073000 +0800">
-    <title lang="zh">平安跑世界</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721073000 +0800" stop="20260721094500 +0800">
-    <title lang="zh">体育赛事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721094500 +0800" stop="20260721101500 +0800">
-    <title lang="zh">缤纷生活街专题</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721101500 +0800" stop="20260721111500 +0800">
-    <title lang="zh">德甲精华</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721111500 +0800" stop="20260721114500 +0800">
-    <title lang="zh">今日睇弹</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721114500 +0800" stop="20260721120000 +0800">
-    <title lang="zh">竞赛快讯</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721120000 +0800" stop="20260721130000 +0800">
-    <title lang="zh">体育赛事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721130000 +0800" stop="20260721131500 +0800">
-    <title lang="zh">竞赛快讯</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721131500 +0800" stop="20260721140000 +0800">
-    <title lang="zh">体育赛事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721140000 +0800" stop="20260721141500 +0800">
-    <title lang="zh">竞赛快讯</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721141500 +0800" stop="20260721144500 +0800">
-    <title lang="zh">缤纷生活街专题</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721144500 +0800" stop="20260721170000 +0800">
-    <title lang="zh">体育赛事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721170000 +0800" stop="20260721173000 +0800">
-    <title lang="zh">缤纷生活街专题</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721173000 +0800" stop="20260721183000 +0800">
-    <title lang="zh">体育赛事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721183000 +0800" stop="20260721190000 +0800">
-    <title lang="zh">今日睇弹</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721190000 +0800" stop="20260721193000 +0800">
-    <title lang="zh">体坛点击</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539796" start="20260721193000 +0800" stop="20260721200000 +0800">
+<programme channel="539796" start="20260722010000 +0800" stop="20260722070000 +0800">
     <title lang="zh">足球粤势力</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539796" start="20260721200000 +0800" stop="20260721220000 +0800">
+<programme channel="539796" start="20260722070000 +0800" stop="20260722090000 +0800">
     <title lang="zh">体育赛事</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539796" start="20260721220000 +0800" stop="20260721230000 +0800">
-    <title lang="zh">体育赛事</title>
+<programme channel="539796" start="20260722090000 +0800" stop="20260722094500 +0800">
+    <title lang="zh">世界体育</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539796" start="20260721230000 +0800" stop="20260722000000 +0800">
+<programme channel="539796" start="20260722094500 +0800" stop="20260722101500 +0800">
+    <title lang="zh">缤纷生活街专题</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722101500 +0800" stop="20260722104500 +0800">
+    <title lang="zh">平安跑世界</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722104500 +0800" stop="20260722111500 +0800">
+    <title lang="zh">足球粤势力</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722111500 +0800" stop="20260722114500 +0800">
+    <title lang="zh">今日睇弹</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722114500 +0800" stop="20260722120000 +0800">
+    <title lang="zh">竞赛快讯</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722120000 +0800" stop="20260722130000 +0800">
     <title lang="zh">体育赛事</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722130000 +0800" stop="20260722131500 +0800">
+    <title lang="zh">竞赛快讯</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722131500 +0800" stop="20260722140000 +0800">
+    <title lang="zh">体育赛事</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722140000 +0800" stop="20260722141500 +0800">
+    <title lang="zh">竞赛快讯</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722141500 +0800" stop="20260722144500 +0800">
+    <title lang="zh">缤纷生活街专题</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722144500 +0800" stop="20260722151500 +0800">
+    <title lang="zh">今日睇弹</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722151500 +0800" stop="20260722170000 +0800">
+    <title lang="zh">体育赛事</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722170000 +0800" stop="20260722173000 +0800">
+    <title lang="zh">缤纷生活街专题</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722173000 +0800" stop="20260722183000 +0800">
+    <title lang="zh">体育赛事</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722183000 +0800" stop="20260722190000 +0800">
+    <title lang="zh">今日睇弹</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722190000 +0800" stop="20260722193000 +0800">
+    <title lang="zh">体坛点击</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722193000 +0800" stop="20260722200000 +0800">
+    <title lang="zh">中甲精华</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722200000 +0800" stop="20260722203000 +0800">
+    <title lang="zh">体育赛事</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722203000 +0800" stop="20260722210000 +0800">
+    <title lang="zh">世界体育</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722210000 +0800" stop="20260722220000 +0800">
+    <title lang="zh">德甲精华</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539796" start="20260722220000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">昆仑决</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

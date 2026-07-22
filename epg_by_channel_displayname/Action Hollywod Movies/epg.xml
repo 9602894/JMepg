@@ -1,113 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="430248" start="20260721000000 +0800" stop="20260721014500 +0800">
-    <title lang="zh">Navajo Joe</title>
-    <desc>The American West in the mid-1800's – a land beyond the reach of the law. A ruthless gang plunders the plains, murdering innocent Indian women and children to collect their scalps. One man stands in their way, a warrior hell-bent on revenge.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721014500 +0800" stop="20260721033500 +0800">
-    <title lang="zh">Sister Street Fighter</title>
-    <desc>A young martial artist is on a mission to rescue her brother who's being held captive by a sadistic drug lord.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721033500 +0800" stop="20260721060000 +0800">
-    <title lang="zh">The Night Porter</title>
-    <desc>A concentration camp survivor rekindles her sadomasochistic relationship with an ex-SS officer working as a night porter at a Vienna hotel, but his former associates begin stalking them.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721060000 +0800" stop="20260721074500 +0800">
-    <title lang="zh">Navajo Joe</title>
-    <desc>The American West in the mid-1800's – a land beyond the reach of the law. A ruthless gang plunders the plains, murdering innocent Indian women and children to collect their scalps. One man stands in their way, a warrior hell-bent on revenge.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721074500 +0800" stop="20260721093500 +0800">
-    <title lang="zh">Sister Street Fighter</title>
-    <desc>A young martial artist is on a mission to rescue her brother who's being held captive by a sadistic drug lord.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721093500 +0800" stop="20260721120000 +0800">
-    <title lang="zh">The Night Porter</title>
-    <desc>A concentration camp survivor rekindles her sadomasochistic relationship with an ex-SS officer working as a night porter at a Vienna hotel, but his former associates begin stalking them.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721120000 +0800" stop="20260721134500 +0800">
-    <title lang="zh">Navajo Joe</title>
-    <desc>The American West in the mid-1800's – a land beyond the reach of the law. A ruthless gang plunders the plains, murdering innocent Indian women and children to collect their scalps. One man stands in their way, a warrior hell-bent on revenge.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721134500 +0800" stop="20260721153500 +0800">
-    <title lang="zh">Sister Street Fighter</title>
-    <desc>A young martial artist is on a mission to rescue her brother who's being held captive by a sadistic drug lord.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721153500 +0800" stop="20260721180000 +0800">
-    <title lang="zh">The Night Porter</title>
-    <desc>A concentration camp survivor rekindles her sadomasochistic relationship with an ex-SS officer working as a night porter at a Vienna hotel, but his former associates begin stalking them.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721180000 +0800" stop="20260721200000 +0800">
-    <title lang="zh">White Fang</title>
-    <desc>The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721200000 +0800" stop="20260721220000 +0800">
-    <title lang="zh">The Inglorious Bastards</title>
-    <desc>In 1944 France, a group of escaped American military prisoners en route to Switzerland volunteers to steal a Nazi V2 rocket warhead for the Allies.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="430248" start="20260721220000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">Bruce Lee, The Legend</title>
-    <desc>The official Golden Harvest tribute to the Master of the Martial Arts Film, Bruce Lee.</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="430248" start="20260722000000 +0800" stop="20260722020000 +0800">
     <title lang="zh">White Fang</title>
     <desc>The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
@@ -747,10 +639,118 @@
     </audio>
   </programme>
   
-<programme channel="430248" start="20260728000000 +0800" stop="20260729000000 +0800">
+<programme channel="430248" start="20260728000000 +0800" stop="20260728020000 +0800">
     <title lang="zh">The Deadly Companions</title>
     <desc>An ex-army officer accidentally kills a woman's son and tries to make up for it by escorting the funeral procession through dangerous Indian territory.</desc>
     <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728020000 +0800" stop="20260728040000 +0800">
+    <title lang="zh">The Gay Deceivers</title>
+    <desc>Danny and Elliot avoid military service by pretending to be gay, but they have to act the part when the recruiting officer doesn't buy it.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728040000 +0800" stop="20260728060000 +0800">
+    <title lang="zh">White Fang</title>
+    <desc>The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728060000 +0800" stop="20260728080000 +0800">
+    <title lang="zh">The Deadly Companions</title>
+    <desc>An ex-army officer accidentally kills a woman's son and tries to make up for it by escorting the funeral procession through dangerous Indian territory.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728080000 +0800" stop="20260728100000 +0800">
+    <title lang="zh">The Gay Deceivers</title>
+    <desc>Danny and Elliot avoid military service by pretending to be gay, but they have to act the part when the recruiting officer doesn't buy it.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728100000 +0800" stop="20260728120000 +0800">
+    <title lang="zh">White Fang</title>
+    <desc>The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728120000 +0800" stop="20260728140000 +0800">
+    <title lang="zh">The Deadly Companions</title>
+    <desc>An ex-army officer accidentally kills a woman's son and tries to make up for it by escorting the funeral procession through dangerous Indian territory.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728140000 +0800" stop="20260728160000 +0800">
+    <title lang="zh">The Gay Deceivers</title>
+    <desc>Danny and Elliot avoid military service by pretending to be gay, but they have to act the part when the recruiting officer doesn't buy it.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728160000 +0800" stop="20260728180000 +0800">
+    <title lang="zh">White Fang</title>
+    <desc>The wolf dog, aids a reporter, a fur trapper, a nun, a young Eskimo boy and his father in ridding a gold mining town of a sleazy crime lord in 1896 Yukon in Canada.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728180000 +0800" stop="20260728194500 +0800">
+    <title lang="zh">Iron Finger</title>
+    <desc>Tough cop Bruce Li arrives back in town in time to investigate a series of odd murders. Victims have two pierce marks on their necks. The killer is an expert in the Iron Finger strike. The fights are fantastic with the two Bruce's and Ku Feng going at it and all are excellent.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728194500 +0800" stop="20260728213000 +0800">
+    <title lang="zh">The Mad Bomber</title>
+    <desc>William Dorn decides to get back at all the people he blames for the overdose death of his daughter and the break up of his marriage, so he decides to go on a bombing spree.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260728213000 +0800" stop="20260729000000 +0800">
+    <title lang="zh">The Night Porter</title>
+    <desc>A concentration camp survivor rekindles her sadomasochistic relationship with an ex-SS officer working as a night porter at a Vienna hotel, but his former associates begin stalking them.</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="430248" start="20260729000000 +0800" stop="20260730000000 +0800">
+    <title lang="zh">Iron Finger</title>
+    <desc>Tough cop Bruce Li arrives back in town in time to investigate a series of odd murders. Victims have two pierce marks on their necks. The killer is an expert in the Iron Finger strike. The fights are fantastic with the two Bruce's and Ku Feng going at it and all are excellent.</desc>
+    <date>20260729</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

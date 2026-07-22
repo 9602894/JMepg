@@ -1,369 +1,468 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539848" start="20260721001000 +0800" stop="20260721001800 +0800">
-    <title lang="zh">精彩赏析:老男孩(2)</title>
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539848" start="20260722000400 +0800" stop="20260722015300 +0800">
+    <title lang="zh">英雄儿女</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721001800 +0800" stop="20260721003000 +0800">
-    <title lang="zh">精彩赏析:爱的追踪(4)</title>
+<programme channel="539848" start="20260722015300 +0800" stop="20260722015900 +0800">
+    <title lang="zh">精彩赏析:独狼(1)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721003000 +0800" stop="20260721055900 +0800">
-    <title lang="zh">电视播控中心播出结束</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721055900 +0800" stop="20260721060000 +0800">
-    <title lang="zh">电视播控中心播出开始</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721060000 +0800" stop="20260721064200 +0800">
-    <title lang="zh">漂洋过海来看你(40)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721064200 +0800" stop="20260721065000 +0800">
-    <title lang="zh">精彩赏析:我在北京挺好的(2)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721065000 +0800" stop="20260721073100 +0800">
-    <title lang="zh">运河风流(17)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721073100 +0800" stop="20260721081300 +0800">
-    <title lang="zh">运河风流(18)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721081300 +0800" stop="20260721085600 +0800">
-    <title lang="zh">运河风流(19)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721085600 +0800" stop="20260721090200 +0800">
-    <title lang="zh">精彩赏析:一马三司令(2)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721090200 +0800" stop="20260721090600 +0800">
-    <title lang="zh">精彩赏析:尖锋之烈焰青春(2)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721090600 +0800" stop="20260721091700 +0800">
-    <title lang="zh">精彩赏析:护宝风云(3)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721091700 +0800" stop="20260721093000 +0800">
-    <title lang="zh">精彩赏析:宜昌保卫战(4)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721093000 +0800" stop="20260721101100 +0800">
-    <title lang="zh">漂洋过海来看你(41)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721101100 +0800" stop="20260721105300 +0800">
-    <title lang="zh">漂洋过海来看你(42)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721105300 +0800" stop="20260721113400 +0800">
-    <title lang="zh">漂洋过海来看你(43)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721113400 +0800" stop="20260721121500 +0800">
-    <title lang="zh">漂洋过海来看你(44)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721121500 +0800" stop="20260721125700 +0800">
-    <title lang="zh">鹿鼎记(1)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721125700 +0800" stop="20260721130300 +0800">
-    <title lang="zh">精彩赏析:甜蜜(1)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721130300 +0800" stop="20260721131100 +0800">
-    <title lang="zh">精彩赏析:黑土热血(1)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721131100 +0800" stop="20260721132000 +0800">
+<programme channel="539848" start="20260722015900 +0800" stop="20260722021000 +0800">
     <title lang="zh">精彩赏析:西京故事(2)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721132000 +0800" stop="20260721133000 +0800">
-    <title lang="zh">精彩赏析:黎明决战(2)</title>
+<programme channel="539848" start="20260722021000 +0800" stop="20260722025100 +0800">
+    <title lang="zh">漂洋过海来看你(41)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721133000 +0800" stop="20260721141100 +0800">
+<programme channel="539848" start="20260722025100 +0800" stop="20260722033300 +0800">
+    <title lang="zh">漂洋过海来看你(42)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722033300 +0800" stop="20260722041600 +0800">
+    <title lang="zh">漂洋过海来看你(43)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722041600 +0800" stop="20260722042100 +0800">
+    <title lang="zh">精彩赏析:护宝风云(1)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722042100 +0800" stop="20260722042700 +0800">
+    <title lang="zh">精彩赏析:开国元勋朱德(2)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722042700 +0800" stop="20260722043600 +0800">
+    <title lang="zh">精彩赏析:甜蜜(3)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722043600 +0800" stop="20260722044500 +0800">
+    <title lang="zh">精彩赏析:爱的追踪(3)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722044500 +0800" stop="20260722052500 +0800">
+    <title lang="zh">漂洋过海来看你(44)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722052500 +0800" stop="20260722060700 +0800">
+    <title lang="zh">鹿鼎记(1)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722060700 +0800" stop="20260722061500 +0800">
+    <title lang="zh">精彩赏析:老男孩(2)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722061500 +0800" stop="20260722062000 +0800">
+    <title lang="zh">精彩赏析:八方传奇(2)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722062000 +0800" stop="20260722062600 +0800">
+    <title lang="zh">精彩赏析:男人的秘密(2)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722062600 +0800" stop="20260722063200 +0800">
+    <title lang="zh">精彩赏析:一马三司令(2)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722063200 +0800" stop="20260722064500 +0800">
+    <title lang="zh">精彩赏析:宜昌保卫战(4)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722064500 +0800" stop="20260722072600 +0800">
     <title lang="zh">运河风流(20)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721141100 +0800" stop="20260721145300 +0800">
+<programme channel="539848" start="20260722072600 +0800" stop="20260722080800 +0800">
     <title lang="zh">运河风流(21)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721145300 +0800" stop="20260721153600 +0800">
+<programme channel="539848" start="20260722080800 +0800" stop="20260722085100 +0800">
     <title lang="zh">运河风流(22)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721153600 +0800" stop="20260721154500 +0800">
-    <title lang="zh">精彩赏析:八方传奇(3)</title>
+<programme channel="539848" start="20260722085100 +0800" stop="20260722085700 +0800">
+    <title lang="zh">精彩赏析:护宝风云(1)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721154500 +0800" stop="20260721162500 +0800">
+<programme channel="539848" start="20260722085700 +0800" stop="20260722090100 +0800">
+    <title lang="zh">精彩赏析:午夜蝴蝶(1)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722090100 +0800" stop="20260722090900 +0800">
+    <title lang="zh">精彩赏析:黑土热血(1)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722090900 +0800" stop="20260722091800 +0800">
+    <title lang="zh">精彩赏析:甜蜜(3)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722091800 +0800" stop="20260722093000 +0800">
+    <title lang="zh">精彩赏析:爱的追踪(4)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722093000 +0800" stop="20260722101000 +0800">
     <title lang="zh">鹿鼎记(2)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721162500 +0800" stop="20260721170600 +0800">
+<programme channel="539848" start="20260722101000 +0800" stop="20260722105100 +0800">
     <title lang="zh">鹿鼎记(3)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721170600 +0800" stop="20260721174600 +0800">
+<programme channel="539848" start="20260722105100 +0800" stop="20260722113100 +0800">
     <title lang="zh">鹿鼎记(4)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721174600 +0800" stop="20260721182700 +0800">
+<programme channel="539848" start="20260722113100 +0800" stop="20260722121200 +0800">
     <title lang="zh">鹿鼎记(5)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721182700 +0800" stop="20260721190800 +0800">
+<programme channel="539848" start="20260722121200 +0800" stop="20260722125400 +0800">
     <title lang="zh">鹿鼎记(6)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721190800 +0800" stop="20260721191800 +0800">
-    <title lang="zh">精彩赏析:大汉口(1)</title>
+<programme channel="539848" start="20260722125400 +0800" stop="20260722125900 +0800">
+    <title lang="zh">精彩赏析:独狼(2)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721191800 +0800" stop="20260721192600 +0800">
-    <title lang="zh">精彩赏析:午夜蝴蝶(2)</title>
+<programme channel="539848" start="20260722125900 +0800" stop="20260722130800 +0800">
+    <title lang="zh">精彩赏析:西京故事(2)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721192600 +0800" stop="20260721200800 +0800">
+<programme channel="539848" start="20260722130800 +0800" stop="20260722131400 +0800">
+    <title lang="zh">精彩赏析:男人的秘密(2)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722131400 +0800" stop="20260722132000 +0800">
+    <title lang="zh">精彩赏析:一马三司令(2)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722132000 +0800" stop="20260722133000 +0800">
+    <title lang="zh">精彩赏析:八方传奇(4)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722133000 +0800" stop="20260722141100 +0800">
     <title lang="zh">运河风流(23)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721200800 +0800" stop="20260721205000 +0800">
+<programme channel="539848" start="20260722141100 +0800" stop="20260722145300 +0800">
     <title lang="zh">运河风流(24)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721205000 +0800" stop="20260721213000 +0800">
-    <title lang="zh">金色营养课</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539848" start="20260721213000 +0800" stop="20260721221100 +0800">
+<programme channel="539848" start="20260722145300 +0800" stop="20260722153600 +0800">
     <title lang="zh">运河风流(25)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721221100 +0800" stop="20260721234800 +0800">
-    <title lang="zh">暴风</title>
+<programme channel="539848" start="20260722153600 +0800" stop="20260722154500 +0800">
+    <title lang="zh">精彩赏析:老男孩(2)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721234800 +0800" stop="20260721235300 +0800">
-    <title lang="zh">精彩赏析:黎明决战(1)</title>
+<programme channel="539848" start="20260722154500 +0800" stop="20260722162500 +0800">
+    <title lang="zh">鹿鼎记(7)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721235300 +0800" stop="20260721235900 +0800">
-    <title lang="zh">精彩赏析:甜蜜(2)</title>
+<programme channel="539848" start="20260722162500 +0800" stop="20260722170600 +0800">
+    <title lang="zh">鹿鼎记(8)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539848" start="20260721235900 +0800" stop="20260722000000 +0800">
-    <title lang="zh">精彩赏析:棋逢对手(5)</title>
+<programme channel="539848" start="20260722170600 +0800" stop="20260722174700 +0800">
+    <title lang="zh">鹿鼎记(9)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722174700 +0800" stop="20260722182800 +0800">
+    <title lang="zh">鹿鼎记(10)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722182800 +0800" stop="20260722190900 +0800">
+    <title lang="zh">鹿鼎记(11)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722190900 +0800" stop="20260722191800 +0800">
+    <title lang="zh">精彩赏析:黑土热血(1)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722191800 +0800" stop="20260722192600 +0800">
+    <title lang="zh">精彩赏析:爱的追踪(3)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722192600 +0800" stop="20260722200800 +0800">
+    <title lang="zh">运河风流(26)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722200800 +0800" stop="20260722205000 +0800">
+    <title lang="zh">运河风流(27)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722205000 +0800" stop="20260722213000 +0800">
+    <title lang="zh">金色营养课</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722213000 +0800" stop="20260722221100 +0800">
+    <title lang="zh">运河风流(28)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722221100 +0800" stop="20260722235800 +0800">
+    <title lang="zh">爱情神话</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539848" start="20260722235800 +0800" stop="20260723000000 +0800">
+    <title lang="zh">精彩赏析:老男孩(5)</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

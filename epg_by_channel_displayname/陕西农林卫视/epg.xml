@@ -1,441 +1,324 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539719" start="20260721002900 +0800" stop="20260721003900 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539719" start="20260722002900 +0800" stop="20260722003900 +0800">
     <title lang="zh">为老乡支一招</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721003900 +0800" stop="20260721005500 +0800">
+<programme channel="539719" start="20260722003900 +0800" stop="20260722005500 +0800">
     <title lang="zh">第一农经</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721005500 +0800" stop="20260721011000 +0800">
+<programme channel="539719" start="20260722005500 +0800" stop="20260722011200 +0800">
     <title lang="zh">农村大市场</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721011000 +0800" stop="20260721014000 +0800">
+<programme channel="539719" start="20260722011200 +0800" stop="20260722060000 +0800">
+    <title lang="zh">晚曲/彩图</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539719" start="20260722060000 +0800" stop="20260722061000 +0800">
+    <title lang="zh">彩图/晨曲,中国农资秀</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539719" start="20260722061000 +0800" stop="20260722062000 +0800">
+    <title lang="zh">为老乡支一招</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539719" start="20260722062000 +0800" stop="20260722065000 +0800">
     <title lang="zh">拉家常</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721014000 +0800" stop="20260721022100 +0800">
+<programme channel="539719" start="20260722065000 +0800" stop="20260722073000 +0800">
     <title lang="zh">秦之声大剧院</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721022100 +0800" stop="20260721024000 +0800">
-    <title lang="zh">第一农经</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721024000 +0800" stop="20260721025000 +0800">
-    <title lang="zh">为老乡支一招</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721025000 +0800" stop="20260721030500 +0800">
+<programme channel="539719" start="20260722073000 +0800" stop="20260722074500 +0800">
     <title lang="zh">农村大市场</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721030500 +0800" stop="20260721030800 +0800">
-    <title lang="zh">音画三秦</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721030800 +0800" stop="20260721034100 +0800">
-    <title lang="zh">拉家常</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721034100 +0800" stop="20260721042200 +0800">
-    <title lang="zh">秦之声大剧院</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721042200 +0800" stop="20260721043700 +0800">
-    <title lang="zh">第一农经</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721043700 +0800" stop="20260721044800 +0800">
+<programme channel="539719" start="20260722074500 +0800" stop="20260722075500 +0800">
     <title lang="zh">为老乡支一招</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721044800 +0800" stop="20260721050300 +0800">
-    <title lang="zh">农村大市场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721050300 +0800" stop="20260721051800 +0800">
-    <title lang="zh">第一农经</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721051800 +0800" stop="20260721055000 +0800">
+<programme channel="539719" start="20260722075500 +0800" stop="20260722083500 +0800">
     <title lang="zh">拉家常</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721055000 +0800" stop="20260721060000 +0800">
+<programme channel="539719" start="20260722083500 +0800" stop="20260722091500 +0800">
+    <title lang="zh">薛丁山</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539719" start="20260722091500 +0800" stop="20260722094500 +0800">
+    <title lang="zh">薛丁山</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539719" start="20260722094500 +0800" stop="20260722100100 +0800">
+    <title lang="zh">第一农经</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539719" start="20260722100100 +0800" stop="20260722111600 +0800">
+    <title lang="zh">薛丁山</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539719" start="20260722111600 +0800" stop="20260722120800 +0800">
+    <title lang="zh">薛丁山</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539719" start="20260722120800 +0800" stop="20260722121800 +0800">
     <title lang="zh">中国农资秀</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721060000 +0800" stop="20260721061000 +0800">
-    <title lang="zh">中国农资秀</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721061000 +0800" stop="20260721062000 +0800">
+<programme channel="539719" start="20260722121800 +0800" stop="20260722123200 +0800">
     <title lang="zh">为老乡支一招</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721062000 +0800" stop="20260721065000 +0800">
-    <title lang="zh">拉家常</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721065000 +0800" stop="20260721073000 +0800">
+<programme channel="539719" start="20260722123200 +0800" stop="20260722131600 +0800">
     <title lang="zh">秦之声大剧院</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721073000 +0800" stop="20260721074500 +0800">
-    <title lang="zh">农村大市场</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721074500 +0800" stop="20260721075500 +0800">
-    <title lang="zh">为老乡支一招</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721075500 +0800" stop="20260721083500 +0800">
-    <title lang="zh">拉家常</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721083500 +0800" stop="20260721091500 +0800">
-    <title lang="zh">薛丁山</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721091500 +0800" stop="20260721094500 +0800">
-    <title lang="zh">薛丁山</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721094500 +0800" stop="20260721100100 +0800">
-    <title lang="zh">第一农经</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721100100 +0800" stop="20260721111600 +0800">
-    <title lang="zh">薛丁山</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721111600 +0800" stop="20260721120800 +0800">
-    <title lang="zh">薛丁山</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721120800 +0800" stop="20260721121800 +0800">
-    <title lang="zh">中国农资秀</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721121800 +0800" stop="20260721123200 +0800">
-    <title lang="zh">为老乡支一招</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721123200 +0800" stop="20260721131600 +0800">
-    <title lang="zh">秦之声大剧院</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539719" start="20260721131600 +0800" stop="20260721140600 +0800">
+<programme channel="539719" start="20260722131600 +0800" stop="20260722140600 +0800">
     <title lang="zh">壮士出川</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721140600 +0800" stop="20260721152900 +0800">
+<programme channel="539719" start="20260722140600 +0800" stop="20260722152900 +0800">
     <title lang="zh">壮士出川</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721152900 +0800" stop="20260721160900 +0800">
+<programme channel="539719" start="20260722152900 +0800" stop="20260722160900 +0800">
     <title lang="zh">壮士出川</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721160900 +0800" stop="20260721174400 +0800">
+<programme channel="539719" start="20260722160900 +0800" stop="20260722174400 +0800">
     <title lang="zh">壮士出川</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721174400 +0800" stop="20260721183400 +0800">
+<programme channel="539719" start="20260722174400 +0800" stop="20260722183400 +0800">
     <title lang="zh">包青天</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721183400 +0800" stop="20260721192500 +0800">
+<programme channel="539719" start="20260722183400 +0800" stop="20260722192500 +0800">
     <title lang="zh">包青天</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721192500 +0800" stop="20260721201500 +0800">
+<programme channel="539719" start="20260722192500 +0800" stop="20260722201500 +0800">
     <title lang="zh">包青天</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721201500 +0800" stop="20260721203800 +0800">
+<programme channel="539719" start="20260722201500 +0800" stop="20260722203800 +0800">
     <title lang="zh">第一农经</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721203800 +0800" stop="20260721205000 +0800">
+<programme channel="539719" start="20260722203800 +0800" stop="20260722205000 +0800">
     <title lang="zh">为老乡支一招</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721205000 +0800" stop="20260721212900 +0800">
+<programme channel="539719" start="20260722205000 +0800" stop="20260722212900 +0800">
     <title lang="zh">拉家常</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721212900 +0800" stop="20260721214500 +0800">
+<programme channel="539719" start="20260722212900 +0800" stop="20260722214500 +0800">
     <title lang="zh">第一农经</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721214500 +0800" stop="20260721215500 +0800">
+<programme channel="539719" start="20260722214500 +0800" stop="20260722215500 +0800">
     <title lang="zh">中国农资秀</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721215500 +0800" stop="20260721221400 +0800">
+<programme channel="539719" start="20260722215500 +0800" stop="20260722221400 +0800">
     <title lang="zh">农村大市场</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721221400 +0800" stop="20260721225600 +0800">
+<programme channel="539719" start="20260722221400 +0800" stop="20260722225600 +0800">
     <title lang="zh">秦之声大剧院</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721225600 +0800" stop="20260721231700 +0800">
+<programme channel="539719" start="20260722225600 +0800" stop="20260722231700 +0800">
     <title lang="zh">第一农经</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721231700 +0800" stop="20260721234900 +0800">
+<programme channel="539719" start="20260722231700 +0800" stop="20260722234900 +0800">
     <title lang="zh">拉家常</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539719" start="20260721234900 +0800" stop="20260722000000 +0800">
+<programme channel="539719" start="20260722234900 +0800" stop="20260723000000 +0800">
     <title lang="zh">秦之声大剧院</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

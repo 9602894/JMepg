@@ -1,212 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="370169" start="20260721000000 +0800" stop="20260721020000 +0800">
-    <title lang="zh">有話鏡來講(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721020000 +0800" stop="20260721023000 +0800">
-    <title lang="zh">台語新聞手語(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721023000 +0800" stop="20260721033000 +0800">
-    <title lang="zh">新聞鏡現場(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721033000 +0800" stop="20260721040000 +0800">
-    <title lang="zh">台語新聞手語(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721040000 +0800" stop="20260721043000 +0800">
-    <title lang="zh">另一種注目(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721043000 +0800" stop="20260721050000 +0800">
-    <title lang="zh">文藝賦格(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721050000 +0800" stop="20260721053000 +0800">
-    <title lang="zh">台語新聞手語(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721053000 +0800" stop="20260721060000 +0800">
-    <title lang="zh">鏡轉全球(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721060000 +0800" stop="20260721070000 +0800">
-    <title lang="zh">新聞鏡現場(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721070000 +0800" stop="20260721090000 +0800">
-    <title lang="zh">早安進行式(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721090000 +0800" stop="20260721100000 +0800">
-    <title lang="zh">0900整點新聞(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721100000 +0800" stop="20260721110000 +0800">
-    <title lang="zh">1000整點新聞(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721110000 +0800" stop="20260721115500 +0800">
-    <title lang="zh">1100整點新聞(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721115500 +0800" stop="20260721140000 +0800">
-    <title lang="zh">午間新聞(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721140000 +0800" stop="20260721160000 +0800">
-    <title lang="zh">大選鏡來講(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721160000 +0800" stop="20260721163000 +0800">
-    <title lang="zh">台語新聞(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721163000 +0800" stop="20260721170000 +0800">
-    <title lang="zh">1630整點新聞(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721170000 +0800" stop="20260721180000 +0800">
-    <title lang="zh">1700整點新聞(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721180000 +0800" stop="20260721200000 +0800">
-    <title lang="zh">晚間新聞(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721200000 +0800" stop="20260721220000 +0800">
-    <title lang="zh">有話鏡來講(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721220000 +0800" stop="20260721230000 +0800">
-    <title lang="zh">新聞鏡現場(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721230000 +0800" stop="20260721233000 +0800">
-    <title lang="zh">鏡轉全球(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370169" start="20260721233000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">全球聊天室(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="370169" start="20260722000000 +0800" stop="20260722020000 +0800">
     <title lang="zh">有話鏡來講(普)</title>
     <desc />
@@ -621,208 +414,208 @@
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721000000 +0800" stop="20260721020000 +0800">
-    <title lang="zh">有話鏡來講</title>
-    <desc>邀請關鍵人物，製作深入、平衡的訪談，針對最新時事議題，提供多元、犀利分析。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724000000 +0800" stop="20260724020000 +0800">
+    <title lang="zh">有話鏡來講(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721020000 +0800" stop="20260721023000 +0800">
-    <title lang="zh">台語新聞手語</title>
-    <desc>台語新聞手語</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724020000 +0800" stop="20260724023000 +0800">
+    <title lang="zh">台語新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721023000 +0800" stop="20260721033000 +0800">
-    <title lang="zh">新聞鏡現場</title>
-    <desc>新聞鏡現場</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724023000 +0800" stop="20260724033000 +0800">
+    <title lang="zh">新聞鏡現場(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721033000 +0800" stop="20260721040000 +0800">
-    <title lang="zh">台語新聞手語</title>
-    <desc>台語新聞手語</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724033000 +0800" stop="20260724040000 +0800">
+    <title lang="zh">台語新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721040000 +0800" stop="20260721043000 +0800">
-    <title lang="zh">另一種注目</title>
-    <desc>《另一種注目》是一個具文化精神的紀實節目，從各種人物故事切入，以嶄新的視野與獨特的觀點，探索台灣社會文化的現象與脈絡，為這個時代留下紀錄。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724040000 +0800" stop="20260724043000 +0800">
+    <title lang="zh">另一種注目(護)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721043000 +0800" stop="20260721050000 +0800">
-    <title lang="zh">文藝賦格</title>
-    <desc>《文藝賦格》融合在地與全球，開拓多元豐富的文化景觀。如同音樂「賦格」一般的創作形式，眾聲雲集，成就臺灣文藝的合唱。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724043000 +0800" stop="20260724050000 +0800">
+    <title lang="zh">文藝賦格(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721050000 +0800" stop="20260721053000 +0800">
-    <title lang="zh">台語新聞手語</title>
-    <desc>台語新聞手語</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724050000 +0800" stop="20260724053000 +0800">
+    <title lang="zh">台語新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721053000 +0800" stop="20260721060000 +0800">
-    <title lang="zh">鏡轉全球</title>
-    <desc>與世界同步，關心你的財富。站在台灣投資人的角度，放眼國際金融市場，提供好看、好懂、好用的國際財經新聞和理財資訊。陪伴觀眾一起，觀測全球市場的風險與機會，掌握影響財富變化的國際脈動。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724053000 +0800" stop="20260724060000 +0800">
+    <title lang="zh">鏡轉全球(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721060000 +0800" stop="20260721070000 +0800">
-    <title lang="zh">新聞鏡現場</title>
-    <desc>新聞鏡現場</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724060000 +0800" stop="20260724070000 +0800">
+    <title lang="zh">新聞鏡現場(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721070000 +0800" stop="20260721090000 +0800">
-    <title lang="zh">早安進行式</title>
-    <desc>我們最關心的，就是台灣各種大小事，內容涵蓋政經、生活、國際等多元面向，在早上七點和八點兩個小時，透過螢幕傳送到您眼前。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724070000 +0800" stop="20260724090000 +0800">
+    <title lang="zh">早安進行式(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721090000 +0800" stop="20260721100000 +0800">
-    <title lang="zh">0900整點新聞</title>
-    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724090000 +0800" stop="20260724100000 +0800">
+    <title lang="zh">0900整點新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721100000 +0800" stop="20260721110000 +0800">
-    <title lang="zh">1000整點新聞</title>
-    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724100000 +0800" stop="20260724110000 +0800">
+    <title lang="zh">1000整點新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721110000 +0800" stop="20260721115500 +0800">
-    <title lang="zh">1100整點新聞</title>
-    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724110000 +0800" stop="20260724115500 +0800">
+    <title lang="zh">1100整點新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721115500 +0800" stop="20260721140000 +0800">
-    <title lang="zh">午間新聞</title>
-    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724115500 +0800" stop="20260724140000 +0800">
+    <title lang="zh">午間新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721140000 +0800" stop="20260721160000 +0800">
-    <title lang="zh">大選鏡來講</title>
-    <desc>大選鏡來講</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724140000 +0800" stop="20260724160000 +0800">
+    <title lang="zh">大選鏡來講(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721160000 +0800" stop="20260721163000 +0800">
-    <title lang="zh">台語新聞</title>
-    <desc>台語新聞</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724160000 +0800" stop="20260724163000 +0800">
+    <title lang="zh">台語新聞手語(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721163000 +0800" stop="20260721170000 +0800">
-    <title lang="zh">1630整點新聞</title>
-    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724163000 +0800" stop="20260724170000 +0800">
+    <title lang="zh">1630整點新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721170000 +0800" stop="20260721180000 +0800">
-    <title lang="zh">1700整點新聞</title>
-    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724170000 +0800" stop="20260724180000 +0800">
+    <title lang="zh">1700整點新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721180000 +0800" stop="20260721200000 +0800">
-    <title lang="zh">晚間新聞</title>
-    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724180000 +0800" stop="20260724200000 +0800">
+    <title lang="zh">晚間新聞(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721200000 +0800" stop="20260721220000 +0800">
-    <title lang="zh">有話鏡來講</title>
-    <desc>邀請關鍵人物，製作深入、平衡的訪談，針對最新時事議題，提供多元、犀利分析。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724200000 +0800" stop="20260724220000 +0800">
+    <title lang="zh">有話鏡來講(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721220000 +0800" stop="20260721230000 +0800">
-    <title lang="zh">新聞鏡現場</title>
-    <desc>新聞鏡現場</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724220000 +0800" stop="20260724230000 +0800">
+    <title lang="zh">新聞鏡現場(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721230000 +0800" stop="20260721233000 +0800">
-    <title lang="zh">鏡轉全球</title>
-    <desc>與世界同步，關心你的財富。站在台灣投資人的角度，放眼國際金融市場，提供好看、好懂、好用的國際財經新聞和理財資訊。陪伴觀眾一起，觀測全球市場的風險與機會，掌握影響財富變化的國際脈動。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724230000 +0800" stop="20260724233000 +0800">
+    <title lang="zh">鏡轉全球(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456587" start="20260721233000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">全球聊天室</title>
-    <desc>最熱門的國際話題，獨特前瞻的觀點，第一線的現場觀察；從台灣放眼全球，讓世界看見台灣。</desc>
-    <date>20260721</date>
+<programme channel="370169" start="20260724233000 +0800" stop="20260725000000 +0800">
+    <title lang="zh">全球聊天室(普)</title>
+    <desc />
+    <date>20260724</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -2070,7 +1863,7 @@
     </audio>
   </programme>
   
-<programme channel="456587" start="20260728000000 +0800" stop="20260729000000 +0800">
+<programme channel="456587" start="20260728000000 +0800" stop="20260728020000 +0800">
     <title lang="zh">有話鏡來講</title>
     <desc>邀請關鍵人物，製作深入、平衡的訪談，針對最新時事議題，提供多元、犀利分析。</desc>
     <date>20260728</date>
@@ -2079,208 +1872,208 @@
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721000000 +0800" stop="20260721020000 +0800">
-    <title lang="zh">有話鏡來講(20)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728020000 +0800" stop="20260728023000 +0800">
+    <title lang="zh">台語新聞手語</title>
+    <desc>台語新聞手語</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721020000 +0800" stop="20260721023000 +0800">
-    <title lang="zh">台語新聞手語(20)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728023000 +0800" stop="20260728033000 +0800">
+    <title lang="zh">新聞鏡現場</title>
+    <desc>新聞鏡現場</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721023000 +0800" stop="20260721033000 +0800">
-    <title lang="zh">新聞鏡現場(20)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728033000 +0800" stop="20260728040000 +0800">
+    <title lang="zh">台語新聞手語</title>
+    <desc>台語新聞手語</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721033000 +0800" stop="20260721040000 +0800">
-    <title lang="zh">台語新聞手語(20)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728040000 +0800" stop="20260728043000 +0800">
+    <title lang="zh">另一種注目</title>
+    <desc>《另一種注目》是一個具文化精神的紀實節目，從各種人物故事切入，以嶄新的視野與獨特的觀點，探索台灣社會文化的現象與脈絡，為這個時代留下紀錄。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721040000 +0800" stop="20260721043000 +0800">
-    <title lang="zh">另一種注目(140)(護)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728043000 +0800" stop="20260728050000 +0800">
+    <title lang="zh">文藝賦格</title>
+    <desc>《文藝賦格》融合在地與全球，開拓多元豐富的文化景觀。如同音樂「賦格」一般的創作形式，眾聲雲集，成就臺灣文藝的合唱。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721043000 +0800" stop="20260721050000 +0800">
-    <title lang="zh">文藝賦格(9)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728050000 +0800" stop="20260728053000 +0800">
+    <title lang="zh">台語新聞手語</title>
+    <desc>台語新聞手語</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721050000 +0800" stop="20260721053000 +0800">
-    <title lang="zh">台語新聞手語(20)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728053000 +0800" stop="20260728060000 +0800">
+    <title lang="zh">鏡轉全球</title>
+    <desc>與世界同步，關心你的財富。站在台灣投資人的角度，放眼國際金融市場，提供好看、好懂、好用的國際財經新聞和理財資訊。陪伴觀眾一起，觀測全球市場的風險與機會，掌握影響財富變化的國際脈動。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721053000 +0800" stop="20260721060000 +0800">
-    <title lang="zh">鏡轉全球(20)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728060000 +0800" stop="20260728070000 +0800">
+    <title lang="zh">新聞鏡現場</title>
+    <desc>新聞鏡現場</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721060000 +0800" stop="20260721070000 +0800">
-    <title lang="zh">新聞鏡現場(20)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728070000 +0800" stop="20260728090000 +0800">
+    <title lang="zh">早安進行式</title>
+    <desc>我們最關心的，就是台灣各種大小事，內容涵蓋政經、生活、國際等多元面向，在早上七點和八點兩個小時，透過螢幕傳送到您眼前。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721070000 +0800" stop="20260721090000 +0800">
-    <title lang="zh">早安進行式(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728090000 +0800" stop="20260728100000 +0800">
+    <title lang="zh">0900整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721090000 +0800" stop="20260721100000 +0800">
-    <title lang="zh">0900整點新聞(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728100000 +0800" stop="20260728110000 +0800">
+    <title lang="zh">1000整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721100000 +0800" stop="20260721110000 +0800">
-    <title lang="zh">1000整點新聞(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728110000 +0800" stop="20260728115500 +0800">
+    <title lang="zh">1100整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721110000 +0800" stop="20260721115500 +0800">
-    <title lang="zh">1100整點新聞(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728115500 +0800" stop="20260728140000 +0800">
+    <title lang="zh">午間新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721115500 +0800" stop="20260721140000 +0800">
-    <title lang="zh">午間新聞(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728140000 +0800" stop="20260728160000 +0800">
+    <title lang="zh">大選鏡來講</title>
+    <desc>大選鏡來講</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721140000 +0800" stop="20260721160000 +0800">
-    <title lang="zh">大選鏡來講(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728160000 +0800" stop="20260728163000 +0800">
+    <title lang="zh">台語新聞</title>
+    <desc>台語新聞</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721160000 +0800" stop="20260721163000 +0800">
-    <title lang="zh">台語新聞(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728163000 +0800" stop="20260728170000 +0800">
+    <title lang="zh">1630整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721163000 +0800" stop="20260721170000 +0800">
-    <title lang="zh">1630整點新聞(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728170000 +0800" stop="20260728180000 +0800">
+    <title lang="zh">1700整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721170000 +0800" stop="20260721180000 +0800">
-    <title lang="zh">1700整點新聞(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728180000 +0800" stop="20260728200000 +0800">
+    <title lang="zh">晚間新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721180000 +0800" stop="20260721200000 +0800">
-    <title lang="zh">晚間新聞(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728200000 +0800" stop="20260728220000 +0800">
+    <title lang="zh">有話鏡來講</title>
+    <desc>邀請關鍵人物，製作深入、平衡的訪談，針對最新時事議題，提供多元、犀利分析。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721200000 +0800" stop="20260721220000 +0800">
-    <title lang="zh">有話鏡來講(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728220000 +0800" stop="20260728230000 +0800">
+    <title lang="zh">新聞鏡現場</title>
+    <desc>新聞鏡現場</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721220000 +0800" stop="20260721230000 +0800">
-    <title lang="zh">新聞鏡現場(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728230000 +0800" stop="20260728233000 +0800">
+    <title lang="zh">鏡轉全球</title>
+    <desc>與世界同步，關心你的財富。站在台灣投資人的角度，放眼國際金融市場，提供好看、好懂、好用的國際財經新聞和理財資訊。陪伴觀眾一起，觀測全球市場的風險與機會，掌握影響財富變化的國際脈動。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721230000 +0800" stop="20260721233000 +0800">
-    <title lang="zh">鏡轉全球(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260728233000 +0800" stop="20260729000000 +0800">
+    <title lang="zh">全球聊天室</title>
+    <desc>最熱門的國際話題，獨特前瞻的觀點，第一線的現場觀察；從台灣放眼全球，讓世界看見台灣。</desc>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="457341" start="20260721233000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">全球聊天室(21)(普)</title>
-    <desc />
-    <date>20260721</date>
+<programme channel="456587" start="20260729000000 +0800" stop="20260730000000 +0800">
+    <title lang="zh">有話鏡來講</title>
+    <desc>邀請關鍵人物，製作深入、平衡的訪談，針對最新時事議題，提供多元、犀利分析。</desc>
+    <date>20260729</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -3523,6 +3316,213 @@
     <title lang="zh">全球聊天室(27)(普)</title>
     <desc />
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728000000 +0800" stop="20260728020000 +0800">
+    <title lang="zh">有話鏡來講(27)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728020000 +0800" stop="20260728023000 +0800">
+    <title lang="zh">台語新聞手語(27)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728023000 +0800" stop="20260728033000 +0800">
+    <title lang="zh">新聞鏡現場(27)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728033000 +0800" stop="20260728040000 +0800">
+    <title lang="zh">台語新聞手語(27)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728040000 +0800" stop="20260728043000 +0800">
+    <title lang="zh">另一種注目(167)(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728043000 +0800" stop="20260728050000 +0800">
+    <title lang="zh">文藝賦格(21)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728050000 +0800" stop="20260728053000 +0800">
+    <title lang="zh">台語新聞手語(27)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728053000 +0800" stop="20260728060000 +0800">
+    <title lang="zh">鏡轉全球(27)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728060000 +0800" stop="20260728070000 +0800">
+    <title lang="zh">新聞鏡現場(27)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728070000 +0800" stop="20260728090000 +0800">
+    <title lang="zh">早安進行式(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728090000 +0800" stop="20260728100000 +0800">
+    <title lang="zh">0900整點新聞(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728100000 +0800" stop="20260728110000 +0800">
+    <title lang="zh">1000整點新聞(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728110000 +0800" stop="20260728115500 +0800">
+    <title lang="zh">1100整點新聞(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728115500 +0800" stop="20260728140000 +0800">
+    <title lang="zh">午間新聞(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728140000 +0800" stop="20260728160000 +0800">
+    <title lang="zh">大選鏡來講(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728160000 +0800" stop="20260728163000 +0800">
+    <title lang="zh">台語新聞(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728163000 +0800" stop="20260728170000 +0800">
+    <title lang="zh">1630整點新聞(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728170000 +0800" stop="20260728180000 +0800">
+    <title lang="zh">1700整點新聞(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728180000 +0800" stop="20260728200000 +0800">
+    <title lang="zh">晚間新聞(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728200000 +0800" stop="20260728220000 +0800">
+    <title lang="zh">有話鏡來講(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728220000 +0800" stop="20260728230000 +0800">
+    <title lang="zh">新聞鏡現場(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728230000 +0800" stop="20260728233000 +0800">
+    <title lang="zh">鏡轉全球(28)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457341" start="20260728233000 +0800" stop="20260729000000 +0800">
+    <title lang="zh">全球聊天室(28)(普)</title>
+    <desc />
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

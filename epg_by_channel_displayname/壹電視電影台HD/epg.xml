@@ -1,131 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="457374" start="20260721011500 +0800" stop="20260721031500 +0800">
-    <title lang="zh">法庭遊戲(重播)(輔12)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721031500 +0800" stop="20260721050000 +0800">
-    <title lang="zh">死亡解剖(重播)(輔15)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721050000 +0800" stop="20260721060000 +0800">
-    <title lang="zh">盧卡(重播)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721060000 +0800" stop="20260721070000 +0800">
-    <title lang="zh">金裝四大才子(首播)(31)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721070000 +0800" stop="20260721080000 +0800">
-    <title lang="zh">溏心風暴３(首播)(37)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721080000 +0800" stop="20260721110000 +0800">
-    <title lang="zh">空海（經典數位修復）(重播)(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721110000 +0800" stop="20260721130000 +0800">
-    <title lang="zh">加菲貓：農場大冒險(重播)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721130000 +0800" stop="20260721153000 +0800">
-    <title lang="zh">破案天才伽利略：嫌疑犯Ｘ的獻身(重播)(護)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721153000 +0800" stop="20260721171500 +0800">
-    <title lang="zh">純淬－橄欖油的原鄉(重播)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721171500 +0800" stop="20260721190000 +0800">
-    <title lang="zh">搶救動物大作戰(重播)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721190000 +0800" stop="20260721210000 +0800">
-    <title lang="zh">冰雪特工(重播)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721210000 +0800" stop="20260721213000 +0800">
-    <title lang="zh">電影快搜(新播)(500)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721213000 +0800" stop="20260721231500 +0800">
-    <title lang="zh">天使的身影(重播)(普)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457374" start="20260721231500 +0800" stop="20260722013000 +0800">
-    <title lang="zh">哈爾濱(重播)(輔15)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="457374" start="20260722013000 +0800" stop="20260722033000 +0800">
     <title lang="zh">看不見的愛(輔12)</title>
     <desc />
@@ -900,10 +774,145 @@
     </audio>
   </programme>
   
-<programme channel="457374" start="20260727230000 +0800" stop="20260728000000 +0800">
+<programme channel="457374" start="20260727230000 +0800" stop="20260728003000 +0800">
     <title lang="zh">種種相遇(輔12)</title>
     <desc />
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728003000 +0800" stop="20260728023000 +0800">
+    <title lang="zh">隔離巢(輔15)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728023000 +0800" stop="20260728043000 +0800">
+    <title lang="zh">若愛重來(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728043000 +0800" stop="20260728060000 +0800">
+    <title lang="zh">淘氣托托大冒險(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728060000 +0800" stop="20260728070000 +0800">
+    <title lang="zh">金裝四大才子(首播)(36)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728070000 +0800" stop="20260728080000 +0800">
+    <title lang="zh">富貴門(首播)(2)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728080000 +0800" stop="20260728094500 +0800">
+    <title lang="zh">哲人王：李登輝對話篇(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728094500 +0800" stop="20260728103000 +0800">
+    <title lang="zh">講話沒有在聽(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728103000 +0800" stop="20260728123000 +0800">
+    <title lang="zh">我們的青春冒險(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728123000 +0800" stop="20260728144500 +0800">
+    <title lang="zh">岸邊露伴在羅浮(護)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728144500 +0800" stop="20260728164500 +0800">
+    <title lang="zh">追愛首爾行(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728164500 +0800" stop="20260728190000 +0800">
+    <title lang="zh">我是遺照攝影師(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728190000 +0800" stop="20260728210000 +0800">
+    <title lang="zh">靈犬雪麗(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728210000 +0800" stop="20260728213000 +0800">
+    <title lang="zh">電影快搜(新播)(502)(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728213000 +0800" stop="20260728234500 +0800">
+    <title lang="zh">撼山河 撼向世界(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457374" start="20260728234500 +0800" stop="20260729000000 +0800">
+    <title lang="zh">屍蹤７號房(輔15)</title>
+    <desc />
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

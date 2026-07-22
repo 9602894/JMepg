@@ -1,198 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539754" start="20260721010000 +0800" stop="20260721071400 +0800">
-    <title lang="zh">结束</title>
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539754" start="20260722000500 +0800" stop="20260722002000 +0800">
+    <title lang="zh">健康播报</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539754" start="20260721071400 +0800" stop="20260721080700 +0800">
+<programme channel="539754" start="20260722002000 +0800" stop="20260722071400 +0800">
+    <title lang="zh">奇趣大自然</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722071400 +0800" stop="20260722080700 +0800">
     <title lang="zh">探索</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539754" start="20260721080700 +0800" stop="20260721082200 +0800">
+<programme channel="539754" start="20260722080700 +0800" stop="20260722082200 +0800">
     <title lang="zh">快乐旅游</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539754" start="20260721082200 +0800" stop="20260721084300 +0800">
+<programme channel="539754" start="20260722082200 +0800" stop="20260722084300 +0800">
     <title lang="zh">健康播报</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539754" start="20260721084300 +0800" stop="20260721091800 +0800">
+<programme channel="539754" start="20260722084300 +0800" stop="20260722091900 +0800">
     <title lang="zh">奇趣大自然</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539754" start="20260721091800 +0800" stop="20260721111300 +0800">
-    <title lang="zh">大赢家</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721111300 +0800" stop="20260721112800 +0800">
-    <title lang="zh">健康播报</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721112800 +0800" stop="20260721121800 +0800">
-    <title lang="zh">西安人健康报告</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721121800 +0800" stop="20260721122400 +0800">
-    <title lang="zh">奇趣大自然</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721122400 +0800" stop="20260721130400 +0800">
-    <title lang="zh">快乐旅游</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721130400 +0800" stop="20260721134000 +0800">
-    <title lang="zh">奇趣大自然</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721134000 +0800" stop="20260721151500 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721151500 +0800" stop="20260721161600 +0800">
-    <title lang="zh">大赢家</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721161600 +0800" stop="20260721170300 +0800">
-    <title lang="zh">快乐汇</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721170300 +0800" stop="20260721180500 +0800">
-    <title lang="zh">奇趣大自然</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721180500 +0800" stop="20260721185000 +0800">
-    <title lang="zh">奇趣大自然</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721185000 +0800" stop="20260721203500 +0800">
-    <title lang="zh">电视剧</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721203500 +0800" stop="20260721205300 +0800">
-    <title lang="zh">健康播报</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721205300 +0800" stop="20260721213000 +0800">
-    <title lang="zh">快乐旅游</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721213000 +0800" stop="20260721220800 +0800">
-    <title lang="zh">西安新闻</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721220800 +0800" stop="20260721231100 +0800">
-    <title lang="zh">探索</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539754" start="20260721231100 +0800" stop="20260722000000 +0800">
+<programme channel="539754" start="20260722091900 +0800" stop="20260722105500 +0800">
     <title lang="zh">妈妈宝宝</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722105500 +0800" stop="20260722111000 +0800">
+    <title lang="zh">健康播报</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722111000 +0800" stop="20260722115600 +0800">
+    <title lang="zh">西安人健康报告</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722115600 +0800" stop="20260722124700 +0800">
+    <title lang="zh">奇趣大自然</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722124700 +0800" stop="20260722132800 +0800">
+    <title lang="zh">奇趣大自然</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722132800 +0800" stop="20260722151500 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722151500 +0800" stop="20260722161100 +0800">
+    <title lang="zh">妈妈宝宝</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722161100 +0800" stop="20260722170500 +0800">
+    <title lang="zh">时尚健康</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722170500 +0800" stop="20260722185000 +0800">
+    <title lang="zh">奇趣大自然</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722185000 +0800" stop="20260722203500 +0800">
+    <title lang="zh">电视剧</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722203500 +0800" stop="20260722205300 +0800">
+    <title lang="zh">健康播报</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722205300 +0800" stop="20260722213000 +0800">
+    <title lang="zh">快乐旅游</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722213000 +0800" stop="20260722220900 +0800">
+    <title lang="zh">西安新闻</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722220900 +0800" stop="20260722231200 +0800">
+    <title lang="zh">探索</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539754" start="20260722231200 +0800" stop="20260723000000 +0800">
+    <title lang="zh">超访</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

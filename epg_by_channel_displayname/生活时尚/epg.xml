@@ -1,720 +1,837 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="539844" start="20260721001200 +0800" stop="20260721002800 +0800">
-    <title lang="zh">金色公开课:故事课-吴钢等</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721002800 +0800" stop="20260721003000 +0800">
-    <title lang="zh">自然之旅欣赏</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721003000 +0800" stop="20260721055900 +0800">
-    <title lang="zh">电视播控中心播出结束</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721055900 +0800" stop="20260721060000 +0800">
-    <title lang="zh">电视播控中心播出开始</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721060000 +0800" stop="20260721062500 +0800">
-    <title lang="zh">千年陕菜(5):炊金馔玉</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721062500 +0800" stop="20260721062800 +0800">
-    <title lang="zh">闲着:饺子的故事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721062800 +0800" stop="20260721063000 +0800">
-    <title lang="zh">一碗人间烟火(19):红烧鮰鱼</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721063000 +0800" stop="20260721063700 +0800">
-    <title lang="zh">日食记:冰煮羊</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721063700 +0800" stop="20260721064000 +0800">
-    <title lang="zh">漫步上海(10):上海世博文化公园</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721064000 +0800" stop="20260721064300 +0800">
-    <title lang="zh">乐游嘉定:秋霞圃</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721064300 +0800" stop="20260721064500 +0800">
-    <title lang="zh">时尚日志(74)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721064500 +0800" stop="20260721071400 +0800">
-    <title lang="zh">美美搭特训营1(13):选择本命色</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721071400 +0800" stop="20260721075100 +0800">
-    <title lang="zh">川味3(4):天赐神器</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721075100 +0800" stop="20260721081600 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="539844" start="20260722001300 +0800" stop="20260722003800 +0800">
     <title lang="zh">千年陕菜(6):古意薪传</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721081600 +0800" stop="20260721081900 +0800">
+<programme channel="539844" start="20260722003800 +0800" stop="20260722004100 +0800">
     <title lang="zh">闲着:荠菜汤圆</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721081900 +0800" stop="20260721082000 +0800">
-    <title lang="zh">一碗人间烟火(21):黑松露炒虾球</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721082000 +0800" stop="20260721084000 +0800">
-    <title lang="zh">大医来了</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721084000 +0800" stop="20260721084500 +0800">
-    <title lang="zh">日食记:六虾面</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721084500 +0800" stop="20260721084800 +0800">
-    <title lang="zh">时尚日志(75)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721084800 +0800" stop="20260721085000 +0800">
-    <title lang="zh">乐游上海:苏河略影静品闲情</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721085000 +0800" stop="20260721091800 +0800">
-    <title lang="zh">美美搭特训营1(14):巧用丝巾</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721091800 +0800" stop="20260721095500 +0800">
-    <title lang="zh">川味3(5):化作鲜美</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721095500 +0800" stop="20260721102000 +0800">
-    <title lang="zh">千年陕菜(5):炊金馔玉</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721102000 +0800" stop="20260721102300 +0800">
-    <title lang="zh">闲着:饺子的故事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721102300 +0800" stop="20260721102500 +0800">
-    <title lang="zh">一碗人间烟火(19):红烧鮰鱼</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721102500 +0800" stop="20260721103900 +0800">
-    <title lang="zh">金色公开课:故事课-吴钢等</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721103900 +0800" stop="20260721104700 +0800">
-    <title lang="zh">日食记:冰煮羊</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721104700 +0800" stop="20260721104900 +0800">
-    <title lang="zh">漫步上海(10):上海世博文化公园</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721104900 +0800" stop="20260721105300 +0800">
-    <title lang="zh">乐游嘉定:秋霞圃</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721105300 +0800" stop="20260721105600 +0800">
-    <title lang="zh">时尚日志(74)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721105600 +0800" stop="20260721112500 +0800">
-    <title lang="zh">美美搭特训营1(13):选择本命色</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721112500 +0800" stop="20260721120100 +0800">
-    <title lang="zh">川味3(4):天赐神器</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721120100 +0800" stop="20260721122700 +0800">
-    <title lang="zh">千年陕菜(6):古意薪传</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721122700 +0800" stop="20260721123000 +0800">
-    <title lang="zh">闲着:荠菜汤圆</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721123000 +0800" stop="20260721123100 +0800">
-    <title lang="zh">一碗人间烟火(21):黑松露炒虾球</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721123100 +0800" stop="20260721125100 +0800">
-    <title lang="zh">大医来了</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721125100 +0800" stop="20260721125600 +0800">
-    <title lang="zh">日食记:六虾面</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721125600 +0800" stop="20260721125800 +0800">
-    <title lang="zh">时尚日志(75)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721125800 +0800" stop="20260721130200 +0800">
-    <title lang="zh">乐游上海:苏河略影静品闲情</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721130200 +0800" stop="20260721133000 +0800">
-    <title lang="zh">美美搭特训营1(14):巧用丝巾</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721133000 +0800" stop="20260721140700 +0800">
-    <title lang="zh">川味3(5):化作鲜美</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721140700 +0800" stop="20260721143200 +0800">
-    <title lang="zh">千年陕菜(5):炊金馔玉</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721143200 +0800" stop="20260721143500 +0800">
-    <title lang="zh">闲着:饺子的故事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721143500 +0800" stop="20260721143700 +0800">
-    <title lang="zh">一碗人间烟火(19):红烧鮰鱼</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721143700 +0800" stop="20260721145100 +0800">
-    <title lang="zh">金色公开课:故事课-吴钢等</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721145100 +0800" stop="20260721145400 +0800">
-    <title lang="zh">乐游嘉定:秋霞圃</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721145400 +0800" stop="20260721145700 +0800">
-    <title lang="zh">闲着:荠菜汤圆</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721145700 +0800" stop="20260721150000 +0800">
-    <title lang="zh">一碗人间烟火(21):黑松露炒虾球</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721150000 +0800" stop="20260721154000 +0800">
-    <title lang="zh">金色营养课</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721154000 +0800" stop="20260721160900 +0800">
-    <title lang="zh">美美搭特训营1(13):选择本命色</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721160900 +0800" stop="20260721164600 +0800">
-    <title lang="zh">川味3(4):天赐神器</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721164600 +0800" stop="20260721171100 +0800">
-    <title lang="zh">千年陕菜(6):古意薪传</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721171100 +0800" stop="20260721173100 +0800">
-    <title lang="zh">大医来了</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721173100 +0800" stop="20260721173600 +0800">
-    <title lang="zh">日食记:六虾面</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721173600 +0800" stop="20260721173800 +0800">
-    <title lang="zh">时尚日志(75)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721173800 +0800" stop="20260721174200 +0800">
-    <title lang="zh">乐游上海:苏河略影静品闲情</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721174200 +0800" stop="20260721181000 +0800">
-    <title lang="zh">美美搭特训营1(14):巧用丝巾</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721181000 +0800" stop="20260721184600 +0800">
-    <title lang="zh">川味3(5):化作鲜美</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721184600 +0800" stop="20260721191200 +0800">
-    <title lang="zh">千年陕菜(5):炊金馔玉</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721191200 +0800" stop="20260721191400 +0800">
-    <title lang="zh">闲着:饺子的故事</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721191400 +0800" stop="20260721191600 +0800">
-    <title lang="zh">一碗人间烟火(19):红烧鮰鱼</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721191600 +0800" stop="20260721192400 +0800">
-    <title lang="zh">日食记:冰煮羊</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721192400 +0800" stop="20260721192600 +0800">
-    <title lang="zh">漫步上海(10):上海世博文化公园</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721192600 +0800" stop="20260721193000 +0800">
-    <title lang="zh">乐游嘉定:秋霞圃</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721193000 +0800" stop="20260721200000 +0800">
+<programme channel="539844" start="20260722004100 +0800" stop="20260722011100 +0800">
     <title lang="zh">原味记忆:天津小吃(上)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721200000 +0800" stop="20260721202000 +0800">
-    <title lang="zh">大医来了:听力下降怎么办</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721202000 +0800" stop="20260721202300 +0800">
-    <title lang="zh">闲着:关于搪瓷的我都收</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721202300 +0800" stop="20260721202600 +0800">
+<programme channel="539844" start="20260722011100 +0800" stop="20260722011300 +0800">
     <title lang="zh">一碗人间烟火(12):桂花糖藕</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721202600 +0800" stop="20260721203000 +0800">
+<programme channel="539844" start="20260722011300 +0800" stop="20260722013300 +0800">
+    <title lang="zh">大医来了</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722013300 +0800" stop="20260722013800 +0800">
+    <title lang="zh">日食记:六虾面</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722013800 +0800" stop="20260722014000 +0800">
+    <title lang="zh">一碗人间烟火(21):黑松露炒虾球</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722014000 +0800" stop="20260722014200 +0800">
+    <title lang="zh">时尚日志(75)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722014200 +0800" stop="20260722014500 +0800">
+    <title lang="zh">乐游上海:苏河略影静品闲情</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722014500 +0800" stop="20260722021400 +0800">
+    <title lang="zh">美美搭特训营1(14):巧用丝巾</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722021400 +0800" stop="20260722025000 +0800">
+    <title lang="zh">川味3(5):化作鲜美</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722025000 +0800" stop="20260722032000 +0800">
+    <title lang="zh">原味记忆:天津小吃(上)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722032000 +0800" stop="20260722034000 +0800">
+    <title lang="zh">大医来了:听力下降怎么办</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722034000 +0800" stop="20260722034300 +0800">
+    <title lang="zh">闲着:关于搪瓷的我都收</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722034300 +0800" stop="20260722034500 +0800">
+    <title lang="zh">一碗人间烟火(12):桂花糖藕</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722034500 +0800" stop="20260722034900 +0800">
     <title lang="zh">日食记:西瓜多吃</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721203000 +0800" stop="20260721211000 +0800">
-    <title lang="zh">金色营养课</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721211000 +0800" stop="20260721213900 +0800">
-    <title lang="zh">健身私享课1(9):臀腿增肌</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539844" start="20260721213900 +0800" stop="20260721220800 +0800">
+<programme channel="539844" start="20260722034900 +0800" stop="20260722041900 +0800">
     <title lang="zh">美美搭特训营1(15):荧光色穿搭</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721220800 +0800" stop="20260721224400 +0800">
+<programme channel="539844" start="20260722041900 +0800" stop="20260722045500 +0800">
     <title lang="zh">川味3(6):油燃而生</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721224400 +0800" stop="20260721231400 +0800">
+<programme channel="539844" start="20260722045500 +0800" stop="20260722052000 +0800">
+    <title lang="zh">千年陕菜(6):古意薪传</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722052000 +0800" stop="20260722052300 +0800">
+    <title lang="zh">闲着:荠菜汤圆</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722052300 +0800" stop="20260722052500 +0800">
+    <title lang="zh">一碗人间烟火(21):黑松露炒虾球</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722052500 +0800" stop="20260722054500 +0800">
+    <title lang="zh">大医来了</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722054500 +0800" stop="20260722055000 +0800">
+    <title lang="zh">日食记:六虾面</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722055000 +0800" stop="20260722055200 +0800">
+    <title lang="zh">时尚日志(75)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722055200 +0800" stop="20260722055500 +0800">
+    <title lang="zh">乐游上海:苏河略影静品闲情</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722055500 +0800" stop="20260722062400 +0800">
+    <title lang="zh">美美搭特训营1(14):巧用丝巾</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722062400 +0800" stop="20260722070000 +0800">
+    <title lang="zh">川味3(5):化作鲜美</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722070000 +0800" stop="20260722073000 +0800">
     <title lang="zh">原味记忆:天津小吃(上)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721231400 +0800" stop="20260721233400 +0800">
+<programme channel="539844" start="20260722073000 +0800" stop="20260722075000 +0800">
     <title lang="zh">大医来了:听力下降怎么办</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721233400 +0800" stop="20260721233700 +0800">
+<programme channel="539844" start="20260722075000 +0800" stop="20260722075300 +0800">
     <title lang="zh">闲着:关于搪瓷的我都收</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721233700 +0800" stop="20260721233900 +0800">
+<programme channel="539844" start="20260722075300 +0800" stop="20260722075500 +0800">
     <title lang="zh">一碗人间烟火(12):桂花糖藕</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721233900 +0800" stop="20260721234400 +0800">
+<programme channel="539844" start="20260722075500 +0800" stop="20260722075900 +0800">
     <title lang="zh">日食记:西瓜多吃</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721234400 +0800" stop="20260721235900 +0800">
-    <title lang="zh">健身私享课1(9):臀腿增肌</title>
+<programme channel="539844" start="20260722075900 +0800" stop="20260722082900 +0800">
+    <title lang="zh">美美搭特训营1(15):荧光色穿搭</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539844" start="20260721235900 +0800" stop="20260722000000 +0800">
-    <title lang="zh">结束</title>
+<programme channel="539844" start="20260722082900 +0800" stop="20260722090500 +0800">
+    <title lang="zh">川味3(6):油燃而生</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722090500 +0800" stop="20260722093000 +0800">
+    <title lang="zh">千年陕菜(6):古意薪传</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722093000 +0800" stop="20260722093300 +0800">
+    <title lang="zh">闲着:荠菜汤圆</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722093300 +0800" stop="20260722093500 +0800">
+    <title lang="zh">一碗人间烟火(21):黑松露炒虾球</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722093500 +0800" stop="20260722095500 +0800">
+    <title lang="zh">大医来了</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722095500 +0800" stop="20260722100000 +0800">
+    <title lang="zh">日食记:六虾面</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722100000 +0800" stop="20260722100200 +0800">
+    <title lang="zh">时尚日志(75)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722100200 +0800" stop="20260722100500 +0800">
+    <title lang="zh">乐游上海:苏河略影静品闲情</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722100500 +0800" stop="20260722103400 +0800">
+    <title lang="zh">美美搭特训营1(14):巧用丝巾</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722103400 +0800" stop="20260722111000 +0800">
+    <title lang="zh">川味3(5):化作鲜美</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722111000 +0800" stop="20260722114000 +0800">
+    <title lang="zh">原味记忆:天津小吃(上)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722114000 +0800" stop="20260722120000 +0800">
+    <title lang="zh">大医来了:听力下降怎么办</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722120000 +0800" stop="20260722120300 +0800">
+    <title lang="zh">闲着:关于搪瓷的我都收</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722120300 +0800" stop="20260722120500 +0800">
+    <title lang="zh">一碗人间烟火(12):桂花糖藕</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722120500 +0800" stop="20260722123400 +0800">
+    <title lang="zh">美美搭特训营1(15):荧光色穿搭</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722123400 +0800" stop="20260722131000 +0800">
+    <title lang="zh">川味3(6):油燃而生</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722131000 +0800" stop="20260722133500 +0800">
+    <title lang="zh">千年陕菜(6):古意薪传</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722133500 +0800" stop="20260722135600 +0800">
+    <title lang="zh">大医来了</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722135600 +0800" stop="20260722142400 +0800">
+    <title lang="zh">美美搭特训营1(14):巧用丝巾</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722142400 +0800" stop="20260722150000 +0800">
+    <title lang="zh">川味3(5):化作鲜美</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722150000 +0800" stop="20260722154100 +0800">
+    <title lang="zh">金色营养课(1)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722154100 +0800" stop="20260722154500 +0800">
+    <title lang="zh">日食记:西瓜多吃</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722154500 +0800" stop="20260722154800 +0800">
+    <title lang="zh">闲着:荠菜汤圆</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722154800 +0800" stop="20260722155000 +0800">
+    <title lang="zh">一碗人间烟火(21):黑松露炒虾球</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722155000 +0800" stop="20260722162000 +0800">
+    <title lang="zh">原味记忆:天津小吃(上)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722162000 +0800" stop="20260722164000 +0800">
+    <title lang="zh">大医来了:听力下降怎么办</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722164000 +0800" stop="20260722164300 +0800">
+    <title lang="zh">闲着:关于搪瓷的我都收</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722164300 +0800" stop="20260722164500 +0800">
+    <title lang="zh">一碗人间烟火(12):桂花糖藕</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722164500 +0800" stop="20260722164900 +0800">
+    <title lang="zh">日食记:西瓜多吃</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722164900 +0800" stop="20260722171900 +0800">
+    <title lang="zh">美美搭特训营1(15):荧光色穿搭</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722171900 +0800" stop="20260722175500 +0800">
+    <title lang="zh">川味3(6):油燃而生</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722175500 +0800" stop="20260722182000 +0800">
+    <title lang="zh">千年陕菜(6):古意薪传</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722182000 +0800" stop="20260722182300 +0800">
+    <title lang="zh">闲着:荠菜汤圆</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722182300 +0800" stop="20260722182500 +0800">
+    <title lang="zh">一碗人间烟火(21):黑松露炒虾球</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722182500 +0800" stop="20260722184500 +0800">
+    <title lang="zh">大医来了</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722184500 +0800" stop="20260722185000 +0800">
+    <title lang="zh">日食记:六虾面</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722185000 +0800" stop="20260722185200 +0800">
+    <title lang="zh">时尚日志(75)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722185200 +0800" stop="20260722185600 +0800">
+    <title lang="zh">乐游上海:苏河略影静品闲情</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722185600 +0800" stop="20260722192400 +0800">
+    <title lang="zh">美美搭特训营1(14):巧用丝巾</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722192400 +0800" stop="20260722192700 +0800">
+    <title lang="zh">日食记:西瓜多吃</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722192700 +0800" stop="20260722193000 +0800">
+    <title lang="zh">一碗人间烟火(12):桂花糖藕</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722193000 +0800" stop="20260722195500 +0800">
+    <title lang="zh">原味记忆:天津小吃(下)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722195500 +0800" stop="20260722195700 +0800">
+    <title lang="zh">一碗人间烟火:茶香花椒清酒焗蟹</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722195700 +0800" stop="20260722200000 +0800">
+    <title lang="zh">闲着:火腿腐乳</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722200000 +0800" stop="20260722202000 +0800">
+    <title lang="zh">大医来了</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722202000 +0800" stop="20260722202700 +0800">
+    <title lang="zh">日食记:羊蝎子火锅和东北烧烤</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722202700 +0800" stop="20260722202900 +0800">
+    <title lang="zh">乐游浦东:上海国际旅游度假区(2)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722202900 +0800" stop="20260722203000 +0800">
+    <title lang="zh">黄浦微旅行(10):南京东路东拓</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722203000 +0800" stop="20260722211100 +0800">
+    <title lang="zh">金色营养课(8)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722211100 +0800" stop="20260722214000 +0800">
+    <title lang="zh">健身私享课1(10):臀腿拉伸</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722214000 +0800" stop="20260722221100 +0800">
+    <title lang="zh">美美搭特训营1:时尚百搭单品</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722221100 +0800" stop="20260722223300 +0800">
+    <title lang="zh">记录冬日(1)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722223300 +0800" stop="20260722225800 +0800">
+    <title lang="zh">原味记忆:天津小吃(下)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722225800 +0800" stop="20260722230000 +0800">
+    <title lang="zh">一碗人间烟火:茶香花椒清酒焗蟹</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722230000 +0800" stop="20260722230300 +0800">
+    <title lang="zh">闲着:火腿腐乳</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722230300 +0800" stop="20260722232300 +0800">
+    <title lang="zh">大医来了</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722232300 +0800" stop="20260722233000 +0800">
+    <title lang="zh">日食记:羊蝎子火锅和东北烧烤</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722233000 +0800" stop="20260722233200 +0800">
+    <title lang="zh">乐游浦东:上海国际旅游度假区(2)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722233200 +0800" stop="20260722233400 +0800">
+    <title lang="zh">黄浦微旅行(10):南京东路东拓</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539844" start="20260722233400 +0800" stop="20260723000000 +0800">
+    <title lang="zh">健身私享课1(10):臀腿拉伸</title>
+    <desc />
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

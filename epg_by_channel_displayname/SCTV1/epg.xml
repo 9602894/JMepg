@@ -1,306 +1,270 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="544320" start="20260721002700 +0800" stop="20260721011900 +0800">
-    <title lang="zh">遇见最极致的中国</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544320" start="20260721011900 +0800" stop="20260721030500 +0800">
-    <title lang="zh">三星堆-古老的城市</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544320" start="20260721030500 +0800" stop="20260721042200 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="544320" start="20260722002300 +0800" stop="20260722055500 +0800">
     <title lang="zh">千古风范苏东坡</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721042200 +0800" stop="20260721050100 +0800">
-    <title lang="zh">华西论健</title>
+<programme channel="544320" start="20260722055500 +0800" stop="20260722070000 +0800">
+    <title lang="zh">飞哥大英雄(26)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721050100 +0800" stop="20260721055500 +0800">
-    <title lang="zh">飞哥大英雄(24)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544320" start="20260721055500 +0800" stop="20260721070000 +0800">
-    <title lang="zh">飞哥大英雄(25)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544320" start="20260721070000 +0800" stop="20260721070100 +0800">
+<programme channel="544320" start="20260722070000 +0800" stop="20260722070100 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721070100 +0800" stop="20260721073000 +0800">
+<programme channel="544320" start="20260722070100 +0800" stop="20260722073000 +0800">
     <title lang="zh">早安四川</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721073000 +0800" stop="20260721081000 +0800">
+<programme channel="544320" start="20260722073000 +0800" stop="20260722081000 +0800">
     <title lang="zh">早间气象</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721081000 +0800" stop="20260721082000 +0800">
-    <title lang="zh">航海少年团(22)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544320" start="20260721082000 +0800" stop="20260721083000 +0800">
-    <title lang="zh">航海少年团(23)</title>
-    <desc />
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544320" start="20260721083000 +0800" stop="20260721084000 +0800">
+<programme channel="544320" start="20260722081000 +0800" stop="20260722082000 +0800">
     <title lang="zh">航海少年团(24)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721084000 +0800" stop="20260721093200 +0800">
-    <title lang="zh">天狼星行动(20)</title>
+<programme channel="544320" start="20260722082000 +0800" stop="20260722083000 +0800">
+    <title lang="zh">航海少年团(25)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721093200 +0800" stop="20260721102500 +0800">
-    <title lang="zh">天狼星行动(21)</title>
+<programme channel="544320" start="20260722083000 +0800" stop="20260722084000 +0800">
+    <title lang="zh">航海少年团(26)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721102500 +0800" stop="20260721111700 +0800">
-    <title lang="zh">天狼星行动(22)</title>
+<programme channel="544320" start="20260722084000 +0800" stop="20260722093200 +0800">
+    <title lang="zh">天狼星行动(30)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721111700 +0800" stop="20260721121000 +0800">
-    <title lang="zh">天狼星行动(23)</title>
+<programme channel="544320" start="20260722093200 +0800" stop="20260722102500 +0800">
+    <title lang="zh">天狼星行动(31)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721121000 +0800" stop="20260721122000 +0800">
+<programme channel="544320" start="20260722102500 +0800" stop="20260722111700 +0800">
+    <title lang="zh">天狼星行动(32)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544320" start="20260722111700 +0800" stop="20260722121000 +0800">
+    <title lang="zh">天狼星行动(33)</title>
+    <desc />
+    <date>20260722</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544320" start="20260722121000 +0800" stop="20260722122000 +0800">
     <title lang="zh">午间气象播报</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721122000 +0800" stop="20260721131600 +0800">
-    <title lang="zh">天狼星行动(24)</title>
+<programme channel="544320" start="20260722122000 +0800" stop="20260722131600 +0800">
+    <title lang="zh">天狼星行动(34)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721131600 +0800" stop="20260721141300 +0800">
-    <title lang="zh">天狼星行动(25)</title>
+<programme channel="544320" start="20260722131600 +0800" stop="20260722141300 +0800">
+    <title lang="zh">天狼星行动(35)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721141300 +0800" stop="20260721151000 +0800">
-    <title lang="zh">天狼星行动(26)</title>
+<programme channel="544320" start="20260722141300 +0800" stop="20260722151000 +0800">
+    <title lang="zh">天狼星行动(36)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721151000 +0800" stop="20260721160600 +0800">
-    <title lang="zh">天狼星行动(27)</title>
+<programme channel="544320" start="20260722151000 +0800" stop="20260722160600 +0800">
+    <title lang="zh">天狼星行动(37)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721160600 +0800" stop="20260721170300 +0800">
-    <title lang="zh">天狼星行动(28)</title>
+<programme channel="544320" start="20260722160600 +0800" stop="20260722170300 +0800">
+    <title lang="zh">天狼星行动(38)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721170300 +0800" stop="20260721180000 +0800">
-    <title lang="zh">天狼星行动(29)</title>
+<programme channel="544320" start="20260722170300 +0800" stop="20260722180000 +0800">
+    <title lang="zh">天狼星行动(39)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721180000 +0800" stop="20260721183000 +0800">
+<programme channel="544320" start="20260722180000 +0800" stop="20260722183000 +0800">
     <title lang="zh">四川超安逸</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721183000 +0800" stop="20260721185500 +0800">
+<programme channel="544320" start="20260722183000 +0800" stop="20260722185500 +0800">
     <title lang="zh">四川新闻联播</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721185500 +0800" stop="20260721190000 +0800">
+<programme channel="544320" start="20260722185500 +0800" stop="20260722190000 +0800">
     <title lang="zh">四川省城市天气预报</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721190000 +0800" stop="20260721193500 +0800">
+<programme channel="544320" start="20260722190000 +0800" stop="20260722193500 +0800">
     <title lang="zh">转播中央台新闻联播</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721193500 +0800" stop="20260721202700 +0800">
+<programme channel="544320" start="20260722193500 +0800" stop="20260722202700 +0800">
     <title lang="zh">秋蝉(27)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721202700 +0800" stop="20260721212000 +0800">
+<programme channel="544320" start="20260722202700 +0800" stop="20260722212000 +0800">
     <title lang="zh">秋蝉(28)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721212000 +0800" stop="20260721220000 +0800">
-    <title lang="zh">川菜开放日</title>
+<programme channel="544320" start="20260722212000 +0800" stop="20260722220000 +0800">
+    <title lang="zh">瞧，桥2</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721220000 +0800" stop="20260721223000 +0800">
+<programme channel="544320" start="20260722220000 +0800" stop="20260722223000 +0800">
     <title lang="zh">四川新闻联播</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721223000 +0800" stop="20260721231000 +0800">
-    <title lang="zh">孤舟(21)</title>
+<programme channel="544320" start="20260722223000 +0800" stop="20260722231000 +0800">
+    <title lang="zh">孤舟(24)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721231000 +0800" stop="20260721235000 +0800">
-    <title lang="zh">孤舟(22)</title>
+<programme channel="544320" start="20260722231000 +0800" stop="20260722235000 +0800">
+    <title lang="zh">孤舟(25)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544320" start="20260721235000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">孤舟(23)</title>
+<programme channel="544320" start="20260722235000 +0800" stop="20260723000000 +0800">
+    <title lang="zh">孤舟(26)</title>
     <desc />
-    <date>20260721</date>
+    <date>20260722</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

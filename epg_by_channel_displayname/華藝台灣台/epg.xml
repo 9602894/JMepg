@@ -1,104 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="456609" start="20260721000000 +0800" stop="20260721060000 +0800">
-    <title lang="zh">阿忠出國</title>
-    <desc>阿忠出國</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721060000 +0800" stop="20260721080000 +0800">
-    <title lang="zh">林峰心情車站</title>
-    <desc>旨在透過分享佛法智慧來解答生活中的疑難與心境調適。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721080000 +0800" stop="20260721100000 +0800">
-    <title lang="zh">好幸福俱樂部</title>
-    <desc>節目風格親切，主打懷舊經典台語老歌與實體銷售，並有主持人與粉絲互動、銷售健康食品與生活用品。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721100000 +0800" stop="20260721120000 +0800">
-    <title lang="zh">謝大山歌友會</title>
-    <desc>謝大山歌友會</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721120000 +0800" stop="20260721140000 +0800">
-    <title lang="zh">美麗人升</title>
-    <desc>美麗人升</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721140000 +0800" stop="20260721160000 +0800">
-    <title lang="zh">阿錡to新聞</title>
-    <desc>由林明期（阿錡）主持的台語現場Call-in綜藝談話節目，結合時事評論、台語四句聯、歌唱表演與生技產品銷售。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721160000 +0800" stop="20260721180000 +0800">
-    <title lang="zh">好幸福俱樂部</title>
-    <desc>節目風格親切，主打懷舊經典台語老歌與實體銷售，並有主持人與粉絲互動、銷售健康食品與生活用品。</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721180000 +0800" stop="20260721190000 +0800">
-    <title lang="zh">美麗人生</title>
-    <desc>美麗人生</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721190000 +0800" stop="20260721210000 +0800">
-    <title lang="zh">美麗人生</title>
-    <desc>美麗人生</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721210000 +0800" stop="20260721230000 +0800">
-    <title lang="zh">謝大山歌友會</title>
-    <desc>謝大山歌友會</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456609" start="20260721230000 +0800" stop="20260722000000 +0800">
-    <title lang="zh">美麗人生</title>
-    <desc>美麗人生</desc>
-    <date>20260721</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
 <programme channel="456609" start="20260722000000 +0800" stop="20260722060000 +0800">
     <title lang="zh">阿忠出國</title>
     <desc>阿忠出國</desc>
@@ -693,10 +594,109 @@
     </audio>
   </programme>
   
-<programme channel="456609" start="20260728000000 +0800" stop="20260729000000 +0800">
+<programme channel="456609" start="20260728000000 +0800" stop="20260728060000 +0800">
     <title lang="zh">阿忠出國</title>
     <desc>阿忠出國</desc>
     <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728060000 +0800" stop="20260728080000 +0800">
+    <title lang="zh">林峰心情車站</title>
+    <desc>旨在透過分享佛法智慧來解答生活中的疑難與心境調適。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728080000 +0800" stop="20260728100000 +0800">
+    <title lang="zh">好幸福俱樂部</title>
+    <desc>節目風格親切，主打懷舊經典台語老歌與實體銷售，並有主持人與粉絲互動、銷售健康食品與生活用品。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728100000 +0800" stop="20260728120000 +0800">
+    <title lang="zh">謝大山歌友會</title>
+    <desc>謝大山歌友會</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728120000 +0800" stop="20260728140000 +0800">
+    <title lang="zh">美麗人升</title>
+    <desc>美麗人升</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728140000 +0800" stop="20260728160000 +0800">
+    <title lang="zh">阿錡to新聞</title>
+    <desc>由林明期（阿錡）主持的台語現場Call-in綜藝談話節目，結合時事評論、台語四句聯、歌唱表演與生技產品銷售。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728160000 +0800" stop="20260728180000 +0800">
+    <title lang="zh">好幸福俱樂部</title>
+    <desc>節目風格親切，主打懷舊經典台語老歌與實體銷售，並有主持人與粉絲互動、銷售健康食品與生活用品。</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728180000 +0800" stop="20260728190000 +0800">
+    <title lang="zh">美麗人生</title>
+    <desc>美麗人生</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728190000 +0800" stop="20260728210000 +0800">
+    <title lang="zh">美麗人生</title>
+    <desc>美麗人生</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728210000 +0800" stop="20260728230000 +0800">
+    <title lang="zh">謝大山歌友會</title>
+    <desc>謝大山歌友會</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260728230000 +0800" stop="20260729000000 +0800">
+    <title lang="zh">美麗人生</title>
+    <desc>美麗人生</desc>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456609" start="20260729000000 +0800" stop="20260730000000 +0800">
+    <title lang="zh">阿忠出國</title>
+    <desc>阿忠出國</desc>
+    <date>20260729</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
