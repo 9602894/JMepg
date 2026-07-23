@@ -1,50 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="410420" start="20260722000000 +0800" stop="20260722050000 +0800">
-    <title lang="zh">第154屆英國高爾夫球公開賽 </title>
-    <desc />
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410420" start="20260722050000 +0800" stop="20260722100000 +0800">
-    <title lang="zh">第154屆英國高爾夫球公開賽 </title>
-    <desc />
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410420" start="20260722100000 +0800" stop="20260722140000 +0800">
-    <title lang="zh">第154屆英國高爾夫球公開賽 </title>
-    <desc />
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410420" start="20260722140000 +0800" stop="20260722190000 +0800">
-    <title lang="zh">第154屆英國高爾夫球公開賽 </title>
-    <desc />
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410420" start="20260722190000 +0800" stop="20260723000000 +0800">
-    <title lang="zh">第154屆英國高爾夫球公開賽 </title>
-    <desc />
-    <date>20260722</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="410420" start="20260723000000 +0800" stop="20260723040000 +0800">
     <title lang="zh">女子業餘高爾夫球錦標賽2026 </title>
     <desc />
@@ -616,6 +571,51 @@
     <title lang="zh">先進英國高爾夫球公開賽2026 </title>
     <desc />
     <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410420" start="20260729000000 +0800" stop="20260729030000 +0800">
+    <title lang="zh">亞太女子高爾夫球業餘錦標賽2026 </title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410420" start="20260729030000 +0800" stop="20260729080000 +0800">
+    <title lang="zh">LIV Golf 2026 英國站 </title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410420" start="20260729080000 +0800" stop="20260729133000 +0800">
+    <title lang="zh">先進英國高爾夫球公開賽2026 </title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410420" start="20260729133000 +0800" stop="20260729183000 +0800">
+    <title lang="zh">LIV Golf 2026 英國站 </title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410420" start="20260729183000 +0800" stop="20260730000000 +0800">
+    <title lang="zh">先進英國高爾夫球公開賽2026 </title>
+    <desc />
+    <date>20260729</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
