@@ -1,113 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="370259" start="20260723025400 +0800" stop="20260723042800 +0800">
-    <title lang="zh">神秘的人</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723042800 +0800" stop="20260723053700 +0800">
-    <title lang="zh">水性楊花</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723053700 +0800" stop="20260723072200 +0800">
-    <title lang="zh">宮本武藏三部曲 決鬥巖流島</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723072200 +0800" stop="20260723092500 +0800">
-    <title lang="zh">偷龍轉鳳</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723092500 +0800" stop="20260723105100 +0800">
-    <title lang="zh">倫敦的人行道</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723105100 +0800" stop="20260723124700 +0800">
-    <title lang="zh">007情報員 雷霆谷</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723124700 +0800" stop="20260723153900 +0800">
-    <title lang="zh">窈窕淑女</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723153900 +0800" stop="20260723174600 +0800">
-    <title lang="zh">十一羅漢</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723174600 +0800" stop="20260723192300 +0800">
-    <title lang="zh">救生艇</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723192300 +0800" stop="20260723211000 +0800">
-    <title lang="zh">自古英雄多寂寞</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723211000 +0800" stop="20260723232800 +0800">
-    <title lang="zh">戰國英豪</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370259" start="20260723232800 +0800" stop="20260724010100 +0800">
-    <title lang="zh">太平洋潛艇戰</title>
-    <desc />
-    <date>20260723</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="370259" start="20260724010100 +0800" stop="20260724030800 +0800">
     <title lang="zh">諜網迷魂</title>
     <desc />
@@ -351,10 +243,127 @@
     </audio>
   </programme>
   
-<programme channel="370259" start="20260725232800 +0800" stop="20260726000000 +0800">
+<programme channel="370259" start="20260725232800 +0800" stop="20260726010900 +0800">
     <title lang="zh">怪獸特輯 摩斯拉的誕生</title>
     <desc />
     <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726010900 +0800" stop="20260726023500 +0800">
+    <title lang="zh">怪獸特輯 哥吉拉之南海大決鬥</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726023500 +0800" stop="20260726040600 +0800">
+    <title lang="zh">怪獸特輯 金剛大戰哥吉拉</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726040600 +0800" stop="20260726054000 +0800">
+    <title lang="zh">怪獸特輯 哥吉拉之怪獸大戰爭</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726054000 +0800" stop="20260726071300 +0800">
+    <title lang="zh">怪獸特輯 三大怪獸之地球大決戰</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726071300 +0800" stop="20260726094300 +0800">
+    <title lang="zh">惡人睡得香</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726094300 +0800" stop="20260726112000 +0800">
+    <title lang="zh">歡愉</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726112000 +0800" stop="20260726131300 +0800">
+    <title lang="zh">斯巴達300壯士</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726131300 +0800" stop="20260726142900 +0800">
+    <title lang="zh">無須敲門</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726142900 +0800" stop="20260726160300 +0800">
+    <title lang="zh">巴士站</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726160300 +0800" stop="20260726173000 +0800">
+    <title lang="zh">國防大機密</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726173000 +0800" stop="20260726203300 +0800">
+    <title lang="zh">怪談 Kawidan</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726203300 +0800" stop="20260726222900 +0800">
+    <title lang="zh">鐘樓怪人 The Hunchback of Notre Dame</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370259" start="20260726222900 +0800" stop="20260727000000 +0800">
+    <title lang="zh">貴婦失蹤案</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
