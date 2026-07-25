@@ -1,95 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="370208" start="20260724000000 +0800" stop="20260724060000 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260724060000 +0800" stop="20260724065700 +0800">
-    <title lang="zh">追日潤菁英邀請賽 第二回合(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260724065700 +0800" stop="20260724131200 +0800">
-    <title lang="zh">115年自由盃國小團體桌球 5/04賽程(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260724131200 +0800" stop="20260724160700 +0800">
-    <title lang="zh">115年少年跆拳道 第一場地 6/13賽程(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260724160700 +0800" stop="20260724170800 +0800">
-    <title lang="zh">2026會長盃卡巴迪 高中男冠軍戰 高雄鼓山 vs 花蓮海星(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260724170800 +0800" stop="20260724182500 +0800">
-    <title lang="zh">114學年國小籃球 女子305 季軍戰 竹市西門 vs 臺南協進(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260724182500 +0800" stop="20260724193900 +0800">
-    <title lang="zh">114學年國小籃球 男子305 季軍戰 苗栗大同 vs 臺中大雅(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260724193900 +0800" stop="20260724205400 +0800">
-    <title lang="zh">114學年國小籃球 女子305 冠軍戰 臺中東興 vs 苗栗大同(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260724205400 +0800" stop="20260724220000 +0800">
-    <title lang="zh">114學年國小籃球 男子305 冠軍戰 宜蘭頭城 vs 新北埔墘(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260724220000 +0800" stop="20260725000000 +0800">
-    <title lang="zh">2024國賓ADT公開賽第三、四回合(普)</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="370208" start="20260725000000 +0800" stop="20260725060000 +0800">
     <title lang="zh">休播(普)</title>
     <desc />
@@ -283,6 +193,69 @@
     <title lang="zh">2025中華大家功德會公開賽 第三、四回合(普)</title>
     <desc />
     <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260727000000 +0800" stop="20260727060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260727060000 +0800" stop="20260727071000 +0800">
+    <title lang="zh">2025三花青少年逐夢盃邀請賽 第三回合(普)</title>
+    <desc />
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260727071000 +0800" stop="20260727121000 +0800">
+    <title lang="zh">2026國際帕拉桌球菁英賽 5/20賽程(普)</title>
+    <desc />
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260727121000 +0800" stop="20260727170100 +0800">
+    <title lang="zh">115年全國柔道錦標賽 5/21賽程(普)</title>
+    <desc />
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260727170100 +0800" stop="20260727201700 +0800">
+    <title lang="zh">115年少年跆拳道 第一場地 6/12賽程(普)</title>
+    <desc />
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260727201700 +0800" stop="20260727214200 +0800">
+    <title lang="zh">114學年國小籃球 女子260 冠軍戰 南投南光 vs 新北安坑(普)</title>
+    <desc />
+    <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260727214200 +0800" stop="20260728000000 +0800">
+    <title lang="zh">2026肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
+    <desc />
+    <date>20260727</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

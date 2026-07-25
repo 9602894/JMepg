@@ -1,423 +1,855 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554430" start="20260720000000 +0800" stop="20260720002700 +0800">
-    <title lang="zh">凤凰洲际快车 -20/7/26</title>
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558926" start="20260725000000 +0800" stop="20260725005700 +0800">
+    <title lang="zh">凤凰洲际快车 -25/7/26</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720002700 +0800" stop="20260720003000 +0800">
+<programme channel="558926" start="20260725005700 +0800" stop="20260725010000 +0800">
     <title lang="zh">凤凰气象站</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720003000 +0800" stop="20260720010000 +0800">
-    <title lang="zh">文化大观园 第482集</title>
+<programme channel="558926" start="20260725010000 +0800" stop="20260725013000 +0800">
+    <title lang="zh">有报天天读 -24/7/26</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720010000 +0800" stop="20260720020000 +0800">
-    <title lang="zh">凤凰大健康 第395集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720020000 +0800" stop="20260720023000 +0800">
-    <title lang="zh">纪录大时代 第1566集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720023000 +0800" stop="20260720030000 +0800">
-    <title lang="zh">香港新视点 第513集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720030000 +0800" stop="20260720033000 +0800">
-    <title lang="zh">新闻今日谈 -19/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720033000 +0800" stop="20260720040000 +0800">
-    <title lang="zh">筑梦天下 第489集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720040000 +0800" stop="20260720043000 +0800">
-    <title lang="zh">风云对话 第429集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720043000 +0800" stop="20260720050000 +0800">
-    <title lang="zh">近观中国 第234集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720050000 +0800" stop="20260720051500 +0800">
-    <title lang="zh">我的香港故事 第233集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720051500 +0800" stop="20260720060000 +0800">
-    <title lang="zh">笑逐言开 第638集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720060000 +0800" stop="20260720063000 +0800">
-    <title lang="zh">纪录大时代 第1566集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720063000 +0800" stop="20260720070000 +0800">
-    <title lang="zh">我们和牠们 第157集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720070000 +0800" stop="20260720075700 +0800">
-    <title lang="zh">凤凰早班车 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720075700 +0800" stop="20260720080000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720080000 +0800" stop="20260720085700 +0800">
-    <title lang="zh">凤凰早班车 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720085700 +0800" stop="20260720090000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720090000 +0800" stop="20260720100000 +0800">
-    <title lang="zh">皇牌大放送</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720100000 +0800" stop="20260720105700 +0800">
-    <title lang="zh">凤凰正点播报 1000 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720105700 +0800" stop="20260720110000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720110000 +0800" stop="20260720113000 +0800">
-    <title lang="zh">筑梦天下 第489集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720113000 +0800" stop="20260720120000 +0800">
-    <title lang="zh">有报天天读 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720120000 +0800" stop="20260720125500 +0800">
-    <title lang="zh">凤凰午间专列 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720125500 +0800" stop="20260720130000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720130000 +0800" stop="20260720133000 +0800">
-    <title lang="zh">我们和牠们 第178集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720133000 +0800" stop="20260720143000 +0800">
-    <title lang="zh">凤凰大健康 第395集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720143000 +0800" stop="20260720150000 +0800">
-    <title lang="zh">发现大湾区 第180集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720150000 +0800" stop="20260720155700 +0800">
-    <title lang="zh">凤凰正点播报 1500 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720155700 +0800" stop="20260720160000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720160000 +0800" stop="20260720163000 +0800">
-    <title lang="zh">近观中国 第234集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720163000 +0800" stop="20260720170000 +0800">
-    <title lang="zh">纪录大时代 第1567集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720170000 +0800" stop="20260720173000 +0800">
-    <title lang="zh">空间观策 第232集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720173000 +0800" stop="20260720180000 +0800">
-    <title lang="zh">有报天天读 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720180000 +0800" stop="20260720182700 +0800">
-    <title lang="zh">凤凰焦点新闻 1800 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720182700 +0800" stop="20260720183000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720183000 +0800" stop="20260720190000 +0800">
-    <title lang="zh">新闻今日谈 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720190000 +0800" stop="20260720193000 +0800">
-    <title lang="zh">亚洲财经透视 第1184集</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720193000 +0800" stop="20260720200000 +0800">
-    <title lang="zh">总编辑时间 -20/7/26</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554430" start="20260720200000 +0800" stop="20260720203000 +0800">
+<programme channel="558926" start="20260725013000 +0800" stop="20260725020000 +0800">
     <title lang="zh">凤凰大视野</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720203000 +0800" stop="20260720210000 +0800">
-    <title lang="zh">凤凰冲击播 第1011集 -问答神州</title>
+<programme channel="558926" start="20260725020000 +0800" stop="20260725023000 +0800">
+    <title lang="zh">纪录大时代 第1571集</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720210000 +0800" stop="20260720215500 +0800">
-    <title lang="zh">时事直通车 -20/7/26</title>
+<programme channel="558926" start="20260725023000 +0800" stop="20260725030000 +0800">
+    <title lang="zh">亚洲财经透视 第1188集</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720215500 +0800" stop="20260720220000 +0800">
+<programme channel="558926" start="20260725030000 +0800" stop="20260725033000 +0800">
+    <title lang="zh">新闻今日谈 -24/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725033000 +0800" stop="20260725040000 +0800">
+    <title lang="zh">凤凰聚焦 第1190集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725040000 +0800" stop="20260725043000 +0800">
+    <title lang="zh">冷暖人生 第435集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725043000 +0800" stop="20260725050000 +0800">
+    <title lang="zh">凤凰全球连线 -24/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725050000 +0800" stop="20260725053000 +0800">
+    <title lang="zh">有报天天读 -24/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725053000 +0800" stop="20260725060000 +0800">
+    <title lang="zh">凤凰冲击播 第233集 -空间观策</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725060000 +0800" stop="20260725063000 +0800">
+    <title lang="zh">纪录大时代 第1571集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725063000 +0800" stop="20260725070000 +0800">
+    <title lang="zh">总编辑时间 -24/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725070000 +0800" stop="20260725075500 +0800">
+    <title lang="zh">凤凰早班车 -25/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725075500 +0800" stop="20260725080000 +0800">
     <title lang="zh">凤凰气象站</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720220000 +0800" stop="20260720223000 +0800">
-    <title lang="zh">凤凰聚焦 第1186集</title>
+<programme channel="558926" start="20260725080000 +0800" stop="20260725085500 +0800">
+    <title lang="zh">凤凰早班车 -25/7/26</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720223000 +0800" stop="20260720230000 +0800">
-    <title lang="zh">凤凰全球连线 -20/7/26</title>
+<programme channel="558926" start="20260725085500 +0800" stop="20260725090000 +0800">
+    <title lang="zh">凤凰气象站</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720230000 +0800" stop="20260720233000 +0800">
-    <title lang="zh">亚洲财经透视 第1184集</title>
+<programme channel="558926" start="20260725090000 +0800" stop="20260725093000 +0800">
+    <title lang="zh">凤凰全球连线 -24/7/26</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554430" start="20260720233000 +0800" stop="20260721000000 +0800">
-    <title lang="zh">新闻今日谈 -20/7/26</title>
+<programme channel="558926" start="20260725093000 +0800" stop="20260725100000 +0800">
+    <title lang="zh">凤凰大视野</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725100000 +0800" stop="20260725105700 +0800">
+    <title lang="zh">凤凰正点播报 1000 -25/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725105700 +0800" stop="20260725110000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725110000 +0800" stop="20260725113000 +0800">
+    <title lang="zh">凤凰聚焦 第1190集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725113000 +0800" stop="20260725120000 +0800">
+    <title lang="zh">文化大观园 第483集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725120000 +0800" stop="20260725125500 +0800">
+    <title lang="zh">凤凰午间专列 -25/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725125500 +0800" stop="20260725130000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725130000 +0800" stop="20260725133000 +0800">
+    <title lang="zh">总编辑时间 -24/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725133000 +0800" stop="20260725140000 +0800">
+    <title lang="zh">香港新视点 第513集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725140000 +0800" stop="20260725141500 +0800">
+    <title lang="zh">我的香港故事 第233集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725141500 +0800" stop="20260725143000 +0800">
+    <title lang="zh">我的香港故事 第232集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725143000 +0800" stop="20260725150000 +0800">
+    <title lang="zh">凤凰大视野</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725150000 +0800" stop="20260725155700 +0800">
+    <title lang="zh">凤凰正点播报 1500 -25/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725155700 +0800" stop="20260725160000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725160000 +0800" stop="20260725163000 +0800">
+    <title lang="zh">凤凰冲击播 第233集 -空间观策</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725163000 +0800" stop="20260725170000 +0800">
+    <title lang="zh">纪录大时代 第1572集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725170000 +0800" stop="20260725173000 +0800">
+    <title lang="zh">近观中国 第234集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725173000 +0800" stop="20260725180000 +0800">
+    <title lang="zh">筑梦天下 第489集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725180000 +0800" stop="20260725182700 +0800">
+    <title lang="zh">凤凰焦点新闻 1800 -25/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725182700 +0800" stop="20260725183000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725183000 +0800" stop="20260725190000 +0800">
+    <title lang="zh">新闻今日谈 -25/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725190000 +0800" stop="20260725193000 +0800">
+    <title lang="zh">我们和牠们 第179集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725193000 +0800" stop="20260725200000 +0800">
+    <title lang="zh">石评天下 第166集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725200000 +0800" stop="20260725203000 +0800">
+    <title lang="zh">冷暖人生 第436集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725203000 +0800" stop="20260725210000 +0800">
+    <title lang="zh">X + 第4集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725210000 +0800" stop="20260725215500 +0800">
+    <title lang="zh">时事直通车 -25/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725215500 +0800" stop="20260725220000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725220000 +0800" stop="20260725230000 +0800">
+    <title lang="zh">皇牌大放送: 关税千年——改变世界的隐形力量</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725230000 +0800" stop="20260725233000 +0800">
+    <title lang="zh">石评天下 第166集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260725233000 +0800" stop="20260726000000 +0800">
+    <title lang="zh">新闻今日谈 -25/7/26</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726000000 +0800" stop="20260726002700 +0800">
+    <title lang="zh">凤凰洲际快车 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726002700 +0800" stop="20260726003000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726003000 +0800" stop="20260726010000 +0800">
+    <title lang="zh">香港新视点 第514集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726010000 +0800" stop="20260726013000 +0800">
+    <title lang="zh">冷暖人生 第436集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726013000 +0800" stop="20260726020000 +0800">
+    <title lang="zh">风云对话 第430集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726020000 +0800" stop="20260726023000 +0800">
+    <title lang="zh">纪录大时代 第1572集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726023000 +0800" stop="20260726030000 +0800">
+    <title lang="zh">文化大观园 第483集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726030000 +0800" stop="20260726033000 +0800">
+    <title lang="zh">新闻今日谈 -25/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726033000 +0800" stop="20260726040000 +0800">
+    <title lang="zh">石评天下 第166集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726040000 +0800" stop="20260726043000 +0800">
+    <title lang="zh">我们和牠们 第158集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726043000 +0800" stop="20260726050000 +0800">
+    <title lang="zh">X + 第4集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726050000 +0800" stop="20260726060000 +0800">
+    <title lang="zh">皇牌大放送: 关税千年——改变世界的隐形力量</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726060000 +0800" stop="20260726063000 +0800">
+    <title lang="zh">纪录大时代 第1572集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726063000 +0800" stop="20260726070000 +0800">
+    <title lang="zh">筑梦天下 第489集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726070000 +0800" stop="20260726075500 +0800">
+    <title lang="zh">凤凰早班车 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726075500 +0800" stop="20260726080000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726080000 +0800" stop="20260726085500 +0800">
+    <title lang="zh">凤凰早班车 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726085500 +0800" stop="20260726090000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726090000 +0800" stop="20260726094500 +0800">
+    <title lang="zh">大新闻大历史 第546集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726094500 +0800" stop="20260726100000 +0800">
+    <title lang="zh">我的香港故事 第233集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726100000 +0800" stop="20260726105700 +0800">
+    <title lang="zh">凤凰正点播报 1000 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726105700 +0800" stop="20260726110000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726110000 +0800" stop="20260726120000 +0800">
+    <title lang="zh">皇牌大放送: 关税千年——改变世界的隐形力量</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726120000 +0800" stop="20260726125700 +0800">
+    <title lang="zh">凤凰午间专列 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726125700 +0800" stop="20260726130000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726130000 +0800" stop="20260726133000 +0800">
+    <title lang="zh">冷暖人生 第436集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726133000 +0800" stop="20260726140000 +0800">
+    <title lang="zh">文化大观园 第483集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726140000 +0800" stop="20260726143000 +0800">
+    <title lang="zh">我们和牠们 第158集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726143000 +0800" stop="20260726150000 +0800">
+    <title lang="zh">X + 第4集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726150000 +0800" stop="20260726155700 +0800">
+    <title lang="zh">凤凰正点播报 1500 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726155700 +0800" stop="20260726160000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726160000 +0800" stop="20260726163000 +0800">
+    <title lang="zh">石评天下 第166集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726163000 +0800" stop="20260726170000 +0800">
+    <title lang="zh">纪录大时代 第1573集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726170000 +0800" stop="20260726180000 +0800">
+    <title lang="zh">皇牌大放送: 关税千年——改变世界的隐形力量</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726180000 +0800" stop="20260726182700 +0800">
+    <title lang="zh">凤凰焦点新闻 1800 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726182700 +0800" stop="20260726183000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726183000 +0800" stop="20260726190000 +0800">
+    <title lang="zh">新闻今日谈 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726190000 +0800" stop="20260726193000 +0800">
+    <title lang="zh">筑梦天下 第490集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726193000 +0800" stop="20260726203000 +0800">
+    <title lang="zh">凤凰大健康 第396集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726203000 +0800" stop="20260726210000 +0800">
+    <title lang="zh">发现大湾区 第181集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726210000 +0800" stop="20260726215500 +0800">
+    <title lang="zh">时事直通车 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726215500 +0800" stop="20260726220000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726220000 +0800" stop="20260726223000 +0800">
+    <title lang="zh">近观中国 第235集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726223000 +0800" stop="20260726224500 +0800">
+    <title lang="zh">我的香港故事 第234集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726224500 +0800" stop="20260726233000 +0800">
+    <title lang="zh">笑逐言开 第639集</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558926" start="20260726233000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">新闻今日谈 -26/7/26</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,162 +1,558 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554402" start="20260719000000 +0800" stop="20260719070000 +0800">
-    <title lang="zh">熊出没之小小世界</title>
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558899" start="20260725000000 +0800" stop="20260725070000 +0800">
+    <title lang="zh">熊出没之神奇宝物</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719070000 +0800" stop="20260719070600 +0800">
-    <title lang="zh">麦咭嗨唱会,麦咭麦咭轰(47)等</title>
+<programme channel="558899" start="20260725070000 +0800" stop="20260725070600 +0800">
+    <title lang="zh">麦咭嗨唱会,麦咭麦咭轰(49)等</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719070600 +0800" stop="20260719080000 +0800">
+<programme channel="558899" start="20260725070600 +0800" stop="20260725071900 +0800">
+    <title lang="zh">熊熊帮帮团5(19)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725071900 +0800" stop="20260725073300 +0800">
+    <title lang="zh">熊熊帮帮团5(20)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725073300 +0800" stop="20260725074600 +0800">
+    <title lang="zh">熊熊帮帮团5(21)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725074600 +0800" stop="20260725080000 +0800">
+    <title lang="zh">熊熊帮帮团5(22)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725080000 +0800" stop="20260725110000 +0800">
+    <title lang="zh">熊出没之小小世界2</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725110000 +0800" stop="20260725140000 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725140000 +0800" stop="20260725160000 +0800">
+    <title lang="zh">喜羊羊与灰太狼之奇侠大营救</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725160000 +0800" stop="20260725163000 +0800">
+    <title lang="zh">摩奇拉百科大冒险</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725163000 +0800" stop="20260725170000 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725170000 +0800" stop="20260725170200 +0800">
+    <title lang="zh">麦咭超能学院(22)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725170200 +0800" stop="20260725175000 +0800">
+    <title lang="zh">超英击战飞玩不可(3)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725175000 +0800" stop="20260725180300 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(7)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725180300 +0800" stop="20260725181600 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(8)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725181600 +0800" stop="20260725182900 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(9)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725182900 +0800" stop="20260725184200 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(10)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725184200 +0800" stop="20260725185500 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(11)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725185500 +0800" stop="20260725190800 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(12)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725190800 +0800" stop="20260725192200 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(13)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725192200 +0800" stop="20260725193500 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(14)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725193500 +0800" stop="20260725194800 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(15)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725194800 +0800" stop="20260725200100 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(16)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725200100 +0800" stop="20260725201400 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(17)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725201400 +0800" stop="20260725202700 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(18)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725202700 +0800" stop="20260725204000 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(19)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725204000 +0800" stop="20260725205400 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(20)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725205400 +0800" stop="20260725210700 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(21)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725210700 +0800" stop="20260725212000 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(22)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725212000 +0800" stop="20260725213300 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(23)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725213300 +0800" stop="20260725214600 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(24)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725214600 +0800" stop="20260725220000 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀(25)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725220000 +0800" stop="20260725221000 +0800">
+    <title lang="zh">赵琳的探险日记2(1)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725221000 +0800" stop="20260725222000 +0800">
+    <title lang="zh">赵琳的探险日记2(2)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725222000 +0800" stop="20260725223000 +0800">
+    <title lang="zh">赵琳的探险日记2(3)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725223000 +0800" stop="20260725224000 +0800">
+    <title lang="zh">赵琳的探险日记2(4)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725224000 +0800" stop="20260725225000 +0800">
+    <title lang="zh">赵琳的探险日记2(5)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725225000 +0800" stop="20260725230000 +0800">
+    <title lang="zh">赵琳的探险日记2(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725230000 +0800" stop="20260725231000 +0800">
+    <title lang="zh">赵琳的探险日记2(7)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725231000 +0800" stop="20260725232000 +0800">
+    <title lang="zh">赵琳的探险日记2(8)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725232000 +0800" stop="20260725233000 +0800">
+    <title lang="zh">赵琳的探险日记2(9)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725233000 +0800" stop="20260725234000 +0800">
+    <title lang="zh">赵琳的探险日记2(10)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725234000 +0800" stop="20260725235000 +0800">
+    <title lang="zh">赵琳的探险日记2(11)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725235000 +0800" stop="20260725235900 +0800">
+    <title lang="zh">赵琳的探险日记2(12)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260725235900 +0800" stop="20260726000000 +0800">
+    <title lang="zh">结束</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260726000000 +0800" stop="20260726070000 +0800">
+    <title lang="zh">赵琳的探险日记2</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260726070000 +0800" stop="20260726070600 +0800">
+    <title lang="zh">麦咭嗨唱会,麦咭麦咭轰(50)等</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260726070600 +0800" stop="20260726080000 +0800">
     <title lang="zh">熊熊帮帮团</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719080000 +0800" stop="20260719110000 +0800">
-    <title lang="zh">赵琳的探险日记</title>
+<programme channel="558899" start="20260726080000 +0800" stop="20260726110000 +0800">
+    <title lang="zh">熊出没之小小世界</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719110000 +0800" stop="20260719120100 +0800">
+<programme channel="558899" start="20260726110000 +0800" stop="20260726120100 +0800">
     <title lang="zh">喜羊羊与灰太狼之破界山海诀</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719120100 +0800" stop="20260719124500 +0800">
-    <title lang="zh">超英击战飞玩不可(2)</title>
+<programme channel="558899" start="20260726120100 +0800" stop="20260726124500 +0800">
+    <title lang="zh">超英击战飞玩不可(3)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719124500 +0800" stop="20260719160000 +0800">
+<programme channel="558899" start="20260726124500 +0800" stop="20260726160000 +0800">
     <title lang="zh">喜羊羊与灰太狼之破界山海诀</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719160000 +0800" stop="20260719162000 +0800">
-    <title lang="zh">量子战队之恐龙守护</title>
+<programme channel="558899" start="20260726160000 +0800" stop="20260726163000 +0800">
+    <title lang="zh">摩奇拉百科大冒险</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719162000 +0800" stop="20260719170000 +0800">
-    <title lang="zh">愿望喵喵(</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554402" start="20260719170000 +0800" stop="20260719170500 +0800">
-    <title lang="zh">麦咭嗨唱会,麦咭麦咭轰(47)等</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554402" start="20260719170500 +0800" stop="20260719172500 +0800">
-    <title lang="zh">奶龙搞怪大作战</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554402" start="20260719172500 +0800" stop="20260719180000 +0800">
-    <title lang="zh">迷你特工队之最强恐龙</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554402" start="20260719180000 +0800" stop="20260719190000 +0800">
+<programme channel="558899" start="20260726163000 +0800" stop="20260726170000 +0800">
     <title lang="zh">喜羊羊与灰太狼之破界山海诀</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719190000 +0800" stop="20260719193300 +0800">
+<programme channel="558899" start="20260726170000 +0800" stop="20260726170700 +0800">
+    <title lang="zh">麦咭嗨唱会,麦咭麦咭轰(50)等</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260726170700 +0800" stop="20260726174000 +0800">
+    <title lang="zh">哈小浪决战星未来</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260726174000 +0800" stop="20260726190000 +0800">
+    <title lang="zh">喜羊羊与灰太狼之破界山海诀</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558899" start="20260726190000 +0800" stop="20260726193300 +0800">
     <title lang="zh">童趣大冒险</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719193300 +0800" stop="20260719203000 +0800">
+<programme channel="558899" start="20260726193300 +0800" stop="20260726203000 +0800">
     <title lang="zh">喜羊羊与灰太狼之破界山海诀</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719203000 +0800" stop="20260719214000 +0800">
-    <title lang="zh">中国新声代2026(4)</title>
+<programme channel="558899" start="20260726203000 +0800" stop="20260726214000 +0800">
+    <title lang="zh">中国新声代2026(5)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719214000 +0800" stop="20260719233800 +0800">
-    <title lang="zh">熊出没之小小世界</title>
+<programme channel="558899" start="20260726214000 +0800" stop="20260726232000 +0800">
+    <title lang="zh">赵琳的探险日记</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554402" start="20260719233800 +0800" stop="20260720000000 +0800">
-    <title lang="zh">熊出没之小小世界</title>
+<programme channel="558899" start="20260726232000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">赵琳的探险日记</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

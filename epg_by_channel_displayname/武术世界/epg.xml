@@ -1,342 +1,747 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554429" start="20260719000000 +0800" stop="20260719005000 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558925" start="20260725000000 +0800" stop="20260725005000 +0800">
     <title lang="zh">少林英雄</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719005000 +0800" stop="20260719011000 +0800">
+<programme channel="558925" start="20260725005000 +0800" stop="20260725011000 +0800">
     <title lang="zh">武林艺苑</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719011000 +0800" stop="20260719013000 +0800">
+<programme channel="558925" start="20260725011000 +0800" stop="20260725013000 +0800">
     <title lang="zh">功夫课堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719013000 +0800" stop="20260719020000 +0800">
+<programme channel="558925" start="20260725013000 +0800" stop="20260725020000 +0800">
     <title lang="zh">名派真功</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719020000 +0800" stop="20260719021000 +0800">
-    <title lang="zh">科星起源</title>
+<programme channel="558925" start="20260725020000 +0800" stop="20260725021000 +0800">
+    <title lang="zh">科星太极十八式</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719021000 +0800" stop="20260719030000 +0800">
+<programme channel="558925" start="20260725021000 +0800" stop="20260725030000 +0800">
     <title lang="zh">健身坊</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719030000 +0800" stop="20260719035000 +0800">
+<programme channel="558925" start="20260725030000 +0800" stop="20260725035000 +0800">
     <title lang="zh">少林英雄</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719035000 +0800" stop="20260719043500 +0800">
+<programme channel="558925" start="20260725035000 +0800" stop="20260725043500 +0800">
     <title lang="zh">武林擂台</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719043500 +0800" stop="20260719065000 +0800">
+<programme channel="558925" start="20260725043500 +0800" stop="20260725060500 +0800">
     <title lang="zh">武林擂台</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719065000 +0800" stop="20260719071000 +0800">
+<programme channel="558925" start="20260725060500 +0800" stop="20260725065000 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725065000 +0800" stop="20260725071000 +0800">
     <title lang="zh">武林艺苑</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719071000 +0800" stop="20260719072000 +0800">
-    <title lang="zh">科星起源</title>
+<programme channel="558925" start="20260725071000 +0800" stop="20260725072000 +0800">
+    <title lang="zh">科星太极十八式</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719072000 +0800" stop="20260719074000 +0800">
+<programme channel="558925" start="20260725072000 +0800" stop="20260725074000 +0800">
     <title lang="zh">功夫课堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719074000 +0800" stop="20260719081100 +0800">
+<programme channel="558925" start="20260725074000 +0800" stop="20260725081100 +0800">
     <title lang="zh">名派真功</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719081100 +0800" stop="20260719090100 +0800">
+<programme channel="558925" start="20260725081100 +0800" stop="20260725090100 +0800">
     <title lang="zh">健身坊</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719090100 +0800" stop="20260719092100 +0800">
+<programme channel="558925" start="20260725090100 +0800" stop="20260725092100 +0800">
     <title lang="zh">武林艺苑</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719092100 +0800" stop="20260719101200 +0800">
+<programme channel="558925" start="20260725092100 +0800" stop="20260725101200 +0800">
     <title lang="zh">少林英雄</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719101200 +0800" stop="20260719102200 +0800">
+<programme channel="558925" start="20260725101200 +0800" stop="20260725102200 +0800">
     <title lang="zh">武林擂台</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719102200 +0800" stop="20260719110700 +0800">
-    <title lang="zh">科星起源</title>
+<programme channel="558925" start="20260725102200 +0800" stop="20260725103200 +0800">
+    <title lang="zh">请您欣赏</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719110700 +0800" stop="20260719111700 +0800">
+<programme channel="558925" start="20260725103200 +0800" stop="20260725111700 +0800">
+    <title lang="zh">科星太极十八式</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725111700 +0800" stop="20260725114700 +0800">
     <title lang="zh">啸谈武林</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719111700 +0800" stop="20260719114700 +0800">
-    <title lang="zh">健身坊</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554429" start="20260719114700 +0800" stop="20260719123200 +0800">
+<programme channel="558925" start="20260725114700 +0800" stop="20260725123200 +0800">
     <title lang="zh">武林擂台</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719123200 +0800" stop="20260719130300 +0800">
+<programme channel="558925" start="20260725123200 +0800" stop="20260725130200 +0800">
+    <title lang="zh">名派真功</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725130200 +0800" stop="20260725134800 +0800">
     <title lang="zh">武林擂台</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719130300 +0800" stop="20260719134800 +0800">
-    <title lang="zh">科星起源</title>
+<programme channel="558925" start="20260725134800 +0800" stop="20260725143300 +0800">
+    <title lang="zh">少林英雄</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719134800 +0800" stop="20260719143300 +0800">
-    <title lang="zh">功夫课堂</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554429" start="20260719143300 +0800" stop="20260719152300 +0800">
+<programme channel="558925" start="20260725143300 +0800" stop="20260725152300 +0800">
     <title lang="zh">武林艺苑</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719152300 +0800" stop="20260719153300 +0800">
+<programme channel="558925" start="20260725152300 +0800" stop="20260725153300 +0800">
     <title lang="zh">武林擂台</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719153300 +0800" stop="20260719160300 +0800">
+<programme channel="558925" start="20260725153300 +0800" stop="20260725155300 +0800">
     <title lang="zh">武林艺苑</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719160300 +0800" stop="20260719162300 +0800">
-    <title lang="zh">功夫课堂</title>
+<programme channel="558925" start="20260725155300 +0800" stop="20260725160300 +0800">
+    <title lang="zh">少林英雄</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719162300 +0800" stop="20260719164700 +0800">
-    <title lang="zh">科星起源</title>
+<programme channel="558925" start="20260725160300 +0800" stop="20260725162300 +0800">
+    <title lang="zh">龙泉宝剑</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719164700 +0800" stop="20260719170800 +0800">
+<programme channel="558925" start="20260725162300 +0800" stop="20260725170800 +0800">
+    <title lang="zh">请您欣赏</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725170800 +0800" stop="20260725172800 +0800">
+    <title lang="zh">科星太极十八式</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725172800 +0800" stop="20260725181800 +0800">
+    <title lang="zh">武林艺苑</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725181800 +0800" stop="20260725182800 +0800">
+    <title lang="zh">少林英雄</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725182800 +0800" stop="20260725183800 +0800">
+    <title lang="zh">请您欣赏</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725183800 +0800" stop="20260725184400 +0800">
+    <title lang="zh">科星太极十八式</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725184400 +0800" stop="20260725191400 +0800">
+    <title lang="zh">请您欣赏</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725191400 +0800" stop="20260725195900 +0800">
+    <title lang="zh">名派真功</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725195900 +0800" stop="20260725210400 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725210400 +0800" stop="20260725213400 +0800">
+    <title lang="zh">武林艺苑</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725213400 +0800" stop="20260725222000 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260725222000 +0800" stop="20260725234000 +0800">
     <title lang="zh">戏游记</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719170800 +0800" stop="20260719172800 +0800">
-    <title lang="zh">龙泉宝剑</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554429" start="20260719172800 +0800" stop="20260719184400 +0800">
+<programme channel="558925" start="20260725234000 +0800" stop="20260725235000 +0800">
     <title lang="zh">武林擂台</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719184400 +0800" stop="20260719191400 +0800">
-    <title lang="zh">武林擂台</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554429" start="20260719191400 +0800" stop="20260719201900 +0800">
-    <title lang="zh">龙泉宝剑</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554429" start="20260719201900 +0800" stop="20260719210400 +0800">
-    <title lang="zh">武林擂台</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554429" start="20260719210400 +0800" stop="20260719221900 +0800">
-    <title lang="zh">武林擂台</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554429" start="20260719221900 +0800" stop="20260719231400 +0800">
+<programme channel="558925" start="20260725235000 +0800" stop="20260725235500 +0800">
     <title lang="zh">功夫课堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554429" start="20260719231400 +0800" stop="20260720000000 +0800">
+<programme channel="558925" start="20260725235500 +0800" stop="20260726000000 +0800">
+    <title lang="zh">请您欣赏</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726000000 +0800" stop="20260726005000 +0800">
+    <title lang="zh">少林英雄</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726005000 +0800" stop="20260726011000 +0800">
+    <title lang="zh">武林艺苑</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726011000 +0800" stop="20260726013000 +0800">
+    <title lang="zh">功夫课堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726013000 +0800" stop="20260726020000 +0800">
+    <title lang="zh">名派真功</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726020000 +0800" stop="20260726021000 +0800">
+    <title lang="zh">科星起源</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726021000 +0800" stop="20260726030000 +0800">
+    <title lang="zh">健身坊</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726030000 +0800" stop="20260726035000 +0800">
+    <title lang="zh">少林英雄</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726035000 +0800" stop="20260726043500 +0800">
     <title lang="zh">武林擂台</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726043500 +0800" stop="20260726065000 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726065000 +0800" stop="20260726071000 +0800">
+    <title lang="zh">武林艺苑</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726071000 +0800" stop="20260726072000 +0800">
+    <title lang="zh">科星起源</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726072000 +0800" stop="20260726074000 +0800">
+    <title lang="zh">功夫课堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726074000 +0800" stop="20260726081100 +0800">
+    <title lang="zh">名派真功</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726081100 +0800" stop="20260726090100 +0800">
+    <title lang="zh">健身坊</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726090100 +0800" stop="20260726092100 +0800">
+    <title lang="zh">武林艺苑</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726092100 +0800" stop="20260726101200 +0800">
+    <title lang="zh">少林英雄</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726101200 +0800" stop="20260726102200 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726102200 +0800" stop="20260726110700 +0800">
+    <title lang="zh">科星起源</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726110700 +0800" stop="20260726111700 +0800">
+    <title lang="zh">啸谈武林</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726111700 +0800" stop="20260726114700 +0800">
+    <title lang="zh">健身坊</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726114700 +0800" stop="20260726123200 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726123200 +0800" stop="20260726130300 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726130300 +0800" stop="20260726134800 +0800">
+    <title lang="zh">科星起源</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726134800 +0800" stop="20260726143300 +0800">
+    <title lang="zh">功夫课堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726143300 +0800" stop="20260726152300 +0800">
+    <title lang="zh">武林艺苑</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726152300 +0800" stop="20260726153300 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726153300 +0800" stop="20260726160300 +0800">
+    <title lang="zh">武林艺苑</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726160300 +0800" stop="20260726162300 +0800">
+    <title lang="zh">功夫课堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726162300 +0800" stop="20260726164700 +0800">
+    <title lang="zh">科星起源</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726164700 +0800" stop="20260726170800 +0800">
+    <title lang="zh">戏游记</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726170800 +0800" stop="20260726172800 +0800">
+    <title lang="zh">龙泉宝剑</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726172800 +0800" stop="20260726184400 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726184400 +0800" stop="20260726191400 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726191400 +0800" stop="20260726201900 +0800">
+    <title lang="zh">龙泉宝剑</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726201900 +0800" stop="20260726210400 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726210400 +0800" stop="20260726221900 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726221900 +0800" stop="20260726231400 +0800">
+    <title lang="zh">功夫课堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558925" start="20260726231400 +0800" stop="20260727000000 +0800">
+    <title lang="zh">武林擂台</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

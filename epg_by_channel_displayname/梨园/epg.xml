@@ -1,126 +1,342 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="539775" start="20260724000500 +0800" stop="20260724022000 +0800">
-    <title lang="zh">丝弦:刘墉下南京</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724022000 +0800" stop="20260724032600 +0800">
-    <title lang="zh">刘秀传</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724032600 +0800" stop="20260724054000 +0800">
-    <title lang="zh">曲剧:琵琶记-黄德华,蔡文侠等</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724054000 +0800" stop="20260724075400 +0800">
-    <title lang="zh">豫剧:白蛇传-吴素真</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724075400 +0800" stop="20260724100800 +0800">
-    <title lang="zh">曲剧:琵琶记-黄德华,蔡文侠等</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724100800 +0800" stop="20260724122300 +0800">
-    <title lang="zh">丝弦:刘墉下南京</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724122300 +0800" stop="20260724132300 +0800">
-    <title lang="zh">刘秀传</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724132300 +0800" stop="20260724153700 +0800">
-    <title lang="zh">豫剧:白蛇传-吴素真</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724153700 +0800" stop="20260724175200 +0800">
+<programme channel="539775" start="20260725000500 +0800" stop="20260725022000 +0800">
     <title lang="zh">豫剧:樊粹庭</title>
     <desc />
-    <date>20260724</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260724175200 +0800" stop="20260724181200 +0800">
-    <title lang="zh">名家讲戏</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724181200 +0800" stop="20260724202600 +0800">
-    <title lang="zh">曲剧:新版洛阳令-郑庆恩等</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724202600 +0800" stop="20260724224000 +0800">
-    <title lang="zh">豫剧:七品芝麻官-牛得草</title>
-    <desc />
-    <date>20260724</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260724224000 +0800" stop="20260724234000 +0800">
+<programme channel="539775" start="20260725022000 +0800" stop="20260725032600 +0800">
     <title lang="zh">刘秀传</title>
     <desc />
-    <date>20260724</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260724234000 +0800" stop="20260725000000 +0800">
+<programme channel="539775" start="20260725032600 +0800" stop="20260725054000 +0800">
+    <title lang="zh">曲剧:新版洛阳令-郑庆恩等</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260725054000 +0800" stop="20260725075400 +0800">
+    <title lang="zh">豫剧:七品芝麻官-牛得草</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260725075400 +0800" stop="20260725100800 +0800">
+    <title lang="zh">曲剧:新版洛阳令-郑庆恩等</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260725100800 +0800" stop="20260725130300 +0800">
+    <title lang="zh">豫剧:樊粹庭</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260725130300 +0800" stop="20260725140300 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260725140300 +0800" stop="20260725161700 +0800">
+    <title lang="zh">豫剧:七品芝麻官-牛得草</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260725161700 +0800" stop="20260725183200 +0800">
+    <title lang="zh">评剧:花魁女与卖油郎</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260725183200 +0800" stop="20260725204600 +0800">
+    <title lang="zh">曲剧:双玉蝉-孙玉香,陈素菊等</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260725204600 +0800" stop="20260725230000 +0800">
+    <title lang="zh">越调:李天保娶亲-赵艳琳</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260725230000 +0800" stop="20260726000000 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725000500 +0800" stop="20260725022000 +0800">
+    <title lang="zh">豫剧:樊粹庭</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725022000 +0800" stop="20260725032600 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725032600 +0800" stop="20260725054000 +0800">
+    <title lang="zh">曲剧:新版洛阳令-郑庆恩等</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725054000 +0800" stop="20260725075400 +0800">
+    <title lang="zh">豫剧:七品芝麻官-牛得草</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725075400 +0800" stop="20260725100800 +0800">
+    <title lang="zh">曲剧:新版洛阳令-郑庆恩等</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725100800 +0800" stop="20260725130300 +0800">
+    <title lang="zh">豫剧:樊粹庭</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725130300 +0800" stop="20260725140300 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725140300 +0800" stop="20260725161700 +0800">
+    <title lang="zh">豫剧:七品芝麻官-牛得草</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725161700 +0800" stop="20260725183200 +0800">
+    <title lang="zh">评剧:花魁女与卖油郎</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725183200 +0800" stop="20260725204600 +0800">
+    <title lang="zh">曲剧:双玉蝉-孙玉香,陈素菊等</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725204600 +0800" stop="20260725230000 +0800">
+    <title lang="zh">越调:李天保娶亲-赵艳琳</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260725230000 +0800" stop="20260726000500 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726000500 +0800" stop="20260726022000 +0800">
+    <title lang="zh">评剧:花魁女与卖油郎</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726022000 +0800" stop="20260726032600 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726032600 +0800" stop="20260726054000 +0800">
+    <title lang="zh">曲剧:双玉蝉-孙玉香,陈素菊等</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726054000 +0800" stop="20260726075400 +0800">
+    <title lang="zh">越调:李天保娶亲-赵艳琳</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726075400 +0800" stop="20260726100800 +0800">
+    <title lang="zh">曲剧:双玉蝉-孙玉香,陈素菊等</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726100800 +0800" stop="20260726122300 +0800">
+    <title lang="zh">评剧:花魁女与卖油郎</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726122300 +0800" stop="20260726132300 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726132300 +0800" stop="20260726153700 +0800">
+    <title lang="zh">越调:李天保娶亲-赵艳琳</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726153700 +0800" stop="20260726175200 +0800">
+    <title lang="zh">豫剧:蔡文姬-柏青</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726175200 +0800" stop="20260726181200 +0800">
     <title lang="zh">唱段欣赏</title>
     <desc />
-    <date>20260724</date>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726181200 +0800" stop="20260726202600 +0800">
+    <title lang="zh">曲剧:跑汴京-刘艳丽</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726202600 +0800" stop="20260726224000 +0800">
+    <title lang="zh">豫剧:五世请缨-王惠</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726224000 +0800" stop="20260726234000 +0800">
+    <title lang="zh">刘秀传</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558909" start="20260726234000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

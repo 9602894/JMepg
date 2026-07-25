@@ -1,459 +1,945 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554444" start="20260719000000 +0800" stop="20260719003000 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558940" start="20260725000000 +0800" stop="20260725003000 +0800">
     <title lang="zh">发现汇</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719003000 +0800" stop="20260719010000 +0800">
-    <title lang="zh">美丽中华行</title>
+<programme channel="558940" start="20260725003000 +0800" stop="20260725010000 +0800">
+    <title lang="zh">新昌悟语</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719010000 +0800" stop="20260719060000 +0800">
+<programme channel="558940" start="20260725010000 +0800" stop="20260725060000 +0800">
     <title lang="zh">测试图</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719060000 +0800" stop="20260719061500 +0800">
+<programme channel="558940" start="20260725060000 +0800" stop="20260725070000 +0800">
+    <title lang="zh">美丽中华行</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725070000 +0800" stop="20260725073000 +0800">
+    <title lang="zh">发现汇</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725073000 +0800" stop="20260725073500 +0800">
+    <title lang="zh">青春之我(9)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725073500 +0800" stop="20260725074000 +0800">
+    <title lang="zh">青春之我(2)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725074000 +0800" stop="20260725081000 +0800">
+    <title lang="zh">美丽家园</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725081000 +0800" stop="20260725090000 +0800">
+    <title lang="zh">家国</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725090000 +0800" stop="20260725093100 +0800">
+    <title lang="zh">你要倾听的大地(24)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725093100 +0800" stop="20260725100200 +0800">
+    <title lang="zh">你要倾听的大地(25)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725100200 +0800" stop="20260725103000 +0800">
+    <title lang="zh">重建中国茶道</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725103000 +0800" stop="20260725103500 +0800">
+    <title lang="zh">青春之我(9)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725103500 +0800" stop="20260725104000 +0800">
+    <title lang="zh">青春之我(2)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725104000 +0800" stop="20260725110000 +0800">
+    <title lang="zh">发现汇</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725110000 +0800" stop="20260725113000 +0800">
+    <title lang="zh">美丽中华行</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725113000 +0800" stop="20260725115500 +0800">
+    <title lang="zh">喜事</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725115500 +0800" stop="20260725120000 +0800">
+    <title lang="zh">晓屯聊摄影</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725120000 +0800" stop="20260725123000 +0800">
+    <title lang="zh">美丽中华行</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725123000 +0800" stop="20260725125900 +0800">
+    <title lang="zh">你要倾听的大地</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725125900 +0800" stop="20260725132900 +0800">
+    <title lang="zh">发现汇</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725132900 +0800" stop="20260725140000 +0800">
+    <title lang="zh">你要倾听的大地</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725140000 +0800" stop="20260725140500 +0800">
+    <title lang="zh">青春之我(9)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725140500 +0800" stop="20260725141000 +0800">
+    <title lang="zh">青春之我(2)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725141000 +0800" stop="20260725144100 +0800">
+    <title lang="zh">你要倾听的大地(24)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725144100 +0800" stop="20260725151200 +0800">
+    <title lang="zh">你要倾听的大地(25)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725151200 +0800" stop="20260725152500 +0800">
+    <title lang="zh">川菜在民间</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725152500 +0800" stop="20260725161500 +0800">
+    <title lang="zh">大后方</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725161500 +0800" stop="20260725162500 +0800">
+    <title lang="zh">佳酿之旅</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725162500 +0800" stop="20260725164500 +0800">
+    <title lang="zh">发现汇</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725164500 +0800" stop="20260725165000 +0800">
+    <title lang="zh">青春之我(9)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725165000 +0800" stop="20260725165500 +0800">
+    <title lang="zh">青春之我(2)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725165500 +0800" stop="20260725170000 +0800">
+    <title lang="zh">晓屯聊摄影</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725170000 +0800" stop="20260725173000 +0800">
+    <title lang="zh">新昌悟语</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725173000 +0800" stop="20260725180000 +0800">
+    <title lang="zh">发现汇</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725180000 +0800" stop="20260725181500 +0800">
     <title lang="zh">华夏传奇</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719061500 +0800" stop="20260719063000 +0800">
-    <title lang="zh">纪录东方</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719063000 +0800" stop="20260719070000 +0800">
-    <title lang="zh">美丽中华行</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719070000 +0800" stop="20260719073000 +0800">
-    <title lang="zh">发现汇</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719073000 +0800" stop="20260719073500 +0800">
-    <title lang="zh">青春之我(3)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719073500 +0800" stop="20260719074000 +0800">
-    <title lang="zh">青春之我(96)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719074000 +0800" stop="20260719075000 +0800">
-    <title lang="zh">佳酿之旅(7)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719075000 +0800" stop="20260719080000 +0800">
-    <title lang="zh">佳酿之旅(8)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719080000 +0800" stop="20260719090000 +0800">
-    <title lang="zh">揽胜神州</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719090000 +0800" stop="20260719100500 +0800">
-    <title lang="zh">你要倾听的大地</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719100500 +0800" stop="20260719103000 +0800">
-    <title lang="zh">你要倾听的大地</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719103000 +0800" stop="20260719103500 +0800">
-    <title lang="zh">青春之我(3)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719103500 +0800" stop="20260719104000 +0800">
-    <title lang="zh">青春之我(96)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719104000 +0800" stop="20260719104500 +0800">
-    <title lang="zh">晓屯聊摄影</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719104500 +0800" stop="20260719113500 +0800">
-    <title lang="zh">家国</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719113500 +0800" stop="20260719120000 +0800">
-    <title lang="zh">喜事</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719120000 +0800" stop="20260719121500 +0800">
-    <title lang="zh">纪录东方</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719121500 +0800" stop="20260719123000 +0800">
+<programme channel="558940" start="20260725181500 +0800" stop="20260725182000 +0800">
     <title lang="zh">聚焦先锋榜</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719123000 +0800" stop="20260719130000 +0800">
+<programme channel="558940" start="20260725182000 +0800" stop="20260725183000 +0800">
+    <title lang="zh">佳酿之旅</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725183000 +0800" stop="20260725190000 +0800">
     <title lang="zh">揽胜神州</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719130000 +0800" stop="20260719133000 +0800">
-    <title lang="zh">发现汇</title>
+<programme channel="558940" start="20260725190000 +0800" stop="20260725195000 +0800">
+    <title lang="zh">家国</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719133000 +0800" stop="20260719134500 +0800">
-    <title lang="zh">华夏传奇(2)</title>
+<programme channel="558940" start="20260725195000 +0800" stop="20260725204900 +0800">
+    <title lang="zh">还看今朝</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719134500 +0800" stop="20260719140000 +0800">
-    <title lang="zh">华夏传奇(3)</title>
+<programme channel="558940" start="20260725204900 +0800" stop="20260725210000 +0800">
+    <title lang="zh">重建中国茶道</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719140000 +0800" stop="20260719140500 +0800">
+<programme channel="558940" start="20260725210000 +0800" stop="20260725213000 +0800">
+    <title lang="zh">美丽家园</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725213000 +0800" stop="20260725213500 +0800">
+    <title lang="zh">青春之我(10)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260725213500 +0800" stop="20260725214000 +0800">
     <title lang="zh">青春之我(3)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719140500 +0800" stop="20260719141000 +0800">
-    <title lang="zh">青春之我(96)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719141000 +0800" stop="20260719141500 +0800">
+<programme channel="558940" start="20260725214000 +0800" stop="20260725214500 +0800">
     <title lang="zh">晓屯聊摄影</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719141500 +0800" stop="20260719150500 +0800">
-    <title lang="zh">你要倾听的大地</title>
+<programme channel="558940" start="20260725214500 +0800" stop="20260725220000 +0800">
+    <title lang="zh">美丽家园</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719150500 +0800" stop="20260719153000 +0800">
-    <title lang="zh">喜事</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719153000 +0800" stop="20260719160000 +0800">
-    <title lang="zh">美丽中华行</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719160000 +0800" stop="20260719161500 +0800">
+<programme channel="558940" start="20260725220000 +0800" stop="20260725221500 +0800">
     <title lang="zh">纪录东方</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719161500 +0800" stop="20260719163000 +0800">
-    <title lang="zh">华夏传奇(2)</title>
+<programme channel="558940" start="20260725221500 +0800" stop="20260725223000 +0800">
+    <title lang="zh">川菜在民间</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719163000 +0800" stop="20260719164500 +0800">
-    <title lang="zh">华夏传奇(3)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719164500 +0800" stop="20260719165000 +0800">
-    <title lang="zh">青春之我(3)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719165000 +0800" stop="20260719170000 +0800">
-    <title lang="zh">青春之我(96)</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719170000 +0800" stop="20260719173000 +0800">
+<programme channel="558940" start="20260725223000 +0800" stop="20260725230000 +0800">
     <title lang="zh">新昌悟语</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719173000 +0800" stop="20260719180000 +0800">
-    <title lang="zh">发现汇</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719180000 +0800" stop="20260719183000 +0800">
-    <title lang="zh">新昌悟语</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719183000 +0800" stop="20260719190000 +0800">
-    <title lang="zh">美丽中华行</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719190000 +0800" stop="20260719190500 +0800">
-    <title lang="zh">晓屯聊摄影</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554444" start="20260719190500 +0800" stop="20260719193500 +0800">
+<programme channel="558940" start="20260725230000 +0800" stop="20260725233000 +0800">
     <title lang="zh">揽胜神州</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719193500 +0800" stop="20260719203500 +0800">
-    <title lang="zh">还看今朝</title>
+<programme channel="558940" start="20260725233000 +0800" stop="20260725233500 +0800">
+    <title lang="zh">聚焦先锋榜</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719203500 +0800" stop="20260719204000 +0800">
+<programme channel="558940" start="20260725233500 +0800" stop="20260726000000 +0800">
+    <title lang="zh">喜事</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726000000 +0800" stop="20260726003000 +0800">
+    <title lang="zh">发现汇</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726003000 +0800" stop="20260726010000 +0800">
+    <title lang="zh">美丽中华行</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726010000 +0800" stop="20260726060000 +0800">
+    <title lang="zh">测试图</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726060000 +0800" stop="20260726061500 +0800">
+    <title lang="zh">华夏传奇</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726061500 +0800" stop="20260726063000 +0800">
+    <title lang="zh">纪录东方</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726063000 +0800" stop="20260726070000 +0800">
+    <title lang="zh">美丽中华行</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726070000 +0800" stop="20260726073000 +0800">
+    <title lang="zh">发现汇</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726073000 +0800" stop="20260726073500 +0800">
+    <title lang="zh">青春之我(10)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726073500 +0800" stop="20260726074000 +0800">
+    <title lang="zh">青春之我(3)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726074000 +0800" stop="20260726075000 +0800">
+    <title lang="zh">佳酿之旅(2)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726075000 +0800" stop="20260726080000 +0800">
+    <title lang="zh">佳酿之旅(3)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726080000 +0800" stop="20260726090000 +0800">
+    <title lang="zh">揽胜神州</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726090000 +0800" stop="20260726100500 +0800">
+    <title lang="zh">你要倾听的大地</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726100500 +0800" stop="20260726103000 +0800">
+    <title lang="zh">你要倾听的大地</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726103000 +0800" stop="20260726103500 +0800">
+    <title lang="zh">青春之我(10)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726103500 +0800" stop="20260726104000 +0800">
+    <title lang="zh">青春之我(3)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726104000 +0800" stop="20260726104500 +0800">
     <title lang="zh">晓屯聊摄影</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719204000 +0800" stop="20260719213000 +0800">
+<programme channel="558940" start="20260726104500 +0800" stop="20260726113500 +0800">
     <title lang="zh">家国</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719213000 +0800" stop="20260719213500 +0800">
-    <title lang="zh">青春之我(4)</title>
+<programme channel="558940" start="20260726113500 +0800" stop="20260726120000 +0800">
+    <title lang="zh">喜事</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719213500 +0800" stop="20260719214000 +0800">
-    <title lang="zh">青春之我(97)</title>
+<programme channel="558940" start="20260726120000 +0800" stop="20260726121500 +0800">
+    <title lang="zh">纪录东方</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719214000 +0800" stop="20260719220500 +0800">
-    <title lang="zh">喜事(1)</title>
+<programme channel="558940" start="20260726121500 +0800" stop="20260726122000 +0800">
+    <title lang="zh">聚焦先锋榜</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719220500 +0800" stop="20260719223000 +0800">
-    <title lang="zh">喜事(2)</title>
+<programme channel="558940" start="20260726122000 +0800" stop="20260726123000 +0800">
+    <title lang="zh">佳酿之旅</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719223000 +0800" stop="20260719231000 +0800">
+<programme channel="558940" start="20260726123000 +0800" stop="20260726130000 +0800">
+    <title lang="zh">揽胜神州</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726130000 +0800" stop="20260726133000 +0800">
+    <title lang="zh">发现汇</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726133000 +0800" stop="20260726134500 +0800">
+    <title lang="zh">华夏传奇(2)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726134500 +0800" stop="20260726140000 +0800">
+    <title lang="zh">华夏传奇(3)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726140000 +0800" stop="20260726140500 +0800">
+    <title lang="zh">青春之我(10)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726140500 +0800" stop="20260726141000 +0800">
+    <title lang="zh">青春之我(3)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726141000 +0800" stop="20260726141500 +0800">
+    <title lang="zh">晓屯聊摄影</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726141500 +0800" stop="20260726150500 +0800">
+    <title lang="zh">你要倾听的大地</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726150500 +0800" stop="20260726153000 +0800">
+    <title lang="zh">喜事</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726153000 +0800" stop="20260726160000 +0800">
+    <title lang="zh">美丽中华行</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726160000 +0800" stop="20260726161500 +0800">
+    <title lang="zh">纪录东方</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726161500 +0800" stop="20260726163000 +0800">
+    <title lang="zh">华夏传奇(2)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726163000 +0800" stop="20260726164500 +0800">
+    <title lang="zh">华夏传奇(3)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726164500 +0800" stop="20260726165000 +0800">
+    <title lang="zh">青春之我(10)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726165000 +0800" stop="20260726170000 +0800">
+    <title lang="zh">青春之我(3)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726170000 +0800" stop="20260726173000 +0800">
+    <title lang="zh">新昌悟语</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726173000 +0800" stop="20260726180000 +0800">
+    <title lang="zh">发现汇</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726180000 +0800" stop="20260726183000 +0800">
+    <title lang="zh">新昌悟语</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726183000 +0800" stop="20260726190000 +0800">
+    <title lang="zh">美丽中华行</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726190000 +0800" stop="20260726190500 +0800">
+    <title lang="zh">晓屯聊摄影</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726190500 +0800" stop="20260726193500 +0800">
+    <title lang="zh">揽胜神州</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726193500 +0800" stop="20260726203500 +0800">
     <title lang="zh">还看今朝</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554444" start="20260719231000 +0800" stop="20260720000000 +0800">
+<programme channel="558940" start="20260726203500 +0800" stop="20260726204000 +0800">
+    <title lang="zh">晓屯聊摄影</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726204000 +0800" stop="20260726213000 +0800">
     <title lang="zh">家国</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726213000 +0800" stop="20260726213500 +0800">
+    <title lang="zh">青春之我(11)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726213500 +0800" stop="20260726214000 +0800">
+    <title lang="zh">青春之我(4)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726214000 +0800" stop="20260726220500 +0800">
+    <title lang="zh">喜事(3)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726220500 +0800" stop="20260726223000 +0800">
+    <title lang="zh">喜事(4)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726223000 +0800" stop="20260726231000 +0800">
+    <title lang="zh">还看今朝</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558940" start="20260726231000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">家国</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

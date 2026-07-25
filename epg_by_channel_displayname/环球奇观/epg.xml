@@ -1,594 +1,1296 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554445" start="20260719000000 +0800" stop="20260719003000 +0800">
-    <title lang="zh">功夫季:太极基本功(3)</title>
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558941" start="20260725000000 +0800" stop="20260725003000 +0800">
+    <title lang="zh">功夫季:太极基本功(6)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719003000 +0800" stop="20260719005000 +0800">
-    <title lang="zh">汽车书场</title>
+<programme channel="558941" start="20260725003000 +0800" stop="20260725005000 +0800">
+    <title lang="zh">汽车书场:多事之秋借东风</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719005000 +0800" stop="20260719010000 +0800">
+<programme channel="558941" start="20260725005000 +0800" stop="20260725010000 +0800">
+    <title lang="zh">环球科技</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725010000 +0800" stop="20260725013000 +0800">
+    <title lang="zh">茶无界:太平猴魁</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725013000 +0800" stop="20260725020000 +0800">
+    <title lang="zh">奇趣大自然:草原顶级猎手</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725020000 +0800" stop="20260725021500 +0800">
+    <title lang="zh">赵功书法讲堂(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725021500 +0800" stop="20260725023000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725023000 +0800" stop="20260725030000 +0800">
+    <title lang="zh">跟富老师学画画:恩尼斯泰蒙瀑布</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725030000 +0800" stop="20260725033000 +0800">
+    <title lang="zh">传奇:改变历史的天气(下)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725033000 +0800" stop="20260725034000 +0800">
+    <title lang="zh">悦课堂(16)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725034000 +0800" stop="20260725035000 +0800">
+    <title lang="zh">悦课堂(17)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725035000 +0800" stop="20260725040000 +0800">
+    <title lang="zh">悦课堂(18)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725040000 +0800" stop="20260725043000 +0800">
+    <title lang="zh">功夫季:太极基本功(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725043000 +0800" stop="20260725045000 +0800">
+    <title lang="zh">汽车书场:多事之秋借东风</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725045000 +0800" stop="20260725050000 +0800">
+    <title lang="zh">环球科技</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725050000 +0800" stop="20260725053000 +0800">
+    <title lang="zh">茶无界:太平猴魁</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725053000 +0800" stop="20260725060000 +0800">
+    <title lang="zh">奇趣大自然:草原顶级猎手</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725060000 +0800" stop="20260725061500 +0800">
+    <title lang="zh">赵功书法讲堂(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725061500 +0800" stop="20260725063000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725063000 +0800" stop="20260725070000 +0800">
+    <title lang="zh">跟富老师学画画:恩尼斯泰蒙瀑布</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725070000 +0800" stop="20260725073000 +0800">
+    <title lang="zh">传奇:改变历史的天气(下)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725073000 +0800" stop="20260725074000 +0800">
+    <title lang="zh">悦课堂(16)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725074000 +0800" stop="20260725075000 +0800">
+    <title lang="zh">悦课堂(17)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725075000 +0800" stop="20260725080000 +0800">
+    <title lang="zh">悦课堂(18)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725080000 +0800" stop="20260725083000 +0800">
+    <title lang="zh">功夫季:太极基本功(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725083000 +0800" stop="20260725085000 +0800">
+    <title lang="zh">汽车书场:多事之秋借东风</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725085000 +0800" stop="20260725090000 +0800">
+    <title lang="zh">环球科技</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725090000 +0800" stop="20260725093000 +0800">
+    <title lang="zh">茶无界:太平猴魁</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725093000 +0800" stop="20260725100000 +0800">
+    <title lang="zh">奇趣大自然:草原顶级猎手</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725100000 +0800" stop="20260725101500 +0800">
+    <title lang="zh">赵功书法讲堂(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725101500 +0800" stop="20260725103000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725103000 +0800" stop="20260725110000 +0800">
+    <title lang="zh">跟富老师学画画:恩尼斯泰蒙瀑布</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725110000 +0800" stop="20260725113000 +0800">
+    <title lang="zh">传奇:改变历史的天气(下)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725113000 +0800" stop="20260725114000 +0800">
+    <title lang="zh">悦课堂(16)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725114000 +0800" stop="20260725115000 +0800">
+    <title lang="zh">悦课堂(17)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725115000 +0800" stop="20260725120000 +0800">
+    <title lang="zh">悦课堂(18)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725120000 +0800" stop="20260725123000 +0800">
+    <title lang="zh">功夫季:太极基本功(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725123000 +0800" stop="20260725125000 +0800">
+    <title lang="zh">汽车书场:多事之秋借东风</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725125000 +0800" stop="20260725130000 +0800">
+    <title lang="zh">环球科技</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725130000 +0800" stop="20260725133000 +0800">
+    <title lang="zh">茶无界:太平猴魁</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725133000 +0800" stop="20260725140000 +0800">
+    <title lang="zh">奇趣大自然:草原顶级猎手</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725140000 +0800" stop="20260725141500 +0800">
+    <title lang="zh">赵功书法讲堂(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725141500 +0800" stop="20260725143000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725143000 +0800" stop="20260725150000 +0800">
+    <title lang="zh">跟富老师学画画:恩尼斯泰蒙瀑布</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725150000 +0800" stop="20260725153000 +0800">
+    <title lang="zh">传奇:改变历史的天气(下)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725153000 +0800" stop="20260725154000 +0800">
+    <title lang="zh">悦课堂(16)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725154000 +0800" stop="20260725155000 +0800">
+    <title lang="zh">悦课堂(17)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725155000 +0800" stop="20260725160000 +0800">
+    <title lang="zh">悦课堂(18)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725160000 +0800" stop="20260725163000 +0800">
+    <title lang="zh">功夫季:太极基本功(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725163000 +0800" stop="20260725165000 +0800">
+    <title lang="zh">汽车书场:多事之秋借东风</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725165000 +0800" stop="20260725170000 +0800">
+    <title lang="zh">环球科技</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725170000 +0800" stop="20260725173000 +0800">
+    <title lang="zh">茶无界:太平猴魁</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725173000 +0800" stop="20260725180000 +0800">
+    <title lang="zh">奇趣大自然:草原顶级猎手</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725180000 +0800" stop="20260725181500 +0800">
+    <title lang="zh">赵功书法讲堂(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725181500 +0800" stop="20260725183000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725183000 +0800" stop="20260725190000 +0800">
+    <title lang="zh">跟富老师学画画:恩尼斯泰蒙瀑布</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725190000 +0800" stop="20260725193000 +0800">
+    <title lang="zh">传奇:改变历史的天气(下)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725193000 +0800" stop="20260725194000 +0800">
+    <title lang="zh">悦课堂(16)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725194000 +0800" stop="20260725195000 +0800">
+    <title lang="zh">悦课堂(17)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725195000 +0800" stop="20260725200000 +0800">
+    <title lang="zh">悦课堂(18)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725200000 +0800" stop="20260725203000 +0800">
+    <title lang="zh">功夫季:太极基本功(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725203000 +0800" stop="20260725205000 +0800">
+    <title lang="zh">汽车书场:多事之秋借东风</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725205000 +0800" stop="20260725210000 +0800">
+    <title lang="zh">环球科技</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725210000 +0800" stop="20260725213000 +0800">
+    <title lang="zh">茶无界:太平猴魁</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725213000 +0800" stop="20260725220000 +0800">
+    <title lang="zh">奇趣大自然:草原顶级猎手</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725220000 +0800" stop="20260725221500 +0800">
+    <title lang="zh">赵功书法讲堂(6)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725221500 +0800" stop="20260725223000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725223000 +0800" stop="20260725230000 +0800">
+    <title lang="zh">跟富老师学画画:恩尼斯泰蒙瀑布</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725230000 +0800" stop="20260725233000 +0800">
+    <title lang="zh">传奇:改变历史的天气(下)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725233000 +0800" stop="20260725234000 +0800">
+    <title lang="zh">悦课堂(16)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725234000 +0800" stop="20260725235000 +0800">
+    <title lang="zh">悦课堂(17)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260725235000 +0800" stop="20260726000000 +0800">
+    <title lang="zh">悦课堂(18)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260726000000 +0800" stop="20260726003000 +0800">
+    <title lang="zh">功夫季:经络拍打操(1)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260726003000 +0800" stop="20260726005000 +0800">
+    <title lang="zh">汽车书场:小面微车也有春天</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260726005000 +0800" stop="20260726010000 +0800">
     <title lang="zh">天下奇闻</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719010000 +0800" stop="20260719013000 +0800">
-    <title lang="zh">90后对话道德经</title>
+<programme channel="558941" start="20260726010000 +0800" stop="20260726013000 +0800">
+    <title lang="zh">茶无界:北方茶城</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719013000 +0800" stop="20260719020000 +0800">
-    <title lang="zh">奇趣大自然:手电鱼</title>
+<programme channel="558941" start="20260726013000 +0800" stop="20260726020000 +0800">
+    <title lang="zh">奇趣大自然:空中猎杀机器</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719020000 +0800" stop="20260719023000 +0800">
-    <title lang="zh">中国山水画技法系列</title>
+<programme channel="558941" start="20260726020000 +0800" stop="20260726021500 +0800">
+    <title lang="zh">赵功书法讲堂(7)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719023000 +0800" stop="20260719030000 +0800">
-    <title lang="zh">跟富老师学画画:马尔罗尼</title>
+<programme channel="558941" start="20260726021500 +0800" stop="20260726023000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719030000 +0800" stop="20260719033000 +0800">
+<programme channel="558941" start="20260726023000 +0800" stop="20260726030000 +0800">
+    <title lang="zh">跟富老师学画画:基拉卢的山楂树</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260726030000 +0800" stop="20260726033000 +0800">
     <title lang="zh">传奇:离奇消失的文明</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719033000 +0800" stop="20260719034000 +0800">
-    <title lang="zh">悦课堂(47)</title>
+<programme channel="558941" start="20260726033000 +0800" stop="20260726034000 +0800">
+    <title lang="zh">悦课堂(19)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719034000 +0800" stop="20260719035000 +0800">
-    <title lang="zh">悦课堂(48)</title>
+<programme channel="558941" start="20260726034000 +0800" stop="20260726035000 +0800">
+    <title lang="zh">悦课堂(20)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719035000 +0800" stop="20260719040000 +0800">
-    <title lang="zh">悦课堂(49)</title>
+<programme channel="558941" start="20260726035000 +0800" stop="20260726040000 +0800">
+    <title lang="zh">悦课堂(21)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719040000 +0800" stop="20260719043000 +0800">
-    <title lang="zh">功夫季:太极基本功(3)</title>
+<programme channel="558941" start="20260726040000 +0800" stop="20260726043000 +0800">
+    <title lang="zh">功夫季:经络拍打操(1)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719043000 +0800" stop="20260719045000 +0800">
-    <title lang="zh">汽车书场</title>
+<programme channel="558941" start="20260726043000 +0800" stop="20260726045000 +0800">
+    <title lang="zh">汽车书场:小面微车也有春天</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719045000 +0800" stop="20260719050000 +0800">
+<programme channel="558941" start="20260726045000 +0800" stop="20260726050000 +0800">
     <title lang="zh">天下奇闻</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719050000 +0800" stop="20260719053000 +0800">
-    <title lang="zh">90后对话道德经</title>
+<programme channel="558941" start="20260726050000 +0800" stop="20260726053000 +0800">
+    <title lang="zh">茶无界:北方茶城</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719053000 +0800" stop="20260719060000 +0800">
-    <title lang="zh">奇趣大自然:手电鱼</title>
+<programme channel="558941" start="20260726053000 +0800" stop="20260726060000 +0800">
+    <title lang="zh">奇趣大自然:空中猎杀机器</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719060000 +0800" stop="20260719063000 +0800">
-    <title lang="zh">中国山水画技法系列</title>
+<programme channel="558941" start="20260726060000 +0800" stop="20260726061500 +0800">
+    <title lang="zh">赵功书法讲堂(7)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719063000 +0800" stop="20260719070000 +0800">
-    <title lang="zh">跟富老师学画画:马尔罗尼</title>
+<programme channel="558941" start="20260726061500 +0800" stop="20260726063000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719070000 +0800" stop="20260719073000 +0800">
+<programme channel="558941" start="20260726063000 +0800" stop="20260726070000 +0800">
+    <title lang="zh">跟富老师学画画:基拉卢的山楂树</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260726070000 +0800" stop="20260726073000 +0800">
     <title lang="zh">传奇:离奇消失的文明</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719073000 +0800" stop="20260719074000 +0800">
-    <title lang="zh">悦课堂(47)</title>
+<programme channel="558941" start="20260726073000 +0800" stop="20260726074000 +0800">
+    <title lang="zh">悦课堂(19)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719074000 +0800" stop="20260719075000 +0800">
-    <title lang="zh">悦课堂(48)</title>
+<programme channel="558941" start="20260726074000 +0800" stop="20260726075000 +0800">
+    <title lang="zh">悦课堂(20)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719075000 +0800" stop="20260719080000 +0800">
-    <title lang="zh">悦课堂(49)</title>
+<programme channel="558941" start="20260726075000 +0800" stop="20260726080000 +0800">
+    <title lang="zh">悦课堂(21)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719080000 +0800" stop="20260719083000 +0800">
-    <title lang="zh">功夫季:太极基本功(3)</title>
+<programme channel="558941" start="20260726080000 +0800" stop="20260726083000 +0800">
+    <title lang="zh">功夫季:经络拍打操(1)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719083000 +0800" stop="20260719085000 +0800">
-    <title lang="zh">汽车书场</title>
+<programme channel="558941" start="20260726083000 +0800" stop="20260726085000 +0800">
+    <title lang="zh">汽车书场:小面微车也有春天</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719085000 +0800" stop="20260719090000 +0800">
+<programme channel="558941" start="20260726085000 +0800" stop="20260726090000 +0800">
     <title lang="zh">天下奇闻</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719090000 +0800" stop="20260719093000 +0800">
-    <title lang="zh">90后对话道德经</title>
+<programme channel="558941" start="20260726090000 +0800" stop="20260726093000 +0800">
+    <title lang="zh">茶无界:北方茶城</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719093000 +0800" stop="20260719100000 +0800">
-    <title lang="zh">奇趣大自然:手电鱼</title>
+<programme channel="558941" start="20260726093000 +0800" stop="20260726100000 +0800">
+    <title lang="zh">奇趣大自然:空中猎杀机器</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719100000 +0800" stop="20260719103000 +0800">
-    <title lang="zh">中国山水画技法系列</title>
+<programme channel="558941" start="20260726100000 +0800" stop="20260726101500 +0800">
+    <title lang="zh">赵功书法讲堂(7)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719103000 +0800" stop="20260719110000 +0800">
-    <title lang="zh">跟富老师学画画:马尔罗尼</title>
+<programme channel="558941" start="20260726101500 +0800" stop="20260726103000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719110000 +0800" stop="20260719113000 +0800">
+<programme channel="558941" start="20260726103000 +0800" stop="20260726110000 +0800">
+    <title lang="zh">跟富老师学画画:基拉卢的山楂树</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260726110000 +0800" stop="20260726113000 +0800">
     <title lang="zh">传奇:离奇消失的文明</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719113000 +0800" stop="20260719114000 +0800">
-    <title lang="zh">悦课堂(47)</title>
+<programme channel="558941" start="20260726113000 +0800" stop="20260726114000 +0800">
+    <title lang="zh">悦课堂(19)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719114000 +0800" stop="20260719115000 +0800">
-    <title lang="zh">悦课堂(48)</title>
+<programme channel="558941" start="20260726114000 +0800" stop="20260726115000 +0800">
+    <title lang="zh">悦课堂(20)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719115000 +0800" stop="20260719120000 +0800">
-    <title lang="zh">悦课堂(49)</title>
+<programme channel="558941" start="20260726115000 +0800" stop="20260726120000 +0800">
+    <title lang="zh">悦课堂(21)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719120000 +0800" stop="20260719123000 +0800">
-    <title lang="zh">功夫季:太极基本功(3)</title>
+<programme channel="558941" start="20260726120000 +0800" stop="20260726123000 +0800">
+    <title lang="zh">功夫季:经络拍打操(1)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719123000 +0800" stop="20260719125000 +0800">
-    <title lang="zh">汽车书场</title>
+<programme channel="558941" start="20260726123000 +0800" stop="20260726125000 +0800">
+    <title lang="zh">汽车书场:小面微车也有春天</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719125000 +0800" stop="20260719130000 +0800">
+<programme channel="558941" start="20260726125000 +0800" stop="20260726130000 +0800">
     <title lang="zh">天下奇闻</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719130000 +0800" stop="20260719133000 +0800">
-    <title lang="zh">90后对话道德经</title>
+<programme channel="558941" start="20260726130000 +0800" stop="20260726133000 +0800">
+    <title lang="zh">茶无界:北方茶城</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719133000 +0800" stop="20260719140000 +0800">
-    <title lang="zh">奇趣大自然:手电鱼</title>
+<programme channel="558941" start="20260726133000 +0800" stop="20260726140000 +0800">
+    <title lang="zh">奇趣大自然:空中猎杀机器</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719140000 +0800" stop="20260719143000 +0800">
-    <title lang="zh">中国山水画技法系列</title>
+<programme channel="558941" start="20260726140000 +0800" stop="20260726141500 +0800">
+    <title lang="zh">赵功书法讲堂(7)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719143000 +0800" stop="20260719150000 +0800">
-    <title lang="zh">跟富老师学画画:马尔罗尼</title>
+<programme channel="558941" start="20260726141500 +0800" stop="20260726143000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719150000 +0800" stop="20260719153000 +0800">
+<programme channel="558941" start="20260726143000 +0800" stop="20260726150000 +0800">
+    <title lang="zh">跟富老师学画画:基拉卢的山楂树</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260726150000 +0800" stop="20260726153000 +0800">
     <title lang="zh">传奇:离奇消失的文明</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719153000 +0800" stop="20260719154000 +0800">
-    <title lang="zh">悦课堂(47)</title>
+<programme channel="558941" start="20260726153000 +0800" stop="20260726154000 +0800">
+    <title lang="zh">悦课堂(19)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719154000 +0800" stop="20260719155000 +0800">
-    <title lang="zh">悦课堂(48)</title>
+<programme channel="558941" start="20260726154000 +0800" stop="20260726155000 +0800">
+    <title lang="zh">悦课堂(20)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719155000 +0800" stop="20260719160000 +0800">
-    <title lang="zh">悦课堂(49)</title>
+<programme channel="558941" start="20260726155000 +0800" stop="20260726160000 +0800">
+    <title lang="zh">悦课堂(21)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719160000 +0800" stop="20260719163000 +0800">
-    <title lang="zh">功夫季:太极基本功(3)</title>
+<programme channel="558941" start="20260726160000 +0800" stop="20260726163000 +0800">
+    <title lang="zh">功夫季:经络拍打操(1)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719163000 +0800" stop="20260719165000 +0800">
-    <title lang="zh">汽车书场</title>
+<programme channel="558941" start="20260726163000 +0800" stop="20260726165000 +0800">
+    <title lang="zh">汽车书场:小面微车也有春天</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719165000 +0800" stop="20260719170000 +0800">
+<programme channel="558941" start="20260726165000 +0800" stop="20260726170000 +0800">
     <title lang="zh">天下奇闻</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719170000 +0800" stop="20260719173000 +0800">
-    <title lang="zh">90后对话道德经</title>
+<programme channel="558941" start="20260726170000 +0800" stop="20260726173000 +0800">
+    <title lang="zh">茶无界:北方茶城</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719173000 +0800" stop="20260719180000 +0800">
-    <title lang="zh">奇趣大自然:手电鱼</title>
+<programme channel="558941" start="20260726173000 +0800" stop="20260726180000 +0800">
+    <title lang="zh">奇趣大自然:空中猎杀机器</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719180000 +0800" stop="20260719183000 +0800">
-    <title lang="zh">中国山水画技法系列</title>
+<programme channel="558941" start="20260726180000 +0800" stop="20260726181500 +0800">
+    <title lang="zh">赵功书法讲堂(7)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719183000 +0800" stop="20260719190000 +0800">
-    <title lang="zh">跟富老师学画画:马尔罗尼</title>
+<programme channel="558941" start="20260726181500 +0800" stop="20260726183000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719190000 +0800" stop="20260719193000 +0800">
+<programme channel="558941" start="20260726183000 +0800" stop="20260726190000 +0800">
+    <title lang="zh">跟富老师学画画:基拉卢的山楂树</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260726190000 +0800" stop="20260726193000 +0800">
     <title lang="zh">传奇:离奇消失的文明</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719193000 +0800" stop="20260719194000 +0800">
-    <title lang="zh">悦课堂(47)</title>
+<programme channel="558941" start="20260726193000 +0800" stop="20260726194000 +0800">
+    <title lang="zh">悦课堂(19)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719194000 +0800" stop="20260719195000 +0800">
-    <title lang="zh">悦课堂(48)</title>
+<programme channel="558941" start="20260726194000 +0800" stop="20260726195000 +0800">
+    <title lang="zh">悦课堂(20)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719195000 +0800" stop="20260719200000 +0800">
-    <title lang="zh">悦课堂(49)</title>
+<programme channel="558941" start="20260726195000 +0800" stop="20260726200000 +0800">
+    <title lang="zh">悦课堂(21)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719200000 +0800" stop="20260719203000 +0800">
-    <title lang="zh">功夫季:太极基本功(3)</title>
+<programme channel="558941" start="20260726200000 +0800" stop="20260726203000 +0800">
+    <title lang="zh">功夫季:经络拍打操(1)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719203000 +0800" stop="20260719205000 +0800">
-    <title lang="zh">汽车书场</title>
+<programme channel="558941" start="20260726203000 +0800" stop="20260726205000 +0800">
+    <title lang="zh">汽车书场:小面微车也有春天</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719205000 +0800" stop="20260719210000 +0800">
+<programme channel="558941" start="20260726205000 +0800" stop="20260726210000 +0800">
     <title lang="zh">天下奇闻</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719210000 +0800" stop="20260719213000 +0800">
-    <title lang="zh">90后对话道德经</title>
+<programme channel="558941" start="20260726210000 +0800" stop="20260726213000 +0800">
+    <title lang="zh">茶无界:北方茶城</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719213000 +0800" stop="20260719220000 +0800">
-    <title lang="zh">奇趣大自然:手电鱼</title>
+<programme channel="558941" start="20260726213000 +0800" stop="20260726220000 +0800">
+    <title lang="zh">奇趣大自然:空中猎杀机器</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719220000 +0800" stop="20260719223000 +0800">
-    <title lang="zh">中国山水画技法系列</title>
+<programme channel="558941" start="20260726220000 +0800" stop="20260726221500 +0800">
+    <title lang="zh">赵功书法讲堂(7)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719223000 +0800" stop="20260719230000 +0800">
-    <title lang="zh">跟富老师学画画:马尔罗尼</title>
+<programme channel="558941" start="20260726221500 +0800" stop="20260726223000 +0800">
+    <title lang="zh">世界美食之旅:超级盛宴</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719230000 +0800" stop="20260719233000 +0800">
+<programme channel="558941" start="20260726223000 +0800" stop="20260726230000 +0800">
+    <title lang="zh">跟富老师学画画:基拉卢的山楂树</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558941" start="20260726230000 +0800" stop="20260726233000 +0800">
     <title lang="zh">传奇:离奇消失的文明</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719233000 +0800" stop="20260719234000 +0800">
-    <title lang="zh">悦课堂(47)</title>
+<programme channel="558941" start="20260726233000 +0800" stop="20260726234000 +0800">
+    <title lang="zh">悦课堂(19)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719234000 +0800" stop="20260719235000 +0800">
-    <title lang="zh">悦课堂(48)</title>
+<programme channel="558941" start="20260726234000 +0800" stop="20260726235000 +0800">
+    <title lang="zh">悦课堂(20)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554445" start="20260719235000 +0800" stop="20260720000000 +0800">
-    <title lang="zh">悦课堂(49)</title>
+<programme channel="558941" start="20260726235000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">悦课堂(21)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

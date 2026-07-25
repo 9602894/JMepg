@@ -1,261 +1,522 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554362" start="20260719000300 +0800" stop="20260719005500 +0800">
-    <title lang="zh">田野欢歌-2025-62</title>
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558859" start="20260725010500 +0800" stop="20260725013900 +0800">
+    <title lang="zh">三农群英汇-2026-247</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554362" start="20260719005500 +0800" stop="20260719012600 +0800">
-    <title lang="zh">乡理乡亲-2026-61</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719012600 +0800" stop="20260719055600 +0800">
+<programme channel="558859" start="20260725013900 +0800" stop="20260725055800 +0800">
     <title lang="zh">再见</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554362" start="20260719055600 +0800" stop="20260719060500 +0800">
-    <title lang="zh">2026田园特供-乡村达人秀10-高空扁带绝活表演</title>
+<programme channel="558859" start="20260725055800 +0800" stop="20260725060800 +0800">
+    <title lang="zh">2026田园特供-乡村达人秀11-川剧三绝表演</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554362" start="20260719060500 +0800" stop="20260719072700 +0800">
-    <title lang="zh">田野欢歌-2025-20</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719072700 +0800" stop="20260719075500 +0800">
-    <title lang="zh">三农群英汇-2026-241</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719075500 +0800" stop="20260719080000 +0800">
-    <title lang="zh">村里来了钢铁侠-13</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719080000 +0800" stop="20260719083100 +0800">
-    <title lang="zh">中国三农报道</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719083100 +0800" stop="20260719092600 +0800">
-    <title lang="zh">田野欢歌-2026-45</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719092600 +0800" stop="20260719101600 +0800">
-    <title lang="zh">乡村剧场(栏目剧)-福鼎一家人(精编)-3/19</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719101600 +0800" stop="20260719110800 +0800">
-    <title lang="zh">亲爱的孩子们30/40</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719110800 +0800" stop="20260719120000 +0800">
-    <title lang="zh">亲爱的孩子们31/40</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719120000 +0800" stop="20260719123100 +0800">
-    <title lang="zh">中国三农报道</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719123100 +0800" stop="20260719123700 +0800">
-    <title lang="zh">村里来了钢铁侠-14</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719123700 +0800" stop="20260719132900 +0800">
-    <title lang="zh">田野欢歌-2025-63</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719132900 +0800" stop="20260719133700 +0800">
-    <title lang="zh">田园特供2025-动物趣百科-海兔逃生记</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719133700 +0800" stop="20260719142700 +0800">
-    <title lang="zh">亲爱的小孩18/34</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719142700 +0800" stop="20260719152000 +0800">
-    <title lang="zh">亲爱的小孩19/34</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719152000 +0800" stop="20260719161200 +0800">
-    <title lang="zh">亲爱的小孩20/34</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719161200 +0800" stop="20260719170300 +0800">
-    <title lang="zh">亲爱的小孩21/34</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719170300 +0800" stop="20260719173200 +0800">
-    <title lang="zh">乡理乡亲-2026-62</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719173200 +0800" stop="20260719180000 +0800">
-    <title lang="zh">超级农人秀-2026-141</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719180000 +0800" stop="20260719184000 +0800">
-    <title lang="zh">中国三农报道</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719184000 +0800" stop="20260719193500 +0800">
-    <title lang="zh">亲爱的孩子们32/40</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719193500 +0800" stop="20260719203000 +0800">
-    <title lang="zh">亲爱的孩子们33/40</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719203000 +0800" stop="20260719211800 +0800">
-    <title lang="zh">乡村剧场(栏目剧)-福鼎一家人(精编)-4/19</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719211800 +0800" stop="20260719221400 +0800">
-    <title lang="zh">田野欢歌-2026-44</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719221400 +0800" stop="20260719224200 +0800">
-    <title lang="zh">三农群英汇-2026-242</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554362" start="20260719224200 +0800" stop="20260720000000 +0800">
+<programme channel="558859" start="20260725060800 +0800" stop="20260725073100 +0800">
     <title lang="zh">田野欢歌-2025-21</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725073100 +0800" stop="20260725080000 +0800">
+    <title lang="zh">三农群英汇-2026-247</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725080000 +0800" stop="20260725082900 +0800">
+    <title lang="zh">中国三农报道</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725082900 +0800" stop="20260725083500 +0800">
+    <title lang="zh">田园特供2025-动物趣百科-滩涂螃蟹趣味日记</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725083500 +0800" stop="20260725093000 +0800">
+    <title lang="zh">田野欢歌-2026-45</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725093000 +0800" stop="20260725101900 +0800">
+    <title lang="zh">乡村剧场(栏目剧)-福鼎一家人(精编)-9/19</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725101900 +0800" stop="20260725110800 +0800">
+    <title lang="zh">陌上又花开第2集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725110800 +0800" stop="20260725120000 +0800">
+    <title lang="zh">陌上又花开第3集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725120000 +0800" stop="20260725123100 +0800">
+    <title lang="zh">中国三农报道</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725123100 +0800" stop="20260725123900 +0800">
+    <title lang="zh">2026田园特供-乡村达人秀9-踩刀刃绝活表演</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725123900 +0800" stop="20260725130600 +0800">
+    <title lang="zh">共富经-2026-144-乡村趣味运动会1</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725130600 +0800" stop="20260725133200 +0800">
+    <title lang="zh">田园特供2025-动物趣谈1</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725133200 +0800" stop="20260725134400 +0800">
+    <title lang="zh">乡理乡亲-2023-34</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725134400 +0800" stop="20260725143300 +0800">
+    <title lang="zh">我们的日子第8集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725143300 +0800" stop="20260725152300 +0800">
+    <title lang="zh">我们的日子第9集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725152300 +0800" stop="20260725161300 +0800">
+    <title lang="zh">我们的日子第10集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725161300 +0800" stop="20260725170500 +0800">
+    <title lang="zh">我们的日子第11集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725170500 +0800" stop="20260725180000 +0800">
+    <title lang="zh">田野欢歌-2025-65</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725180000 +0800" stop="20260725183700 +0800">
+    <title lang="zh">中国三农报道</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725183700 +0800" stop="20260725193200 +0800">
+    <title lang="zh">陌上又花开第4集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725193200 +0800" stop="20260725202500 +0800">
+    <title lang="zh">陌上又花开第5集</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725202500 +0800" stop="20260725215100 +0800">
+    <title lang="zh">田野欢歌-2026-23</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725215100 +0800" stop="20260725221800 +0800">
+    <title lang="zh">三农群英汇-2026-248</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725221800 +0800" stop="20260725230600 +0800">
+    <title lang="zh">乡村剧场(栏目剧)-福鼎一家人(精编)-10/19</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725230600 +0800" stop="20260725235700 +0800">
+    <title lang="zh">田野欢歌-2025-65</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260725235700 +0800" stop="20260726011900 +0800">
+    <title lang="zh">田野欢歌-2025-22</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726011900 +0800" stop="20260726015000 +0800">
+    <title lang="zh">共富经-2026-144-乡村趣味运动会1</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726015000 +0800" stop="20260726055800 +0800">
+    <title lang="zh">再见</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726055800 +0800" stop="20260726060800 +0800">
+    <title lang="zh">2026田园特供-乡村达人秀12-飞斧表演</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726060800 +0800" stop="20260726073100 +0800">
+    <title lang="zh">田野欢歌-2026-23</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726073100 +0800" stop="20260726080000 +0800">
+    <title lang="zh">三农群英汇-2026-248</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726080000 +0800" stop="20260726082900 +0800">
+    <title lang="zh">中国三农报道</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726082900 +0800" stop="20260726083500 +0800">
+    <title lang="zh">田园特供2025-动物趣百科-海洋协作捕猎记</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726083500 +0800" stop="20260726093000 +0800">
+    <title lang="zh">田野欢歌-2025-67</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726093000 +0800" stop="20260726101900 +0800">
+    <title lang="zh">乡村剧场(栏目剧)-福鼎一家人(精编)-10/19</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726101900 +0800" stop="20260726110800 +0800">
+    <title lang="zh">妈妈在等你4/47</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726110800 +0800" stop="20260726120000 +0800">
+    <title lang="zh">妈妈在等你5/47</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726120000 +0800" stop="20260726123100 +0800">
+    <title lang="zh">中国三农报道</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726123100 +0800" stop="20260726123900 +0800">
+    <title lang="zh">2026田园特供-乡村达人秀19-顶技表演</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726123900 +0800" stop="20260726130600 +0800">
+    <title lang="zh">共富经-2026-145-乡村趣味运动会2</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726130600 +0800" stop="20260726133200 +0800">
+    <title lang="zh">田园特供2025-动物趣谈3</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726133200 +0800" stop="20260726134400 +0800">
+    <title lang="zh">乡理乡亲-2023-35</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726134400 +0800" stop="20260726143300 +0800">
+    <title lang="zh">我们的日子12/38</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726143300 +0800" stop="20260726152300 +0800">
+    <title lang="zh">我们的日子13/38</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726152300 +0800" stop="20260726161300 +0800">
+    <title lang="zh">我们的日子14/38</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726161300 +0800" stop="20260726170500 +0800">
+    <title lang="zh">我们的日子15/38</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726170500 +0800" stop="20260726180000 +0800">
+    <title lang="zh">田野欢歌-2025-66</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726180000 +0800" stop="20260726183700 +0800">
+    <title lang="zh">中国三农报道</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726183700 +0800" stop="20260726193200 +0800">
+    <title lang="zh">陌上又花开6/36</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726193200 +0800" stop="20260726202500 +0800">
+    <title lang="zh">陌上又花开7/36</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726202500 +0800" stop="20260726215200 +0800">
+    <title lang="zh">田野欢歌-2025-21</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726215200 +0800" stop="20260726221900 +0800">
+    <title lang="zh">三农群英汇-2026-249</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726221900 +0800" stop="20260726230700 +0800">
+    <title lang="zh">乡村剧场(栏目剧)-福鼎一家人(精编)-11/19</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726230700 +0800" stop="20260726235800 +0800">
+    <title lang="zh">田野欢歌-2025-68</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558859" start="20260726235800 +0800" stop="20260727000000 +0800">
+    <title lang="zh">田野欢歌-2025-24</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

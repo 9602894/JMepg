@@ -1,324 +1,549 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554353" start="20260720002345 +0800" stop="20260720060300 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558850" start="20260725000945 +0800" stop="20260725004745 +0800">
+    <title lang="zh">兵器面面观-2026-147</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725004745 +0800" stop="20260725060300 +0800">
     <title lang="zh">再见</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720060300 +0800" stop="20260720063330 +0800">
-    <title lang="zh">第二战场-2026-29</title>
+<programme channel="558850" start="20260725060300 +0800" stop="20260725063330 +0800">
+    <title lang="zh">军事纪实-2026-备播4</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720063330 +0800" stop="20260720065930 +0800">
-    <title lang="zh">国防故事-2026-104</title>
+<programme channel="558850" start="20260725063330 +0800" stop="20260725070400 +0800">
+    <title lang="zh">砺剑-2026-30</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720065930 +0800" stop="20260720072430 +0800">
-    <title lang="zh">世界战史-2026-137</title>
+<programme channel="558850" start="20260725070400 +0800" stop="20260725073000 +0800">
+    <title lang="zh">国防故事-2026-109</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720072430 +0800" stop="20260720073000 +0800">
-    <title lang="zh">国防微视频-军歌嘹亮-军营是我永远的家（2026）</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720073000 +0800" stop="20260720075830 +0800">
+<programme channel="558850" start="20260725073000 +0800" stop="20260725075830 +0800">
     <title lang="zh">国防军事早报</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720075830 +0800" stop="20260720090300 +0800">
+<programme channel="558850" start="20260725075830 +0800" stop="20260725090300 +0800">
     <title lang="zh">讲武堂-2026-29</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720090300 +0800" stop="20260720093530 +0800">
-    <title lang="zh">防务新观察-2026-200</title>
+<programme channel="558850" start="20260725090300 +0800" stop="20260725093530 +0800">
+    <title lang="zh">防务新观察-2026-205</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720093530 +0800" stop="20260720100530 +0800">
-    <title lang="zh">军事科技-2026-28</title>
+<programme channel="558850" start="20260725093530 +0800" stop="20260725100530 +0800">
+    <title lang="zh">军事纪实-2026-备播4</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720100530 +0800" stop="20260720103300 +0800">
-    <title lang="zh">兵器面面观-2026-142</title>
+<programme channel="558850" start="20260725100530 +0800" stop="20260725101730 +0800">
+    <title lang="zh">国防微视频-军歌嘹亮-哨所的天空（2026精编版）</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720103300 +0800" stop="20260720110030 +0800">
-    <title lang="zh">世界战史-2026-137</title>
+<programme channel="558850" start="20260725101730 +0800" stop="20260725120000 +0800">
+    <title lang="zh">五星剧场-红孩子(高清文件)</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720110030 +0800" stop="20260720112800 +0800">
-    <title lang="zh">国防故事-2026-104</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720112800 +0800" stop="20260720115300 +0800">
-    <title lang="zh">军事纪录-2026-137</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720115300 +0800" stop="20260720120000 +0800">
-    <title lang="zh">国防微视频-军歌嘹亮-绽放的青春（2026军校版）</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720120000 +0800" stop="20260720123630 +0800">
+<programme channel="558850" start="20260725120000 +0800" stop="20260725123630 +0800">
     <title lang="zh">正午国防军事</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720123630 +0800" stop="20260720130830 +0800">
-    <title lang="zh">防务新观察-2026-200</title>
+<programme channel="558850" start="20260725123630 +0800" stop="20260725131330 +0800">
+    <title lang="zh">防务新观察-2026-205</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720130830 +0800" stop="20260720134230 +0800">
-    <title lang="zh">砺剑-2026-29</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720134230 +0800" stop="20260720140930 +0800">
-    <title lang="zh">兵器面面观-2026-142</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720140930 +0800" stop="20260720143700 +0800">
-    <title lang="zh">军事纪录-2026-137</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720143700 +0800" stop="20260720152630 +0800">
-    <title lang="zh">扫黑风暴11/28</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720152630 +0800" stop="20260720161430 +0800">
-    <title lang="zh">扫黑风暴12/28</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720161430 +0800" stop="20260720170430 +0800">
-    <title lang="zh">扫黑风暴13/28</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720170430 +0800" stop="20260720173100 +0800">
-    <title lang="zh">世界战史-2026-138</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720173100 +0800" stop="20260720180000 +0800">
-    <title lang="zh">军事纪录-2026-138</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720180000 +0800" stop="20260720180230 +0800">
-    <title lang="zh">国防微视频-军歌嘹亮-军营是我永远的家（2026）</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720180230 +0800" stop="20260720182830 +0800">
-    <title lang="zh">兵器面面观-2026-143</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720182830 +0800" stop="20260720190000 +0800">
-    <title lang="zh">国防故事-2026-105</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720190000 +0800" stop="20260720193300 +0800">
-    <title lang="zh">新闻联播</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720193300 +0800" stop="20260720200300 +0800">
-    <title lang="zh">军事报道</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720200300 +0800" stop="20260720200930 +0800">
-    <title lang="zh">国防微视频-军歌嘹亮-绽放的青春（2026军校版）</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720200930 +0800" stop="20260720204330 +0800">
-    <title lang="zh">防务新观察-2026-201</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720204330 +0800" stop="20260720211715 +0800">
-    <title lang="zh">军事纪实-2026-143</title>
-    <desc />
-    <date>20260720</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554353" start="20260720211715 +0800" stop="20260720215315 +0800">
+<programme channel="558850" start="20260725131330 +0800" stop="20260725134430 +0800">
     <title lang="zh">军武零距离-2026-29（4K）</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720215315 +0800" stop="20260720224345 +0800">
-    <title lang="zh">五星剧场-黄雀17/24</title>
+<programme channel="558850" start="20260725134430 +0800" stop="20260725134930 +0800">
+    <title lang="zh">国防微视频-军歌嘹亮-八千里边防大北疆（2026精编版）</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720224345 +0800" stop="20260720233545 +0800">
-    <title lang="zh">五星剧场-黄雀18/24</title>
+<programme channel="558850" start="20260725134930 +0800" stop="20260725142330 +0800">
+    <title lang="zh">军迷行天下-2026-29</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554353" start="20260720233545 +0800" stop="20260721000000 +0800">
-    <title lang="zh">军事纪实-2026-143</title>
+<programme channel="558850" start="20260725142330 +0800" stop="20260725151300 +0800">
+    <title lang="zh">扫黑风暴26/28</title>
     <desc />
-    <date>20260720</date>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725151300 +0800" stop="20260725160100 +0800">
+    <title lang="zh">扫黑风暴27/28</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725160100 +0800" stop="20260725165100 +0800">
+    <title lang="zh">扫黑风暴28/28</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725165100 +0800" stop="20260725172100 +0800">
+    <title lang="zh">军事科技-2026-29</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725172100 +0800" stop="20260725175500 +0800">
+    <title lang="zh">第二战场-2026-30</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725175500 +0800" stop="20260725175730 +0800">
+    <title lang="zh">国防微视频-军歌嘹亮-哨所的天空（2026精编版）</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725175730 +0800" stop="20260725182830 +0800">
+    <title lang="zh">砺剑-2026-30</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725182830 +0800" stop="20260725190000 +0800">
+    <title lang="zh">军营的味道-2026-30</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725190000 +0800" stop="20260725193300 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725193300 +0800" stop="20260725200300 +0800">
+    <title lang="zh">军事报道</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725200300 +0800" stop="20260725201000 +0800">
+    <title lang="zh">国防微视频-军歌嘹亮-八千里边防大北疆（2026精编版）</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725201000 +0800" stop="20260725204530 +0800">
+    <title lang="zh">防务新观察-2026-206</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725204530 +0800" stop="20260725215345 +0800">
+    <title lang="zh">老兵你好-2026-30</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725215345 +0800" stop="20260725224415 +0800">
+    <title lang="zh">冰雪尖刀连3/24</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725224415 +0800" stop="20260725234045 +0800">
+    <title lang="zh">冰雪尖刀连4/24</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260725234045 +0800" stop="20260726002345 +0800">
+    <title lang="zh">第二战场-2026-30</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726002345 +0800" stop="20260726060300 +0800">
+    <title lang="zh">再见</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726060300 +0800" stop="20260726063330 +0800">
+    <title lang="zh">军迷行天下-2026-29</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726063330 +0800" stop="20260726070400 +0800">
+    <title lang="zh">军武零距离-2026-29（4K）</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726070400 +0800" stop="20260726073000 +0800">
+    <title lang="zh">世界战史-2026-142</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726073000 +0800" stop="20260726075830 +0800">
+    <title lang="zh">国防军事早报</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726075830 +0800" stop="20260726090100 +0800">
+    <title lang="zh">老兵你好-2026-30</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726090100 +0800" stop="20260726093330 +0800">
+    <title lang="zh">防务新观察-2026-206</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726093330 +0800" stop="20260726100930 +0800">
+    <title lang="zh">军事科技-2026-29</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726100930 +0800" stop="20260726120000 +0800">
+    <title lang="zh">五星剧场-英雄儿女(高清文件)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726120000 +0800" stop="20260726123630 +0800">
+    <title lang="zh">正午国防军事</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726123630 +0800" stop="20260726131330 +0800">
+    <title lang="zh">防务新观察-2026-206</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726131330 +0800" stop="20260726134430 +0800">
+    <title lang="zh">军武零距离-2026-29（4K）</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726134430 +0800" stop="20260726134830 +0800">
+    <title lang="zh">国防微视频-军歌嘹亮-党的队伍向前方（2026）</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726134830 +0800" stop="20260726141630 +0800">
+    <title lang="zh">军营的味道-2026-30</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726141630 +0800" stop="20260726150700 +0800">
+    <title lang="zh">虎胆巍城1/36</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726150700 +0800" stop="20260726155600 +0800">
+    <title lang="zh">虎胆巍城2/36</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726155600 +0800" stop="20260726164700 +0800">
+    <title lang="zh">虎胆巍城3/36</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726164700 +0800" stop="20260726174700 +0800">
+    <title lang="zh">老兵你好-2026-30</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726174700 +0800" stop="20260726175330 +0800">
+    <title lang="zh">国防微视频-军歌嘹亮-战士为国守安详（2026精编版）</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726175330 +0800" stop="20260726190000 +0800">
+    <title lang="zh">讲武堂-2026-30</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726190000 +0800" stop="20260726193300 +0800">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726193300 +0800" stop="20260726200300 +0800">
+    <title lang="zh">军事报道</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726200300 +0800" stop="20260726200900 +0800">
+    <title lang="zh">国防微视频-军歌嘹亮-党的队伍向前方（2026）</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726200900 +0800" stop="20260726204430 +0800">
+    <title lang="zh">防务新观察-2026-207</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726204430 +0800" stop="20260726211430 +0800">
+    <title lang="zh">时光军史馆-2026-30</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726211430 +0800" stop="20260726215245 +0800">
+    <title lang="zh">兵器面面观-环球兵器大事件-2026-30</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726215245 +0800" stop="20260726224315 +0800">
+    <title lang="zh">冰雪尖刀连5/24</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726224315 +0800" stop="20260726233945 +0800">
+    <title lang="zh">冰雪尖刀连6/24</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558850" start="20260726233945 +0800" stop="20260727000000 +0800">
+    <title lang="zh">兵器面面观-环球兵器大事件-2026-30</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

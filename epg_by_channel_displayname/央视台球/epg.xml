@@ -1,180 +1,387 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554428" start="20260719005000 +0800" stop="20260719010000 +0800">
-    <title lang="zh">实况录像-2023/2024赛季世界斯诺克大师赛 丁俊晖的147</title>
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558924" start="20260725002000 +0800" stop="20260725021000 +0800">
+    <title lang="zh">赛场直击-2025年斯诺克世界公开赛 凯伦·威尔逊-雷佩凡</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719010000 +0800" stop="20260719022000 +0800">
+<programme channel="558924" start="20260725021000 +0800" stop="20260725022500 +0800">
+    <title lang="zh">实况录像-精彩一刻-2025/2026斯诺克世界公开赛 奥沙利文的153</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725022500 +0800" stop="20260725034500 +0800">
+    <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 2</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725034500 +0800" stop="20260725040000 +0800">
+    <title lang="zh">实况录像-2015/2016赛季斯诺克威尔士公开赛 丁俊晖147</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725040000 +0800" stop="20260725041000 +0800">
+    <title lang="zh">实况录像-2017年斯诺克中国公开赛 特鲁姆普的147</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725041000 +0800" stop="20260725045800 +0800">
+    <title lang="zh">实况录像-2013/2014赛季斯诺克英国锦标赛精选1</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725045800 +0800" stop="20260725064100 +0800">
+    <title lang="zh">实况录像-2013/2014赛季斯诺克英国锦标赛精选2</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725064100 +0800" stop="20260725081600 +0800">
+    <title lang="zh">实况录像-2013/2014赛季斯诺克英国锦标赛精选3</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725081600 +0800" stop="20260725100000 +0800">
+    <title lang="zh">实况录像-2013/2014赛季斯诺克英国锦标赛精选4</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725100000 +0800" stop="20260725112000 +0800">
+    <title lang="zh">实况录像-2021/2022赛季斯诺克威尔士公开赛 精选 2</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725112000 +0800" stop="20260725134000 +0800">
+    <title lang="zh">赛场直击-2025年斯诺克世界公开赛 丁俊晖-乔·佩里</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725134000 +0800" stop="20260725153000 +0800">
+    <title lang="zh">赛场直击-2025年斯诺克世界公开赛 凯伦·威尔逊-雷佩凡</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725153000 +0800" stop="20260725165000 +0800">
+    <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 4</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725165000 +0800" stop="20260725165600 +0800">
+    <title lang="zh">实况录像-2018年斯诺克王中王赛 塞尔比的147</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725165600 +0800" stop="20260725183900 +0800">
+    <title lang="zh">实况录像-2023/2024赛季世界斯诺克巡回赛大师赛 3</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725183900 +0800" stop="20260725200000 +0800">
+    <title lang="zh">实况录像-2021/2022赛季斯诺克威尔士公开赛 精选 1</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725200000 +0800" stop="20260725211500 +0800">
+    <title lang="zh">赛场直击-2026年世界斯诺克锦标赛 第一轮 约翰·希金斯-阿里·卡特</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725211500 +0800" stop="20260725225800 +0800">
+    <title lang="zh">实况录像-2023/2024赛季世界斯诺克巡回赛大师赛 4</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725225800 +0800" stop="20260725230500 +0800">
+    <title lang="zh">实况录像-2022/2023赛季世界斯诺克锦标赛 威尔逊的147</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260725230500 +0800" stop="20260726003000 +0800">
+    <title lang="zh">赛场直击-2025年斯诺克世界公开赛 丁俊晖-侯赛因·瓦菲1</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260726003000 +0800" stop="20260726020000 +0800">
+    <title lang="zh">赛场直击-2025年斯诺克世界公开赛 丁俊晖-侯赛因·瓦菲2</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260726020000 +0800" stop="20260726032000 +0800">
     <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 3</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719022000 +0800" stop="20260719040000 +0800">
-    <title lang="zh">实况录像-2019/2020赛季斯诺克英国锦标赛 决赛</title>
+<programme channel="558924" start="20260726032000 +0800" stop="20260726040000 +0800">
+    <title lang="zh">实况录像-2021/2022赛季斯诺克威尔士公开赛 精选 3</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719040000 +0800" stop="20260719040600 +0800">
-    <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 罗伯逊的147</title>
+<programme channel="558924" start="20260726040000 +0800" stop="20260726040600 +0800">
+    <title lang="zh">实况录像-2019/2020赛季世界斯诺克锦标赛 希金斯的147</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719040600 +0800" stop="20260719052600 +0800">
-    <title lang="zh">实况录像-2020/2021赛季斯诺克威尔士公开赛 精选1</title>
+<programme channel="558924" start="20260726040600 +0800" stop="20260726054900 +0800">
+    <title lang="zh">实况录像-2013/2014赛季斯诺克英国锦标赛精选5</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719052600 +0800" stop="20260719064600 +0800">
-    <title lang="zh">实况录像-2020/2021赛季斯诺克威尔士公开赛 精选2</title>
+<programme channel="558924" start="20260726054900 +0800" stop="20260726070900 +0800">
+    <title lang="zh">实况录像-2012/2013赛季斯诺克英国锦标赛精选1</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719064600 +0800" stop="20260719080600 +0800">
-    <title lang="zh">实况录像-2020/2021赛季斯诺克威尔士公开赛 精选3</title>
+<programme channel="558924" start="20260726070900 +0800" stop="20260726082900 +0800">
+    <title lang="zh">实况录像-2012/2013赛季斯诺克英国锦标赛精选2</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719080600 +0800" stop="20260719094900 +0800">
-    <title lang="zh">实况录像-2020/2021赛季斯诺克威尔士公开赛 决赛</title>
+<programme channel="558924" start="20260726082900 +0800" stop="20260726094900 +0800">
+    <title lang="zh">实况录像-2016/2017赛季斯诺克威尔士公开赛 决赛</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719094900 +0800" stop="20260719100000 +0800">
-    <title lang="zh">实况录像-2024/2025赛季斯诺克世界公开赛 墨菲的147</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554428" start="20260719100000 +0800" stop="20260719121000 +0800">
-    <title lang="zh">赛场直击-2025年斯诺克英国锦标赛 1/4决赛 特鲁姆普-丁俊晖</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554428" start="20260719121000 +0800" stop="20260719122000 +0800">
+<programme channel="558924" start="20260726094900 +0800" stop="20260726100000 +0800">
     <title lang="zh">实况录像-2023/2024赛季世界斯诺克大师赛 丁俊晖的147</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719122000 +0800" stop="20260719150000 +0800">
-    <title lang="zh">赛场直击-2024年斯诺克国际锦标赛 丁俊晖-克里斯·韦克林 第一阶段</title>
+<programme channel="558924" start="20260726100000 +0800" stop="20260726114300 +0800">
+    <title lang="zh">实况录像-2021/2022赛季斯诺克威尔士公开赛 决赛</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719150000 +0800" stop="20260719162000 +0800">
+<programme channel="558924" start="20260726114300 +0800" stop="20260726115800 +0800">
+    <title lang="zh">实况录像-精彩一刻-2025/2026斯诺克世界公开赛 奥沙利文的153</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260726115800 +0800" stop="20260726132300 +0800">
+    <title lang="zh">赛场直击-2025年斯诺克世界公开赛 丁俊晖-侯赛因·瓦菲1</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260726132300 +0800" stop="20260726145300 +0800">
+    <title lang="zh">赛场直击-2025年斯诺克世界公开赛 丁俊晖-侯赛因·瓦菲2</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260726145300 +0800" stop="20260726150000 +0800">
+    <title lang="zh">实况录像-2024/2025赛季斯诺克大师赛半决赛 墨菲的147</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260726150000 +0800" stop="20260726162000 +0800">
     <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 决赛</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719162000 +0800" stop="20260719183000 +0800">
-    <title lang="zh">赛场直击-2026年世界斯诺克锦标赛 第一轮 丁俊晖-吉尔伯特</title>
+<programme channel="558924" start="20260726162000 +0800" stop="20260726173500 +0800">
+    <title lang="zh">赛场直击-2026年世界斯诺克锦标赛 第一轮 约翰·希金斯-阿里·卡特</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719183000 +0800" stop="20260719185900 +0800">
-    <title lang="zh">赛场直击-2025年斯诺克英国锦标赛 第二轮 赵心童-张安达-1</title>
+<programme channel="558924" start="20260726173500 +0800" stop="20260726191800 +0800">
+    <title lang="zh">实况录像-2023/2024赛季世界斯诺克巡回赛大师赛 4</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719185900 +0800" stop="20260719200000 +0800">
-    <title lang="zh">赛场直击-2025年斯诺克英国锦标赛 第二轮 赵心童-张安达-2</title>
+<programme channel="558924" start="20260726191800 +0800" stop="20260726200000 +0800">
+    <title lang="zh">实况录像-2021/2022赛季斯诺克威尔士公开赛 精选 2</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719200000 +0800" stop="20260719214300 +0800">
-    <title lang="zh">实况录像-2022/2023赛季斯诺克英国锦标赛 决赛</title>
+<programme channel="558924" start="20260726200000 +0800" stop="20260726214300 +0800">
+    <title lang="zh">实况录像-2023/2024赛季世界斯诺克巡回赛大师赛 决赛</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719214300 +0800" stop="20260719215300 +0800">
-    <title lang="zh">实况录像-2023年世界斯诺克巡回赛 国际锦标赛 张安达的147</title>
+<programme channel="558924" start="20260726214300 +0800" stop="20260726215300 +0800">
+    <title lang="zh">实况录像-2023/2024赛季世界斯诺克大师赛 丁俊晖的147</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719215300 +0800" stop="20260719220000 +0800">
+<programme channel="558924" start="20260726215300 +0800" stop="20260726220000 +0800">
     <title lang="zh">实况录像-2023/2024赛季世界斯诺克巡回赛威尔士公开赛 加里·威尔逊的147</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554428" start="20260719220000 +0800" stop="20260720000000 +0800">
-    <title lang="zh">赛场直击-2024年斯诺克国际锦标赛 丁俊晖-克里斯·韦克林 第二阶段</title>
+<programme channel="558924" start="20260726220000 +0800" stop="20260726232000 +0800">
+    <title lang="zh">赛场直击-2025年斯诺克世界公开赛 半决赛 阿里·卡特-乔·奥康纳1</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558924" start="20260726232000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">赛场直击-2025年斯诺克世界公开赛 半决赛 阿里·卡特-乔·奥康纳2</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

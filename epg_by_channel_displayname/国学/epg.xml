@@ -1,504 +1,1008 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554446" start="20260719000200 +0800" stop="20260719003600 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558942" start="20260725000200 +0800" stop="20260725003600 +0800">
     <title lang="zh">国学公开课</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719003600 +0800" stop="20260719004000 +0800">
+<programme channel="558942" start="20260725003600 +0800" stop="20260725004000 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719004000 +0800" stop="20260719011000 +0800">
+<programme channel="558942" start="20260725004000 +0800" stop="20260725011000 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719011000 +0800" stop="20260719013800 +0800">
+<programme channel="558942" start="20260725011000 +0800" stop="20260725013800 +0800">
     <title lang="zh">文化中国</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719013800 +0800" stop="20260719020600 +0800">
+<programme channel="558942" start="20260725013800 +0800" stop="20260725020600 +0800">
     <title lang="zh">丹青国韵</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719020600 +0800" stop="20260719025000 +0800">
+<programme channel="558942" start="20260725020600 +0800" stop="20260725025000 +0800">
     <title lang="zh">论古今</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719025000 +0800" stop="20260719032400 +0800">
+<programme channel="558942" start="20260725025000 +0800" stop="20260725032400 +0800">
     <title lang="zh">书画大讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719032400 +0800" stop="20260719035000 +0800">
+<programme channel="558942" start="20260725032400 +0800" stop="20260725035000 +0800">
     <title lang="zh">书画大讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719035000 +0800" stop="20260719035400 +0800">
+<programme channel="558942" start="20260725035000 +0800" stop="20260725035400 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719035400 +0800" stop="20260719041200 +0800">
+<programme channel="558942" start="20260725035400 +0800" stop="20260725041200 +0800">
     <title lang="zh">国学18分</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719041200 +0800" stop="20260719044600 +0800">
+<programme channel="558942" start="20260725041200 +0800" stop="20260725044600 +0800">
     <title lang="zh">国学公开课</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719044600 +0800" stop="20260719051600 +0800">
+<programme channel="558942" start="20260725044600 +0800" stop="20260725051600 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719051600 +0800" stop="20260719052000 +0800">
+<programme channel="558942" start="20260725051600 +0800" stop="20260725052000 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719052000 +0800" stop="20260719054800 +0800">
+<programme channel="558942" start="20260725052000 +0800" stop="20260725054800 +0800">
     <title lang="zh">文化中国</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719054800 +0800" stop="20260719061600 +0800">
+<programme channel="558942" start="20260725054800 +0800" stop="20260725061600 +0800">
     <title lang="zh">丹青国韵</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719061600 +0800" stop="20260719070000 +0800">
+<programme channel="558942" start="20260725061600 +0800" stop="20260725070000 +0800">
     <title lang="zh">论古今</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719070000 +0800" stop="20260719073000 +0800">
+<programme channel="558942" start="20260725070000 +0800" stop="20260725073000 +0800">
     <title lang="zh">书画大讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719073000 +0800" stop="20260719073400 +0800">
+<programme channel="558942" start="20260725073000 +0800" stop="20260725073400 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719073400 +0800" stop="20260719080400 +0800">
+<programme channel="558942" start="20260725073400 +0800" stop="20260725080400 +0800">
     <title lang="zh">书画大讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719080400 +0800" stop="20260719082200 +0800">
+<programme channel="558942" start="20260725080400 +0800" stop="20260725082200 +0800">
     <title lang="zh">国学18分</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719082200 +0800" stop="20260719085600 +0800">
+<programme channel="558942" start="20260725082200 +0800" stop="20260725085600 +0800">
     <title lang="zh">国学公开课</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719085600 +0800" stop="20260719090000 +0800">
+<programme channel="558942" start="20260725085600 +0800" stop="20260725090000 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719090000 +0800" stop="20260719093000 +0800">
+<programme channel="558942" start="20260725090000 +0800" stop="20260725093000 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719093000 +0800" stop="20260719095800 +0800">
+<programme channel="558942" start="20260725093000 +0800" stop="20260725095800 +0800">
     <title lang="zh">文化中国</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719095800 +0800" stop="20260719102600 +0800">
+<programme channel="558942" start="20260725095800 +0800" stop="20260725102600 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719102600 +0800" stop="20260719111000 +0800">
+<programme channel="558942" start="20260725102600 +0800" stop="20260725111000 +0800">
     <title lang="zh">论古今</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719111000 +0800" stop="20260719114000 +0800">
+<programme channel="558942" start="20260725111000 +0800" stop="20260725114000 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719114000 +0800" stop="20260719114400 +0800">
+<programme channel="558942" start="20260725114000 +0800" stop="20260725114400 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719114400 +0800" stop="20260719121400 +0800">
+<programme channel="558942" start="20260725114400 +0800" stop="20260725121400 +0800">
     <title lang="zh">书画大讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719121400 +0800" stop="20260719130600 +0800">
+<programme channel="558942" start="20260725121400 +0800" stop="20260725130600 +0800">
     <title lang="zh">国风文脉</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719130600 +0800" stop="20260719131000 +0800">
+<programme channel="558942" start="20260725130600 +0800" stop="20260725131000 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719131000 +0800" stop="20260719134000 +0800">
+<programme channel="558942" start="20260725131000 +0800" stop="20260725134000 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719134000 +0800" stop="20260719140800 +0800">
+<programme channel="558942" start="20260725134000 +0800" stop="20260725140800 +0800">
     <title lang="zh">我看见</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719140800 +0800" stop="20260719143600 +0800">
+<programme channel="558942" start="20260725140800 +0800" stop="20260725143600 +0800">
     <title lang="zh">丹青国韵</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719143600 +0800" stop="20260719152000 +0800">
+<programme channel="558942" start="20260725143600 +0800" stop="20260725152000 +0800">
     <title lang="zh">论古今</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719152000 +0800" stop="20260719155000 +0800">
+<programme channel="558942" start="20260725152000 +0800" stop="20260725155000 +0800">
     <title lang="zh">名家讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719155000 +0800" stop="20260719155400 +0800">
+<programme channel="558942" start="20260725155000 +0800" stop="20260725155400 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719155400 +0800" stop="20260719162400 +0800">
+<programme channel="558942" start="20260725155400 +0800" stop="20260725162400 +0800">
     <title lang="zh">名家讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719162400 +0800" stop="20260719171600 +0800">
+<programme channel="558942" start="20260725162400 +0800" stop="20260725171600 +0800">
     <title lang="zh">国风文脉</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719171600 +0800" stop="20260719174600 +0800">
+<programme channel="558942" start="20260725171600 +0800" stop="20260725174600 +0800">
     <title lang="zh">国画云课堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719174600 +0800" stop="20260719175000 +0800">
+<programme channel="558942" start="20260725174600 +0800" stop="20260725175000 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719175000 +0800" stop="20260719181800 +0800">
+<programme channel="558942" start="20260725175000 +0800" stop="20260725181800 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719181800 +0800" stop="20260719190000 +0800">
+<programme channel="558942" start="20260725181800 +0800" stop="20260725190000 +0800">
     <title lang="zh">丹青国韵</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719190000 +0800" stop="20260719190400 +0800">
+<programme channel="558942" start="20260725190000 +0800" stop="20260725190400 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719190400 +0800" stop="20260719193400 +0800">
+<programme channel="558942" start="20260725190400 +0800" stop="20260725193400 +0800">
     <title lang="zh">名家讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719193400 +0800" stop="20260719200400 +0800">
+<programme channel="558942" start="20260725193400 +0800" stop="20260725200400 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719200400 +0800" stop="20260719202200 +0800">
+<programme channel="558942" start="20260725200400 +0800" stop="20260725202200 +0800">
     <title lang="zh">国学18分</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719202200 +0800" stop="20260719202600 +0800">
+<programme channel="558942" start="20260725202200 +0800" stop="20260725202600 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719202600 +0800" stop="20260719205600 +0800">
+<programme channel="558942" start="20260725202600 +0800" stop="20260725205600 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719205600 +0800" stop="20260719212600 +0800">
+<programme channel="558942" start="20260725205600 +0800" stop="20260725212600 +0800">
     <title lang="zh">国画云课堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719212600 +0800" stop="20260719215600 +0800">
+<programme channel="558942" start="20260725212600 +0800" stop="20260725215600 +0800">
     <title lang="zh">国学半小时</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719215600 +0800" stop="20260719224000 +0800">
+<programme channel="558942" start="20260725215600 +0800" stop="20260725224000 +0800">
     <title lang="zh">论古今</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719224000 +0800" stop="20260719231000 +0800">
+<programme channel="558942" start="20260725224000 +0800" stop="20260725231000 +0800">
     <title lang="zh">名家讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719231000 +0800" stop="20260719231400 +0800">
+<programme channel="558942" start="20260725231000 +0800" stop="20260725231400 +0800">
     <title lang="zh">固定垫片</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719231400 +0800" stop="20260719234400 +0800">
+<programme channel="558942" start="20260725231400 +0800" stop="20260725234400 +0800">
     <title lang="zh">名家讲堂</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554446" start="20260719234400 +0800" stop="20260720000000 +0800">
+<programme channel="558942" start="20260725234400 +0800" stop="20260726000200 +0800">
     <title lang="zh">国学18分</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726000200 +0800" stop="20260726003600 +0800">
+    <title lang="zh">国学公开课</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726003600 +0800" stop="20260726004000 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726004000 +0800" stop="20260726011000 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726011000 +0800" stop="20260726013800 +0800">
+    <title lang="zh">文化中国</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726013800 +0800" stop="20260726020600 +0800">
+    <title lang="zh">丹青国韵</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726020600 +0800" stop="20260726025000 +0800">
+    <title lang="zh">论古今</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726025000 +0800" stop="20260726032400 +0800">
+    <title lang="zh">书画大讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726032400 +0800" stop="20260726035000 +0800">
+    <title lang="zh">书画大讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726035000 +0800" stop="20260726035400 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726035400 +0800" stop="20260726041200 +0800">
+    <title lang="zh">国学18分</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726041200 +0800" stop="20260726044600 +0800">
+    <title lang="zh">国学公开课</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726044600 +0800" stop="20260726051600 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726051600 +0800" stop="20260726052000 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726052000 +0800" stop="20260726054800 +0800">
+    <title lang="zh">文化中国</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726054800 +0800" stop="20260726061600 +0800">
+    <title lang="zh">丹青国韵</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726061600 +0800" stop="20260726070000 +0800">
+    <title lang="zh">论古今</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726070000 +0800" stop="20260726073000 +0800">
+    <title lang="zh">书画大讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726073000 +0800" stop="20260726073400 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726073400 +0800" stop="20260726080400 +0800">
+    <title lang="zh">书画大讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726080400 +0800" stop="20260726082200 +0800">
+    <title lang="zh">国学18分</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726082200 +0800" stop="20260726085600 +0800">
+    <title lang="zh">国学公开课</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726085600 +0800" stop="20260726090000 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726090000 +0800" stop="20260726093000 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726093000 +0800" stop="20260726095800 +0800">
+    <title lang="zh">文化中国</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726095800 +0800" stop="20260726102600 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726102600 +0800" stop="20260726111000 +0800">
+    <title lang="zh">论古今</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726111000 +0800" stop="20260726114000 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726114000 +0800" stop="20260726114400 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726114400 +0800" stop="20260726121400 +0800">
+    <title lang="zh">书画大讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726121400 +0800" stop="20260726130600 +0800">
+    <title lang="zh">国风文脉</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726130600 +0800" stop="20260726131000 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726131000 +0800" stop="20260726134000 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726134000 +0800" stop="20260726140800 +0800">
+    <title lang="zh">我看见</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726140800 +0800" stop="20260726143600 +0800">
+    <title lang="zh">丹青国韵</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726143600 +0800" stop="20260726152000 +0800">
+    <title lang="zh">论古今</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726152000 +0800" stop="20260726155000 +0800">
+    <title lang="zh">名家讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726155000 +0800" stop="20260726155400 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726155400 +0800" stop="20260726162400 +0800">
+    <title lang="zh">名家讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726162400 +0800" stop="20260726171600 +0800">
+    <title lang="zh">国风文脉</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726171600 +0800" stop="20260726174600 +0800">
+    <title lang="zh">国画云课堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726174600 +0800" stop="20260726175000 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726175000 +0800" stop="20260726181800 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726181800 +0800" stop="20260726190000 +0800">
+    <title lang="zh">丹青国韵</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726190000 +0800" stop="20260726190400 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726190400 +0800" stop="20260726193400 +0800">
+    <title lang="zh">名家讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726193400 +0800" stop="20260726200400 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726200400 +0800" stop="20260726202200 +0800">
+    <title lang="zh">国学18分</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726202200 +0800" stop="20260726202600 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726202600 +0800" stop="20260726205600 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726205600 +0800" stop="20260726212600 +0800">
+    <title lang="zh">国画云课堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726212600 +0800" stop="20260726215600 +0800">
+    <title lang="zh">国学半小时</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726215600 +0800" stop="20260726224000 +0800">
+    <title lang="zh">论古今</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726224000 +0800" stop="20260726231000 +0800">
+    <title lang="zh">名家讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726231000 +0800" stop="20260726231400 +0800">
+    <title lang="zh">固定垫片</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726231400 +0800" stop="20260726234400 +0800">
+    <title lang="zh">名家讲堂</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558942" start="20260726234400 +0800" stop="20260727000000 +0800">
+    <title lang="zh">国学18分</title>
+    <desc />
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

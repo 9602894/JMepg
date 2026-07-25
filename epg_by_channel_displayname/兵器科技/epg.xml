@@ -1,369 +1,702 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554419" start="20260719000300 +0800" stop="20260719002900 +0800">
-    <title lang="zh">军事纪实-2025-168</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719002900 +0800" stop="20260719005400 +0800">
-    <title lang="zh">军事纪实-2025-169</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719005400 +0800" stop="20260719005500 +0800">
-    <title lang="zh">兵器科技频道包装-2023-52</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719005500 +0800" stop="20260719083200 +0800">
-    <title lang="zh">影视背景-2023-6</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719083200 +0800" stop="20260719090200 +0800">
-    <title lang="zh">军火之源-2020-11</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719090200 +0800" stop="20260719093200 +0800">
-    <title lang="zh">军火之源-2020-9</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719093200 +0800" stop="20260719093300 +0800">
-    <title lang="zh">兵器科技频道包装-2023-52</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719093300 +0800" stop="20260719100300 +0800">
-    <title lang="zh">武器装备背后的故事-2021-21</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719100300 +0800" stop="20260719103300 +0800">
-    <title lang="zh">武器装备背后的故事-2020-9</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719103300 +0800" stop="20260719112300 +0800">
-    <title lang="zh">大家谈-2025-13</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719112300 +0800" stop="20260719112400 +0800">
-    <title lang="zh">兵器科技频道包装-2023-52</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719112400 +0800" stop="20260719114600 +0800">
-    <title lang="zh">军营的味道-2026-3</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719114600 +0800" stop="20260719120800 +0800">
-    <title lang="zh">军营的味道-2026-4</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719120800 +0800" stop="20260719123800 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558915" start="20260725000300 +0800" stop="20260725000400 +0800">
     <title lang="zh">兵器科技频道包装-2023-51</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719123800 +0800" stop="20260719123900 +0800">
+<programme channel="558915" start="20260725000400 +0800" stop="20260725003100 +0800">
+    <title lang="zh">军武零距离-2026-2(4K)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725003100 +0800" stop="20260725083200 +0800">
+    <title lang="zh">军武零距离-2026-3(4K)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725083200 +0800" stop="20260725090200 +0800">
+    <title lang="zh">军火之源-2021-30</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725090200 +0800" stop="20260725093200 +0800">
+    <title lang="zh">军火之源-2022-13</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725093200 +0800" stop="20260725093300 +0800">
     <title lang="zh">兵器科技频道包装-2023-52</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719123900 +0800" stop="20260719130900 +0800">
-    <title lang="zh">军火之源-2020-12</title>
+<programme channel="558915" start="20260725093300 +0800" stop="20260725100300 +0800">
+    <title lang="zh">武器装备背后的故事-2019-148</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719130900 +0800" stop="20260719133900 +0800">
-    <title lang="zh">军火之源-2020-10</title>
+<programme channel="558915" start="20260725100300 +0800" stop="20260725103300 +0800">
+    <title lang="zh">武器装备背后的故事-2019-146</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719133900 +0800" stop="20260719140900 +0800">
-    <title lang="zh">武器装备背后的故事-2021-22</title>
+<programme channel="558915" start="20260725103300 +0800" stop="20260725112300 +0800">
+    <title lang="zh">大家谈-2025-23</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719140900 +0800" stop="20260719143900 +0800">
-    <title lang="zh">武器装备背后的故事-2021-23</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719143900 +0800" stop="20260719144000 +0800">
+<programme channel="558915" start="20260725112300 +0800" stop="20260725112400 +0800">
     <title lang="zh">兵器科技频道包装-2023-52</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719144000 +0800" stop="20260719153000 +0800">
-    <title lang="zh">大家谈-2024-2</title>
+<programme channel="558915" start="20260725112400 +0800" stop="20260725115100 +0800">
+    <title lang="zh">军事科技-2026-19</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719153000 +0800" stop="20260719155700 +0800">
-    <title lang="zh">军武零距离-2025-51(4K)</title>
+<programme channel="558915" start="20260725115100 +0800" stop="20260725121800 +0800">
+    <title lang="zh">军事科技-2026-20</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719155700 +0800" stop="20260719162400 +0800">
-    <title lang="zh">军武零距离-2025-52(4K)</title>
+<programme channel="558915" start="20260725121800 +0800" stop="20260725124900 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719162400 +0800" stop="20260719165500 +0800">
+<programme channel="558915" start="20260725124900 +0800" stop="20260725131900 +0800">
+    <title lang="zh">军火之源-2022-14</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725131900 +0800" stop="20260725134900 +0800">
+    <title lang="zh">军火之源-2022-15</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725134900 +0800" stop="20260725135000 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725135000 +0800" stop="20260725142000 +0800">
+    <title lang="zh">武器装备背后的故事-2019-149</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725142000 +0800" stop="20260725145000 +0800">
+    <title lang="zh">武器装备背后的故事-2019-151</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725145000 +0800" stop="20260725154000 +0800">
+    <title lang="zh">大家谈-2025-29</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725154000 +0800" stop="20260725154100 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725154100 +0800" stop="20260725160300 +0800">
+    <title lang="zh">军营的味道-2026-5</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725160300 +0800" stop="20260725162500 +0800">
+    <title lang="zh">军营的味道-2026-6</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725162500 +0800" stop="20260725165500 +0800">
     <title lang="zh">兵器科技频道包装-2023-52</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719165500 +0800" stop="20260719172500 +0800">
-    <title lang="zh">军火之源-2020-22</title>
+<programme channel="558915" start="20260725165500 +0800" stop="20260725165600 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719172500 +0800" stop="20260719175500 +0800">
-    <title lang="zh">军火之源-2020-23</title>
+<programme channel="558915" start="20260725165600 +0800" stop="20260725172600 +0800">
+    <title lang="zh">军火之源-2022-16</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719175500 +0800" stop="20260719175600 +0800">
+<programme channel="558915" start="20260725172600 +0800" stop="20260725175600 +0800">
+    <title lang="zh">军火之源-2022-17</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725175600 +0800" stop="20260725182600 +0800">
+    <title lang="zh">武器装备背后的故事-2019-155</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725182600 +0800" stop="20260725185600 +0800">
+    <title lang="zh">武器装备背后的故事-2019-158</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725185600 +0800" stop="20260725185700 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725185700 +0800" stop="20260725194700 +0800">
+    <title lang="zh">大家谈-2025-30</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725194700 +0800" stop="20260725201400 +0800">
+    <title lang="zh">军武零距离-2026-2(4K)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725201400 +0800" stop="20260725204100 +0800">
+    <title lang="zh">军武零距离-2026-3(4K)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725204100 +0800" stop="20260725211200 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725211200 +0800" stop="20260725214200 +0800">
+    <title lang="zh">军火之源-2022-18</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725214200 +0800" stop="20260725221200 +0800">
+    <title lang="zh">军火之源-2022-19</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725221200 +0800" stop="20260725221300 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725221300 +0800" stop="20260725225300 +0800">
+    <title lang="zh">武器装备背后的故事-2025-1</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725225300 +0800" stop="20260725232300 +0800">
+    <title lang="zh">武器装备背后的故事-2019-159</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260725232300 +0800" stop="20260726001300 +0800">
+    <title lang="zh">大家谈-2025-31</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726001300 +0800" stop="20260726001400 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726001400 +0800" stop="20260726003900 +0800">
+    <title lang="zh">军事纪实-2025-171</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726003900 +0800" stop="20260726010500 +0800">
+    <title lang="zh">军事纪实-2025-172</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726010500 +0800" stop="20260726083200 +0800">
+    <title lang="zh">影视背景-2023-8</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726083200 +0800" stop="20260726090200 +0800">
+    <title lang="zh">军火之源-2022-14</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726090200 +0800" stop="20260726093200 +0800">
+    <title lang="zh">军火之源-2022-15</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726093200 +0800" stop="20260726093300 +0800">
     <title lang="zh">兵器科技频道包装-2023-52</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719175600 +0800" stop="20260719182600 +0800">
+<programme channel="558915" start="20260726093300 +0800" stop="20260726100300 +0800">
+    <title lang="zh">武器装备背后的故事-2019-149</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726100300 +0800" stop="20260726103400 +0800">
+    <title lang="zh">武器装备背后的故事-2019-151</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726103400 +0800" stop="20260726112400 +0800">
+    <title lang="zh">大家谈-2025-29</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726112400 +0800" stop="20260726114600 +0800">
+    <title lang="zh">军营的味道-2026-5</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726114600 +0800" stop="20260726120800 +0800">
+    <title lang="zh">军营的味道-2026-6</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726120800 +0800" stop="20260726123900 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726123900 +0800" stop="20260726130900 +0800">
+    <title lang="zh">军火之源-2022-16</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726130900 +0800" stop="20260726133900 +0800">
+    <title lang="zh">军火之源-2022-17</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726133900 +0800" stop="20260726134000 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726134000 +0800" stop="20260726141000 +0800">
+    <title lang="zh">武器装备背后的故事-2019-155</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726141000 +0800" stop="20260726144000 +0800">
+    <title lang="zh">武器装备背后的故事-2019-158</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726144000 +0800" stop="20260726153000 +0800">
+    <title lang="zh">大家谈-2025-30</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726153000 +0800" stop="20260726153100 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726153100 +0800" stop="20260726155800 +0800">
+    <title lang="zh">军武零距离-2026-2(4K)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726155800 +0800" stop="20260726162500 +0800">
+    <title lang="zh">军武零距离-2026-3(4K)</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726162500 +0800" stop="20260726165500 +0800">
+    <title lang="zh">兵器科技频道包装-2023-52</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726165500 +0800" stop="20260726165600 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726165600 +0800" stop="20260726172600 +0800">
+    <title lang="zh">军火之源-2022-18</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726172600 +0800" stop="20260726175600 +0800">
+    <title lang="zh">军火之源-2022-19</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726175600 +0800" stop="20260726183600 +0800">
+    <title lang="zh">武器装备背后的故事-2025-1</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726183600 +0800" stop="20260726190600 +0800">
+    <title lang="zh">武器装备背后的故事-2019-159</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726190600 +0800" stop="20260726190700 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726190700 +0800" stop="20260726195700 +0800">
+    <title lang="zh">大家谈-2025-31</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726195700 +0800" stop="20260726202300 +0800">
+    <title lang="zh">军事纪实-2025-171</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726202300 +0800" stop="20260726204800 +0800">
+    <title lang="zh">军事纪实-2025-172</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726204800 +0800" stop="20260726211900 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726211900 +0800" stop="20260726214900 +0800">
+    <title lang="zh">军火之源-2022-20</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726214900 +0800" stop="20260726221900 +0800">
+    <title lang="zh">军火之源-2019-201</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726221900 +0800" stop="20260726222000 +0800">
+    <title lang="zh">兵器科技频道包装-2023-51</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726222000 +0800" stop="20260726230000 +0800">
+    <title lang="zh">武器装备背后的故事-2026-1</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558915" start="20260726230000 +0800" stop="20260726233000 +0800">
     <title lang="zh">武器装备背后的故事-2019-165</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554419" start="20260719182600 +0800" stop="20260719185600 +0800">
-    <title lang="zh">武器装备背后的故事-2019-133</title>
+<programme channel="558915" start="20260726233000 +0800" stop="20260727000000 +0800">
+    <title lang="zh">大家谈-2024-1</title>
     <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719185600 +0800" stop="20260719194600 +0800">
-    <title lang="zh">大家谈-2025-15</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719194600 +0800" stop="20260719194700 +0800">
-    <title lang="zh">兵器科技频道包装-2023-52</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719194700 +0800" stop="20260719201200 +0800">
-    <title lang="zh">军事纪实-2025-168</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719201200 +0800" stop="20260719203800 +0800">
-    <title lang="zh">军事纪实-2025-169</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719203800 +0800" stop="20260719210800 +0800">
-    <title lang="zh">兵器科技频道包装-2023-51</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719210800 +0800" stop="20260719210900 +0800">
-    <title lang="zh">兵器科技频道包装-2023-52</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719210900 +0800" stop="20260719213900 +0800">
-    <title lang="zh">军火之源-2020-24</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719213900 +0800" stop="20260719220900 +0800">
-    <title lang="zh">军火之源-2020-25</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719220900 +0800" stop="20260719223900 +0800">
-    <title lang="zh">武器装备背后的故事-2019-137</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719223900 +0800" stop="20260719230900 +0800">
-    <title lang="zh">武器装备背后的故事-2019-134</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719230900 +0800" stop="20260719231000 +0800">
-    <title lang="zh">兵器科技频道包装-2023-52</title>
-    <desc />
-    <date>20260719</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="554419" start="20260719231000 +0800" stop="20260720000000 +0800">
-    <title lang="zh">大家谈-2025-18</title>
-    <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

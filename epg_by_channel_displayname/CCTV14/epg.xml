@@ -1,126 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="JMYG Merged EPG" source-info-url="https://github.com/9602894/JMYG" generator-info-name="JMYG EPG Merger">
-<programme channel="554360" start="20260719010700 +0800" stop="20260719055500 +0800">
+<tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
+<programme channel="558857" start="20260725004200 +0800" stop="20260725013200 +0800">
+    <title lang="zh">问苍茫(18)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725013200 +0800" stop="20260725055500 +0800">
     <title lang="zh">再见</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719055500 +0800" stop="20260719060000 +0800">
+<programme channel="558857" start="20260725055500 +0800" stop="20260725060000 +0800">
     <title lang="zh">中华人民共和国国歌</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719060000 +0800" stop="20260719074500 +0800">
+<programme channel="558857" start="20260725060000 +0800" stop="20260725074500 +0800">
     <title lang="zh">动画大放映</title>
     <desc />
-    <date>20260719</date>
+    <date>20260725</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719074500 +0800" stop="20260719084500 +0800">
+<programme channel="558857" start="20260725074500 +0800" stop="20260725084500 +0800">
+    <title lang="zh">七巧板</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725084500 +0800" stop="20260725120000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725120000 +0800" stop="20260725133000 +0800">
+    <title lang="zh">动漫世界</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725133000 +0800" stop="20260725153000 +0800">
+    <title lang="zh">潜艇总动员-环游地球80天</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725153000 +0800" stop="20260725170000 +0800">
+    <title lang="zh">动漫世界</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725170000 +0800" stop="20260725183500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725183500 +0800" stop="20260725215000 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725215000 +0800" stop="20260725223800 +0800">
+    <title lang="zh">问苍茫(19)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725223800 +0800" stop="20260725232800 +0800">
+    <title lang="zh">问苍茫(20)</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260725232800 +0800" stop="20260726011000 +0800">
+    <title lang="zh">甲午风云</title>
+    <desc />
+    <date>20260725</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260726011000 +0800" stop="20260726055500 +0800">
+    <title lang="zh">再见</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260726055500 +0800" stop="20260726060000 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260726060000 +0800" stop="20260726074500 +0800">
+    <title lang="zh">动画大放映</title>
+    <desc />
+    <date>20260726</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558857" start="20260726074500 +0800" stop="20260726084500 +0800">
     <title lang="zh">英雄出少年</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719084500 +0800" stop="20260719120000 +0800">
+<programme channel="558857" start="20260726084500 +0800" stop="20260726120000 +0800">
     <title lang="zh">动画大放映</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719120000 +0800" stop="20260719133000 +0800">
+<programme channel="558857" start="20260726120000 +0800" stop="20260726133000 +0800">
     <title lang="zh">动漫世界</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719133000 +0800" stop="20260719153000 +0800">
-    <title lang="zh">熊出没-重返地球</title>
+<programme channel="558857" start="20260726133000 +0800" stop="20260726153000 +0800">
+    <title lang="zh">潜艇总动员-寻龙</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719153000 +0800" stop="20260719170000 +0800">
+<programme channel="558857" start="20260726153000 +0800" stop="20260726170000 +0800">
     <title lang="zh">动漫世界</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719170000 +0800" stop="20260719171000 +0800">
+<programme channel="558857" start="20260726170000 +0800" stop="20260726171000 +0800">
     <title lang="zh">超级玩具店</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719171000 +0800" stop="20260719183500 +0800">
+<programme channel="558857" start="20260726171000 +0800" stop="20260726183500 +0800">
     <title lang="zh">动画大放映</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719183500 +0800" stop="20260719215000 +0800">
+<programme channel="558857" start="20260726183500 +0800" stop="20260726215000 +0800">
     <title lang="zh">动画大放映</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719215000 +0800" stop="20260719223800 +0800">
-    <title lang="zh">问苍茫(7)</title>
+<programme channel="558857" start="20260726215000 +0800" stop="20260726223800 +0800">
+    <title lang="zh">问苍茫(21)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719223800 +0800" stop="20260719232800 +0800">
-    <title lang="zh">问苍茫(8)</title>
+<programme channel="558857" start="20260726223800 +0800" stop="20260726232800 +0800">
+    <title lang="zh">问苍茫(22)</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="554360" start="20260719232800 +0800" stop="20260720000000 +0800">
-    <title lang="zh">神秘的旅伴</title>
+<programme channel="558857" start="20260726232800 +0800" stop="20260727000000 +0800">
+    <title lang="zh">战上海</title>
     <desc />
-    <date>20260719</date>
+    <date>20260726</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
