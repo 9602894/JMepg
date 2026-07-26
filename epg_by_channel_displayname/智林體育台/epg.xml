@@ -1,95 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="370208" start="20260725000000 +0800" stop="20260725060000 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260725060000 +0800" stop="20260725070600 +0800">
-    <title lang="zh">2025頂粵吉品公開賽 第四回合(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260725070600 +0800" stop="20260725103300 +0800">
-    <title lang="zh">115年春季踢拳錦標賽 4/12下午賽程(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260725103300 +0800" stop="20260725141800 +0800">
-    <title lang="zh">115年19歲青少年桌球排名賽 第一次賽(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260725141800 +0800" stop="20260725163300 +0800">
-    <title lang="zh">第5屆格璽雅盃全國排球錦標賽(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260725163300 +0800" stop="20260725175100 +0800">
-    <title lang="zh">114學年中小學師生手球錦標賽 國男冠亞軍 新明國中 vs 大甲國中(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260725175100 +0800" stop="20260725192700 +0800">
-    <title lang="zh">114學年中小學師生手球錦標賽 高男五六名 成淵高中 vs 三民家商(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260725192700 +0800" stop="20260725204800 +0800">
-    <title lang="zh">114學年中小學師生手球錦標賽 高男季殿軍 大里高中 vs 麗山高中(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260725204800 +0800" stop="20260725221600 +0800">
-    <title lang="zh">114學年中小學師生手球錦標賽 高男冠亞軍 南崁高中 vs 海山高中(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370208" start="20260725221600 +0800" stop="20260726000000 +0800">
-    <title lang="zh">2025南寶公開賽 第三、四回合(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="370208" start="20260726000000 +0800" stop="20260726060000 +0800">
     <title lang="zh">休播(普)</title>
     <desc />
@@ -256,6 +166,60 @@
     <title lang="zh">2026肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
     <desc />
     <date>20260727</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260728000000 +0800" stop="20260728060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260728060000 +0800" stop="20260728071000 +0800">
+    <title lang="zh">2024肇喜登峰巡迴賽 南寶40週年場慶公開賽 第三回合(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260728071000 +0800" stop="20260728090000 +0800">
+    <title lang="zh">114學年高中軟式 冠軍賽 大園國際高中 vs 中山工商(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260728090000 +0800" stop="20260728193000 +0800">
+    <title lang="zh">[Live] 2026佛光盃國際大學籃球邀請賽 7/28賽程(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260728193000 +0800" stop="20260728215500 +0800">
+    <title lang="zh">114學年國小硬式 4強 桃園龜山 vs 臺東紅葉(普)</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370208" start="20260728215500 +0800" stop="20260729000000 +0800">
+    <title lang="zh">2025肇喜登峰巡迴賽 佳運公開賽 第三、四回合(普)</title>
+    <desc />
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

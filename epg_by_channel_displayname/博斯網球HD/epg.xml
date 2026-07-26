@@ -1,86 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="457249" start="20260725000000 +0800" stop="20260725040000 +0800">
-    <title lang="zh">LIVE 2026埃斯托里爾男網賽 8強(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260725040000 +0800" stop="20260725053000 +0800">
-    <title lang="zh">2026倫敦女王男網賽 4強 PAU vs HUM(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260725053000 +0800" stop="20260725073000 +0800">
-    <title lang="zh">2026瑞士男網賽 8強(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260725073000 +0800" stop="20260725093000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽 第一輪 CIT vs MED(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260725093000 +0800" stop="20260725103000 +0800">
-    <title lang="zh">2026溫網第1天精華(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260725103000 +0800" stop="20260725120000 +0800">
-    <title lang="zh">2026倫敦女王男網賽 4強 PAU vs HUM(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260725120000 +0800" stop="20260725190000 +0800">
-    <title lang="zh">首播 2026埃斯托里爾男網賽 8強(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260725190000 +0800" stop="20260725230000 +0800">
-    <title lang="zh">2026倫敦女王男網賽 決賽 CER vs PAU(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260725230000 +0800" stop="20260726000000 +0800">
-    <title lang="zh">2026倫敦女王男網賽精華(普)</title>
-    <desc />
-    <date>20260725</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457249" start="20260726000000 +0800" stop="20260726003000 +0800">
     <title lang="zh">網球雜誌(普)</title>
     <desc />
@@ -598,6 +517,60 @@
     <title lang="zh">首播 2026華盛頓男網賽 16強(普)</title>
     <desc />
     <date>20260731</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260801000000 +0800" stop="20260801020000 +0800">
+    <title lang="zh">首播 2026華盛頓男網賽 16強(普)</title>
+    <desc />
+    <date>20260801</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260801020000 +0800" stop="20260801103000 +0800">
+    <title lang="zh">LIVE 2026華盛頓男網賽 8強(普)</title>
+    <desc />
+    <date>20260801</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260801103000 +0800" stop="20260801123000 +0800">
+    <title lang="zh">2026埃斯托里爾男網賽 4強(普)</title>
+    <desc />
+    <date>20260801</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260801123000 +0800" stop="20260801160000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽 第二輪 BER vs FIL(普)</title>
+    <desc />
+    <date>20260801</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260801160000 +0800" stop="20260801170000 +0800">
+    <title lang="zh">2026奧地利男網賽 8強(普)</title>
+    <desc />
+    <date>20260801</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260801170000 +0800" stop="20260802000000 +0800">
+    <title lang="zh">首播 2026華盛頓男網賽 8強(普)</title>
+    <desc />
+    <date>20260801</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
