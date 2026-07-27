@@ -1,122 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456576" start="20260726000000 +0800" stop="20260726010000 +0800">
-    <title lang="zh">2022巨人挑戰賽</title>
-    <desc>2022巨人挑戰賽</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726010000 +0800" stop="20260726020000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726020000 +0800" stop="20260726040000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726040000 +0800" stop="20260726060000 +0800">
-    <title lang="zh">企業排球聯賽</title>
-    <desc>企業排球聯賽</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726060000 +0800" stop="20260726090000 +0800">
-    <title lang="zh">2026日本職棒</title>
-    <desc>2026日本職棒 西武 vs 軟銀(7/25/26)</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726090000 +0800" stop="20260726100000 +0800">
-    <title lang="zh">麻將大師</title>
-    <desc>麻將大師 第七季 EP58</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726100000 +0800" stop="20260726120000 +0800">
-    <title lang="zh">2025第四屆 Universal 台北職業撞球公開賽</title>
-    <desc>2025第四屆 Universal 台北職業撞球公開賽 八強(1/11/26)</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726120000 +0800" stop="20260726130000 +0800">
-    <title lang="zh">德州撲克百萬電視大賽</title>
-    <desc>德州撲克百萬電視大賽 第十季 EP10</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726130000 +0800" stop="20260726170000 +0800">
-    <title lang="zh">(LIVE)2026TSR 全國機車錦標賽</title>
-    <desc>(LIVE)2026TSR 全國機車錦標賽 第四站 (7/26/26)</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726170000 +0800" stop="20260726180000 +0800">
-    <title lang="zh">世界最強壯的男人</title>
-    <desc>世界最強壯的男人 S5 EP5</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726180000 +0800" stop="20260726200000 +0800">
-    <title lang="zh">2025第四屆 Universal 台北職業撞球公開賽</title>
-    <desc>2025第四屆 Universal 台北職業撞球公開賽 四強 (1/11/26)</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726200000 +0800" stop="20260726220000 +0800">
-    <title lang="zh">企業排球聯賽</title>
-    <desc>企業排球聯賽 高雄台電 vs 臺北鯨華(12/6/25)</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456576" start="20260726220000 +0800" stop="20260727000000 +0800">
-    <title lang="zh">西甲</title>
-    <desc>西甲 馬德里競技 vs 巴塞隆納 (4/5/26)</desc>
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456576" start="20260727000000 +0800" stop="20260727010000 +0800">
     <title lang="zh">2025巨人挑戰賽</title>
     <desc>2025巨人挑戰賽</desc>
@@ -891,10 +774,118 @@
     </audio>
   </programme>
   
-<programme channel="456576" start="20260802000000 +0800" stop="20260803000000 +0800">
+<programme channel="456576" start="20260802000000 +0800" stop="20260802010000 +0800">
     <title lang="zh">2025巨人挑戰賽</title>
     <desc>2025巨人挑戰賽</desc>
     <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802010000 +0800" stop="20260802020000 +0800">
+    <title lang="zh">德州撲克百萬電視大賽</title>
+    <desc>德州撲克百萬電視大賽</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802020000 +0800" stop="20260802040000 +0800">
+    <title lang="zh">西甲</title>
+    <desc>西班牙頂級足球聯賽。目前西甲有 20 支球隊，聯賽成績最差的三隊將會降級到西班牙足球乙級聯賽，乙級聯賽的前三名則晉升到西班牙甲級聯賽。</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802040000 +0800" stop="20260802060000 +0800">
+    <title lang="zh">企業排球聯賽</title>
+    <desc>企業排球聯賽</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802060000 +0800" stop="20260802090000 +0800">
+    <title lang="zh">2026日本職棒</title>
+    <desc>2026日本職棒 西武 vs 歐力士(8/1/26)</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802090000 +0800" stop="20260802100000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師 第七季 EP1</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802100000 +0800" stop="20260802120000 +0800">
+    <title lang="zh">2025CTPBA職業撞球巡迴賽</title>
+    <desc>2025CTPBA職業撞球巡迴賽 總冠軍賽 冠軍賽(1/6/26)</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802120000 +0800" stop="20260802150000 +0800">
+    <title lang="zh">2026中華職棒</title>
+    <desc>2026中華職棒 樂天 vs 統一 (8/1/26)</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802150000 +0800" stop="20260802160000 +0800">
+    <title lang="zh">麻將大師</title>
+    <desc>麻將大師 第八季 EP13</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802160000 +0800" stop="20260802190000 +0800">
+    <title lang="zh">(LIVE)2026中華職棒</title>
+    <desc>(LIVE)2026中華職棒 樂天 vs 統一 (8/2/26)</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802190000 +0800" stop="20260802220000 +0800">
+    <title lang="zh">(首)2026日本職棒</title>
+    <desc>(首)2026日本職棒 火腿 vs 羅德(8/2/26)</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260802220000 +0800" stop="20260803000000 +0800">
+    <title lang="zh">企業排球聯賽</title>
+    <desc>企業排球聯賽 高雄台電 vs 臺北鯨華(12/6/25)</desc>
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456576" start="20260803000000 +0800" stop="20260804000000 +0800">
+    <title lang="zh">2025巨人挑戰賽</title>
+    <desc>2025巨人挑戰賽</desc>
+    <date>20260803</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

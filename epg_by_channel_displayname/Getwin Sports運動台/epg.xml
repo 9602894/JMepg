@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="547512" start="20260726000300 +0800" stop="20260726201000 +0800">
-    <title lang="zh">2026年 四國菁英棒球對抗賽 精彩重播</title>
-    <desc />
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260726201000 +0800" stop="20260726202400 +0800">
-    <title lang="zh">體育班EP01 平成怪物松板大輔</title>
-    <desc />
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260726202400 +0800" stop="20260726204000 +0800">
-    <title lang="zh">體育班EP02 台中向上代表台灣出征U13亞洲盃</title>
-    <desc />
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260726204000 +0800" stop="20260727004400 +0800">
-    <title lang="zh">115年陽信銀行盃全國青少棒錦標賽 精彩重播</title>
-    <desc />
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="547512" start="20260727004400 +0800" stop="20260727050500 +0800">
     <title lang="zh">115年陽信銀行盃全國青少棒錦標賽 精彩重播</title>
     <desc />
@@ -135,10 +99,82 @@
     </audio>
   </programme>
   
-<programme channel="547512" start="20260728200000 +0800" stop="20260729000000 +0800">
+<programme channel="547512" start="20260728200000 +0800" stop="20260729022000 +0800">
     <title lang="zh">115年TLLBCUP U13台灣社區棒球錦標賽 精彩重播</title>
     <desc />
     <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260729022000 +0800" stop="20260729100000 +0800">
+    <title lang="zh">115年 萬士益冷氣盃全國青少棒錦標賽 精彩重播</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260729100000 +0800" stop="20260729114000 +0800">
+    <title lang="zh">【LIVE】佛光盃國際大學籃球邀請賽 G6 男B預  Brian Kerle 籃球學院 VS 維斯蒙特學院</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260729114000 +0800" stop="20260729132000 +0800">
+    <title lang="zh">【LIVE】佛光盃國際大學籃球邀請賽 G7 女B預 約克大學 VS 國立臺灣師範大學</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260729132000 +0800" stop="20260729150000 +0800">
+    <title lang="zh">【LIVE】佛光盃國際大學籃球邀請賽 G8 男A預  馬來西亞代表隊 VS 光明大學</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260729150000 +0800" stop="20260729164000 +0800">
+    <title lang="zh">【LIVE】佛光盃國際大學籃球邀請賽 G9 女B預  馬來西亞代表隊 VS 菲律賓國家大學</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260729164000 +0800" stop="20260729182000 +0800">
+    <title lang="zh">【LIVE】佛光盃國際大學籃球邀請賽 G10 男A預  林肯大學 VS 國立政治大學</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260729182000 +0800" stop="20260729200000 +0800">
+    <title lang="zh">【LIVE】佛光盃國際大學籃球邀請賽 G11 女A預  佛光大學 VS 雪梨大學</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260729200000 +0800" stop="20260730000000 +0800">
+    <title lang="zh">115年 全國社區學生棒球大賽 U12 精彩重播</title>
+    <desc />
+    <date>20260729</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

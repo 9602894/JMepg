@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="410374" start="20260726000000 +0800" stop="20260726080000 +0800">
-    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-    <desc />
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260726080000 +0800" stop="20260726160000 +0800">
-    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-    <desc />
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260726160000 +0800" stop="20260727000000 +0800">
-    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-    <desc />
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="410374" start="20260727000000 +0800" stop="20260727080000 +0800">
     <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
     <desc />
@@ -621,10 +594,334 @@
     </audio>
   </programme>
   
-<programme channel="410374" start="20260801232300 +0800" stop="20260802000000 +0800">
+<programme channel="410374" start="20260801232300 +0800" stop="20260802000900 +0800">
     <title lang="zh">電視劇 山河錦繡</title>
     <desc />
     <date>20260801</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802000900 +0800" stop="20260802005700 +0800">
+    <title lang="zh">電視劇 山河錦繡</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802005700 +0800" stop="20260802022200 +0800">
+    <title lang="zh">典籍里的中國</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802022200 +0800" stop="20260802024600 +0800">
+    <title lang="zh">傳世古建</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802024600 +0800" stop="20260802025600 +0800">
+    <title lang="zh">精彩一刻</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802025600 +0800" stop="20260802025700 +0800">
+    <title lang="zh">請您欣賞</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802025700 +0800" stop="20260802034400 +0800">
+    <title lang="zh">電視劇 父輩的榮耀</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802034400 +0800" stop="20260802043000 +0800">
+    <title lang="zh">電視劇 父輩的榮耀</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802043000 +0800" stop="20260802050000 +0800">
+    <title lang="zh">文脈春秋</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802050000 +0800" stop="20260802053000 +0800">
+    <title lang="zh">新聞聯播</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802053000 +0800" stop="20260802060000 +0800">
+    <title lang="zh">國家記憶</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802060000 +0800" stop="20260802083000 +0800">
+    <title lang="zh">朝聞天下</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802083000 +0800" stop="20260802091600 +0800">
+    <title lang="zh">電視劇 八千里路雲和月</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802091600 +0800" stop="20260802100200 +0800">
+    <title lang="zh">電視劇 八千里路雲和月</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802100200 +0800" stop="20260802104800 +0800">
+    <title lang="zh">電視劇 八千里路雲和月</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802104800 +0800" stop="20260802113400 +0800">
+    <title lang="zh">電視劇 八千里路雲和月</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802113400 +0800" stop="20260802120000 +0800">
+    <title lang="zh">三大戰役</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802120000 +0800" stop="20260802123200 +0800">
+    <title lang="zh">新聞30分</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802123200 +0800" stop="20260802130300 +0800">
+    <title lang="zh">本草流芳</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802130300 +0800" stop="20260802134900 +0800">
+    <title lang="zh">電視劇 生命樹</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802134900 +0800" stop="20260802143500 +0800">
+    <title lang="zh">電視劇 我的山與海</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802143500 +0800" stop="20260802152100 +0800">
+    <title lang="zh">電視劇 我的山與海</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802152100 +0800" stop="20260802160700 +0800">
+    <title lang="zh">電視劇 我的山與海</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802160700 +0800" stop="20260802165400 +0800">
+    <title lang="zh">電視劇 我的山與海</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802165400 +0800" stop="20260802170600 +0800">
+    <title lang="zh">精彩一刻</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802170600 +0800" stop="20260802173800 +0800">
+    <title lang="zh">自然中國</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802173800 +0800" stop="20260802190000 +0800">
+    <title lang="zh">典籍里的中國</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802190000 +0800" stop="20260802193200 +0800">
+    <title lang="zh">新聞聯播</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802193200 +0800" stop="20260802193500 +0800">
+    <title lang="zh">公益宣傳短片</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802193500 +0800" stop="20260802194100 +0800">
+    <title lang="zh">天氣預報</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802194100 +0800" stop="20260802211300 +0800">
+    <title lang="zh">專題節目</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802211300 +0800" stop="20260802214000 +0800">
+    <title lang="zh">丹青繪千年</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802214000 +0800" stop="20260802214300 +0800">
+    <title lang="zh">公益宣傳短片</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802214300 +0800" stop="20260802220000 +0800">
+    <title lang="zh">焦點訪談</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802220000 +0800" stop="20260802223200 +0800">
+    <title lang="zh">晚間新聞</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802223200 +0800" stop="20260802232200 +0800">
+    <title lang="zh">踏歌行</title>
+    <desc />
+    <date>20260802</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260802232200 +0800" stop="20260803000000 +0800">
+    <title lang="zh">電視劇 山河錦繡</title>
+    <desc />
+    <date>20260802</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
