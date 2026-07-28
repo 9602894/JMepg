@@ -1,270 +1,531 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="558921" start="20260726003000 +0800" stop="20260726020000 +0800">
-    <title lang="zh">围棋直播</title>
+<programme channel="558921" start="20260728003000 +0800" stop="20260728012400 +0800">
+    <title lang="zh">围棋赛事直播</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726020000 +0800" stop="20260726021900 +0800">
-    <title lang="zh">棋坛风云</title>
+<programme channel="558921" start="20260728012400 +0800" stop="20260728023000 +0800">
+    <title lang="zh">围棋赛事直播</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726021900 +0800" stop="20260726023000 +0800">
-    <title lang="zh">赛事直播</title>
-    <desc />
-    <date>20260726</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="558921" start="20260726023000 +0800" stop="20260726080000 +0800">
+<programme channel="558921" start="20260728023000 +0800" stop="20260728080000 +0800">
     <title lang="zh">测试卡</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726080000 +0800" stop="20260726081000 +0800">
+<programme channel="558921" start="20260728080000 +0800" stop="20260728081000 +0800">
     <title lang="zh">棋坛风云</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726081000 +0800" stop="20260726084500 +0800">
+<programme channel="558921" start="20260728081000 +0800" stop="20260728084500 +0800">
     <title lang="zh">人机对弈精解</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726084500 +0800" stop="20260726095000 +0800">
+<programme channel="558921" start="20260728084500 +0800" stop="20260728095000 +0800">
     <title lang="zh">时局精解</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726095000 +0800" stop="20260726102000 +0800">
+<programme channel="558921" start="20260728095000 +0800" stop="20260728102000 +0800">
     <title lang="zh">新棋思妙想</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726102000 +0800" stop="20260726103500 +0800">
+<programme channel="558921" start="20260728102000 +0800" stop="20260728103500 +0800">
     <title lang="zh">棋坛风云</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726103500 +0800" stop="20260726120900 +0800">
-    <title lang="zh">围棋直播</title>
+<programme channel="558921" start="20260728103500 +0800" stop="20260728112900 +0800">
+    <title lang="zh">围棋赛事直播</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726120900 +0800" stop="20260726124000 +0800">
-    <title lang="zh">人机对弈精解</title>
+<programme channel="558921" start="20260728112900 +0800" stop="20260728123000 +0800">
+    <title lang="zh">围棋赛事直播</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726124000 +0800" stop="20260726131500 +0800">
+<programme channel="558921" start="20260728123000 +0800" stop="20260728124000 +0800">
+    <title lang="zh">棋坛风云</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260728124000 +0800" stop="20260728131500 +0800">
     <title lang="zh">围棋大赛赏析</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726131500 +0800" stop="20260726133000 +0800">
+<programme channel="558921" start="20260728131500 +0800" stop="20260728133000 +0800">
     <title lang="zh">棋坛风云</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726133000 +0800" stop="20260726140500 +0800">
+<programme channel="558921" start="20260728133000 +0800" stop="20260728140500 +0800">
     <title lang="zh">星阵对局精解</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726140500 +0800" stop="20260726142000 +0800">
+<programme channel="558921" start="20260728140500 +0800" stop="20260728142000 +0800">
     <title lang="zh">棋坛风云</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726142000 +0800" stop="20260726152000 +0800">
+<programme channel="558921" start="20260728142000 +0800" stop="20260728152000 +0800">
     <title lang="zh">时局精解</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726152000 +0800" stop="20260726153000 +0800">
+<programme channel="558921" start="20260728152000 +0800" stop="20260728153000 +0800">
     <title lang="zh">赛事直播</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726153000 +0800" stop="20260726170400 +0800">
-    <title lang="zh">围棋直播</title>
+<programme channel="558921" start="20260728153000 +0800" stop="20260728162400 +0800">
+    <title lang="zh">围棋赛事直播</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726170400 +0800" stop="20260726173500 +0800">
-    <title lang="zh">新棋思妙想</title>
+<programme channel="558921" start="20260728162400 +0800" stop="20260728172000 +0800">
+    <title lang="zh">围棋赛事直播</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726173500 +0800" stop="20260726181000 +0800">
+<programme channel="558921" start="20260728172000 +0800" stop="20260728173500 +0800">
+    <title lang="zh">棋坛风云</title>
+    <desc />
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260728173500 +0800" stop="20260728181000 +0800">
     <title lang="zh">星阵对局精解</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726181000 +0800" stop="20260726184500 +0800">
+<programme channel="558921" start="20260728181000 +0800" stop="20260728184500 +0800">
     <title lang="zh">围棋大赛赏析</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726184500 +0800" stop="20260726192000 +0800">
+<programme channel="558921" start="20260728184500 +0800" stop="20260728192000 +0800">
     <title lang="zh">人机对弈精解</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726192000 +0800" stop="20260726195000 +0800">
+<programme channel="558921" start="20260728192000 +0800" stop="20260728195000 +0800">
     <title lang="zh">新棋思妙想</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726195000 +0800" stop="20260726200500 +0800">
+<programme channel="558921" start="20260728195000 +0800" stop="20260728200500 +0800">
     <title lang="zh">棋坛风云</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726200500 +0800" stop="20260726211000 +0800">
+<programme channel="558921" start="20260728200500 +0800" stop="20260728211000 +0800">
     <title lang="zh">时局精解</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726211000 +0800" stop="20260726221200 +0800">
+<programme channel="558921" start="20260728211000 +0800" stop="20260728221100 +0800">
     <title lang="zh">赛事精选</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726221200 +0800" stop="20260726231500 +0800">
+<programme channel="558921" start="20260728221100 +0800" stop="20260728231500 +0800">
     <title lang="zh">赛事精选</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726231500 +0800" stop="20260726234500 +0800">
+<programme channel="558921" start="20260728231500 +0800" stop="20260728234500 +0800">
     <title lang="zh">星阵对局精解</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726234500 +0800" stop="20260726235500 +0800">
+<programme channel="558921" start="20260728234500 +0800" stop="20260728235500 +0800">
     <title lang="zh">棋坛风云</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="558921" start="20260726235500 +0800" stop="20260727000000 +0800">
+<programme channel="558921" start="20260728235500 +0800" stop="20260729003000 +0800">
     <title lang="zh">围棋大赛赏析</title>
     <desc />
-    <date>20260726</date>
+    <date>20260728</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729003000 +0800" stop="20260729013100 +0800">
+    <title lang="zh">赛事精选</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729013100 +0800" stop="20260729023000 +0800">
+    <title lang="zh">赛事精选</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729023000 +0800" stop="20260729080000 +0800">
+    <title lang="zh">测试卡</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729080000 +0800" stop="20260729081000 +0800">
+    <title lang="zh">棋坛风云</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729081000 +0800" stop="20260729084500 +0800">
+    <title lang="zh">人机对弈精解</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729084500 +0800" stop="20260729095000 +0800">
+    <title lang="zh">时局精解</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729095000 +0800" stop="20260729102000 +0800">
+    <title lang="zh">新棋思妙想</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729102000 +0800" stop="20260729103500 +0800">
+    <title lang="zh">棋坛风云</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729103500 +0800" stop="20260729113900 +0800">
+    <title lang="zh">赛事精选</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729113900 +0800" stop="20260729124000 +0800">
+    <title lang="zh">赛事精选</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729124000 +0800" stop="20260729131000 +0800">
+    <title lang="zh">围棋大赛赏析</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729131000 +0800" stop="20260729132000 +0800">
+    <title lang="zh">棋坛风云</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729132000 +0800" stop="20260729135500 +0800">
+    <title lang="zh">星阵对局精解</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729135500 +0800" stop="20260729145500 +0800">
+    <title lang="zh">时局精解</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729145500 +0800" stop="20260729150000 +0800">
+    <title lang="zh">赛事直播</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729150000 +0800" stop="20260729165800 +0800">
+    <title lang="zh">围棋赛事直播</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729165800 +0800" stop="20260729173300 +0800">
+    <title lang="zh">新棋思妙想</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729173300 +0800" stop="20260729180800 +0800">
+    <title lang="zh">星阵对局精解</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729180800 +0800" stop="20260729184300 +0800">
+    <title lang="zh">围棋大赛赏析</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729184300 +0800" stop="20260729191800 +0800">
+    <title lang="zh">人机对弈精解</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729191800 +0800" stop="20260729194800 +0800">
+    <title lang="zh">新棋思妙想</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729194800 +0800" stop="20260729200300 +0800">
+    <title lang="zh">棋坛风云</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729200300 +0800" stop="20260729211000 +0800">
+    <title lang="zh">时局精解</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729211000 +0800" stop="20260729220800 +0800">
+    <title lang="zh">围棋赛事直播</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729220800 +0800" stop="20260729231500 +0800">
+    <title lang="zh">围棋赛事直播</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729231500 +0800" stop="20260729234500 +0800">
+    <title lang="zh">星阵对局精解</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729234500 +0800" stop="20260729235500 +0800">
+    <title lang="zh">棋坛风云</title>
+    <desc />
+    <date>20260729</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="558921" start="20260729235500 +0800" stop="20260730000000 +0800">
+    <title lang="zh">围棋大赛赏析</title>
+    <desc />
+    <date>20260729</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
