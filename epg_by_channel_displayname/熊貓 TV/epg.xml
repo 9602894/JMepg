@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="410292" start="20260728000000 +0800" stop="20260728050000 +0800">
-    <title lang="zh">海洋公園 (重溫)</title>
-    <desc />
-    <date>20260728</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410292" start="20260728050000 +0800" stop="20260728100000 +0800">
-    <title lang="zh">海洋公園 (重溫)</title>
-    <desc />
-    <date>20260728</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410292" start="20260728100000 +0800" stop="20260728190000 +0800">
-    <title lang="zh">海洋公園 (直播)</title>
-    <desc />
-    <date>20260728</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410292" start="20260728190000 +0800" stop="20260729000000 +0800">
-    <title lang="zh">海洋公園 (即日重溫)</title>
-    <desc />
-    <date>20260728</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="410292" start="20260729000000 +0800" stop="20260729050000 +0800">
     <title lang="zh">海洋公園 (重溫)</title>
     <desc />
@@ -247,6 +211,42 @@
     <title lang="zh">海洋公園 (即日重溫)</title>
     <desc />
     <date>20260803</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410292" start="20260804000000 +0800" stop="20260804050000 +0800">
+    <title lang="zh">海洋公園 (重溫)</title>
+    <desc />
+    <date>20260804</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410292" start="20260804050000 +0800" stop="20260804100000 +0800">
+    <title lang="zh">海洋公園 (重溫)</title>
+    <desc />
+    <date>20260804</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410292" start="20260804100000 +0800" stop="20260804190000 +0800">
+    <title lang="zh">海洋公園 (直播)</title>
+    <desc />
+    <date>20260804</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410292" start="20260804190000 +0800" stop="20260805000000 +0800">
+    <title lang="zh">海洋公園 (即日重溫)</title>
+    <desc />
+    <date>20260804</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
