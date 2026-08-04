@@ -1,59 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="545932" start="20260803004900 +0800" stop="20260803013300 +0800">
-    <title lang="zh">生活早参考-特别节目（生活圈）2026-209</title>
-    <desc />
-    <date>20260803</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545932" start="20260803013300 +0800" stop="20260803020300 +0800">
-    <title lang="zh">晚间新闻</title>
-    <desc />
-    <date>20260803</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545932" start="20260803020300 +0800" stop="20260803020720 +0800">
-    <title lang="zh">三餐四季-宣传片</title>
-    <desc />
-    <date>20260803</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545932" start="20260803020720 +0800" stop="20260803023735 +0800">
-    <title lang="zh">国家荣光-2026-10</title>
-    <desc />
-    <date>20260803</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545932" start="20260803023735 +0800" stop="20260803024500 +0800">
-    <title lang="zh">非遗里的中国-MV</title>
-    <desc />
-    <date>20260803</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545932" start="20260803024500 +0800" stop="20260804001500 +0800">
-    <title lang="zh">山水间的家（第四季）-1</title>
-    <desc />
-    <date>20260803</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="545932" start="20260804001500 +0800" stop="20260804004600 +0800">
     <title lang="zh">今日说法-2026-139</title>
     <desc />
@@ -1935,8 +1881,17 @@
     </audio>
   </programme>
   
-<programme channel="545932" start="20260809205200 +0800" stop="20260809205445 +0800">
+<programme channel="545932" start="20260809205200 +0800" stop="20260809205415 +0800">
     <title lang="zh">前情提要-江海潮生-25/28</title>
+    <desc />
+    <date>20260809</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545932" start="20260809205415 +0800" stop="20260809205445 +0800">
+    <title lang="zh">专题节目-1</title>
     <desc />
     <date>20260809</date>
     <audio>
@@ -1989,10 +1944,73 @@
     </audio>
   </programme>
   
-<programme channel="545932" start="20260809231045 +0800" stop="20260810000000 +0800">
+<programme channel="545932" start="20260809231045 +0800" stop="20260810004320 +0800">
     <title lang="zh">中华考工记-6</title>
     <desc />
     <date>20260809</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545932" start="20260810004320 +0800" stop="20260810012720 +0800">
+    <title lang="zh">生活早参考-特别节目（生活圈）2026-216</title>
+    <desc />
+    <date>20260810</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545932" start="20260810012720 +0800" stop="20260810015920 +0800">
+    <title lang="zh">晚间新闻</title>
+    <desc />
+    <date>20260810</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545932" start="20260810015920 +0800" stop="20260810020320 +0800">
+    <title lang="zh">三餐四季-宣传片</title>
+    <desc />
+    <date>20260810</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545932" start="20260810020320 +0800" stop="20260810023340 +0800">
+    <title lang="zh">国家荣光-2026-11</title>
+    <desc />
+    <date>20260810</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545932" start="20260810023340 +0800" stop="20260810024355 +0800">
+    <title lang="zh">中华古树-绍兴古桂花群（4K）</title>
+    <desc />
+    <date>20260810</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545932" start="20260810024355 +0800" stop="20260810024940 +0800">
+    <title lang="zh">翠云廊（精品展播）-第5集</title>
+    <desc />
+    <date>20260810</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545932" start="20260810024940 +0800" stop="20260811000000 +0800">
+    <title lang="zh">中华考工记-6</title>
+    <desc />
+    <date>20260810</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
