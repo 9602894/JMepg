@@ -1,126 +1,378 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="539775" start="20260804000500 +0800" stop="20260804022000 +0800">
-    <title lang="zh">曲剧:信仰-方素珍</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804022000 +0800" stop="20260804032600 +0800">
-    <title lang="zh">岳飞传</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804032600 +0800" stop="20260804054000 +0800">
-    <title lang="zh">豫剧:雪梅奇缘-赵玉英</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804054000 +0800" stop="20260804075400 +0800">
-    <title lang="zh">豫剧:贞观家事-贾廷聚</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804075400 +0800" stop="20260804100800 +0800">
-    <title lang="zh">豫剧:雪梅奇缘-赵玉英</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804100800 +0800" stop="20260804122300 +0800">
-    <title lang="zh">曲剧:信仰-方素珍</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804122300 +0800" stop="20260804132300 +0800">
-    <title lang="zh">岳飞传</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804132300 +0800" stop="20260804153700 +0800">
-    <title lang="zh">豫剧:贞观家事-贾廷聚</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804153700 +0800" stop="20260804175200 +0800">
+<programme channel="539775" start="20260805000500 +0800" stop="20260805022000 +0800">
     <title lang="zh">评剧:柳毅传书</title>
     <desc />
-    <date>20260804</date>
+    <date>20260805</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260804175200 +0800" stop="20260804181200 +0800">
-    <title lang="zh">唱段欣赏</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804181200 +0800" stop="20260804202600 +0800">
-    <title lang="zh">豫剧:梨花归唐</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804202600 +0800" stop="20260804224000 +0800">
-    <title lang="zh">豫剧:黄金蝉-徐俊霞</title>
-    <desc />
-    <date>20260804</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260804224000 +0800" stop="20260804234000 +0800">
+<programme channel="539775" start="20260805022000 +0800" stop="20260805032600 +0800">
     <title lang="zh">岳飞传</title>
     <desc />
-    <date>20260804</date>
+    <date>20260805</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260804234000 +0800" stop="20260805000000 +0800">
+<programme channel="539775" start="20260805032600 +0800" stop="20260805054000 +0800">
+    <title lang="zh">豫剧:梨花归唐</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805054000 +0800" stop="20260805075400 +0800">
+    <title lang="zh">豫剧:黄金蝉-徐俊霞</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805075400 +0800" stop="20260805100800 +0800">
+    <title lang="zh">豫剧:梨花归唐</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805100800 +0800" stop="20260805122300 +0800">
+    <title lang="zh">评剧:柳毅传书</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805122300 +0800" stop="20260805132300 +0800">
+    <title lang="zh">岳飞传</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805132300 +0800" stop="20260805153700 +0800">
+    <title lang="zh">豫剧:黄金蝉-徐俊霞</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805153700 +0800" stop="20260805175200 +0800">
+    <title lang="zh">河北梆子:卧虎令</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805175200 +0800" stop="20260805181200 +0800">
     <title lang="zh">唱段欣赏</title>
     <desc />
-    <date>20260804</date>
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805181200 +0800" stop="20260805202600 +0800">
+    <title lang="zh">曲剧:背靴访帅-马骐</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805202600 +0800" stop="20260805224000 +0800">
+    <title lang="zh">豫剧:朝阳沟-魏云,王善朴</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805224000 +0800" stop="20260805234000 +0800">
+    <title lang="zh">岳飞传</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260805234000 +0800" stop="20260806000000 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805000500 +0800" stop="20260805022000 +0800">
+    <title lang="zh">评剧:柳毅传书</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805022000 +0800" stop="20260805032600 +0800">
+    <title lang="zh">岳飞传</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805032600 +0800" stop="20260805054000 +0800">
+    <title lang="zh">豫剧:梨花归唐</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805054000 +0800" stop="20260805075400 +0800">
+    <title lang="zh">豫剧:黄金蝉-徐俊霞</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805075400 +0800" stop="20260805100800 +0800">
+    <title lang="zh">豫剧:梨花归唐</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805100800 +0800" stop="20260805122300 +0800">
+    <title lang="zh">评剧:柳毅传书</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805122300 +0800" stop="20260805132300 +0800">
+    <title lang="zh">岳飞传</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805132300 +0800" stop="20260805153700 +0800">
+    <title lang="zh">豫剧:黄金蝉-徐俊霞</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805153700 +0800" stop="20260805175200 +0800">
+    <title lang="zh">河北梆子:卧虎令</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805175200 +0800" stop="20260805181200 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805181200 +0800" stop="20260805202600 +0800">
+    <title lang="zh">曲剧:背靴访帅-马骐</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805202600 +0800" stop="20260805224000 +0800">
+    <title lang="zh">豫剧:朝阳沟-魏云,王善朴</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805224000 +0800" stop="20260805234000 +0800">
+    <title lang="zh">岳飞传</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260805234000 +0800" stop="20260806000500 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260805</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806000500 +0800" stop="20260806022000 +0800">
+    <title lang="zh">河北梆子:卧虎令</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806022000 +0800" stop="20260806032600 +0800">
+    <title lang="zh">岳飞传</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806032600 +0800" stop="20260806054000 +0800">
+    <title lang="zh">曲剧:背靴访帅-马骐</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806054000 +0800" stop="20260806075400 +0800">
+    <title lang="zh">豫剧:朝阳沟-魏云,王善朴</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806075400 +0800" stop="20260806100800 +0800">
+    <title lang="zh">曲剧:背靴访帅-马骐</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806100800 +0800" stop="20260806122300 +0800">
+    <title lang="zh">河北梆子:卧虎令</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806122300 +0800" stop="20260806132300 +0800">
+    <title lang="zh">岳飞传</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806132300 +0800" stop="20260806153700 +0800">
+    <title lang="zh">豫剧:朝阳沟-魏云,王善朴</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806153700 +0800" stop="20260806175200 +0800">
+    <title lang="zh">曲剧:河洛工匠</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806175200 +0800" stop="20260806181200 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806181200 +0800" stop="20260806202600 +0800">
+    <title lang="zh">豫剧:倔公公犟媳妇-杜启太</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806202600 +0800" stop="20260806224000 +0800">
+    <title lang="zh">曲剧:花亭会-牛艳荣</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806224000 +0800" stop="20260806234000 +0800">
+    <title lang="zh">岳飞传</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260806234000 +0800" stop="20260807000000 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260806</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
