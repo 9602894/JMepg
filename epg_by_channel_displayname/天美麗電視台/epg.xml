@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456621" start="20260806000000 +0800" stop="20260806030000 +0800">
-    <title lang="zh">歌謠夜未眠</title>
-    <desc>台灣懷念老歌欣賞</desc>
-    <date>20260806</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456621" start="20260806030000 +0800" stop="20260806060000 +0800">
-    <title lang="zh">台灣歌謠</title>
-    <desc>台灣歌謠</desc>
-    <date>20260806</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456621" start="20260806060000 +0800" stop="20260806090000 +0800">
-    <title lang="zh">台灣民間故事</title>
-    <desc>講述台灣民間故事及軼事</desc>
-    <date>20260806</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456621" start="20260806090000 +0800" stop="20260806120000 +0800">
-    <title lang="zh">台灣歌謠</title>
-    <desc>台灣歌謠</desc>
-    <date>20260806</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456621" start="20260806120000 +0800" stop="20260806150000 +0800">
-    <title lang="zh">寶島好歌聲</title>
-    <desc>國台語老歌欣賞、健康新知宣導，生活趣事，現場互動</desc>
-    <date>20260806</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456621" start="20260806150000 +0800" stop="20260806180000 +0800">
-    <title lang="zh">台灣古早電影故事</title>
-    <desc>台灣民間故事，懷舊老歌、生活趣事，現場互動，陪伴銀髮族渡過每個愉快的午後時光</desc>
-    <date>20260806</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456621" start="20260806180000 +0800" stop="20260806210000 +0800">
-    <title lang="zh">寶島好歌聲</title>
-    <desc>國台語老歌欣賞、健康新知宣導，生活趣事，現場互動</desc>
-    <date>20260806</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456621" start="20260806210000 +0800" stop="20260807000000 +0800">
-    <title lang="zh">台灣懷念老歌</title>
-    <desc>台灣懷念老歌欣賞、懷舊故事</desc>
-    <date>20260806</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456621" start="20260807000000 +0800" stop="20260807030000 +0800">
     <title lang="zh">歌謠夜未眠</title>
     <desc>台灣懷念老歌欣賞</desc>
@@ -504,10 +432,82 @@
     </audio>
   </programme>
   
-<programme channel="456621" start="20260813000000 +0800" stop="20260814000000 +0800">
+<programme channel="456621" start="20260813000000 +0800" stop="20260813030000 +0800">
     <title lang="zh">歌謠夜未眠</title>
     <desc>台灣懷念老歌欣賞</desc>
     <date>20260813</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456621" start="20260813030000 +0800" stop="20260813060000 +0800">
+    <title lang="zh">台灣歌謠</title>
+    <desc>台灣歌謠</desc>
+    <date>20260813</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456621" start="20260813060000 +0800" stop="20260813090000 +0800">
+    <title lang="zh">台灣民間故事</title>
+    <desc>講述台灣民間故事及軼事</desc>
+    <date>20260813</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456621" start="20260813090000 +0800" stop="20260813120000 +0800">
+    <title lang="zh">台灣歌謠</title>
+    <desc>台灣歌謠</desc>
+    <date>20260813</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456621" start="20260813120000 +0800" stop="20260813150000 +0800">
+    <title lang="zh">寶島好歌聲</title>
+    <desc>國台語老歌欣賞、健康新知宣導，生活趣事，現場互動</desc>
+    <date>20260813</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456621" start="20260813150000 +0800" stop="20260813180000 +0800">
+    <title lang="zh">台灣古早電影故事</title>
+    <desc>台灣民間故事，懷舊老歌、生活趣事，現場互動，陪伴銀髮族渡過每個愉快的午後時光</desc>
+    <date>20260813</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456621" start="20260813180000 +0800" stop="20260813210000 +0800">
+    <title lang="zh">寶島好歌聲</title>
+    <desc>國台語老歌欣賞、健康新知宣導，生活趣事，現場互動</desc>
+    <date>20260813</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456621" start="20260813210000 +0800" stop="20260814000000 +0800">
+    <title lang="zh">台灣懷念老歌</title>
+    <desc>台灣懷念老歌欣賞、懷舊故事</desc>
+    <date>20260813</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456621" start="20260814000000 +0800" stop="20260815000000 +0800">
+    <title lang="zh">歌謠夜未眠</title>
+    <desc>台灣懷念老歌欣賞</desc>
+    <date>20260814</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
