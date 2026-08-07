@@ -1,54 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="539799" start="20260805000000 +0800" stop="20260805003000 +0800">
-    <title lang="zh">足球世界-2026足球热身赛 利物浦-桑德兰</title>
+<programme channel="539799" start="20260806000000 +0800" stop="20260806010500 +0800">
+    <title lang="zh">全景世界杯-2026美加墨世界杯 决赛 西班牙-阿根廷</title>
     <desc />
-    <date>20260805</date>
+    <date>20260806</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260805003000 +0800" stop="20260805010000 +0800">
-    <title lang="zh">欧陆足球版图-英超特辑</title>
+<programme channel="539799" start="20260806010500 +0800" stop="20260806020000 +0800">
+    <title lang="zh">纪录片拜仁慕尼黑：传奇背后 第六集</title>
     <desc />
-    <date>20260805</date>
+    <date>20260806</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260805010000 +0800" stop="20260805024500 +0800">
-    <title lang="zh">UFC格斗之夜 阿布扎比站 主赛</title>
-    <desc />
-    <date>20260805</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539799" start="20260805024500 +0800" stop="20260805034500 +0800">
-    <title lang="zh">世界杯精华</title>
-    <desc />
-    <date>20260805</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539799" start="20260805034500 +0800" stop="20260805040000 +0800">
+<programme channel="539799" start="20260806020000 +0800" stop="20260806020500 +0800">
     <title lang="zh">频道宣传</title>
     <desc />
-    <date>20260805</date>
+    <date>20260806</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539799" start="20260805040000 +0800" stop="20260806000000 +0800">
-    <title lang="zh">2026厦门马拉松</title>
+<programme channel="539799" start="20260806020500 +0800" stop="20260806023000 +0800">
+    <title lang="zh">中超精华 第21轮</title>
     <desc />
-    <date>20260805</date>
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260806023000 +0800" stop="20260806023500 +0800">
+    <title lang="zh">频道宣传</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260806023500 +0800" stop="20260806044000 +0800">
+    <title lang="zh">UFC第329期 主赛</title>
+    <desc />
+    <date>20260806</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539799" start="20260806044000 +0800" stop="20260807000000 +0800">
+    <title lang="zh">2026江苏银行南京半程马拉松</title>
+    <desc />
+    <date>20260806</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
