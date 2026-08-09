@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="457258" start="20260808000000 +0800" stop="20260808060000 +0800">
-    <title lang="zh">休播(普)</title>
-    <desc />
-    <date>20260808</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260808060000 +0800" stop="20260808072400 +0800">
-    <title lang="zh">2024彰化公開賽第四回合(普)</title>
-    <desc />
-    <date>20260808</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260808072400 +0800" stop="20260808080000 +0800">
-    <title lang="zh">Supercars 第6集(普)</title>
-    <desc />
-    <date>20260808</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260808080000 +0800" stop="20260808160000 +0800">
-    <title lang="zh">[Live] 2026 TCBA全國夢想盃社區少棒錦標賽 8/08賽程(普)</title>
-    <desc />
-    <date>20260808</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260808160000 +0800" stop="20260808191700 +0800">
-    <title lang="zh">115年少年跆拳道 第一場地 6/12賽程(普)</title>
-    <desc />
-    <date>20260808</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260808191700 +0800" stop="20260808202700 +0800">
-    <title lang="zh">114學年國小籃球聯賽 女子260 季軍戰 新北永平 vs 雲林鎮南(普)</title>
-    <desc />
-    <date>20260808</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260808202700 +0800" stop="20260808215200 +0800">
-    <title lang="zh">114學年國小籃球聯賽 女子260 冠軍戰 南投南光 vs 新北安坑(普)</title>
-    <desc />
-    <date>20260808</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457258" start="20260808215200 +0800" stop="20260809000000 +0800">
-    <title lang="zh">2025肇喜登峰巡迴賽 佳運公開賽 第三、四回合(普)</title>
-    <desc />
-    <date>20260808</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457258" start="20260809000000 +0800" stop="20260809060000 +0800">
     <title lang="zh">休播(普)</title>
     <desc />
@@ -535,6 +463,69 @@
     <title lang="zh">2025肇喜登峰巡迴賽 長華公開賽 第三、四回合(普)</title>
     <desc />
     <date>20260814</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260815000000 +0800" stop="20260815060000 +0800">
+    <title lang="zh">休播(普)</title>
+    <desc />
+    <date>20260815</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260815060000 +0800" stop="20260815073300 +0800">
+    <title lang="zh">三花青少年逐夢盃邀請賽 第二回合(普)</title>
+    <desc />
+    <date>20260815</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260815073300 +0800" stop="20260815111800 +0800">
+    <title lang="zh">115年自由盃國小團體桌球 5/05賽程(普)</title>
+    <desc />
+    <date>20260815</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260815111800 +0800" stop="20260815130000 +0800">
+    <title lang="zh">2026東岸聯盟U18棒球錦標賽 冠軍戰 高苑工商 vs 穀保家商(普)</title>
+    <desc />
+    <date>20260815</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260815130000 +0800" stop="20260815210000 +0800">
+    <title lang="zh">[Live] 第13屆長耀盃公益籃球邀請賽 8/15賽程(普)</title>
+    <desc />
+    <date>20260815</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260815210000 +0800" stop="20260815214000 +0800">
+    <title lang="zh">115年拖艇滑水國家代表隊選拔賽(普)</title>
+    <desc />
+    <date>20260815</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457258" start="20260815214000 +0800" stop="20260816000000 +0800">
+    <title lang="zh">2024肇喜登峰巡迴賽 慶璉禾登豐公開賽 第三、四回合(普)</title>
+    <desc />
+    <date>20260815</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
