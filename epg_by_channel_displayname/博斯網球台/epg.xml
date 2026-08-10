@@ -1,86 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="544782" start="20260809000000 +0800" stop="20260809003000 +0800">
-    <title lang="zh">首播 2026蒙特婁大師賽 第六天(普)</title>
-    <desc />
-    <date>20260809</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260809003000 +0800" stop="20260809043000 +0800">
-    <title lang="zh">LIVE 2026蒙特婁大師賽 16強(普)</title>
-    <desc />
-    <date>20260809</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260809043000 +0800" stop="20260809050000 +0800">
-    <title lang="zh">網球雜誌(普)</title>
-    <desc />
-    <date>20260809</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260809050000 +0800" stop="20260809060000 +0800">
-    <title lang="zh">2026溫網第7天精華(普)</title>
-    <desc />
-    <date>20260809</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260809060000 +0800" stop="20260809100000 +0800">
-    <title lang="zh">LIVE 2026蒙特婁大師賽 16強(普)</title>
-    <desc />
-    <date>20260809</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260809100000 +0800" stop="20260809130000 +0800">
-    <title lang="zh">2026瑞士男網賽 4強 COL vs CER(普)</title>
-    <desc />
-    <date>20260809</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260809130000 +0800" stop="20260809160000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽 16強 SIN vs MOC(普)</title>
-    <desc />
-    <date>20260809</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260809160000 +0800" stop="20260809170000 +0800">
-    <title lang="zh">2026溫網第7天精華(普)</title>
-    <desc />
-    <date>20260809</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260809170000 +0800" stop="20260810000000 +0800">
-    <title lang="zh">首播 2026蒙特婁大師賽 16強(普)</title>
-    <desc />
-    <date>20260809</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="544782" start="20260810000000 +0800" stop="20260810003000 +0800">
     <title lang="zh">首播 2026蒙特婁大師賽 16強(普)</title>
     <desc />
@@ -279,82 +198,91 @@
     </audio>
   </programme>
   
-<programme channel="456813" start="20260809030000 +0800" stop="20260809033000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>20260809</date>
+<programme channel="544782" start="20260812000000 +0800" stop="20260812021500 +0800">
+    <title lang="zh">2026華盛頓男網賽 16強 NAK vs MEN(普)</title>
+    <desc />
+    <date>20260812</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260809033000 +0800" stop="20260809043000 +0800">
-    <title lang="zh">2026溫網第3天精華</title>
-    <desc>2026溫網第3天精華</desc>
-    <date>20260809</date>
+<programme channel="544782" start="20260812021500 +0800" stop="20260812050000 +0800">
+    <title lang="zh">2026埃斯托里爾男網賽 8強 BUR vs BLO(普)</title>
+    <desc />
+    <date>20260812</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260809043000 +0800" stop="20260809083000 +0800">
-    <title lang="zh">LIVE2026華盛頓男網賽十六強</title>
-    <desc>LIVE2026華盛頓男網賽十六強</desc>
-    <date>20260809</date>
+<programme channel="544782" start="20260812050000 +0800" stop="20260812060000 +0800">
+    <title lang="zh">2026溫網第7天精華(普)</title>
+    <desc />
+    <date>20260812</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260809083000 +0800" stop="20260809090000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>20260809</date>
+<programme channel="544782" start="20260812060000 +0800" stop="20260812100000 +0800">
+    <title lang="zh">LIVE 2026蒙特婁大師賽 8強(普)</title>
+    <desc />
+    <date>20260812</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260809090000 +0800" stop="20260809110000 +0800">
-    <title lang="zh">2026埃斯托里爾男網賽四強</title>
-    <desc>2026埃斯托里爾男網賽四強</desc>
-    <date>20260809</date>
+<programme channel="544782" start="20260812100000 +0800" stop="20260812124500 +0800">
+    <title lang="zh">2026華盛頓男網賽 16強 NAK vs MEN(普)</title>
+    <desc />
+    <date>20260812</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260809110000 +0800" stop="20260809140000 +0800">
-    <title lang="zh">2026溫布頓網球錦標賽女單第二輪KRE vs AND</title>
-    <desc>2026溫布頓網球錦標賽女單第二輪KRE vs AND</desc>
-    <date>20260809</date>
+<programme channel="544782" start="20260812124500 +0800" stop="20260812153000 +0800">
+    <title lang="zh">2026埃斯托里爾男網賽 8強 BUR vs BLO(普)</title>
+    <desc />
+    <date>20260812</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260809140000 +0800" stop="20260809150000 +0800">
-    <title lang="zh">2026溫網第3天精華</title>
-    <desc>2026溫網第3天精華</desc>
-    <date>20260809</date>
+<programme channel="544782" start="20260812153000 +0800" stop="20260812163000 +0800">
+    <title lang="zh">2026溫網第7天精華(普)</title>
+    <desc />
+    <date>20260812</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260809150000 +0800" stop="20260809170000 +0800">
-    <title lang="zh">2026奧地利男網賽八強</title>
-    <desc>2026奧地利男網賽八強</desc>
-    <date>20260809</date>
+<programme channel="544782" start="20260812163000 +0800" stop="20260812190000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽 女單16強 PEG vs JOV(普)</title>
+    <desc />
+    <date>20260812</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260809170000 +0800" stop="20260810020000 +0800">
-    <title lang="zh">首播2026華盛頓男網賽十六強</title>
-    <desc>首播2026華盛頓男網賽十六強</desc>
-    <date>20260809</date>
+<programme channel="544782" start="20260812190000 +0800" stop="20260812230000 +0800">
+    <title lang="zh">首播 2026蒙特婁大師賽 8強(普)</title>
+    <desc />
+    <date>20260812</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544782" start="20260812230000 +0800" stop="20260813000000 +0800">
+    <title lang="zh">2026溫網第8天精華(普)</title>
+    <desc />
+    <date>20260812</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -720,10 +648,91 @@
     </audio>
   </programme>
   
-<programme channel="456813" start="20260815170000 +0800" stop="20260816000000 +0800">
+<programme channel="456813" start="20260815170000 +0800" stop="20260816003000 +0800">
     <title lang="zh">首播2026蒙特婁大師賽第六天</title>
     <desc>首播2026蒙特婁大師賽第六天</desc>
     <date>20260815</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260816003000 +0800" stop="20260816043000 +0800">
+    <title lang="zh">LIVE2026蒙特婁大師賽十六強</title>
+    <desc>LIVE2026蒙特婁大師賽十六強</desc>
+    <date>20260816</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260816043000 +0800" stop="20260816050000 +0800">
+    <title lang="zh">網球雜誌</title>
+    <desc>網球雜誌</desc>
+    <date>20260816</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260816050000 +0800" stop="20260816060000 +0800">
+    <title lang="zh">2026溫網第7天精華</title>
+    <desc>2026溫網第7天精華</desc>
+    <date>20260816</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260816060000 +0800" stop="20260816100000 +0800">
+    <title lang="zh">LIVE2026蒙特婁大師賽十六強</title>
+    <desc>LIVE2026蒙特婁大師賽十六強</desc>
+    <date>20260816</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260816100000 +0800" stop="20260816130000 +0800">
+    <title lang="zh">2026瑞士男網賽四強COL vs CER</title>
+    <desc>2026瑞士男網賽四強COL vs CER</desc>
+    <date>20260816</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260816130000 +0800" stop="20260816160000 +0800">
+    <title lang="zh">2026溫布頓網球錦標賽十六強SIN vs MOC</title>
+    <desc>2026溫布頓網球錦標賽十六強SIN vs MOC</desc>
+    <date>20260816</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260816160000 +0800" stop="20260816170000 +0800">
+    <title lang="zh">2026溫網第7天精華</title>
+    <desc>2026溫網第7天精華</desc>
+    <date>20260816</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260816170000 +0800" stop="20260816230000 +0800">
+    <title lang="zh">首播2026蒙特婁大師賽十六強</title>
+    <desc>首播2026蒙特婁大師賽十六強</desc>
+    <date>20260816</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260816230000 +0800" stop="20260817000000 +0800">
+    <title lang="zh">LIVE2026辛辛那提大師賽第四天</title>
+    <desc>LIVE2026辛辛那提大師賽第四天</desc>
+    <date>20260816</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
