@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456816" start="20260811000000 +0800" stop="20260811070000 +0800">
-    <title lang="zh">2026藍灣公開賽第一天</title>
-    <desc>2026藍灣公開賽第一天</desc>
-    <date>20260811</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260811070000 +0800" stop="20260811093000 +0800">
-    <title lang="zh">2026皇后城錦標賽第三天</title>
-    <desc>2026皇后城錦標賽第三天</desc>
-    <date>20260811</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260811093000 +0800" stop="20260811120000 +0800">
-    <title lang="zh">2026陶氏錦標賽第二天</title>
-    <desc>2026陶氏錦標賽第二天</desc>
-    <date>20260811</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260811120000 +0800" stop="20260811180000 +0800">
-    <title lang="zh">首播英國女子公開賽第一天</title>
-    <desc>首播英國女子公開賽第一天</desc>
-    <date>20260811</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260811180000 +0800" stop="20260811190000 +0800">
-    <title lang="zh">2026TLPGA之友公開賽第一回合</title>
-    <desc>2026TLPGA之友公開賽第一回合</desc>
-    <date>20260811</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260811190000 +0800" stop="20260811200000 +0800">
-    <title lang="zh">2026TLPGA之友公開賽第二回合</title>
-    <desc>2026TLPGA之友公開賽第二回合</desc>
-    <date>20260811</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260811200000 +0800" stop="20260812020000 +0800">
-    <title lang="zh">LIVE英國女子公開賽第二天</title>
-    <desc>LIVE英國女子公開賽第二天</desc>
-    <date>20260811</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456816" start="20260812020000 +0800" stop="20260812070000 +0800">
     <title lang="zh">2026藍灣公開賽第二天</title>
     <desc>2026藍灣公開賽第二天</desc>
@@ -432,10 +369,73 @@
     </audio>
   </programme>
   
-<programme channel="456816" start="20260818000000 +0800" stop="20260819000000 +0800">
+<programme channel="456816" start="20260818000000 +0800" stop="20260818033000 +0800">
     <title lang="zh">2026蘇格蘭女子公開賽第四天</title>
     <desc>2026蘇格蘭女子公開賽第四天</desc>
     <date>20260818</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260818033000 +0800" stop="20260818060000 +0800">
+    <title lang="zh">2026梅爾菁英賽第四天</title>
+    <desc>2026梅爾菁英賽第四天</desc>
+    <date>20260818</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260818060000 +0800" stop="20260818093000 +0800">
+    <title lang="zh">2026紐西蘭公開賽第一天</title>
+    <desc>2026紐西蘭公開賽第一天</desc>
+    <date>20260818</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260818093000 +0800" stop="20260818150000 +0800">
+    <title lang="zh">2026英國女子公開賽第四天</title>
+    <desc>2026英國女子公開賽第四天</desc>
+    <date>20260818</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260818150000 +0800" stop="20260818173000 +0800">
+    <title lang="zh">2026陶氏錦標賽第一天</title>
+    <desc>2026陶氏錦標賽第一天</desc>
+    <date>20260818</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260818173000 +0800" stop="20260818200000 +0800">
+    <title lang="zh">2026創始者盃第一天</title>
+    <desc>2026創始者盃第一天</desc>
+    <date>20260818</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260818200000 +0800" stop="20260819000000 +0800">
+    <title lang="zh">2026摩洛哥亞巡賽第一天</title>
+    <desc>2026摩洛哥亞巡賽第一天</desc>
+    <date>20260818</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260819000000 +0800" stop="20260820000000 +0800">
+    <title lang="zh">2026愛維養錦標賽第一天</title>
+    <desc>2026愛維養錦標賽第一天</desc>
+    <date>20260819</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
