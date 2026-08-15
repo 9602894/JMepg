@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="370255" start="20260814000000 +0800" stop="20260814050000 +0800">
-    <title lang="zh">立法院會議轉播</title>
-    <desc />
-    <date>20260814</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370255" start="20260814050000 +0800" stop="20260814090000 +0800">
-    <title lang="zh">立法院會議轉播</title>
-    <desc />
-    <date>20260814</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370255" start="20260814090000 +0800" stop="20260814180000 +0800">
-    <title lang="zh">立法院會議轉播</title>
-    <desc />
-    <date>20260814</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370255" start="20260814180000 +0800" stop="20260815000000 +0800">
-    <title lang="zh">立法院會議轉播</title>
-    <desc />
-    <date>20260814</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="370255" start="20260815000000 +0800" stop="20260815090000 +0800">
     <title lang="zh">立法院會議轉播</title>
     <desc />
@@ -94,6 +58,42 @@
     <title lang="zh">立法院會議轉播</title>
     <desc />
     <date>20260816</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370255" start="20260817000000 +0800" stop="20260817060000 +0800">
+    <title lang="zh">立法院會議轉播</title>
+    <desc />
+    <date>20260817</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370255" start="20260817060000 +0800" stop="20260817120000 +0800">
+    <title lang="zh">立法院會議轉播</title>
+    <desc />
+    <date>20260817</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370255" start="20260817120000 +0800" stop="20260817180000 +0800">
+    <title lang="zh">立法院會議轉播</title>
+    <desc />
+    <date>20260817</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370255" start="20260817180000 +0800" stop="20260818000000 +0800">
+    <title lang="zh">立法院會議轉播</title>
+    <desc />
+    <date>20260817</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
