@@ -1,59 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456815" start="20260817000000 +0800" stop="20260817060000 +0800">
-    <title lang="zh">LIVE2026 PGA聖裘德錦標賽第四天</title>
-    <desc>LIVE2026 PGA聖裘德錦標賽第四天</desc>
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260817060000 +0800" stop="20260817070000 +0800">
-    <title lang="zh">2026 PGA底特律菁英賽精華</title>
-    <desc>2026 PGA底特律菁英賽精華</desc>
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260817070000 +0800" stop="20260817120000 +0800">
-    <title lang="zh">2026 歐巡奧地利公開賽第一天</title>
-    <desc>2026 歐巡奧地利公開賽第一天</desc>
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260817120000 +0800" stop="20260817180000 +0800">
-    <title lang="zh">首播2026 PGA聖裘德錦標賽第四天</title>
-    <desc>首播2026 PGA聖裘德錦標賽第四天</desc>
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260817180000 +0800" stop="20260817190000 +0800">
-    <title lang="zh">2026 PGA底特律菁英賽精華</title>
-    <desc>2026 PGA底特律菁英賽精華</desc>
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260817190000 +0800" stop="20260818000000 +0800">
-    <title lang="zh">2026 歐巡奧地利公開賽第二天</title>
-    <desc>2026 歐巡奧地利公開賽第二天</desc>
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456815" start="20260818000000 +0800" stop="20260818040000 +0800">
     <title lang="zh">2026 歐巡義大利公開賽第四天</title>
     <desc>2026 歐巡義大利公開賽第四天</desc>
@@ -486,10 +432,73 @@
     </audio>
   </programme>
   
-<programme channel="456815" start="20260824000000 +0800" stop="20260825000000 +0800">
+<programme channel="456815" start="20260824000000 +0800" stop="20260824060000 +0800">
     <title lang="zh">LIVE2026 PGABMW錦標賽第四天</title>
     <desc>LIVE2026 PGABMW錦標賽第四天</desc>
     <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260824060000 +0800" stop="20260824070000 +0800">
+    <title lang="zh">2026 PGA聖裘德錦標賽精華</title>
+    <desc>2026 PGA聖裘德錦標賽精華</desc>
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260824070000 +0800" stop="20260824120000 +0800">
+    <title lang="zh">首播2026 歐巡Nexo錦標賽第一天</title>
+    <desc>首播2026 歐巡Nexo錦標賽第一天</desc>
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260824120000 +0800" stop="20260824123000 +0800">
+    <title lang="zh">美巡焦點</title>
+    <desc>美巡焦點</desc>
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260824123000 +0800" stop="20260824183000 +0800">
+    <title lang="zh">首播2026 PGABMW錦標賽第四天</title>
+    <desc>首播2026 PGABMW錦標賽第四天</desc>
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260824183000 +0800" stop="20260824190000 +0800">
+    <title lang="zh">美巡焦點</title>
+    <desc>美巡焦點</desc>
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260824190000 +0800" stop="20260825000000 +0800">
+    <title lang="zh">首播2026 歐巡丹麥錦標賽第一天</title>
+    <desc>首播2026 歐巡丹麥錦標賽第一天</desc>
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260825000000 +0800" stop="20260826000000 +0800">
+    <title lang="zh">2026 PGA3M公開賽精華</title>
+    <desc>2026 PGA3M公開賽精華</desc>
+    <date>20260825</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

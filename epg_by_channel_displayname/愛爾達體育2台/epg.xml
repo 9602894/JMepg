@@ -1,95 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="457244" start="20260817010000 +0800" stop="20260817013000 +0800">
-    <title lang="zh">體壇最前線 8/16 (新)(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260817013000 +0800" stop="20260817040000 +0800">
-    <title lang="zh">中華職棒 樂天 VS 味全 例行賽 8/16(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260817040000 +0800" stop="20260817043000 +0800">
-    <title lang="zh">體壇最前線 8/16(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260817043000 +0800" stop="20260817070000 +0800">
-    <title lang="zh">中華職棒 富邦 VS 統一 例行賽 8/16(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260817070000 +0800" stop="20260817100000 +0800">
-    <title lang="zh">LIVE 【MLB on ELTA 8月】(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260817100000 +0800" stop="20260817130000 +0800">
-    <title lang="zh">D-LIVE 【MLB on ELTA 8月】(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260817130000 +0800" stop="20260817133000 +0800">
-    <title lang="zh">體壇最前線 8/16(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260817133000 +0800" stop="20260817183000 +0800">
-    <title lang="zh">LIVE 8/17 BWF 世錦賽 第一日(上) 場2(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260817183000 +0800" stop="20260817233000 +0800">
-    <title lang="zh">LIVE 8/17 BWF 世錦賽 第一日(下) 場2(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457244" start="20260817233000 +0800" stop="20260818000000 +0800">
-    <title lang="zh">LIVE 體壇最前線 8/17(普)</title>
-    <desc />
-    <date>20260817</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457244" start="20260818000000 +0800" stop="20260818023000 +0800">
     <title lang="zh">【MLB on ELTA 8月】(普)</title>
     <desc />
@@ -810,10 +720,154 @@
     </audio>
   </programme>
   
-<programme channel="457244" start="20260823220000 +0800" stop="20260824000000 +0800">
+<programme channel="457244" start="20260823220000 +0800" stop="20260823230000 +0800">
     <title lang="zh">LIVE 2026鑽石聯賽 波蘭西利西亞站(普)</title>
     <desc />
     <date>20260823</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260823230000 +0800" stop="20260823233000 +0800">
+    <title lang="zh">LIVE 體壇最前線 8/23(普)</title>
+    <desc />
+    <date>20260823</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260823233000 +0800" stop="20260824023000 +0800">
+    <title lang="zh">D-LIVE 中華職棒 味全 VS 富邦 例行賽 8/23(普)</title>
+    <desc />
+    <date>20260823</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824023000 +0800" stop="20260824043000 +0800">
+    <title lang="zh">中華職棒 中信 VS 統一 例行賽 8/23(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824043000 +0800" stop="20260824065000 +0800">
+    <title lang="zh">LIVE 法甲 巴黎聖日耳曼 VS 雷恩 第1輪(原音)(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824065000 +0800" stop="20260824073000 +0800">
+    <title lang="zh">體壇最前線 8/23 (新)(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824073000 +0800" stop="20260824094500 +0800">
+    <title lang="zh">英超 曼城 VS 伯恩茅斯 第1輪 (本節目無HamiVideo版權改播精選賽事)(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824094500 +0800" stop="20260824120000 +0800">
+    <title lang="zh">英超 紐卡索聯 VS 利物浦 第1輪 (本節目無HamiVideo版權改播精選賽事)(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824120000 +0800" stop="20260824123000 +0800">
+    <title lang="zh">體壇最前線 8/23(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824123000 +0800" stop="20260824143000 +0800">
+    <title lang="zh">2026鑽石聯賽 波蘭西利西亞站(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824143000 +0800" stop="20260824150000 +0800">
+    <title lang="zh">體壇最前線 8/23(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824150000 +0800" stop="20260824153000 +0800">
+    <title lang="zh">MLB好球連發#20(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824153000 +0800" stop="20260824174500 +0800">
+    <title lang="zh">英超 兵工廠 VS 科文垂城 第1輪 (本節目無HamiVideo版權改播精選賽事)(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824174500 +0800" stop="20260824200000 +0800">
+    <title lang="zh">英超 曼城 VS 伯恩茅斯 第1輪 (本節目無HamiVideo版權改播精選賽事)(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824200000 +0800" stop="20260824220000 +0800">
+    <title lang="zh">2026鑽石聯賽 波蘭西利西亞站(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824220000 +0800" stop="20260824223000 +0800">
+    <title lang="zh">LIVE 體壇最前線 8/24(普)</title>
+    <desc />
+    <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457244" start="20260824223000 +0800" stop="20260825000000 +0800">
+    <title lang="zh">2026鑽石聯賽 瑞士洛桑站(普)</title>
+    <desc />
+    <date>20260824</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
