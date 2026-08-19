@@ -1,149 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="545947" start="20260818001015 +0800" stop="20260818060000 +0800">
-    <title lang="zh">风华国乐-2026-234</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818060000 +0800" stop="20260818070230 +0800">
-    <title lang="zh">精彩音乐汇-我的爱对你说-2026-330</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818070230 +0800" stop="20260818081430 +0800">
-    <title lang="zh">合唱先锋-2026-11</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818081430 +0800" stop="20260818085400 +0800">
-    <title lang="zh">风华国乐-2026-235</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818085400 +0800" stop="20260818100930 +0800">
-    <title lang="zh">民歌·中国-2026-109金风玉露情歌起3</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818100930 +0800" stop="20260818112500 +0800">
-    <title lang="zh">精彩音乐汇-我的爱对你说-2026-327</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818112500 +0800" stop="20260818131030 +0800">
-    <title lang="zh">CMG夏日歌会-海南东方篇</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818131030 +0800" stop="20260818152500 +0800">
-    <title lang="zh">影视留声机-2026-26-经典音乐电影欣赏《冰山上的来客》</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818152500 +0800" stop="20260818161930 +0800">
-    <title lang="zh">风华国乐-2025-183-风华雅集4</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818161930 +0800" stop="20260818165900 +0800">
-    <title lang="zh">经典-CMG夏日歌会-缤纷唱响</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818165900 +0800" stop="20260818181430 +0800">
-    <title lang="zh">民歌·中国-2026-112金风玉露情歌起6</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818181430 +0800" stop="20260818193000 +0800">
-    <title lang="zh">精彩音乐汇-我的爱对你说-2026-324</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818193000 +0800" stop="20260818210330 +0800">
-    <title lang="zh">全球中文音乐榜上榜-2024-江山如画黄河的交响</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818210330 +0800" stop="20260818214900 +0800">
-    <title lang="zh">中国音乐电视-2026-4-山河回响 流水照归人</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818214900 +0800" stop="20260818230430 +0800">
-    <title lang="zh">中国节拍-品味古典75</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545947" start="20260818230430 +0800" stop="20260819001815 +0800">
-    <title lang="zh">精彩音乐汇-我的爱对你说-2026-294</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="545947" start="20260819001815 +0800" stop="20260819060000 +0800">
     <title lang="zh">风华国乐-2026-235</title>
     <desc />
@@ -882,10 +738,19 @@
     </audio>
   </programme>
   
-<programme channel="545947" start="20260823233030 +0800" stop="20260824004415 +0800">
+<programme channel="545947" start="20260823233030 +0800" stop="20260824004030 +0800">
     <title lang="zh">精彩音乐汇-我的爱对你说-2026-271</title>
     <desc />
     <date>20260823</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545947" start="20260824004030 +0800" stop="20260824004415 +0800">
+    <title lang="zh">风华国乐-2026-240</title>
+    <desc />
+    <date>20260824</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

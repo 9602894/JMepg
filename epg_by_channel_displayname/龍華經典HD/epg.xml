@@ -1,86 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="457370" start="20260818020000 +0800" stop="20260818060000 +0800">
-    <title lang="zh">收播(普)</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260818060000 +0800" stop="20260818080000 +0800">
-    <title lang="zh">英雄訣(23-24)(首)(普)</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260818080000 +0800" stop="20260818094500 +0800">
-    <title lang="zh">前線狙擊手(護)</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260818094500 +0800" stop="20260818130500 +0800">
-    <title lang="zh">聖保羅炮艇(護)</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260818130500 +0800" stop="20260818152000 +0800">
-    <title lang="zh">危城(護)</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260818152000 +0800" stop="20260818171500 +0800">
-    <title lang="zh">時光機器(普)</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260818171500 +0800" stop="20260818190000 +0800">
-    <title lang="zh">新少林五祖(普)</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260818190000 +0800" stop="20260818210000 +0800">
-    <title lang="zh">英雄訣(23-24)(普)</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457370" start="20260818210000 +0800" stop="20260819002000 +0800">
-    <title lang="zh">黃昏三鏢客(護)</title>
-    <desc />
-    <date>20260818</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457370" start="20260819002000 +0800" stop="20260819020000 +0800">
     <title lang="zh">魔女神兵(輔12)</title>
     <desc />
@@ -666,10 +585,100 @@
     </audio>
   </programme>
   
-<programme channel="457370" start="20260824230500 +0800" stop="20260825000000 +0800">
+<programme channel="457370" start="20260824230500 +0800" stop="20260825003500 +0800">
     <title lang="zh">桃色追緝令(輔12)</title>
     <desc />
     <date>20260824</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825003500 +0800" stop="20260825020000 +0800">
+    <title lang="zh">外太空九號計畫(護)</title>
+    <desc />
+    <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825020000 +0800" stop="20260825060000 +0800">
+    <title lang="zh">收播(普)</title>
+    <desc />
+    <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825060000 +0800" stop="20260825080000 +0800">
+    <title lang="zh">英雄訣(33-34)(首)(普)</title>
+    <desc />
+    <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825080000 +0800" stop="20260825094000 +0800">
+    <title lang="zh">逃學歪傳(護)</title>
+    <desc />
+    <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825094000 +0800" stop="20260825121000 +0800">
+    <title lang="zh">殉情記(護)</title>
+    <desc />
+    <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825121000 +0800" stop="20260825141500 +0800">
+    <title lang="zh">血滴子(護)</title>
+    <desc />
+    <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825141500 +0800" stop="20260825165500 +0800">
+    <title lang="zh">孤雛淚(普)</title>
+    <desc />
+    <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825165500 +0800" stop="20260825190000 +0800">
+    <title lang="zh">波伽利：聲命之歌(普)</title>
+    <desc />
+    <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825190000 +0800" stop="20260825210000 +0800">
+    <title lang="zh">英雄訣(33-34)(普)</title>
+    <desc />
+    <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457370" start="20260825210000 +0800" stop="20260826000000 +0800">
+    <title lang="zh">教父(輔15)</title>
+    <desc />
+    <date>20260825</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
