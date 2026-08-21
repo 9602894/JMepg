@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="457250" start="20260820000000 +0800" stop="20260820050000 +0800">
-    <title lang="zh">LIVE2026辛辛那提女網賽16強2300-0500(普)</title>
-    <desc />
-    <date>20260820</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260820050000 +0800" stop="20260820070000 +0800">
-    <title lang="zh">2026漢堡女網賽8強BON vs CHA(普)</title>
-    <desc />
-    <date>20260820</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260820070000 +0800" stop="20260820103000 +0800">
-    <title lang="zh">LIVE2026辛辛那提女網賽16強0700-1030(普)</title>
-    <desc />
-    <date>20260820</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260820103000 +0800" stop="20260820120000 +0800">
-    <title lang="zh">2026華盛頓女網賽4強OSA vs EAL(普)</title>
-    <desc />
-    <date>20260820</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260820120000 +0800" stop="20260820140000 +0800">
-    <title lang="zh">2026漢堡女網賽8強BON vs CHA(普)</title>
-    <desc />
-    <date>20260820</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260820140000 +0800" stop="20260820170000 +0800">
-    <title lang="zh">2026多倫多女網賽8強OSA vs RYB(普)</title>
-    <desc />
-    <date>20260820</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457250" start="20260820170000 +0800" stop="20260821000000 +0800">
-    <title lang="zh">首播2026辛辛那提女網賽16強(普)</title>
-    <desc />
-    <date>20260820</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457250" start="20260821000000 +0800" stop="20260821010000 +0800">
     <title lang="zh">首播2026辛辛那提女網賽16強(普)</title>
     <desc />
@@ -697,6 +634,105 @@
     <title lang="zh">2026多倫多女網賽8強ALE vs SVI(普)</title>
     <desc />
     <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827000000 +0800" stop="20260827010000 +0800">
+    <title lang="zh">2026多倫多女網賽8強ALE vs SVI(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827010000 +0800" stop="20260827013000 +0800">
+    <title lang="zh">WTA新視界(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827013000 +0800" stop="20260827033000 +0800">
+    <title lang="zh">2026華盛頓女網賽8強SHN vs SAM(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827033000 +0800" stop="20260827050000 +0800">
+    <title lang="zh">2026羅馬尼亞女網賽4強SHE vs OLI(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827050000 +0800" stop="20260827133000 +0800">
+    <title lang="zh">LIVE2026蒙特雷女網賽16強0500-1330(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827133000 +0800" stop="20260827153000 +0800">
+    <title lang="zh">2026華盛頓女網賽8強SHN vs SAM(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827153000 +0800" stop="20260827160000 +0800">
+    <title lang="zh">WTA新視界(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827160000 +0800" stop="20260827173000 +0800">
+    <title lang="zh">2026羅馬尼亞女網賽4強SHE vs OLI(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827173000 +0800" stop="20260827193000 +0800">
+    <title lang="zh">2026多倫多女網賽8強ALE vs SVI(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827193000 +0800" stop="20260827210000 +0800">
+    <title lang="zh">2026華盛頓女網賽8強PEG vs KAL(普)</title>
+    <desc />
+    <date>20260827</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457250" start="20260827210000 +0800" stop="20260828000000 +0800">
+    <title lang="zh">首播2026蒙特雷女網賽16強(普)</title>
+    <desc />
+    <date>20260827</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
