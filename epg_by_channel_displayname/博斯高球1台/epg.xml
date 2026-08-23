@@ -1,95 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456815" start="20260822000000 +0800" stop="20260822010000 +0800">
-    <title lang="zh">2026 PGA約翰迪爾菁英賽精華</title>
-    <desc>2026 PGA約翰迪爾菁英賽精華</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260822010000 +0800" stop="20260822020000 +0800">
-    <title lang="zh">2026 PGA底特律菁英賽精華</title>
-    <desc>2026 PGA底特律菁英賽精華</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260822020000 +0800" stop="20260822060000 +0800">
-    <title lang="zh">LIVE2026 PGA聖裘德錦標賽第二天</title>
-    <desc>LIVE2026 PGA聖裘德錦標賽第二天</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260822060000 +0800" stop="20260822100000 +0800">
-    <title lang="zh">2026 PGA底特律菁英賽第三天</title>
-    <desc>2026 PGA底特律菁英賽第三天</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260822100000 +0800" stop="20260822130000 +0800">
-    <title lang="zh">2026 歐巡荷蘭公開賽第四天</title>
-    <desc>2026 歐巡荷蘭公開賽第四天</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260822130000 +0800" stop="20260822170000 +0800">
-    <title lang="zh">首播2026 PGA聖裘德錦標賽第二天</title>
-    <desc>首播2026 PGA聖裘德錦標賽第二天</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260822170000 +0800" stop="20260822173000 +0800">
-    <title lang="zh">美巡焦點</title>
-    <desc>美巡焦點</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260822173000 +0800" stop="20260822183000 +0800">
-    <title lang="zh">2026 PGA肯塔基錦標賽精華</title>
-    <desc>2026 PGA肯塔基錦標賽精華</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260822183000 +0800" stop="20260822230000 +0800">
-    <title lang="zh">LIVE2026 歐巡丹麥錦標賽第三天</title>
-    <desc>LIVE2026 歐巡丹麥錦標賽第三天</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260822230000 +0800" stop="20260823000000 +0800">
-    <title lang="zh">2026 PGA底特律菁英賽精華</title>
-    <desc>2026 PGA底特律菁英賽精華</desc>
-    <date>20260822</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456815" start="20260823000000 +0800" stop="20260823010000 +0800">
     <title lang="zh">2026 PGA溫德翰姆錦標賽精華</title>
     <desc>2026 PGA溫德翰姆錦標賽精華</desc>
@@ -522,10 +432,64 @@
     </audio>
   </programme>
   
-<programme channel="456815" start="20260829000000 +0800" stop="20260830000000 +0800">
+<programme channel="456815" start="20260829000000 +0800" stop="20260829040000 +0800">
     <title lang="zh">2026 PGA聖裘德錦標賽第一天</title>
     <desc>2026 PGA聖裘德錦標賽第一天</desc>
     <date>20260829</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260829040000 +0800" stop="20260829070000 +0800">
+    <title lang="zh">2026 PGA肯塔基錦標賽第一天</title>
+    <desc>2026 PGA肯塔基錦標賽第一天</desc>
+    <date>20260829</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260829070000 +0800" stop="20260829120000 +0800">
+    <title lang="zh">2026 歐巡奧地利公開賽第二天</title>
+    <desc>2026 歐巡奧地利公開賽第二天</desc>
+    <date>20260829</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260829120000 +0800" stop="20260829160000 +0800">
+    <title lang="zh">2026 PGA聖裘德錦標賽第一天</title>
+    <desc>2026 PGA聖裘德錦標賽第一天</desc>
+    <date>20260829</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260829160000 +0800" stop="20260829190000 +0800">
+    <title lang="zh">2026 PGA肯塔基錦標賽第一天</title>
+    <desc>2026 PGA肯塔基錦標賽第一天</desc>
+    <date>20260829</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260829190000 +0800" stop="20260830000000 +0800">
+    <title lang="zh">2026 歐巡奧地利公開賽第三天</title>
+    <desc>2026 歐巡奧地利公開賽第三天</desc>
+    <date>20260829</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260830000000 +0800" stop="20260831000000 +0800">
+    <title lang="zh">2026 PGA聖裘德錦標賽第二天</title>
+    <desc>2026 PGA聖裘德錦標賽第二天</desc>
+    <date>20260830</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,63 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="539680" start="20260822052500 +0800" stop="20260822124500 +0800">
+<programme channel="539680" start="20260823051500 +0800" stop="20260823053000 +0800">
+    <title lang="zh">燕赵先锋(重)</title>
+    <desc />
+    <date>20260823</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539680" start="20260823053000 +0800" stop="20260823125000 +0800">
     <title lang="zh">剧场</title>
     <desc />
-    <date>20260822</date>
+    <date>20260823</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539680" start="20260822124500 +0800" stop="20260822174500 +0800">
+<programme channel="539680" start="20260823125000 +0800" stop="20260823175000 +0800">
     <title lang="zh">剧场</title>
     <desc />
-    <date>20260822</date>
+    <date>20260823</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539680" start="20260822174500 +0800" stop="20260822180000 +0800">
-    <title lang="zh">燕赵先锋</title>
+<programme channel="539680" start="20260823175000 +0800" stop="20260823180000 +0800">
+    <title lang="zh">看法</title>
     <desc />
-    <date>20260822</date>
+    <date>20260823</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539680" start="20260822180000 +0800" stop="20260822184000 +0800">
+<programme channel="539680" start="20260823180000 +0800" stop="20260823184000 +0800">
     <title lang="zh">今日资讯</title>
     <desc />
-    <date>20260822</date>
+    <date>20260823</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539680" start="20260822184000 +0800" stop="20260822213000 +0800">
+<programme channel="539680" start="20260823184000 +0800" stop="20260823213000 +0800">
     <title lang="zh">第一剧场(3集)</title>
     <desc />
-    <date>20260822</date>
+    <date>20260823</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539680" start="20260822213000 +0800" stop="20260822215000 +0800">
+<programme channel="539680" start="20260823213000 +0800" stop="20260823215000 +0800">
     <title lang="zh">健康朋友圈</title>
     <desc />
-    <date>20260822</date>
+    <date>20260823</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539680" start="20260822215000 +0800" stop="20260823000000 +0800">
+<programme channel="539680" start="20260823215000 +0800" stop="20260824000000 +0800">
     <title lang="zh">经典剧场</title>
     <desc />
-    <date>20260822</date>
+    <date>20260823</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
