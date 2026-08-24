@@ -1,122 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="547512" start="20260823000000 +0800" stop="20260823003500 +0800">
-    <title lang="zh">115年第二十九屆傳福盃全國少棒錦標賽2 G22 台北福林 VS 台中大仁</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823003500 +0800" stop="20260823022500 +0800">
-    <title lang="zh">115年第二十九屆傳福盃全國少棒錦標賽3 季軍戰 G23 台東卑南 VS 台北福林</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823022500 +0800" stop="20260823040000 +0800">
-    <title lang="zh">115年第二十九屆傳福盃全國少棒錦標賽4 冠軍戰 G24 南投新街 VS 台中大仁</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823040000 +0800" stop="20260823063000 +0800">
-    <title lang="zh">2026年 四國菁英棒球對抗賽 G1 USA VS Korea</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823063000 +0800" stop="20260823095000 +0800">
-    <title lang="zh">2026年 四國菁英棒球對抗賽 G2 Chinese Taipei VS Japan</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823095000 +0800" stop="20260823100000 +0800">
-    <title lang="zh">2026年 四國菁英棒球對抗賽 G3 Japan VS Korea</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823100000 +0800" stop="20260823120000 +0800">
-    <title lang="zh">【LIVE】日本職業桌球聯賽 男子組</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823120000 +0800" stop="20260823123000 +0800">
-    <title lang="zh">2026年 四國菁英棒球對抗賽 G3 Japan VS Korea</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823123000 +0800" stop="20260823150000 +0800">
-    <title lang="zh">2026年 四國菁英棒球對抗賽 G4 Chinese Taipei VS USA</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823150000 +0800" stop="20260823170000 +0800">
-    <title lang="zh">【LIVE】日本職業桌球聯賽 女子組</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823170000 +0800" stop="20260823200500 +0800">
-    <title lang="zh">2026年 四國菁英棒球對抗賽 G5 Japan VS USA</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823200500 +0800" stop="20260823230000 +0800">
-    <title lang="zh">2026年 四國菁英棒球對抗賽 G6 Korea VS Chinese Taipei</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="547512" start="20260823230000 +0800" stop="20260824010000 +0800">
-    <title lang="zh">【LIVE】2026 LLB威廉波特少棒世界賽 G18 國際組賽</title>
-    <desc />
-    <date>20260823</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="547512" start="20260824010000 +0800" stop="20260824021500 +0800">
     <title lang="zh">2026年 四國菁英棒球對抗賽 G7 季軍賽 Chinese Taipei VS Korea</title>
     <desc />
@@ -369,10 +252,109 @@
     </audio>
   </programme>
   
-<programme channel="547512" start="20260825215500 +0800" stop="20260826000000 +0800">
+<programme channel="547512" start="20260825215500 +0800" stop="20260826010000 +0800">
     <title lang="zh">2026 LLB次青少棒世界賽 G21 世界冠軍 CHINESE TAIPEI  VS CALFORNIA</title>
     <desc />
     <date>20260825</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826010000 +0800" stop="20260826031000 +0800">
+    <title lang="zh">2026 LLB U13世界賽 G19 U.S.A vs  South Korea</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826031000 +0800" stop="20260826050500 +0800">
+    <title lang="zh">2026 LLB U13世界賽 G20 NCAL vs CAL57</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826050500 +0800" stop="20260826071500 +0800">
+    <title lang="zh">2026 LLB U13世界賽 G21 世界冠軍 South Korea vs U.S.A</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826071500 +0800" stop="20260826094500 +0800">
+    <title lang="zh">2026 BFA U12亞洲盃少棒賽 G8 預賽  Chinese Taipei VS Korea</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826094500 +0800" stop="20260826113000 +0800">
+    <title lang="zh">2026 BFA U12亞洲盃少棒賽 G9 預賽  Chinese Taipei VS Thailand</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826113000 +0800" stop="20260826135000 +0800">
+    <title lang="zh">2026 BFA U12亞洲盃少棒賽 G16  超級循環賽 Chinese Taipei VS Japan</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826135000 +0800" stop="20260826154000 +0800">
+    <title lang="zh">2026 BFA U12亞洲盃少棒賽 G19  超級循環賽  Chinese Taipei VS China</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826154000 +0800" stop="20260826173500 +0800">
+    <title lang="zh">2026 BFA U12亞洲盃少棒賽 G21 季軍賽 China VS Korea</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826173500 +0800" stop="20260826193500 +0800">
+    <title lang="zh">2026 BFA U12亞洲盃少棒賽 G22 冠軍賽 Chinese Taipei VS Japen</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826193500 +0800" stop="20260826213000 +0800">
+    <title lang="zh">115年大甲媽祖盃王貞治全國青棒錦標賽1 八強賽 桃園市 VS 嘉義縣</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="547512" start="20260826213000 +0800" stop="20260827000000 +0800">
+    <title lang="zh">115年大甲媽祖盃王貞治全國青棒錦標賽2 八強賽 台東縣 VS 台南市</title>
+    <desc />
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
