@@ -1,167 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="545993" start="20260824000900 +0800" stop="20260824003900 +0800">
-    <title lang="zh">电视先锋榜</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824003900 +0800" stop="20260824010900 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824010900 +0800" stop="20260824020000 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824020000 +0800" stop="20260824030000 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824030000 +0800" stop="20260824040000 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824040000 +0800" stop="20260824060000 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824060000 +0800" stop="20260824070000 +0800">
-    <title lang="zh">可可剧场</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824070000 +0800" stop="20260824071600 +0800">
-    <title lang="zh">KAKU幼儿园</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824071600 +0800" stop="20260824081600 +0800">
-    <title lang="zh">派派牛剧场</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824081600 +0800" stop="20260824083700 +0800">
-    <title lang="zh">猪猪侠之南海日记</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824083700 +0800" stop="20260824085800 +0800">
-    <title lang="zh">猪猪侠之南海日记</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824085800 +0800" stop="20260824100000 +0800">
-    <title lang="zh">卡酷幼儿园</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824100000 +0800" stop="20260824110000 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824110000 +0800" stop="20260824120000 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824120000 +0800" stop="20260824130000 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824130000 +0800" stop="20260824140000 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824140000 +0800" stop="20260824200000 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545993" start="20260824200000 +0800" stop="20260825000900 +0800">
-    <title lang="zh">动画片</title>
-    <desc />
-    <date>20260824</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="545993" start="20260825000900 +0800" stop="20260825003900 +0800">
     <title lang="zh">电视先锋榜</title>
     <desc />
@@ -1125,10 +963,55 @@
     </audio>
   </programme>
   
-<programme channel="545993" start="20260830200000 +0800" stop="20260831000000 +0800">
+<programme channel="545993" start="20260830200000 +0800" stop="20260831000900 +0800">
     <title lang="zh">动画片</title>
     <desc />
     <date>20260830</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545993" start="20260831000900 +0800" stop="20260831003900 +0800">
+    <title lang="zh">电视先锋榜</title>
+    <desc />
+    <date>20260831</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545993" start="20260831003900 +0800" stop="20260831010900 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260831</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545993" start="20260831010900 +0800" stop="20260831020000 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260831</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545993" start="20260831020000 +0800" stop="20260831030000 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260831</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545993" start="20260831030000 +0800" stop="20260901000000 +0800">
+    <title lang="zh">动画片</title>
+    <desc />
+    <date>20260831</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
