@@ -1,95 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456816" start="20260825000000 +0800" stop="20260825030000 +0800">
-    <title lang="zh">2026蘇格蘭女子公開賽第一天</title>
-    <desc>2026蘇格蘭女子公開賽第一天</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260825030000 +0800" stop="20260825053000 +0800">
-    <title lang="zh">2026皇后城錦標賽第一天</title>
-    <desc>2026皇后城錦標賽第一天</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260825053000 +0800" stop="20260825060000 +0800">
-    <title lang="zh">雪蘭莪名人賽</title>
-    <desc>雪蘭莪名人賽</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260825060000 +0800" stop="20260825090000 +0800">
-    <title lang="zh">LIVE2026波特蘭菁英賽第一天</title>
-    <desc>LIVE2026波特蘭菁英賽第一天</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260825090000 +0800" stop="20260825130000 +0800">
-    <title lang="zh">2026摩洛哥國際亞巡賽第四天</title>
-    <desc>2026摩洛哥國際亞巡賽第四天</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260825130000 +0800" stop="20260825153000 +0800">
-    <title lang="zh">首播波特蘭菁英賽第一天</title>
-    <desc>首播波特蘭菁英賽第一天</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260825153000 +0800" stop="20260825180000 +0800">
-    <title lang="zh">2026墨西哥公開賽第四天</title>
-    <desc>2026墨西哥公開賽第四天</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260825180000 +0800" stop="20260825190000 +0800">
-    <title lang="zh">迅得長春公開賽</title>
-    <desc>迅得長春公開賽</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260825190000 +0800" stop="20260825213000 +0800">
-    <title lang="zh">2026洛杉磯錦標賽第二天</title>
-    <desc>2026洛杉磯錦標賽第二天</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260825213000 +0800" stop="20260826000000 +0800">
-    <title lang="zh">2026波特蘭菁英賽第一天</title>
-    <desc>2026波特蘭菁英賽第一天</desc>
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456816" start="20260826000000 +0800" stop="20260826030000 +0800">
     <title lang="zh">2026蘇格蘭女子公開賽第二天</title>
     <desc>2026蘇格蘭女子公開賽第二天</desc>
@@ -621,10 +531,82 @@
     </audio>
   </programme>
   
-<programme channel="456816" start="20260901000000 +0800" stop="20260902000000 +0800">
+<programme channel="456816" start="20260901000000 +0800" stop="20260901040000 +0800">
     <title lang="zh">2026 台灣業餘高爾夫錦標賽 第三回合</title>
     <desc>2026 台灣業餘高爾夫錦標賽 第三回合</desc>
     <date>20260901</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260901040000 +0800" stop="20260901093000 +0800">
+    <title lang="zh">2026 愛維養錦標賽 第一天</title>
+    <desc>2026 愛維養錦標賽 第一天</desc>
+    <date>20260901</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260901093000 +0800" stop="20260901130000 +0800">
+    <title lang="zh">2026 拉斯維加斯錦標賽 第二天</title>
+    <desc>2026 拉斯維加斯錦標賽 第二天</desc>
+    <date>20260901</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260901130000 +0800" stop="20260901183000 +0800">
+    <title lang="zh">2026 雪佛龍錦標賽 第一天</title>
+    <desc>2026 雪佛龍錦標賽 第一天</desc>
+    <date>20260901</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260901183000 +0800" stop="20260901210000 +0800">
+    <title lang="zh">2026 紹普萊特菁英賽 第一天</title>
+    <desc>2026 紹普萊特菁英賽 第一天</desc>
+    <date>20260901</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260901210000 +0800" stop="20260901220000 +0800">
+    <title lang="zh">台灣青少年公開賽 第二回合</title>
+    <desc>台灣青少年公開賽 第二回合</desc>
+    <date>20260901</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260901220000 +0800" stop="20260901230000 +0800">
+    <title lang="zh">台灣青少年公開賽 最終回合</title>
+    <desc>台灣青少年公開賽 最終回合</desc>
+    <date>20260901</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260901230000 +0800" stop="20260902000000 +0800">
+    <title lang="zh">松柏嶺未來賽</title>
+    <desc>松柏嶺未來賽</desc>
+    <date>20260901</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260902000000 +0800" stop="20260903000000 +0800">
+    <title lang="zh">2026台灣業餘高爾夫錦標賽最終回合</title>
+    <desc>2026台灣業餘高爾夫錦標賽最終回合</desc>
+    <date>20260902</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

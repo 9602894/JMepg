@@ -1,189 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="544633" start="20260825000500 +0800" stop="20260825002500 +0800">
-    <title lang="zh">来宾新闻,天气预报</title>
+<programme channel="544633" start="20260826000500 +0800" stop="20260826002500 +0800">
+    <title lang="zh">来宾新闻(重),天气预报(重)</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825002500 +0800" stop="20260825005500 +0800">
+<programme channel="544633" start="20260826002500 +0800" stop="20260826005500 +0800">
+    <title lang="zh">奋斗</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826005500 +0800" stop="20260826080000 +0800">
     <title lang="zh">中国股市报告</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825005500 +0800" stop="20260825080000 +0800">
-    <title lang="zh">乡村法制</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825080000 +0800" stop="20260825090500 +0800">
+<programme channel="544633" start="20260826080000 +0800" stop="20260826090500 +0800">
     <title lang="zh">晨曲,节目预告,纪实60分</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825090500 +0800" stop="20260825095000 +0800">
+<programme channel="544633" start="20260826090500 +0800" stop="20260826095000 +0800">
     <title lang="zh">来宾新闻(重播)</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825095000 +0800" stop="20260825123000 +0800">
+<programme channel="544633" start="20260826095000 +0800" stop="20260826123000 +0800">
     <title lang="zh">大剧场</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825123000 +0800" stop="20260825130000 +0800">
+<programme channel="544633" start="20260826123000 +0800" stop="20260826130000 +0800">
     <title lang="zh">来宾新闻(重播),衣食住行</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825130000 +0800" stop="20260825172600 +0800">
-    <title lang="zh">健康第一线</title>
+<programme channel="544633" start="20260826130000 +0800" stop="20260826154000 +0800">
+    <title lang="zh">健康第一线,桂中楼事</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825172600 +0800" stop="20260825173000 +0800">
-    <title lang="zh">卡通城</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825173000 +0800" stop="20260825180000 +0800">
-    <title lang="zh">国际时尚汇</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825180000 +0800" stop="20260825182700 +0800">
-    <title lang="zh">古聊古去</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825182700 +0800" stop="20260825184000 +0800">
-    <title lang="zh">衣食住行</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825184000 +0800" stop="20260825190000 +0800">
-    <title lang="zh">桂中楼事</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825190000 +0800" stop="20260825193500 +0800">
-    <title lang="zh">中央新闻联播(转播)</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825193500 +0800" stop="20260825200000 +0800">
-    <title lang="zh">广西新闻(转播)</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825200000 +0800" stop="20260825202500 +0800">
-    <title lang="zh">来宾新闻,天气预报</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825202500 +0800" stop="20260825211800 +0800">
-    <title lang="zh">政府在线,平安同行</title>
-    <desc />
-    <date>20260825</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544633" start="20260825211800 +0800" stop="20260825214500 +0800">
+<programme channel="544633" start="20260826154000 +0800" stop="20260826161500 +0800">
     <title lang="zh">中国旅游</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825214500 +0800" stop="20260825222000 +0800">
+<programme channel="544633" start="20260826161500 +0800" stop="20260826164000 +0800">
+    <title lang="zh">美味人生</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826164000 +0800" stop="20260826170000 +0800">
+    <title lang="zh">在路上</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826170000 +0800" stop="20260826172600 +0800">
+    <title lang="zh">国际时尚汇</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826172600 +0800" stop="20260826180000 +0800">
+    <title lang="zh">动漫在线</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826180000 +0800" stop="20260826182700 +0800">
+    <title lang="zh">古聊古去</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826182700 +0800" stop="20260826184000 +0800">
+    <title lang="zh">衣食住行</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826184000 +0800" stop="20260826190000 +0800">
+    <title lang="zh">桂中楼事</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826190000 +0800" stop="20260826193500 +0800">
+    <title lang="zh">中央新闻联播(转播)</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826193500 +0800" stop="20260826200000 +0800">
+    <title lang="zh">广西新闻(转播)</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826200000 +0800" stop="20260826202500 +0800">
+    <title lang="zh">来宾新闻,天气预报</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826202500 +0800" stop="20260826211800 +0800">
+    <title lang="zh">政府在线</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826211800 +0800" stop="20260826214500 +0800">
+    <title lang="zh">中国旅游</title>
+    <desc />
+    <date>20260826</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="544633" start="20260826214500 +0800" stop="20260826222000 +0800">
     <title lang="zh">影视界</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825222000 +0800" stop="20260825234500 +0800">
+<programme channel="544633" start="20260826222000 +0800" stop="20260826234500 +0800">
     <title lang="zh">大剧场</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="544633" start="20260825234500 +0800" stop="20260826000000 +0800">
+<programme channel="544633" start="20260826234500 +0800" stop="20260827000000 +0800">
     <title lang="zh">法治中国</title>
     <desc />
-    <date>20260825</date>
+    <date>20260826</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
