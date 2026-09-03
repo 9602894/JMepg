@@ -1,1746 +1,1494 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="410428" start="20260826004500 +0800" stop="20260826011500 +0800">
+<programme channel="410428" start="20260903004500 +0800" stop="20260903011500 +0800">
     <title lang="zh">State Of The Nation</title>
     <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826011500 +0800" stop="20260826020000 +0800">
-    <title lang="zh">Pinoy Crime Stories</title>
-    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260826020000 +0800" stop="20260826023000 +0800">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260826023000 +0800" stop="20260826031500 +0800">
-    <title lang="zh">Balitang Bisdak</title>
-    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260826031500 +0800" stop="20260826040000 +0800">
-    <title lang="zh">One North Central Luzon</title>
-    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260826040000 +0800" stop="20260826044500 +0800">
-    <title lang="zh">One Mindanao</title>
-    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260826044500 +0800" stop="20260826053000 +0800">
-    <title lang="zh">Ratsada Balita</title>
-    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260826053000 +0800" stop="20260826061500 +0800">
-    <title lang="zh">State Of The Nation</title>
-    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260826061500 +0800" stop="20260826064500 +0800">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260826064500 +0800" stop="20260826073000 +0800">
+<programme channel="410428" start="20260903011500 +0800" stop="20260903020000 +0800">
     <title lang="zh">Pera Paraan</title>
     <desc>Offers practical tips on handling household finances and earning additional income.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826073000 +0800" stop="20260826104500 +0800">
+<programme channel="410428" start="20260903020000 +0800" stop="20260903023000 +0800">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903023000 +0800" stop="20260903031500 +0800">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903031500 +0800" stop="20260903040000 +0800">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903040000 +0800" stop="20260903044500 +0800">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903044500 +0800" stop="20260903053000 +0800">
+    <title lang="zh">Ratsada Balita</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903053000 +0800" stop="20260903061500 +0800">
+    <title lang="zh">State Of The Nation</title>
+    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903061500 +0800" stop="20260903064500 +0800">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903064500 +0800" stop="20260903073000 +0800">
+    <title lang="zh">Investigative Documentaries</title>
+    <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903073000 +0800" stop="20260903104500 +0800">
     <title lang="zh">Dobol B TV</title>
     <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826104500 +0800" stop="20260826113000 +0800">
+<programme channel="410428" start="20260903104500 +0800" stop="20260903113000 +0800">
     <title lang="zh">Dokumentaryo</title>
     <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826113000 +0800" stop="20260826123000 +0800">
+<programme channel="410428" start="20260903113000 +0800" stop="20260903123000 +0800">
     <title lang="zh">Reel Time</title>
     <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826123000 +0800" stop="20260826133000 +0800">
+<programme channel="410428" start="20260903123000 +0800" stop="20260903133000 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826133000 +0800" stop="20260826143000 +0800">
-    <title lang="zh">Investigative Documentaries</title>
-    <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
-    <date>20260826</date>
+<programme channel="410428" start="20260903133000 +0800" stop="20260903141500 +0800">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826143000 +0800" stop="20260826151500 +0800">
-    <title lang="zh">Front Row</title>
-    <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
-    <date>20260826</date>
+<programme channel="410428" start="20260903141500 +0800" stop="20260903150000 +0800">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826151500 +0800" stop="20260826154500 +0800">
-    <title lang="zh">Business Matters</title>
-    <desc>A documentary series highlighting how Philippine corporations drive nation-building through sustainability and inclusive business models.</desc>
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260826154500 +0800" stop="20260826161500 +0800">
+<programme channel="410428" start="20260903150000 +0800" stop="20260903153000 +0800">
     <title lang="zh">Rescue</title>
     <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826161500 +0800" stop="20260826170000 +0800">
+<programme channel="410428" start="20260903153000 +0800" stop="20260903161500 +0800">
+    <title lang="zh">Imbestigador</title>
+    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903161500 +0800" stop="20260903170000 +0800">
     <title lang="zh">Dokumentaryo</title>
     <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826170000 +0800" stop="20260826180000 +0800">
+<programme channel="410428" start="20260903170000 +0800" stop="20260903180000 +0800">
     <title lang="zh">Balitanghali</title>
     <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826180000 +0800" stop="20260826190000 +0800">
+<programme channel="410428" start="20260903180000 +0800" stop="20260903190000 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826190000 +0800" stop="20260826200000 +0800">
-    <title lang="zh">Investigative Documentaries</title>
-    <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
-    <date>20260826</date>
+<programme channel="410428" start="20260903190000 +0800" stop="20260903193000 +0800">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826200000 +0800" stop="20260826204500 +0800">
+<programme channel="410428" start="20260903193000 +0800" stop="20260903200000 +0800">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
+    <date>20260903</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260903200000 +0800" stop="20260903204500 +0800">
     <title lang="zh">Balitang Bisdak</title>
     <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826204500 +0800" stop="20260826213000 +0800">
+<programme channel="410428" start="20260903204500 +0800" stop="20260903213000 +0800">
     <title lang="zh">One North Central Luzon</title>
     <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826213000 +0800" stop="20260826220000 +0800">
+<programme channel="410428" start="20260903213000 +0800" stop="20260903220000 +0800">
     <title lang="zh">One Mindanao</title>
     <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826220000 +0800" stop="20260826224500 +0800">
+<programme channel="410428" start="20260903220000 +0800" stop="20260903224500 +0800">
     <title lang="zh">Ratsada Balita</title>
     <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826224500 +0800" stop="20260826234500 +0800">
+<programme channel="410428" start="20260903224500 +0800" stop="20260903234500 +0800">
     <title lang="zh">Balitanghali</title>
     <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260826234500 +0800" stop="20260827004500 +0800">
+<programme channel="410428" start="20260903234500 +0800" stop="20260904004500 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260826</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827004500 +0800" stop="20260827011500 +0800">
+<programme channel="410428" start="20260904004500 +0800" stop="20260904011500 +0800">
     <title lang="zh">State Of The Nation</title>
     <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260827</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827011500 +0800" stop="20260827020000 +0800">
-    <title lang="zh">Pera Paraan</title>
-    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827020000 +0800" stop="20260827023000 +0800">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827023000 +0800" stop="20260827031500 +0800">
-    <title lang="zh">Balitang Bisdak</title>
-    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827031500 +0800" stop="20260827040000 +0800">
-    <title lang="zh">One North Central Luzon</title>
-    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827040000 +0800" stop="20260827044500 +0800">
-    <title lang="zh">One Mindanao</title>
-    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827044500 +0800" stop="20260827053000 +0800">
-    <title lang="zh">Ratsada Balita</title>
-    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827053000 +0800" stop="20260827061500 +0800">
-    <title lang="zh">State Of The Nation</title>
-    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827061500 +0800" stop="20260827064500 +0800">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827064500 +0800" stop="20260827073000 +0800">
+<programme channel="410428" start="20260904011500 +0800" stop="20260904020000 +0800">
     <title lang="zh">Investigative Documentaries</title>
     <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
-    <date>20260827</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827073000 +0800" stop="20260827104500 +0800">
+<programme channel="410428" start="20260904020000 +0800" stop="20260904023000 +0800">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260904023000 +0800" stop="20260904031500 +0800">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260904031500 +0800" stop="20260904040000 +0800">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260904040000 +0800" stop="20260904044500 +0800">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260904044500 +0800" stop="20260904053000 +0800">
+    <title lang="zh">Ratsada Balita</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260904053000 +0800" stop="20260904061500 +0800">
+    <title lang="zh">State Of The Nation</title>
+    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260904061500 +0800" stop="20260904064500 +0800">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260904064500 +0800" stop="20260904073000 +0800">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260904073000 +0800" stop="20260904104500 +0800">
     <title lang="zh">Dobol B TV</title>
     <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
-    <date>20260827</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827104500 +0800" stop="20260827113000 +0800">
+<programme channel="410428" start="20260904104500 +0800" stop="20260904113000 +0800">
     <title lang="zh">Dokumentaryo</title>
     <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260827</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827113000 +0800" stop="20260827123000 +0800">
+<programme channel="410428" start="20260904113000 +0800" stop="20260904123000 +0800">
     <title lang="zh">Reel Time</title>
     <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
-    <date>20260827</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827123000 +0800" stop="20260827133000 +0800">
+<programme channel="410428" start="20260904123000 +0800" stop="20260904133000 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260827</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827133000 +0800" stop="20260827141500 +0800">
-    <title lang="zh">Agripreneur</title>
-    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
-    <date>20260827</date>
+<programme channel="410428" start="20260904133000 +0800" stop="20260904143000 +0800">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827141500 +0800" stop="20260827150000 +0800">
-    <title lang="zh">Born Impact</title>
-    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
-    <date>20260827</date>
+<programme channel="410428" start="20260904143000 +0800" stop="20260904153000 +0800">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827150000 +0800" stop="20260827153000 +0800">
-    <title lang="zh">Rescue</title>
-    <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827153000 +0800" stop="20260827161500 +0800">
-    <title lang="zh">Imbestigador</title>
-    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827161500 +0800" stop="20260827170000 +0800">
-    <title lang="zh">Dokumentaryo</title>
-    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827170000 +0800" stop="20260827180000 +0800">
-    <title lang="zh">Balitanghali</title>
-    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827180000 +0800" stop="20260827190000 +0800">
-    <title lang="zh">Pickle Yard Conference League</title>
-    <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827190000 +0800" stop="20260827193000 +0800">
-    <title lang="zh">Born Impact</title>
-    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827193000 +0800" stop="20260827200000 +0800">
+<programme channel="410428" start="20260904153000 +0800" stop="20260904161500 +0800">
     <title lang="zh">Front Row</title>
     <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
-    <date>20260827</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827200000 +0800" stop="20260827204500 +0800">
-    <title lang="zh">Balitang Bisdak</title>
-    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260827</date>
+<programme channel="410428" start="20260904161500 +0800" stop="20260904170000 +0800">
+    <title lang="zh">Dokumentaryo</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827204500 +0800" stop="20260827213000 +0800">
-    <title lang="zh">One North Central Luzon</title>
-    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827213000 +0800" stop="20260827220000 +0800">
-    <title lang="zh">One Mindanao</title>
-    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827220000 +0800" stop="20260827224500 +0800">
-    <title lang="zh">Ratsada Balita</title>
-    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260827224500 +0800" stop="20260827234500 +0800">
+<programme channel="410428" start="20260904170000 +0800" stop="20260904180000 +0800">
     <title lang="zh">Balitanghali</title>
     <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260827</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260827234500 +0800" stop="20260828004500 +0800">
+<programme channel="410428" start="20260904180000 +0800" stop="20260904190000 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260827</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828004500 +0800" stop="20260828011500 +0800">
-    <title lang="zh">State Of The Nation</title>
-    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260828</date>
+<programme channel="410428" start="20260904190000 +0800" stop="20260904200000 +0800">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828011500 +0800" stop="20260828020000 +0800">
-    <title lang="zh">Investigative Documentaries</title>
-    <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828020000 +0800" stop="20260828023000 +0800">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828023000 +0800" stop="20260828031500 +0800">
+<programme channel="410428" start="20260904200000 +0800" stop="20260904204500 +0800">
     <title lang="zh">Balitang Bisdak</title>
     <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828031500 +0800" stop="20260828040000 +0800">
+<programme channel="410428" start="20260904204500 +0800" stop="20260904213000 +0800">
     <title lang="zh">One North Central Luzon</title>
     <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828040000 +0800" stop="20260828044500 +0800">
+<programme channel="410428" start="20260904213000 +0800" stop="20260904220000 +0800">
     <title lang="zh">One Mindanao</title>
     <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828044500 +0800" stop="20260828053000 +0800">
+<programme channel="410428" start="20260904220000 +0800" stop="20260904224500 +0800">
     <title lang="zh">Ratsada Balita</title>
     <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828053000 +0800" stop="20260828061500 +0800">
+<programme channel="410428" start="20260904224500 +0800" stop="20260904234500 +0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260904234500 +0800" stop="20260905003000 +0800">
+    <title lang="zh">Pickle Yard Conference League</title>
+    <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260905003000 +0800" stop="20260905004500 +0800">
+    <title lang="zh">Just Facts</title>
+    <desc>A show that uses investigative journalism and compelling reportage to uncover the truth behind major issues, controversies, and underreported stories through in-depth reports and social experiments.</desc>
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260905004500 +0800" stop="20260905011500 +0800">
     <title lang="zh">State Of The Nation</title>
     <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260828</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828061500 +0800" stop="20260828064500 +0800">
+<programme channel="410428" start="20260905011500 +0800" stop="20260905020000 +0800">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260905020000 +0800" stop="20260905023000 +0800">
     <title lang="zh">Saksi</title>
     <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260828</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828064500 +0800" stop="20260828073000 +0800">
-    <title lang="zh">Brigada</title>
-    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
-    <date>20260828</date>
+<programme channel="410428" start="20260905023000 +0800" stop="20260905031500 +0800">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828073000 +0800" stop="20260828104500 +0800">
+<programme channel="410428" start="20260905031500 +0800" stop="20260905040000 +0800">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260905040000 +0800" stop="20260905044500 +0800">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260905044500 +0800" stop="20260905053000 +0800">
+    <title lang="zh">Ratsada Balita</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260905053000 +0800" stop="20260905061500 +0800">
+    <title lang="zh">State Of The Nation</title>
+    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260905061500 +0800" stop="20260905064500 +0800">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260905064500 +0800" stop="20260905073000 +0800">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410428" start="20260905073000 +0800" stop="20260905104500 +0800">
     <title lang="zh">Dobol B TV</title>
     <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
-    <date>20260828</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260828104500 +0800" stop="20260828113000 +0800">
-    <title lang="zh">Dokumentaryo</title>
-    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828113000 +0800" stop="20260828123000 +0800">
-    <title lang="zh">Reel Time</title>
-    <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828123000 +0800" stop="20260828133000 +0800">
-    <title lang="zh">Pickle Yard Conference League</title>
-    <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828133000 +0800" stop="20260828143000 +0800">
-    <title lang="zh">Pera Paraan</title>
-    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828143000 +0800" stop="20260828153000 +0800">
-    <title lang="zh">Good News</title>
-    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828153000 +0800" stop="20260828161500 +0800">
-    <title lang="zh">Front Row</title>
-    <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828161500 +0800" stop="20260828170000 +0800">
-    <title lang="zh">Dokumentaryo</title>
-    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828170000 +0800" stop="20260828180000 +0800">
-    <title lang="zh">Balitanghali</title>
-    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828180000 +0800" stop="20260828190000 +0800">
-    <title lang="zh">Pickle Yard Conference League</title>
-    <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828190000 +0800" stop="20260828200000 +0800">
-    <title lang="zh">Pera Paraan</title>
-    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828200000 +0800" stop="20260828204500 +0800">
-    <title lang="zh">Balitang Bisdak</title>
-    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828204500 +0800" stop="20260828213000 +0800">
-    <title lang="zh">One North Central Luzon</title>
-    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828213000 +0800" stop="20260828220000 +0800">
-    <title lang="zh">One Mindanao</title>
-    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828220000 +0800" stop="20260828224500 +0800">
-    <title lang="zh">Ratsada Balita</title>
-    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828224500 +0800" stop="20260828234500 +0800">
-    <title lang="zh">Balitanghali</title>
-    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260828234500 +0800" stop="20260829003000 +0800">
-    <title lang="zh">Pickle Yard Conference League</title>
-    <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829003000 +0800" stop="20260829004500 +0800">
-    <title lang="zh">Just Facts</title>
-    <desc>A show that uses investigative journalism and compelling reportage to uncover the truth behind major issues, controversies, and underreported stories through in-depth reports and social experiments.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829004500 +0800" stop="20260829011500 +0800">
-    <title lang="zh">State Of The Nation</title>
-    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829011500 +0800" stop="20260829020000 +0800">
-    <title lang="zh">Born Impact</title>
-    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829020000 +0800" stop="20260829023000 +0800">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829023000 +0800" stop="20260829031500 +0800">
-    <title lang="zh">Balitang Bisdak</title>
-    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829031500 +0800" stop="20260829040000 +0800">
-    <title lang="zh">One North Central Luzon</title>
-    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829040000 +0800" stop="20260829044500 +0800">
-    <title lang="zh">One Mindanao</title>
-    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829044500 +0800" stop="20260829053000 +0800">
-    <title lang="zh">Ratsada Balita</title>
-    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829053000 +0800" stop="20260829061500 +0800">
-    <title lang="zh">State Of The Nation</title>
-    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829061500 +0800" stop="20260829064500 +0800">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829064500 +0800" stop="20260829073000 +0800">
-    <title lang="zh">Born Impact</title>
-    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829073000 +0800" stop="20260829104500 +0800">
-    <title lang="zh">Dobol B TV</title>
-    <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410428" start="20260829104500 +0800" stop="20260829113000 +0800">
+<programme channel="410428" start="20260905104500 +0800" stop="20260905113000 +0800">
     <title lang="zh">Business Matters</title>
     <desc>A documentary series highlighting how Philippine corporations drive nation-building through sustainability and inclusive business models.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829113000 +0800" stop="20260829121500 +0800">
+<programme channel="410428" start="20260905113000 +0800" stop="20260905121500 +0800">
     <title lang="zh">Imbestigador</title>
     <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829121500 +0800" stop="20260829124500 +0800">
+<programme channel="410428" start="20260905121500 +0800" stop="20260905124500 +0800">
     <title lang="zh">Rescue</title>
     <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829124500 +0800" stop="20260829133000 +0800">
+<programme channel="410428" start="20260905124500 +0800" stop="20260905133000 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829133000 +0800" stop="20260829141500 +0800">
+<programme channel="410428" start="20260905133000 +0800" stop="20260905141500 +0800">
     <title lang="zh">Pinoy Crime Stories</title>
     <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829141500 +0800" stop="20260829150000 +0800">
+<programme channel="410428" start="20260905141500 +0800" stop="20260905150000 +0800">
     <title lang="zh">Agripreneur</title>
     <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829150000 +0800" stop="20260829153000 +0800">
+<programme channel="410428" start="20260905150000 +0800" stop="20260905153000 +0800">
     <title lang="zh">Born Impact</title>
     <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829153000 +0800" stop="20260829154500 +0800">
+<programme channel="410428" start="20260905153000 +0800" stop="20260905154500 +0800">
     <title lang="zh">Just Facts</title>
     <desc>A show that uses investigative journalism and compelling reportage to uncover the truth behind major issues, controversies, and underreported stories through in-depth reports and social experiments.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829154500 +0800" stop="20260829164500 +0800">
+<programme channel="410428" start="20260905154500 +0800" stop="20260905164500 +0800">
     <title lang="zh">Investigative Documentaries</title>
     <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829164500 +0800" stop="20260829173000 +0800">
+<programme channel="410428" start="20260905164500 +0800" stop="20260905173000 +0800">
     <title lang="zh">Brigada</title>
     <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829173000 +0800" stop="20260829180000 +0800">
+<programme channel="410428" start="20260905173000 +0800" stop="20260905180000 +0800">
     <title lang="zh">Agripreneur</title>
     <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829180000 +0800" stop="20260829184500 +0800">
+<programme channel="410428" start="20260905180000 +0800" stop="20260905184500 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829184500 +0800" stop="20260829190000 +0800">
+<programme channel="410428" start="20260905184500 +0800" stop="20260905190000 +0800">
     <title lang="zh">Just Facts</title>
     <desc>A show that uses investigative journalism and compelling reportage to uncover the truth behind major issues, controversies, and underreported stories through in-depth reports and social experiments.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829190000 +0800" stop="20260829200000 +0800">
+<programme channel="410428" start="20260905190000 +0800" stop="20260905200000 +0800">
     <title lang="zh">Good News</title>
     <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829200000 +0800" stop="20260829204500 +0800">
+<programme channel="410428" start="20260905200000 +0800" stop="20260905204500 +0800">
     <title lang="zh">Balitang Bisdak</title>
     <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829204500 +0800" stop="20260829213000 +0800">
+<programme channel="410428" start="20260905204500 +0800" stop="20260905213000 +0800">
     <title lang="zh">One North Central Luzon</title>
     <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829213000 +0800" stop="20260829220000 +0800">
+<programme channel="410428" start="20260905213000 +0800" stop="20260905220000 +0800">
     <title lang="zh">One Mindanao</title>
     <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829220000 +0800" stop="20260829224500 +0800">
+<programme channel="410428" start="20260905220000 +0800" stop="20260905224500 +0800">
     <title lang="zh">Ratsada Balita</title>
     <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829224500 +0800" stop="20260829233000 +0800">
+<programme channel="410428" start="20260905224500 +0800" stop="20260905233000 +0800">
     <title lang="zh">Pinoy Crime Stories</title>
     <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260829233000 +0800" stop="20260830000000 +0800">
+<programme channel="410428" start="20260905233000 +0800" stop="20260906000000 +0800">
     <title lang="zh">Agripreneur</title>
     <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
-    <date>20260829</date>
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830000000 +0800" stop="20260830004500 +0800">
+<programme channel="410428" start="20260906000000 +0800" stop="20260906004500 +0800">
     <title lang="zh">Good News</title>
     <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830004500 +0800" stop="20260830013000 +0800">
+<programme channel="410428" start="20260906004500 +0800" stop="20260906013000 +0800">
     <title lang="zh">Pera Paraan</title>
     <desc>Offers practical tips on handling household finances and earning additional income.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830013000 +0800" stop="20260830021500 +0800">
+<programme channel="410428" start="20260906013000 +0800" stop="20260906021500 +0800">
     <title lang="zh">Brigada</title>
     <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830021500 +0800" stop="20260830023000 +0800">
+<programme channel="410428" start="20260906021500 +0800" stop="20260906023000 +0800">
     <title lang="zh">Just Facts</title>
     <desc>A show that uses investigative journalism and compelling reportage to uncover the truth behind major issues, controversies, and underreported stories through in-depth reports and social experiments.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830023000 +0800" stop="20260830033000 +0800">
+<programme channel="410428" start="20260906023000 +0800" stop="20260906033000 +0800">
     <title lang="zh">Investigative Documentaries</title>
     <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830033000 +0800" stop="20260830040000 +0800">
+<programme channel="410428" start="20260906033000 +0800" stop="20260906040000 +0800">
     <title lang="zh">Agripreneur</title>
     <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830040000 +0800" stop="20260830050000 +0800">
+<programme channel="410428" start="20260906040000 +0800" stop="20260906050000 +0800">
     <title lang="zh">Good News</title>
     <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830050000 +0800" stop="20260830060000 +0800">
+<programme channel="410428" start="20260906050000 +0800" stop="20260906060000 +0800">
     <title lang="zh">Brigada</title>
     <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830060000 +0800" stop="20260830063000 +0800">
+<programme channel="410428" start="20260906060000 +0800" stop="20260906063000 +0800">
     <title lang="zh">Rescue</title>
     <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830063000 +0800" stop="20260830071500 +0800">
+<programme channel="410428" start="20260906063000 +0800" stop="20260906071500 +0800">
     <title lang="zh">Front Row</title>
     <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830071500 +0800" stop="20260830080000 +0800">
+<programme channel="410428" start="20260906071500 +0800" stop="20260906080000 +0800">
     <title lang="zh">Imbestigador</title>
     <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830080000 +0800" stop="20260830084500 +0800">
+<programme channel="410428" start="20260906080000 +0800" stop="20260906084500 +0800">
     <title lang="zh">Business Matters</title>
     <desc>A documentary series highlighting how Philippine corporations drive nation-building through sustainability and inclusive business models.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830084500 +0800" stop="20260830094500 +0800">
+<programme channel="410428" start="20260906084500 +0800" stop="20260906094500 +0800">
     <title lang="zh">Good News</title>
     <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830094500 +0800" stop="20260830100000 +0800">
+<programme channel="410428" start="20260906094500 +0800" stop="20260906100000 +0800">
     <title lang="zh">Just Facts</title>
     <desc>A show that uses investigative journalism and compelling reportage to uncover the truth behind major issues, controversies, and underreported stories through in-depth reports and social experiments.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830100000 +0800" stop="20260830103000 +0800">
+<programme channel="410428" start="20260906100000 +0800" stop="20260906103000 +0800">
     <title lang="zh">Born Impact</title>
     <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830103000 +0800" stop="20260830113000 +0800">
+<programme channel="410428" start="20260906103000 +0800" stop="20260906113000 +0800">
     <title lang="zh">Investigative Documentaries</title>
     <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830113000 +0800" stop="20260830120000 +0800">
+<programme channel="410428" start="20260906113000 +0800" stop="20260906120000 +0800">
     <title lang="zh">Rescue</title>
     <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830120000 +0800" stop="20260830150000 +0800">
+<programme channel="410428" start="20260906120000 +0800" stop="20260906150000 +0800">
     <title lang="zh">Dokumentaryo Marathon</title>
     <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830150000 +0800" stop="20260830154500 +0800">
+<programme channel="410428" start="20260906150000 +0800" stop="20260906154500 +0800">
     <title lang="zh">Imbestigador</title>
     <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830154500 +0800" stop="20260830163000 +0800">
+<programme channel="410428" start="20260906154500 +0800" stop="20260906163000 +0800">
     <title lang="zh">Pinoy Crime Stories</title>
     <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830163000 +0800" stop="20260830173000 +0800">
+<programme channel="410428" start="20260906163000 +0800" stop="20260906173000 +0800">
     <title lang="zh">Investigative Documentaries</title>
     <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830173000 +0800" stop="20260830180000 +0800">
+<programme channel="410428" start="20260906173000 +0800" stop="20260906180000 +0800">
     <title lang="zh">Front Row</title>
     <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830180000 +0800" stop="20260830190000 +0800">
+<programme channel="410428" start="20260906180000 +0800" stop="20260906190000 +0800">
     <title lang="zh">Pera Paraan</title>
     <desc>Offers practical tips on handling household finances and earning additional income.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830190000 +0800" stop="20260830193000 +0800">
+<programme channel="410428" start="20260906190000 +0800" stop="20260906193000 +0800">
     <title lang="zh">Agripreneur</title>
     <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830193000 +0800" stop="20260830201500 +0800">
+<programme channel="410428" start="20260906193000 +0800" stop="20260906201500 +0800">
     <title lang="zh">Imbestigador</title>
     <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830201500 +0800" stop="20260830210000 +0800">
+<programme channel="410428" start="20260906201500 +0800" stop="20260906210000 +0800">
     <title lang="zh">Pinoy Crime Stories</title>
     <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830210000 +0800" stop="20260830213000 +0800">
+<programme channel="410428" start="20260906210000 +0800" stop="20260906213000 +0800">
     <title lang="zh">Business Matters</title>
     <desc>A documentary series highlighting how Philippine corporations drive nation-building through sustainability and inclusive business models.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260830213000 +0800" stop="20260831023000 +0800">
+<programme channel="410428" start="20260906213000 +0800" stop="20260907023000 +0800">
     <title lang="zh">Reel Time Marathon</title>
     <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
-    <date>20260830</date>
+    <date>20260906</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831023000 +0800" stop="20260831053000 +0800">
+<programme channel="410428" start="20260907023000 +0800" stop="20260907053000 +0800">
     <title lang="zh">Dokumentaryo Marathon</title>
     <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831053000 +0800" stop="20260831061500 +0800">
+<programme channel="410428" start="20260907053000 +0800" stop="20260907061500 +0800">
     <title lang="zh">Front Row</title>
     <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831061500 +0800" stop="20260831064500 +0800">
+<programme channel="410428" start="20260907061500 +0800" stop="20260907064500 +0800">
     <title lang="zh">Agripreneur</title>
     <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831064500 +0800" stop="20260831073000 +0800">
+<programme channel="410428" start="20260907064500 +0800" stop="20260907073000 +0800">
     <title lang="zh">Good News</title>
     <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831073000 +0800" stop="20260831104500 +0800">
+<programme channel="410428" start="20260907073000 +0800" stop="20260907104500 +0800">
     <title lang="zh">Dobol B TV</title>
     <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831104500 +0800" stop="20260831113000 +0800">
+<programme channel="410428" start="20260907104500 +0800" stop="20260907113000 +0800">
     <title lang="zh">Dokumentaryo</title>
     <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831113000 +0800" stop="20260831123000 +0800">
+<programme channel="410428" start="20260907113000 +0800" stop="20260907123000 +0800">
     <title lang="zh">Reel Time</title>
     <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831123000 +0800" stop="20260831133000 +0800">
+<programme channel="410428" start="20260907123000 +0800" stop="20260907133000 +0800">
     <title lang="zh">Good News</title>
     <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831133000 +0800" stop="20260831141500 +0800">
+<programme channel="410428" start="20260907133000 +0800" stop="20260907141500 +0800">
     <title lang="zh">Pinoy Crime Stories</title>
     <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831141500 +0800" stop="20260831150000 +0800">
+<programme channel="410428" start="20260907141500 +0800" stop="20260907150000 +0800">
     <title lang="zh">Imbestigador</title>
     <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831150000 +0800" stop="20260831154500 +0800">
+<programme channel="410428" start="20260907150000 +0800" stop="20260907154500 +0800">
     <title lang="zh">Agripreneur</title>
     <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831154500 +0800" stop="20260831161500 +0800">
+<programme channel="410428" start="20260907154500 +0800" stop="20260907161500 +0800">
     <title lang="zh">Born Impact</title>
     <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831161500 +0800" stop="20260831170000 +0800">
+<programme channel="410428" start="20260907161500 +0800" stop="20260907170000 +0800">
     <title lang="zh">Dokumentaryo</title>
     <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831170000 +0800" stop="20260831180000 +0800">
+<programme channel="410428" start="20260907170000 +0800" stop="20260907180000 +0800">
     <title lang="zh">Balitanghali</title>
     <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831180000 +0800" stop="20260831184500 +0800">
+<programme channel="410428" start="20260907180000 +0800" stop="20260907184500 +0800">
     <title lang="zh">Rescue</title>
     <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831184500 +0800" stop="20260831190000 +0800">
+<programme channel="410428" start="20260907184500 +0800" stop="20260907190000 +0800">
     <title lang="zh">Just Facts</title>
     <desc>A show that uses investigative journalism and compelling reportage to uncover the truth behind major issues, controversies, and underreported stories through in-depth reports and social experiments.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831190000 +0800" stop="20260831194500 +0800">
+<programme channel="410428" start="20260907190000 +0800" stop="20260907194500 +0800">
     <title lang="zh">Pinoy Crime Stories</title>
     <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831194500 +0800" stop="20260831203000 +0800">
+<programme channel="410428" start="20260907194500 +0800" stop="20260907203000 +0800">
     <title lang="zh">Front Row</title>
     <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831203000 +0800" stop="20260831211500 +0800">
+<programme channel="410428" start="20260907203000 +0800" stop="20260907211500 +0800">
     <title lang="zh">Pera Paraan</title>
     <desc>Offers practical tips on handling household finances and earning additional income.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831211500 +0800" stop="20260831221500 +0800">
+<programme channel="410428" start="20260907211500 +0800" stop="20260907221500 +0800">
     <title lang="zh">Brigada</title>
     <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831221500 +0800" stop="20260831224500 +0800">
+<programme channel="410428" start="20260907221500 +0800" stop="20260907224500 +0800">
     <title lang="zh">Rescue</title>
     <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831224500 +0800" stop="20260831234500 +0800">
+<programme channel="410428" start="20260907224500 +0800" stop="20260907234500 +0800">
     <title lang="zh">Balitanghali</title>
     <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260831234500 +0800" stop="20260901004500 +0800">
+<programme channel="410428" start="20260907234500 +0800" stop="20260908004500 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260831</date>
+    <date>20260907</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901004500 +0800" stop="20260901011500 +0800">
+<programme channel="410428" start="20260908004500 +0800" stop="20260908011500 +0800">
     <title lang="zh">State Of The Nation</title>
     <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901011500 +0800" stop="20260901020000 +0800">
+<programme channel="410428" start="20260908011500 +0800" stop="20260908020000 +0800">
     <title lang="zh">Good News</title>
     <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901020000 +0800" stop="20260901023000 +0800">
+<programme channel="410428" start="20260908020000 +0800" stop="20260908023000 +0800">
     <title lang="zh">Saksi</title>
     <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901023000 +0800" stop="20260901031500 +0800">
+<programme channel="410428" start="20260908023000 +0800" stop="20260908031500 +0800">
     <title lang="zh">Balitang Bisdak</title>
     <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901031500 +0800" stop="20260901040000 +0800">
+<programme channel="410428" start="20260908031500 +0800" stop="20260908040000 +0800">
     <title lang="zh">One North Central Luzon</title>
     <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901040000 +0800" stop="20260901044500 +0800">
+<programme channel="410428" start="20260908040000 +0800" stop="20260908044500 +0800">
     <title lang="zh">One Mindanao</title>
     <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901044500 +0800" stop="20260901053000 +0800">
+<programme channel="410428" start="20260908044500 +0800" stop="20260908053000 +0800">
     <title lang="zh">Ratsada Balita</title>
     <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901053000 +0800" stop="20260901061500 +0800">
+<programme channel="410428" start="20260908053000 +0800" stop="20260908061500 +0800">
     <title lang="zh">State Of The Nation</title>
     <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901061500 +0800" stop="20260901064500 +0800">
+<programme channel="410428" start="20260908061500 +0800" stop="20260908064500 +0800">
     <title lang="zh">Saksi</title>
     <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901064500 +0800" stop="20260901073000 +0800">
+<programme channel="410428" start="20260908064500 +0800" stop="20260908073000 +0800">
     <title lang="zh">Pinoy Crime Stories</title>
     <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901073000 +0800" stop="20260901104500 +0800">
+<programme channel="410428" start="20260908073000 +0800" stop="20260908104500 +0800">
     <title lang="zh">Dobol B TV</title>
     <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901104500 +0800" stop="20260901113000 +0800">
+<programme channel="410428" start="20260908104500 +0800" stop="20260908113000 +0800">
     <title lang="zh">Dokumentaryo</title>
     <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901113000 +0800" stop="20260901123000 +0800">
+<programme channel="410428" start="20260908113000 +0800" stop="20260908123000 +0800">
     <title lang="zh">Reel Time</title>
     <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901123000 +0800" stop="20260901133000 +0800">
+<programme channel="410428" start="20260908123000 +0800" stop="20260908133000 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901133000 +0800" stop="20260901141500 +0800">
+<programme channel="410428" start="20260908133000 +0800" stop="20260908141500 +0800">
     <title lang="zh">Imbestigador</title>
     <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901141500 +0800" stop="20260901151500 +0800">
+<programme channel="410428" start="20260908141500 +0800" stop="20260908151500 +0800">
     <title lang="zh">Brigada</title>
     <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901151500 +0800" stop="20260901161500 +0800">
+<programme channel="410428" start="20260908151500 +0800" stop="20260908161500 +0800">
     <title lang="zh">Pera Paraan</title>
     <desc>Offers practical tips on handling household finances and earning additional income.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901161500 +0800" stop="20260901170000 +0800">
+<programme channel="410428" start="20260908161500 +0800" stop="20260908170000 +0800">
     <title lang="zh">Dokumentaryo</title>
     <desc>A compilation of the award-winning I-Witness documentaries.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901170000 +0800" stop="20260901180000 +0800">
+<programme channel="410428" start="20260908170000 +0800" stop="20260908180000 +0800">
     <title lang="zh">Balitanghali</title>
     <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901180000 +0800" stop="20260901190000 +0800">
+<programme channel="410428" start="20260908180000 +0800" stop="20260908190000 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901190000 +0800" stop="20260901200000 +0800">
+<programme channel="410428" start="20260908190000 +0800" stop="20260908200000 +0800">
     <title lang="zh">Brigada</title>
     <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901200000 +0800" stop="20260901204500 +0800">
+<programme channel="410428" start="20260908200000 +0800" stop="20260908204500 +0800">
     <title lang="zh">Balitang Bisdak</title>
     <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901204500 +0800" stop="20260901213000 +0800">
+<programme channel="410428" start="20260908204500 +0800" stop="20260908213000 +0800">
     <title lang="zh">One North Central Luzon</title>
     <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901213000 +0800" stop="20260901220000 +0800">
+<programme channel="410428" start="20260908213000 +0800" stop="20260908220000 +0800">
     <title lang="zh">One Mindanao</title>
     <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901220000 +0800" stop="20260901224500 +0800">
+<programme channel="410428" start="20260908220000 +0800" stop="20260908224500 +0800">
     <title lang="zh">Ratsada Balita</title>
     <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901224500 +0800" stop="20260901234500 +0800">
+<programme channel="410428" start="20260908224500 +0800" stop="20260908234500 +0800">
     <title lang="zh">Balitanghali</title>
     <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="410428" start="20260901234500 +0800" stop="20260902000000 +0800">
+<programme channel="410428" start="20260908234500 +0800" stop="20260909000000 +0800">
     <title lang="zh">Pickle Yard Conference League</title>
     <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
-    <date>20260901</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

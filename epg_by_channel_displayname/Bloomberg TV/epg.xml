@@ -1,486 +1,594 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="370178" start="20260826000000 +0800" stop="20260826010000 +0800">
-    <title lang="zh">Bloomberg Crypto(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826010000 +0800" stop="20260826020000 +0800">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826020000 +0800" stop="20260826030000 +0800">
-    <title lang="zh">Bloomberg Businessweek Daily(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826030000 +0800" stop="20260826050000 +0800">
-    <title lang="zh">Bloomberg The Close(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826050000 +0800" stop="20260826060000 +0800">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826060000 +0800" stop="20260826063000 +0800">
-    <title lang="zh">The Deal with Alex Rodriguez and Jason Kelly(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826063000 +0800" stop="20260826070000 +0800">
-    <title lang="zh">The Deal with Alex Rodriguez and Jason Kelly(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826070000 +0800" stop="20260826090000 +0800">
-    <title lang="zh">Bloomberg The Asia Trade(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826090000 +0800" stop="20260826110000 +0800">
-    <title lang="zh">Bloomberg: The China Show(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826110000 +0800" stop="20260826120000 +0800">
-    <title lang="zh">Insight with Haslinda Amin(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826120000 +0800" stop="20260826130000 +0800">
-    <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826130000 +0800" stop="20260826140000 +0800">
-    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826140000 +0800" stop="20260826160000 +0800">
-    <title lang="zh">Bloomberg: The Opening Trade(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826160000 +0800" stop="20260826170000 +0800">
-    <title lang="zh">The Pulse with Francine Lacqua(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826170000 +0800" stop="20260826180000 +0800">
-    <title lang="zh">Bloomberg Brief(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826180000 +0800" stop="20260826210000 +0800">
-    <title lang="zh">Bloomberg Surveillance(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826210000 +0800" stop="20260826230000 +0800">
-    <title lang="zh">Bloomberg Open Interest(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260826230000 +0800" stop="20260827000000 +0800">
-    <title lang="zh">Bloomberg Tech(普)</title>
-    <desc />
-    <date>20260826</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="370178" start="20260827000000 +0800" stop="20260827010000 +0800">
+<programme channel="370178" start="20260903000000 +0800" stop="20260903010000 +0800">
     <title lang="zh">Bloomberg Deals(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827010000 +0800" stop="20260827020000 +0800">
+<programme channel="370178" start="20260903010000 +0800" stop="20260903020000 +0800">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827020000 +0800" stop="20260827030000 +0800">
+<programme channel="370178" start="20260903020000 +0800" stop="20260903030000 +0800">
     <title lang="zh">Bloomberg Businessweek Daily(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827030000 +0800" stop="20260827050000 +0800">
+<programme channel="370178" start="20260903030000 +0800" stop="20260903050000 +0800">
     <title lang="zh">Bloomberg The Close(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827050000 +0800" stop="20260827060000 +0800">
+<programme channel="370178" start="20260903050000 +0800" stop="20260903060000 +0800">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827060000 +0800" stop="20260827063000 +0800">
+<programme channel="370178" start="20260903060000 +0800" stop="20260903063000 +0800">
     <title lang="zh">Posthuman(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827063000 +0800" stop="20260827070000 +0800">
+<programme channel="370178" start="20260903063000 +0800" stop="20260903070000 +0800">
     <title lang="zh">Posthuman(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827070000 +0800" stop="20260827090000 +0800">
+<programme channel="370178" start="20260903070000 +0800" stop="20260903090000 +0800">
     <title lang="zh">Bloomberg The Asia Trade(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827090000 +0800" stop="20260827110000 +0800">
+<programme channel="370178" start="20260903090000 +0800" stop="20260903110000 +0800">
     <title lang="zh">Bloomberg: The China Show(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827110000 +0800" stop="20260827120000 +0800">
+<programme channel="370178" start="20260903110000 +0800" stop="20260903120000 +0800">
     <title lang="zh">Insight with Haslinda Amin(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827120000 +0800" stop="20260827130000 +0800">
+<programme channel="370178" start="20260903120000 +0800" stop="20260903130000 +0800">
     <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827130000 +0800" stop="20260827140000 +0800">
+<programme channel="370178" start="20260903130000 +0800" stop="20260903140000 +0800">
     <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827140000 +0800" stop="20260827160000 +0800">
+<programme channel="370178" start="20260903140000 +0800" stop="20260903160000 +0800">
     <title lang="zh">Bloomberg: The Opening Trade(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827160000 +0800" stop="20260827170000 +0800">
+<programme channel="370178" start="20260903160000 +0800" stop="20260903170000 +0800">
     <title lang="zh">The Pulse with Francine Lacqua(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827170000 +0800" stop="20260827180000 +0800">
+<programme channel="370178" start="20260903170000 +0800" stop="20260903180000 +0800">
     <title lang="zh">Bloomberg Brief(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827180000 +0800" stop="20260827210000 +0800">
+<programme channel="370178" start="20260903180000 +0800" stop="20260903210000 +0800">
     <title lang="zh">Bloomberg Surveillance(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827210000 +0800" stop="20260827230000 +0800">
+<programme channel="370178" start="20260903210000 +0800" stop="20260903230000 +0800">
     <title lang="zh">Bloomberg Open Interest(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260827230000 +0800" stop="20260828000000 +0800">
+<programme channel="370178" start="20260903230000 +0800" stop="20260904000000 +0800">
     <title lang="zh">Bloomberg Tech(普)</title>
     <desc />
-    <date>20260827</date>
+    <date>20260903</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828000000 +0800" stop="20260828010000 +0800">
+<programme channel="370178" start="20260904000000 +0800" stop="20260904010000 +0800">
     <title lang="zh">Bloomberg Real Yield(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828010000 +0800" stop="20260828020000 +0800">
+<programme channel="370178" start="20260904010000 +0800" stop="20260904020000 +0800">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828020000 +0800" stop="20260828030000 +0800">
+<programme channel="370178" start="20260904020000 +0800" stop="20260904030000 +0800">
     <title lang="zh">Bloomberg Businessweek Daily(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828030000 +0800" stop="20260828050000 +0800">
+<programme channel="370178" start="20260904030000 +0800" stop="20260904050000 +0800">
     <title lang="zh">Bloomberg The Close(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828050000 +0800" stop="20260828060000 +0800">
+<programme channel="370178" start="20260904050000 +0800" stop="20260904060000 +0800">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828060000 +0800" stop="20260828063000 +0800">
+<programme channel="370178" start="20260904060000 +0800" stop="20260904063000 +0800">
     <title lang="zh">Bloomberg Investigates(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828063000 +0800" stop="20260828070000 +0800">
+<programme channel="370178" start="20260904063000 +0800" stop="20260904070000 +0800">
     <title lang="zh">Bloomberg Investigates(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828070000 +0800" stop="20260828090000 +0800">
+<programme channel="370178" start="20260904070000 +0800" stop="20260904090000 +0800">
     <title lang="zh">Bloomberg The Asia Trade(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828090000 +0800" stop="20260828110000 +0800">
+<programme channel="370178" start="20260904090000 +0800" stop="20260904110000 +0800">
     <title lang="zh">Bloomberg: The China Show(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828110000 +0800" stop="20260828120000 +0800">
+<programme channel="370178" start="20260904110000 +0800" stop="20260904120000 +0800">
     <title lang="zh">Insight with Haslinda Amin(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828120000 +0800" stop="20260828130000 +0800">
+<programme channel="370178" start="20260904120000 +0800" stop="20260904130000 +0800">
     <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828130000 +0800" stop="20260828140000 +0800">
+<programme channel="370178" start="20260904130000 +0800" stop="20260904140000 +0800">
     <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828140000 +0800" stop="20260828160000 +0800">
+<programme channel="370178" start="20260904140000 +0800" stop="20260904160000 +0800">
     <title lang="zh">Bloomberg: The Opening Trade(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828160000 +0800" stop="20260828170000 +0800">
+<programme channel="370178" start="20260904160000 +0800" stop="20260904170000 +0800">
     <title lang="zh">The Pulse with Francine Lacqua(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828170000 +0800" stop="20260828180000 +0800">
+<programme channel="370178" start="20260904170000 +0800" stop="20260904180000 +0800">
     <title lang="zh">Bloomberg Brief(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828180000 +0800" stop="20260828210000 +0800">
+<programme channel="370178" start="20260904180000 +0800" stop="20260904210000 +0800">
     <title lang="zh">Bloomberg Surveillance(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828210000 +0800" stop="20260828230000 +0800">
+<programme channel="370178" start="20260904210000 +0800" stop="20260904230000 +0800">
     <title lang="zh">Bloomberg Open Interest(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="370178" start="20260828230000 +0800" stop="20260829000000 +0800">
+<programme channel="370178" start="20260904230000 +0800" stop="20260905000000 +0800">
     <title lang="zh">Bloomberg Tech(普)</title>
     <desc />
-    <date>20260828</date>
+    <date>20260904</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905000000 +0800" stop="20260905010000 +0800">
+    <title lang="zh">Bloomberg Money(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905010000 +0800" stop="20260905020000 +0800">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905020000 +0800" stop="20260905030000 +0800">
+    <title lang="zh">Bloomberg Businessweek Daily(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905030000 +0800" stop="20260905050000 +0800">
+    <title lang="zh">Bloomberg The Close(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905050000 +0800" stop="20260905060000 +0800">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905060000 +0800" stop="20260905070000 +0800">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905070000 +0800" stop="20260905073000 +0800">
+    <title lang="zh">Bloomberg New Economy: Thriving in an Age of Extremes(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905073000 +0800" stop="20260905080000 +0800">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905080000 +0800" stop="20260905083000 +0800">
+    <title lang="zh">Leaders with Francine Lacqua: The Podcast(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905083000 +0800" stop="20260905090000 +0800">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905090000 +0800" stop="20260905093000 +0800">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905093000 +0800" stop="20260905100000 +0800">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905100000 +0800" stop="20260905110000 +0800">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905110000 +0800" stop="20260905113000 +0800">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905113000 +0800" stop="20260905120000 +0800">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905120000 +0800" stop="20260905130000 +0800">
+    <title lang="zh">The Deal with Alex Rodriguez and Jason Kelly(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905130000 +0800" stop="20260905133000 +0800">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905133000 +0800" stop="20260905140000 +0800">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905140000 +0800" stop="20260905143000 +0800">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905143000 +0800" stop="20260905150000 +0800">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905150000 +0800" stop="20260905160000 +0800">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905160000 +0800" stop="20260905163000 +0800">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905163000 +0800" stop="20260905170000 +0800">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905170000 +0800" stop="20260905173000 +0800">
+    <title lang="zh">Bloomberg New Economy: Thriving in an Age of Extremes(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905173000 +0800" stop="20260905180000 +0800">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905180000 +0800" stop="20260905190000 +0800">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905190000 +0800" stop="20260905220000 +0800">
+    <title lang="zh">Bloomberg This Weekend(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905220000 +0800" stop="20260905230000 +0800">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905230000 +0800" stop="20260905233000 +0800">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>20260905</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="370178" start="20260905233000 +0800" stop="20260906000000 +0800">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>20260905</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
