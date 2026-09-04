@@ -1,59 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456815" start="20260903000000 +0800" stop="20260903023000 +0800">
-    <title lang="zh">2026 PGA底特律菁英賽第一天</title>
-    <desc>2026 PGA底特律菁英賽第一天</desc>
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260903023000 +0800" stop="20260903070000 +0800">
-    <title lang="zh">2026 PGA3M公開賽第三天</title>
-    <desc>2026 PGA3M公開賽第三天</desc>
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260903070000 +0800" stop="20260903120000 +0800">
-    <title lang="zh">首播2026 歐巡Nexo錦標賽第四天</title>
-    <desc>首播2026 歐巡Nexo錦標賽第四天</desc>
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260903120000 +0800" stop="20260903143000 +0800">
-    <title lang="zh">2026 PGA底特律菁英賽第一天</title>
-    <desc>2026 PGA底特律菁英賽第一天</desc>
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260903143000 +0800" stop="20260903193000 +0800">
-    <title lang="zh">首播2026 歐巡丹麥錦標賽第四天</title>
-    <desc>首播2026 歐巡丹麥錦標賽第四天</desc>
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456815" start="20260903193000 +0800" stop="20260904010000 +0800">
-    <title lang="zh">LIVE2026 歐巡英格蘭名人賽 第一天</title>
-    <desc>LIVE2026 歐巡英格蘭名人賽 第一天</desc>
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456815" start="20260904010000 +0800" stop="20260904060000 +0800">
     <title lang="zh">LIVE2026 PGA巡迴錦標賽第一天</title>
     <desc>LIVE2026 PGA巡迴錦標賽第一天</desc>
@@ -432,9 +378,72 @@
     </audio>
   </programme>
   
-<programme channel="456815" start="20260910000000 +0800" stop="20260911000000 +0800">
+<programme channel="456815" start="20260910000000 +0800" stop="20260910003000 +0800">
     <title lang="zh">美巡焦點</title>
     <desc>美巡焦點</desc>
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260910003000 +0800" stop="20260910013000 +0800">
+    <title lang="zh">2026 PGA底特律菁英賽精華</title>
+    <desc>2026 PGA底特律菁英賽精華</desc>
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260910013000 +0800" stop="20260910063000 +0800">
+    <title lang="zh">2026 PGABMW錦標賽第三天</title>
+    <desc>2026 PGABMW錦標賽第三天</desc>
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260910063000 +0800" stop="20260910070000 +0800">
+    <title lang="zh">美巡焦點</title>
+    <desc>美巡焦點</desc>
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260910070000 +0800" stop="20260910120000 +0800">
+    <title lang="zh">首播2026 歐巡英格蘭名人賽 第四天</title>
+    <desc>首播2026 歐巡英格蘭名人賽 第四天</desc>
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260910120000 +0800" stop="20260910163000 +0800">
+    <title lang="zh">2026 歐巡Nexo錦標賽第三天</title>
+    <desc>2026 歐巡Nexo錦標賽第三天</desc>
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260910163000 +0800" stop="20260910193000 +0800">
+    <title lang="zh">2026 PGA肯塔基錦標賽第三天</title>
+    <desc>2026 PGA肯塔基錦標賽第三天</desc>
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456815" start="20260910193000 +0800" stop="20260911000000 +0800">
+    <title lang="zh">LIVE2026 歐巡歐洲名人賽 第一天</title>
+    <desc>LIVE2026 歐巡歐洲名人賽 第一天</desc>
     <date>20260910</date>
     <audio>
       <stereo>stereo</stereo>

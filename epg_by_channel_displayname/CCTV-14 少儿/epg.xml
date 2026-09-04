@@ -1,158 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="545946" start="20260903001000 +0800" stop="20260903060000 +0800">
-    <title lang="zh">天下同心-1/21</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903060000 +0800" stop="20260903063500 +0800">
-    <title lang="zh">风车剧场-2026-189</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903063500 +0800" stop="20260903071500 +0800">
-    <title lang="zh">动画大放映（周末上午版）2026-192</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903071500 +0800" stop="20260903080000 +0800">
-    <title lang="zh">音乐快递-2026-38</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903080000 +0800" stop="20260903081500 +0800">
-    <title lang="zh">新闻袋袋裤</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903081500 +0800" stop="20260903084500 +0800">
-    <title lang="zh">小小智慧树-2026-175</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903084500 +0800" stop="20260903120000 +0800">
-    <title lang="zh">动画大放映（黄金版）-2026-139</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903120000 +0800" stop="20260903133000 +0800">
-    <title lang="zh">动漫世界-2026-298</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903133000 +0800" stop="20260903140500 +0800">
-    <title lang="zh">动画大放映（早间版）-2026-170</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903140500 +0800" stop="20260903153000 +0800">
-    <title lang="zh">动画大放映（上午版）-2026-178</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903153000 +0800" stop="20260903170000 +0800">
-    <title lang="zh">动漫世界-2026-299</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903170000 +0800" stop="20260903171500 +0800">
-    <title lang="zh">新闻袋袋裤</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903171500 +0800" stop="20260903180000 +0800">
-    <title lang="zh">大风车(快乐体验)-2026-37</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903180000 +0800" stop="20260903183500 +0800">
-    <title lang="zh">智慧树-2026-175</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903183500 +0800" stop="20260903215000 +0800">
-    <title lang="zh">动画大放映（黄金版）-2026-140</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903215000 +0800" stop="20260903232000 +0800">
-    <title lang="zh">一起“趣”观赛-19</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="545946" start="20260903232000 +0800" stop="20260904001000 +0800">
-    <title lang="zh">天下同心-2/21</title>
-    <desc />
-    <date>20260903</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="545946" start="20260904001000 +0800" stop="20260904060000 +0800">
     <title lang="zh">天下同心-3/21</title>
     <desc />
@@ -576,10 +423,640 @@
     </audio>
   </programme>
   
-<programme channel="545946" start="20260906235000 +0800" stop="20260907000000 +0800">
+<programme channel="545946" start="20260906235000 +0800" stop="20260907060000 +0800">
     <title lang="zh">天下同心-9/21</title>
     <desc />
     <date>20260906</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907060000 +0800" stop="20260907063500 +0800">
+    <title lang="zh">风车剧场-2026-191</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907063500 +0800" stop="20260907071500 +0800">
+    <title lang="zh">动画大放映（周末上午版）2026-194</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907071500 +0800" stop="20260907080000 +0800">
+    <title lang="zh">大风车(异想天开)-2026-36</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907080000 +0800" stop="20260907081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907081500 +0800" stop="20260907084500 +0800">
+    <title lang="zh">小小智慧树-2026-177</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907084500 +0800" stop="20260907120000 +0800">
+    <title lang="zh">动画大放映（周末黄金版）-2026-131</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907120000 +0800" stop="20260907133000 +0800">
+    <title lang="zh">动漫世界-2026-306</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907133000 +0800" stop="20260907140500 +0800">
+    <title lang="zh">动画大放映（早间版）-2026-172</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907140500 +0800" stop="20260907153000 +0800">
+    <title lang="zh">动画大放映（上午版）-2026-180</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907153000 +0800" stop="20260907170000 +0800">
+    <title lang="zh">动漫世界-2026-307</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907170000 +0800" stop="20260907171500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907171500 +0800" stop="20260907180000 +0800">
+    <title lang="zh">大手牵小手-2026-36</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907180000 +0800" stop="20260907183500 +0800">
+    <title lang="zh">智慧树-2026-177</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907183500 +0800" stop="20260907215000 +0800">
+    <title lang="zh">动画大放映（黄金版）-2026-141</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907215000 +0800" stop="20260907225200 +0800">
+    <title lang="zh">一起“趣”观赛-1</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907225200 +0800" stop="20260907234200 +0800">
+    <title lang="zh">天下同心-10/21</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260907234200 +0800" stop="20260908060000 +0800">
+    <title lang="zh">天下同心-11/21</title>
+    <desc />
+    <date>20260907</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908060000 +0800" stop="20260908063500 +0800">
+    <title lang="zh">风车剧场-2026-192</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908063500 +0800" stop="20260908071500 +0800">
+    <title lang="zh">动画大放映（周末上午版）2026-195</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908071500 +0800" stop="20260908080000 +0800">
+    <title lang="zh">大风车(风车转转转)-2026-36</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908080000 +0800" stop="20260908081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908081500 +0800" stop="20260908084500 +0800">
+    <title lang="zh">小小智慧树-2026-178</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908084500 +0800" stop="20260908120000 +0800">
+    <title lang="zh">动画大放映（黄金版）-2026-141</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908120000 +0800" stop="20260908133000 +0800">
+    <title lang="zh">动漫世界-2026-308</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908133000 +0800" stop="20260908140500 +0800">
+    <title lang="zh">动画大放映（早间版）-2026-173</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908140500 +0800" stop="20260908153000 +0800">
+    <title lang="zh">动画大放映（上午版）-2026-181</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908153000 +0800" stop="20260908170000 +0800">
+    <title lang="zh">动漫世界-2026-309</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908170000 +0800" stop="20260908171500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908171500 +0800" stop="20260908180000 +0800">
+    <title lang="zh">智力快车-2026-37</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908180000 +0800" stop="20260908183500 +0800">
+    <title lang="zh">智慧树-2026-178</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908183500 +0800" stop="20260908215000 +0800">
+    <title lang="zh">动画大放映（黄金版）-2026-142</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908215000 +0800" stop="20260908225000 +0800">
+    <title lang="zh">一起“趣”观赛-2</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908225000 +0800" stop="20260908235200 +0800">
+    <title lang="zh">一起“趣”观赛-1</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260908235200 +0800" stop="20260909004200 +0800">
+    <title lang="zh">天下同心-12/21</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909004200 +0800" stop="20260909060000 +0800">
+    <title lang="zh">天下同心-13/21</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909060000 +0800" stop="20260909063500 +0800">
+    <title lang="zh">风车剧场-2026-193</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909063500 +0800" stop="20260909071500 +0800">
+    <title lang="zh">动画大放映（周末上午版）2026-196</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909071500 +0800" stop="20260909080000 +0800">
+    <title lang="zh">大风车(动物好伙伴)-2026-36</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909080000 +0800" stop="20260909081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909081500 +0800" stop="20260909084500 +0800">
+    <title lang="zh">小小智慧树-2026-179</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909084500 +0800" stop="20260909120000 +0800">
+    <title lang="zh">动画大放映（黄金版）-2026-142</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909120000 +0800" stop="20260909133000 +0800">
+    <title lang="zh">动漫世界-2026-310</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909133000 +0800" stop="20260909140500 +0800">
+    <title lang="zh">动画大放映（早间版）-2026-174</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909140500 +0800" stop="20260909153000 +0800">
+    <title lang="zh">动画大放映（上午版）-2026-182</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909153000 +0800" stop="20260909170000 +0800">
+    <title lang="zh">动漫世界-2026-311</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909170000 +0800" stop="20260909171500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909171500 +0800" stop="20260909180000 +0800">
+    <title lang="zh">大风车(看我72变)-2026-36</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909180000 +0800" stop="20260909183500 +0800">
+    <title lang="zh">智慧树-2026-179</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909183500 +0800" stop="20260909215000 +0800">
+    <title lang="zh">动画大放映（黄金版）-2026-143</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909215000 +0800" stop="20260909225000 +0800">
+    <title lang="zh">一起“趣”观赛-3</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909225000 +0800" stop="20260909235200 +0800">
+    <title lang="zh">一起“趣”观赛-2</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260909235200 +0800" stop="20260910004200 +0800">
+    <title lang="zh">天下同心-14/21</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910004200 +0800" stop="20260910060000 +0800">
+    <title lang="zh">天下同心-15/21</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910060000 +0800" stop="20260910063500 +0800">
+    <title lang="zh">风车剧场-2026-194</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910063500 +0800" stop="20260910071500 +0800">
+    <title lang="zh">动画大放映（周末上午版）2026-197</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910071500 +0800" stop="20260910080000 +0800">
+    <title lang="zh">音乐快递-2026-39</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910080000 +0800" stop="20260910081500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910081500 +0800" stop="20260910084500 +0800">
+    <title lang="zh">小小智慧树-2026-180</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910084500 +0800" stop="20260910120000 +0800">
+    <title lang="zh">动画大放映（黄金版）-2026-143</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910120000 +0800" stop="20260910133000 +0800">
+    <title lang="zh">动漫世界-2026-312</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910133000 +0800" stop="20260910140500 +0800">
+    <title lang="zh">动画大放映（早间版）-2026-175</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910140500 +0800" stop="20260910153000 +0800">
+    <title lang="zh">动画大放映（上午版）-2026-183</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910153000 +0800" stop="20260910170000 +0800">
+    <title lang="zh">动漫世界-2026-313</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910170000 +0800" stop="20260910171500 +0800">
+    <title lang="zh">新闻袋袋裤</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910171500 +0800" stop="20260910180000 +0800">
+    <title lang="zh">大风车(快乐体验)-2026-38</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910180000 +0800" stop="20260910183500 +0800">
+    <title lang="zh">智慧树-2026-180</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910183500 +0800" stop="20260910215000 +0800">
+    <title lang="zh">动画大放映（黄金版）-2026-144</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910215000 +0800" stop="20260910225000 +0800">
+    <title lang="zh">一起“趣”观赛-4</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910225000 +0800" stop="20260910235200 +0800">
+    <title lang="zh">一起“趣”观赛-3</title>
+    <desc />
+    <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="545946" start="20260910235200 +0800" stop="20260911000000 +0800">
+    <title lang="zh">天下同心-16/21</title>
+    <desc />
+    <date>20260910</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
