@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="457249" start="20260904000000 +0800" stop="20260904110000 +0800">
-    <title lang="zh">LIVE 2026美國網球公開賽DAY5 第二輪(普)</title>
-    <desc />
-    <date>20260904</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260904110000 +0800" stop="20260904170000 +0800">
-    <title lang="zh">首播 2026美國網球公開賽DAY5 第二輪(普)</title>
-    <desc />
-    <date>20260904</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260904170000 +0800" stop="20260904223000 +0800">
-    <title lang="zh">首播 2026美國網球公開賽DAY5 第二輪(普)</title>
-    <desc />
-    <date>20260904</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457249" start="20260904223000 +0800" stop="20260905000000 +0800">
-    <title lang="zh">LIVE 2026美國網球公開賽DAY6 第三輪(普)</title>
-    <desc />
-    <date>20260904</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457249" start="20260905000000 +0800" stop="20260905110000 +0800">
     <title lang="zh">LIVE 2026美國網球公開賽DAY6 第三輪(普)</title>
     <desc />
@@ -247,6 +211,51 @@
     <title lang="zh">2026美國網球公開賽DAY8 16強(普)</title>
     <desc />
     <date>20260910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260911000000 +0800" stop="20260911063000 +0800">
+    <title lang="zh">2026美國網球公開賽DAY8 16強(普)</title>
+    <desc />
+    <date>20260911</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260911063000 +0800" stop="20260911120000 +0800">
+    <title lang="zh">LIVE 2026美國網球公開賽DAY12 女單4強(普)</title>
+    <desc />
+    <date>20260911</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260911120000 +0800" stop="20260911170000 +0800">
+    <title lang="zh">2026美國網球公開賽DAY9 16強(普)</title>
+    <desc />
+    <date>20260911</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260911170000 +0800" stop="20260911233000 +0800">
+    <title lang="zh">首播 2026美國網球公開賽DAY12 女單4強(普)</title>
+    <desc />
+    <date>20260911</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457249" start="20260911233000 +0800" stop="20260912000000 +0800">
+    <title lang="zh">LIVE 2026美國網球公開賽DAY13 女雙決賽(普)</title>
+    <desc />
+    <date>20260911</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
