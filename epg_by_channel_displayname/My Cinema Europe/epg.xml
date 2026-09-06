@@ -189,7 +189,25 @@
     </audio>
   </programme>
   
-<programme channel="566190" start="20260912000000 +0800" stop="20260913000000 +0800">
+<programme channel="566190" start="20260912000000 +0800" stop="20260912020000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260912</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="566190" start="20260912020000 +0800" stop="20260912040000 +0800">
+    <title lang="zh">Coming Soon</title>
+    <desc />
+    <date>20260912</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="566190" start="20260912040000 +0800" stop="20260913000000 +0800">
     <title lang="zh">Coming Soon</title>
     <desc />
     <date>20260912</date>

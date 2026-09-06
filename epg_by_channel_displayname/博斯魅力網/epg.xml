@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456817" start="20260905050000 +0800" stop="20260905070000 +0800">
-    <title lang="zh">2026多倫多女網賽4強GAU vs RYB</title>
-    <desc>2026多倫多女網賽4強GAU vs RYB</desc>
-    <date>20260905</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260905070000 +0800" stop="20260905110000 +0800">
-    <title lang="zh">LIVE2026蒙特雷女網賽4強</title>
-    <desc>LIVE2026蒙特雷女網賽4強</desc>
-    <date>20260905</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260905110000 +0800" stop="20260905133000 +0800">
-    <title lang="zh">2026華盛頓女網賽8強COC vs OSA</title>
-    <desc>2026華盛頓女網賽8強COC vs OSA</desc>
-    <date>20260905</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260905133000 +0800" stop="20260905153000 +0800">
-    <title lang="zh">2026多倫多女網賽4強GAU vs RYB</title>
-    <desc>2026多倫多女網賽4強GAU vs RYB</desc>
-    <date>20260905</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260905153000 +0800" stop="20260905193000 +0800">
-    <title lang="zh">2026漢堡女網賽8強SHE vs BAD</title>
-    <desc>2026漢堡女網賽8強SHE vs BAD</desc>
-    <date>20260905</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260905193000 +0800" stop="20260905210000 +0800">
-    <title lang="zh">2026華盛頓女網賽4強PEG vs SHN</title>
-    <desc>2026華盛頓女網賽4強PEG vs SHN</desc>
-    <date>20260905</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456817" start="20260905210000 +0800" stop="20260906010000 +0800">
-    <title lang="zh">首播2026蒙特雷女網賽4強</title>
-    <desc>首播2026蒙特雷女網賽4強</desc>
-    <date>20260905</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456817" start="20260906010000 +0800" stop="20260906033000 +0800">
     <title lang="zh">2026多倫多女網賽4強SVI vs SWI</title>
     <desc>2026多倫多女網賽4強SVI vs SWI</desc>
@@ -513,7 +450,7 @@
     </audio>
   </programme>
   
-<programme channel="456817" start="20260911230000 +0800" stop="20260912000000 +0800">
+<programme channel="456817" start="20260911230000 +0800" stop="20260912050000 +0800">
     <title lang="zh">LIVE2026美國網球公開賽DAY6 第三輪(阿姆斯壯球場)</title>
     <desc>LIVE2026美國網球公開賽DAY6 第三輪(阿姆斯壯球場)</desc>
     <date>20260911</date>
@@ -521,5 +458,68 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-
+  
+<programme channel="456817" start="20260912050000 +0800" stop="20260912070000 +0800">
+    <title lang="zh">2026蒙特雷女網賽8強TAU vs PAR</title>
+    <desc>2026蒙特雷女網賽8強TAU vs PAR</desc>
+    <date>20260912</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260912070000 +0800" stop="20260912120000 +0800">
+    <title lang="zh">LIVE2026美國網球公開賽DAY6 第三輪(阿姆斯壯球場)</title>
+    <desc>LIVE2026美國網球公開賽DAY6 第三輪(阿姆斯壯球場)</desc>
+    <date>20260912</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260912120000 +0800" stop="20260912143000 +0800">
+    <title lang="zh">2026辛辛那提女網賽8強ANI vs PEG</title>
+    <desc>2026辛辛那提女網賽8強ANI vs PEG</desc>
+    <date>20260912</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260912143000 +0800" stop="20260912160000 +0800">
+    <title lang="zh">2026蒙特雷女網賽8強TAU vs PAR</title>
+    <desc>2026蒙特雷女網賽8強TAU vs PAR</desc>
+    <date>20260912</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260912160000 +0800" stop="20260912183000 +0800">
+    <title lang="zh">2026多倫多女網賽4強SVI vs SWI</title>
+    <desc>2026多倫多女網賽4強SVI vs SWI</desc>
+    <date>20260912</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260912183000 +0800" stop="20260912230000 +0800">
+    <title lang="zh">首播2026美國網球公開賽DAY6 第三輪(阿姆斯壯球場)</title>
+    <desc>首播2026美國網球公開賽DAY6 第三輪(阿姆斯壯球場)</desc>
+    <date>20260912</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456817" start="20260912230000 +0800" stop="20260913000000 +0800">
+    <title lang="zh">LIVE2026美國網球公開賽DAY7 第三輪(阿姆斯壯球場)</title>
+    <desc>LIVE2026美國網球公開賽DAY7 第三輪(阿姆斯壯球場)</desc>
+    <date>20260912</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
 </tv>
