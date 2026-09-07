@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="544782" start="20260906000000 +0800" stop="20260906110000 +0800">
-    <title lang="zh">LIVE 2026美國網球公開賽DAY7 第三輪(普)</title>
-    <desc />
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260906110000 +0800" stop="20260906170000 +0800">
-    <title lang="zh">首播 2026美國網球公開賽DAY7 第三輪(普)</title>
-    <desc />
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260906170000 +0800" stop="20260906223000 +0800">
-    <title lang="zh">首播 2026美國網球公開賽DAY7 第三輪(普)</title>
-    <desc />
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="544782" start="20260906223000 +0800" stop="20260907000000 +0800">
-    <title lang="zh">LIVE 2026美國網球公開賽DAY8 16強(普)</title>
-    <desc />
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="544782" start="20260907000000 +0800" stop="20260907110000 +0800">
     <title lang="zh">LIVE 2026美國網球公開賽DAY8 16強(普)</title>
     <desc />
@@ -108,118 +72,37 @@
     </audio>
   </programme>
   
-<programme channel="456813" start="20260906013000 +0800" stop="20260906040000 +0800">
-    <title lang="zh">2026華盛頓男網賽決賽FRI vs JOD</title>
-    <desc>2026華盛頓男網賽決賽FRI vs JOD</desc>
-    <date>20260906</date>
+<programme channel="544782" start="20260909000000 +0800" stop="20260909110000 +0800">
+    <title lang="zh">LIVE 2026美國網球公開賽DAY10 8強(普)</title>
+    <desc />
+    <date>20260909</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260906040000 +0800" stop="20260906060000 +0800">
-    <title lang="zh">LIVE2026北卡男網賽決賽</title>
-    <desc>LIVE2026北卡男網賽決賽</desc>
-    <date>20260906</date>
+<programme channel="544782" start="20260909110000 +0800" stop="20260909170000 +0800">
+    <title lang="zh">首播 2026美國網球公開賽DAY10 8強(普)</title>
+    <desc />
+    <date>20260909</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260906060000 +0800" stop="20260906063000 +0800">
-    <title lang="zh">網球雜誌</title>
-    <desc>網球雜誌</desc>
-    <date>20260906</date>
+<programme channel="544782" start="20260909170000 +0800" stop="20260909223000 +0800">
+    <title lang="zh">首播 2026美國網球公開賽DAY10 8強(普)</title>
+    <desc />
+    <date>20260909</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="456813" start="20260906063000 +0800" stop="20260906083000 +0800">
-    <title lang="zh">2026辛辛那提大師賽決賽</title>
-    <desc>2026辛辛那提大師賽決賽</desc>
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260906083000 +0800" stop="20260906110000 +0800">
-    <title lang="zh">2026蒙特婁大師賽決賽SHE vs NAK</title>
-    <desc>2026蒙特婁大師賽決賽SHE vs NAK</desc>
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260906110000 +0800" stop="20260906133000 +0800">
-    <title lang="zh">2026華盛頓男網賽決賽FRI vs JOD</title>
-    <desc>2026華盛頓男網賽決賽FRI vs JOD</desc>
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260906133000 +0800" stop="20260906143000 +0800">
-    <title lang="zh">2026華盛頓男網賽精華</title>
-    <desc>2026華盛頓男網賽精華</desc>
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260906143000 +0800" stop="20260906163000 +0800">
-    <title lang="zh">2026辛辛那提大師賽決賽</title>
-    <desc>2026辛辛那提大師賽決賽</desc>
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260906163000 +0800" stop="20260906190000 +0800">
-    <title lang="zh">2026蒙特婁大師賽決賽SHE vs NAK</title>
-    <desc>2026蒙特婁大師賽決賽SHE vs NAK</desc>
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260906190000 +0800" stop="20260906213000 +0800">
-    <title lang="zh">首播2026北卡男網賽決賽</title>
-    <desc>首播2026北卡男網賽決賽</desc>
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260906213000 +0800" stop="20260906223000 +0800">
-    <title lang="zh">2026華盛頓男網賽精華</title>
-    <desc>2026華盛頓男網賽精華</desc>
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260906223000 +0800" stop="20260906230000 +0800">
-    <title lang="zh">2026 美網PREVIEW</title>
-    <desc>2026 美網PREVIEW</desc>
-    <date>20260906</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456813" start="20260906230000 +0800" stop="20260907110000 +0800">
-    <title lang="zh">LIVE2026美國網球公開賽DAY1 第一輪</title>
-    <desc>LIVE2026美國網球公開賽DAY1 第一輪</desc>
-    <date>20260906</date>
+<programme channel="544782" start="20260909223000 +0800" stop="20260910000000 +0800">
+    <title lang="zh">LIVE 2026美國網球公開賽DAY11 8強(普)</title>
+    <desc />
+    <date>20260909</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -324,7 +207,7 @@
     </audio>
   </programme>
   
-<programme channel="456813" start="20260912223000 +0800" stop="20260913000000 +0800">
+<programme channel="456813" start="20260912223000 +0800" stop="20260913110000 +0800">
     <title lang="zh">LIVE2026美國網球公開賽DAY7 第三輪</title>
     <desc>LIVE2026美國網球公開賽DAY7 第三輪</desc>
     <date>20260912</date>
@@ -333,4 +216,22 @@
     </audio>
   </programme>
   
+<programme channel="456813" start="20260913110000 +0800" stop="20260913223000 +0800">
+    <title lang="zh">首播2026美國網球公開賽DAY7 第三輪</title>
+    <desc>首播2026美國網球公開賽DAY7 第三輪</desc>
+    <date>20260913</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456813" start="20260913223000 +0800" stop="20260914000000 +0800">
+    <title lang="zh">LIVE2026美國網球公開賽DAY8 十六強</title>
+    <desc>LIVE2026美國網球公開賽DAY8 十六強</desc>
+    <date>20260913</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+
 </tv>
