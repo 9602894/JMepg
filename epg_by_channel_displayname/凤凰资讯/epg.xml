@@ -1,567 +1,1134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="561393" start="20260907000000 +0800" stop="20260907002700 +0800">
+<programme channel="561393" start="20260908000000 +0800" stop="20260908005700 +0800">
     <title lang="zh">凤凰洲际快车</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907002700 +0800" stop="20260907003000 +0800">
+<programme channel="561393" start="20260908005700 +0800" stop="20260908010000 +0800">
     <title lang="zh">凤凰气象站</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907003000 +0800" stop="20260907010000 +0800">
-    <title lang="zh">新闻今日谈</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907010000 +0800" stop="20260907012700 +0800">
+<programme channel="561393" start="20260908010000 +0800" stop="20260908012700 +0800">
     <title lang="zh">凤凰正点播报 0100</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907012700 +0800" stop="20260907013000 +0800">
+<programme channel="561393" start="20260908012700 +0800" stop="20260908013000 +0800">
     <title lang="zh">凤凰气象站</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907013000 +0800" stop="20260907021500 +0800">
-    <title lang="zh">大新闻大历史</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907021500 +0800" stop="20260907030000 +0800">
-    <title lang="zh">中国深度财经</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907030000 +0800" stop="20260907032700 +0800">
-    <title lang="zh">凤凰正点播报 0100</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907032700 +0800" stop="20260907033000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907033000 +0800" stop="20260907035700 +0800">
-    <title lang="zh">凤凰正点播报 0100</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907035700 +0800" stop="20260907040000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907040000 +0800" stop="20260907042700 +0800">
-    <title lang="zh">凤凰正点播报 0100</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907042700 +0800" stop="20260907043000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907043000 +0800" stop="20260907045700 +0800">
-    <title lang="zh">凤凰正点播报 0100</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907045700 +0800" stop="20260907050000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907050000 +0800" stop="20260907052700 +0800">
-    <title lang="zh">凤凰正点播报 0100</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907052700 +0800" stop="20260907053000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907053000 +0800" stop="20260907060000 +0800">
-    <title lang="zh">新闻今日谈</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907060000 +0800" stop="20260907062700 +0800">
-    <title lang="zh">凤凰正点播报 0100</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907062700 +0800" stop="20260907063000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907063000 +0800" stop="20260907070000 +0800">
-    <title lang="zh">香港新视点</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907070000 +0800" stop="20260907075700 +0800">
-    <title lang="zh">凤凰早班车</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907075700 +0800" stop="20260907080000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907080000 +0800" stop="20260907085700 +0800">
-    <title lang="zh">凤凰早班车</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907085700 +0800" stop="20260907090000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907090000 +0800" stop="20260907091500 +0800">
-    <title lang="zh">凤凰正点播报 0900</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907091500 +0800" stop="20260907100000 +0800">
-    <title lang="zh">大新闻大历史</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907100000 +0800" stop="20260907105700 +0800">
-    <title lang="zh">凤凰正点播报 1000</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907105700 +0800" stop="20260907110000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907110000 +0800" stop="20260907112700 +0800">
-    <title lang="zh">凤凰正点播报 1100</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907112700 +0800" stop="20260907113000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907113000 +0800" stop="20260907120000 +0800">
-    <title lang="zh">问答神州</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907120000 +0800" stop="20260907125500 +0800">
-    <title lang="zh">凤凰午间专列</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907125500 +0800" stop="20260907130000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907130000 +0800" stop="20260907132700 +0800">
-    <title lang="zh">凤凰正点播报 1300</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907132700 +0800" stop="20260907133000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907133000 +0800" stop="20260907140000 +0800">
-    <title lang="zh">香港新视点</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907140000 +0800" stop="20260907142700 +0800">
-    <title lang="zh">凤凰正点播报 1400</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907142700 +0800" stop="20260907143000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907143000 +0800" stop="20260907145700 +0800">
-    <title lang="zh">凤凰正点播报 1400</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907145700 +0800" stop="20260907150000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907150000 +0800" stop="20260907155700 +0800">
-    <title lang="zh">凤凰正点播报 1500</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907155700 +0800" stop="20260907160000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907160000 +0800" stop="20260907165700 +0800">
-    <title lang="zh">凤凰正点播报 1600</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907165700 +0800" stop="20260907170000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907170000 +0800" stop="20260907172700 +0800">
-    <title lang="zh">凤凰正点播报 1700</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907172700 +0800" stop="20260907173000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907173000 +0800" stop="20260907180000 +0800">
+<programme channel="561393" start="20260908013000 +0800" stop="20260908020000 +0800">
     <title lang="zh">金石财经</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907180000 +0800" stop="20260907182700 +0800">
-    <title lang="zh">凤凰焦点新闻 1800</title>
+<programme channel="561393" start="20260908020000 +0800" stop="20260908022700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907182700 +0800" stop="20260907183000 +0800">
+<programme channel="561393" start="20260908022700 +0800" stop="20260908023000 +0800">
     <title lang="zh">凤凰气象站</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907183000 +0800" stop="20260907190000 +0800">
-    <title lang="zh">新闻今日谈</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907190000 +0800" stop="20260907195700 +0800">
-    <title lang="zh">华闻大直播</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907195700 +0800" stop="20260907200000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907200000 +0800" stop="20260907202700 +0800">
-    <title lang="zh">凤凰焦点新闻 2000</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907202700 +0800" stop="20260907203000 +0800">
-    <title lang="zh">凤凰气象站</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="561393" start="20260907203000 +0800" stop="20260907210000 +0800">
+<programme channel="561393" start="20260908023000 +0800" stop="20260908030000 +0800">
     <title lang="zh">凤凰财经日报</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907210000 +0800" stop="20260907215500 +0800">
-    <title lang="zh">时事直通车</title>
+<programme channel="561393" start="20260908030000 +0800" stop="20260908032700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907215500 +0800" stop="20260907220000 +0800">
+<programme channel="561393" start="20260908032700 +0800" stop="20260908033000 +0800">
     <title lang="zh">凤凰气象站</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907220000 +0800" stop="20260907223000 +0800">
+<programme channel="561393" start="20260908033000 +0800" stop="20260908040000 +0800">
     <title lang="zh">总编辑时间</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907223000 +0800" stop="20260907230000 +0800">
+<programme channel="561393" start="20260908040000 +0800" stop="20260908042700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908042700 +0800" stop="20260908043000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908043000 +0800" stop="20260908045700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908045700 +0800" stop="20260908050000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908050000 +0800" stop="20260908052700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908052700 +0800" stop="20260908053000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908053000 +0800" stop="20260908060000 +0800">
     <title lang="zh">新闻今日谈</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907230000 +0800" stop="20260907232700 +0800">
-    <title lang="zh">凤凰焦点新闻 2300</title>
+<programme channel="561393" start="20260908060000 +0800" stop="20260908062700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907232700 +0800" stop="20260907233000 +0800">
+<programme channel="561393" start="20260908062700 +0800" stop="20260908063000 +0800">
     <title lang="zh">凤凰气象站</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="561393" start="20260907233000 +0800" stop="20260908000000 +0800">
+<programme channel="561393" start="20260908063000 +0800" stop="20260908070000 +0800">
+    <title lang="zh">凤凰聚焦</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908070000 +0800" stop="20260908075700 +0800">
+    <title lang="zh">凤凰早班车</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908075700 +0800" stop="20260908080000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908080000 +0800" stop="20260908085700 +0800">
+    <title lang="zh">凤凰早班车</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908085700 +0800" stop="20260908090000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908090000 +0800" stop="20260908092700 +0800">
+    <title lang="zh">凤凰正点播报 0900</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908092700 +0800" stop="20260908093000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908093000 +0800" stop="20260908100000 +0800">
+    <title lang="zh">金石财经</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908100000 +0800" stop="20260908105700 +0800">
+    <title lang="zh">凤凰正点播报 1000</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908105700 +0800" stop="20260908110000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908110000 +0800" stop="20260908112700 +0800">
+    <title lang="zh">凤凰正点播报 1100</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908112700 +0800" stop="20260908113000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908113000 +0800" stop="20260908120000 +0800">
     <title lang="zh">总编辑时间</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908120000 +0800" stop="20260908125500 +0800">
+    <title lang="zh">凤凰午间专列</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908125500 +0800" stop="20260908130000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908130000 +0800" stop="20260908132700 +0800">
+    <title lang="zh">凤凰正点播报 1300</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908132700 +0800" stop="20260908133000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908133000 +0800" stop="20260908140000 +0800">
+    <title lang="zh">金石财经</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908140000 +0800" stop="20260908142700 +0800">
+    <title lang="zh">凤凰正点播报 1400</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908142700 +0800" stop="20260908143000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908143000 +0800" stop="20260908150000 +0800">
+    <title lang="zh">总编辑时间</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908150000 +0800" stop="20260908155700 +0800">
+    <title lang="zh">凤凰正点播报 1500</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908155700 +0800" stop="20260908160000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908160000 +0800" stop="20260908165700 +0800">
+    <title lang="zh">凤凰正点播报 1600</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908165700 +0800" stop="20260908170000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908170000 +0800" stop="20260908172700 +0800">
+    <title lang="zh">凤凰正点播报 1700</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908172700 +0800" stop="20260908173000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908173000 +0800" stop="20260908180000 +0800">
+    <title lang="zh">金石财经</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908180000 +0800" stop="20260908182700 +0800">
+    <title lang="zh">凤凰焦点新闻 1800</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908182700 +0800" stop="20260908183000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908183000 +0800" stop="20260908190000 +0800">
+    <title lang="zh">新闻今日谈</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908190000 +0800" stop="20260908195700 +0800">
+    <title lang="zh">华闻大直播</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908195700 +0800" stop="20260908200000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908200000 +0800" stop="20260908202700 +0800">
+    <title lang="zh">凤凰焦点新闻 2000</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908202700 +0800" stop="20260908203000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908203000 +0800" stop="20260908210000 +0800">
+    <title lang="zh">凤凰财经日报</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908210000 +0800" stop="20260908215500 +0800">
+    <title lang="zh">时事直通车</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908215500 +0800" stop="20260908220000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908220000 +0800" stop="20260908223000 +0800">
+    <title lang="zh">总编辑时间</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908223000 +0800" stop="20260908230000 +0800">
+    <title lang="zh">新闻今日谈</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908230000 +0800" stop="20260908232700 +0800">
+    <title lang="zh">凤凰焦点新闻 2300</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908232700 +0800" stop="20260908233000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260908233000 +0800" stop="20260909000000 +0800">
+    <title lang="zh">总编辑时间</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909000000 +0800" stop="20260909005700 +0800">
+    <title lang="zh">凤凰洲际快车</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909005700 +0800" stop="20260909010000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909010000 +0800" stop="20260909012700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909012700 +0800" stop="20260909013000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909013000 +0800" stop="20260909020000 +0800">
+    <title lang="zh">金石财经</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909020000 +0800" stop="20260909022700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909022700 +0800" stop="20260909023000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909023000 +0800" stop="20260909030000 +0800">
+    <title lang="zh">凤凰财经日报</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909030000 +0800" stop="20260909032700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909032700 +0800" stop="20260909033000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909033000 +0800" stop="20260909040000 +0800">
+    <title lang="zh">总编辑时间</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909040000 +0800" stop="20260909042700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909042700 +0800" stop="20260909043000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909043000 +0800" stop="20260909045700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909045700 +0800" stop="20260909050000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909050000 +0800" stop="20260909052700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909052700 +0800" stop="20260909053000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909053000 +0800" stop="20260909060000 +0800">
+    <title lang="zh">新闻今日谈</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909060000 +0800" stop="20260909062700 +0800">
+    <title lang="zh">凤凰正点播报 0100</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909062700 +0800" stop="20260909063000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909063000 +0800" stop="20260909070000 +0800">
+    <title lang="zh">凤凰聚焦</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909070000 +0800" stop="20260909075700 +0800">
+    <title lang="zh">凤凰早班车</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909075700 +0800" stop="20260909080000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909080000 +0800" stop="20260909085700 +0800">
+    <title lang="zh">凤凰早班车</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909085700 +0800" stop="20260909090000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909090000 +0800" stop="20260909092700 +0800">
+    <title lang="zh">凤凰正点播报 0900</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909092700 +0800" stop="20260909093000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909093000 +0800" stop="20260909100000 +0800">
+    <title lang="zh">金石财经</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909100000 +0800" stop="20260909105700 +0800">
+    <title lang="zh">凤凰正点播报 1000</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909105700 +0800" stop="20260909110000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909110000 +0800" stop="20260909112700 +0800">
+    <title lang="zh">凤凰正点播报 1100</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909112700 +0800" stop="20260909113000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909113000 +0800" stop="20260909120000 +0800">
+    <title lang="zh">总编辑时间</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909120000 +0800" stop="20260909125500 +0800">
+    <title lang="zh">凤凰午间专列</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909125500 +0800" stop="20260909130000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909130000 +0800" stop="20260909132700 +0800">
+    <title lang="zh">凤凰正点播报 1300</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909132700 +0800" stop="20260909133000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909133000 +0800" stop="20260909140000 +0800">
+    <title lang="zh">金石财经</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909140000 +0800" stop="20260909142700 +0800">
+    <title lang="zh">凤凰正点播报 1400</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909142700 +0800" stop="20260909143000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909143000 +0800" stop="20260909150000 +0800">
+    <title lang="zh">总编辑时间</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909150000 +0800" stop="20260909155700 +0800">
+    <title lang="zh">凤凰正点播报 1500</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909155700 +0800" stop="20260909160000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909160000 +0800" stop="20260909165700 +0800">
+    <title lang="zh">凤凰正点播报 1600</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909165700 +0800" stop="20260909170000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909170000 +0800" stop="20260909172700 +0800">
+    <title lang="zh">凤凰正点播报 1700</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909172700 +0800" stop="20260909173000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909173000 +0800" stop="20260909180000 +0800">
+    <title lang="zh">金石财经</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909180000 +0800" stop="20260909182700 +0800">
+    <title lang="zh">凤凰焦点新闻 1800</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909182700 +0800" stop="20260909183000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909183000 +0800" stop="20260909190000 +0800">
+    <title lang="zh">新闻今日谈</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909190000 +0800" stop="20260909195700 +0800">
+    <title lang="zh">华闻大直播</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909195700 +0800" stop="20260909200000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909200000 +0800" stop="20260909202700 +0800">
+    <title lang="zh">凤凰焦点新闻 2000</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909202700 +0800" stop="20260909203000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909203000 +0800" stop="20260909210000 +0800">
+    <title lang="zh">凤凰财经日报</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909210000 +0800" stop="20260909215500 +0800">
+    <title lang="zh">时事直通车</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909215500 +0800" stop="20260909220000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909220000 +0800" stop="20260909223000 +0800">
+    <title lang="zh">总编辑时间</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909223000 +0800" stop="20260909230000 +0800">
+    <title lang="zh">新闻今日谈</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909230000 +0800" stop="20260909232700 +0800">
+    <title lang="zh">凤凰焦点新闻 2300</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909232700 +0800" stop="20260909233000 +0800">
+    <title lang="zh">凤凰气象站</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561393" start="20260909233000 +0800" stop="20260910000000 +0800">
+    <title lang="zh">总编辑时间</title>
+    <desc />
+    <date>20260909</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

@@ -1,126 +1,378 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="539775" start="20260907000500 +0800" stop="20260907022000 +0800">
-    <title lang="zh">丝弦:宗泽与岳飞</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907022000 +0800" stop="20260907032600 +0800">
-    <title lang="zh">刘公传奇</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907032600 +0800" stop="20260907054000 +0800">
-    <title lang="zh">曲剧:皇王令</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907054000 +0800" stop="20260907075400 +0800">
-    <title lang="zh">豫剧:梵王宫-吴素真</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907075400 +0800" stop="20260907100800 +0800">
-    <title lang="zh">曲剧:皇王令</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907100800 +0800" stop="20260907122300 +0800">
-    <title lang="zh">丝弦:宗泽与岳飞</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907122300 +0800" stop="20260907132300 +0800">
-    <title lang="zh">刘公传奇</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907132300 +0800" stop="20260907153700 +0800">
-    <title lang="zh">豫剧:梵王宫-吴素真</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907153700 +0800" stop="20260907175200 +0800">
+<programme channel="539775" start="20260908000500 +0800" stop="20260908022000 +0800">
     <title lang="zh">丝弦:花烛恨</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260907175200 +0800" stop="20260907181200 +0800">
-    <title lang="zh">唱段欣赏</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907181200 +0800" stop="20260907202600 +0800">
-    <title lang="zh">豫剧:风雨行宫-王红丽</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907202600 +0800" stop="20260907224000 +0800">
-    <title lang="zh">豫剧:三上轿-张秀丽</title>
-    <desc />
-    <date>20260907</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="539775" start="20260907224000 +0800" stop="20260907234000 +0800">
+<programme channel="539775" start="20260908022000 +0800" stop="20260908032600 +0800">
     <title lang="zh">刘公传奇</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
   
-<programme channel="539775" start="20260907234000 +0800" stop="20260908000000 +0800">
+<programme channel="539775" start="20260908032600 +0800" stop="20260908054000 +0800">
+    <title lang="zh">豫剧:风雨行宫-王红丽</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908054000 +0800" stop="20260908075400 +0800">
+    <title lang="zh">豫剧:三上轿-张秀丽</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908075400 +0800" stop="20260908100800 +0800">
+    <title lang="zh">豫剧:风雨行宫-王红丽</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908100800 +0800" stop="20260908122300 +0800">
+    <title lang="zh">丝弦:花烛恨</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908122300 +0800" stop="20260908132300 +0800">
+    <title lang="zh">刘公传奇</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908132300 +0800" stop="20260908153700 +0800">
+    <title lang="zh">豫剧:三上轿-张秀丽</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908153700 +0800" stop="20260908175200 +0800">
+    <title lang="zh">丝弦剧:名相李德裕</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908175200 +0800" stop="20260908181200 +0800">
     <title lang="zh">唱段欣赏</title>
     <desc />
-    <date>20260907</date>
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908181200 +0800" stop="20260908202600 +0800">
+    <title lang="zh">曲剧:武家坡-牛长鑫</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908202600 +0800" stop="20260908224000 +0800">
+    <title lang="zh">豫剧:八珍汤-温君凤</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908224000 +0800" stop="20260908234000 +0800">
+    <title lang="zh">刘公传奇</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="539775" start="20260908234000 +0800" stop="20260909000000 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908000500 +0800" stop="20260908022000 +0800">
+    <title lang="zh">丝弦:花烛恨</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908022000 +0800" stop="20260908032600 +0800">
+    <title lang="zh">刘公传奇</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908032600 +0800" stop="20260908054000 +0800">
+    <title lang="zh">豫剧:风雨行宫-王红丽</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908054000 +0800" stop="20260908075400 +0800">
+    <title lang="zh">豫剧:三上轿-张秀丽</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908075400 +0800" stop="20260908100800 +0800">
+    <title lang="zh">豫剧:风雨行宫-王红丽</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908100800 +0800" stop="20260908122300 +0800">
+    <title lang="zh">丝弦:花烛恨</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908122300 +0800" stop="20260908132300 +0800">
+    <title lang="zh">刘公传奇</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908132300 +0800" stop="20260908153700 +0800">
+    <title lang="zh">豫剧:三上轿-张秀丽</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908153700 +0800" stop="20260908175200 +0800">
+    <title lang="zh">丝弦剧:名相李德裕</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908175200 +0800" stop="20260908181200 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908181200 +0800" stop="20260908202600 +0800">
+    <title lang="zh">曲剧:武家坡-牛长鑫</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908202600 +0800" stop="20260908224000 +0800">
+    <title lang="zh">豫剧:八珍汤-温君凤</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908224000 +0800" stop="20260908234000 +0800">
+    <title lang="zh">刘公传奇</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260908234000 +0800" stop="20260909000500 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909000500 +0800" stop="20260909022000 +0800">
+    <title lang="zh">丝弦剧:名相李德裕</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909022000 +0800" stop="20260909032600 +0800">
+    <title lang="zh">刘公传奇</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909032600 +0800" stop="20260909054000 +0800">
+    <title lang="zh">曲剧:武家坡-牛长鑫</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909054000 +0800" stop="20260909075400 +0800">
+    <title lang="zh">豫剧:八珍汤-温君凤</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909075400 +0800" stop="20260909100800 +0800">
+    <title lang="zh">曲剧:武家坡-牛长鑫</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909100800 +0800" stop="20260909122300 +0800">
+    <title lang="zh">丝弦剧:名相李德裕</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909122300 +0800" stop="20260909132300 +0800">
+    <title lang="zh">刘公传奇</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909132300 +0800" stop="20260909153700 +0800">
+    <title lang="zh">豫剧:八珍汤-温君凤</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909153700 +0800" stop="20260909175200 +0800">
+    <title lang="zh">豫剧:廉吏于成龙-宋子根</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909175200 +0800" stop="20260909181200 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909181200 +0800" stop="20260909202600 +0800">
+    <title lang="zh">豫剧:宇宙锋-赵吟秋</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909202600 +0800" stop="20260909224000 +0800">
+    <title lang="zh">曲剧:风雪配-刘艳丽</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909224000 +0800" stop="20260909234000 +0800">
+    <title lang="zh">刘公传奇</title>
+    <desc />
+    <date>20260909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="561375" start="20260909234000 +0800" stop="20260910000000 +0800">
+    <title lang="zh">唱段欣赏</title>
+    <desc />
+    <date>20260909</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
