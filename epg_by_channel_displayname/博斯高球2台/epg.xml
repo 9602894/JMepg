@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456816" start="20260912000000 +0800" stop="20260912050000 +0800">
-    <title lang="zh">2026藍灣公開賽第二天</title>
-    <desc>2026藍灣公開賽第二天</desc>
-    <date>20260912</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260912050000 +0800" stop="20260912073000 +0800">
-    <title lang="zh">2026福特錦標賽第四天</title>
-    <desc>2026福特錦標賽第四天</desc>
-    <date>20260912</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260912073000 +0800" stop="20260912083000 +0800">
-    <title lang="zh">台灣青少年公開賽最終回合</title>
-    <desc>台灣青少年公開賽最終回合</desc>
-    <date>20260912</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260912083000 +0800" stop="20260912090000 +0800">
-    <title lang="zh">克里斯高球診斷室</title>
-    <desc>克里斯高球診斷室</desc>
-    <date>20260912</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260912090000 +0800" stop="20260912130000 +0800">
-    <title lang="zh">2026大聯大女子高爾夫公開賽第三回合</title>
-    <desc>2026大聯大女子高爾夫公開賽第三回合</desc>
-    <date>20260912</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260912130000 +0800" stop="20260912210000 +0800">
-    <title lang="zh">2026美國女子公開賽第一天</title>
-    <desc>2026美國女子公開賽第一天</desc>
-    <date>20260912</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260912210000 +0800" stop="20260913000000 +0800">
-    <title lang="zh">2026蘇格蘭女子公開賽第一天</title>
-    <desc>2026蘇格蘭女子公開賽第一天</desc>
-    <date>20260912</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456816" start="20260913000000 +0800" stop="20260913050000 +0800">
     <title lang="zh">2026藍灣公開賽第三天</title>
     <desc>2026藍灣公開賽第三天</desc>
@@ -423,10 +360,64 @@
     </audio>
   </programme>
   
-<programme channel="456816" start="20260918133000 +0800" stop="20260919000000 +0800">
+<programme channel="456816" start="20260918133000 +0800" stop="20260919010000 +0800">
     <title lang="zh">LIVE索罕盃 第一天</title>
     <desc>LIVE索罕盃 第一天</desc>
     <date>20260918</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260919010000 +0800" stop="20260919033000 +0800">
+    <title lang="zh">2026紹普萊特菁英賽第二天</title>
+    <desc>2026紹普萊特菁英賽第二天</desc>
+    <date>20260919</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260919033000 +0800" stop="20260919073000 +0800">
+    <title lang="zh">2026台灣業餘高爾夫錦標賽第三回合</title>
+    <desc>2026台灣業餘高爾夫錦標賽第三回合</desc>
+    <date>20260919</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260919073000 +0800" stop="20260919083000 +0800">
+    <title lang="zh">松柏嶺未來賽</title>
+    <desc>松柏嶺未來賽</desc>
+    <date>20260919</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260919083000 +0800" stop="20260919124500 +0800">
+    <title lang="zh">LIVE索尼錦標賽 第三天</title>
+    <desc>LIVE索尼錦標賽 第三天</desc>
+    <date>20260919</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260919124500 +0800" stop="20260919133000 +0800">
+    <title lang="zh">綠林老爺傳承賽</title>
+    <desc>綠林老爺傳承賽</desc>
+    <date>20260919</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260919133000 +0800" stop="20260920000000 +0800">
+    <title lang="zh">LIVE索罕盃 第二天</title>
+    <desc>LIVE索罕盃 第二天</desc>
+    <date>20260919</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
