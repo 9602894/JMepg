@@ -1,86 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="410374" start="20260914000400 +0800" stop="20260914005200 +0800">
-    <title lang="zh">電視劇 南來北往</title>
-    <desc />
-    <date>20260914</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260914005200 +0800" stop="20260914021700 +0800">
-    <title lang="zh">典籍里的中國</title>
-    <desc />
-    <date>20260914</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260914021700 +0800" stop="20260914024700 +0800">
-    <title lang="zh">自然中國</title>
-    <desc />
-    <date>20260914</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260914024700 +0800" stop="20260914025700 +0800">
-    <title lang="zh">精彩一刻</title>
-    <desc />
-    <date>20260914</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260914025700 +0800" stop="20260914025800 +0800">
-    <title lang="zh">請您欣賞</title>
-    <desc />
-    <date>20260914</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260914025800 +0800" stop="20260914034400 +0800">
-    <title lang="zh">電視劇 玫瑰的故事</title>
-    <desc />
-    <date>20260914</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260914034400 +0800" stop="20260914080000 +0800">
-    <title lang="zh">電視劇 玫瑰的故事</title>
-    <desc />
-    <date>20260914</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260914080000 +0800" stop="20260914160000 +0800">
-    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-    <desc />
-    <date>20260914</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="410374" start="20260914160000 +0800" stop="20260915000000 +0800">
-    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
-    <desc />
-    <date>20260914</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="410374" start="20260915000000 +0800" stop="20260915080000 +0800">
     <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
     <desc />
@@ -234,10 +153,199 @@
     </audio>
   </programme>
   
-<programme channel="410374" start="20260920160000 +0800" stop="20260921000000 +0800">
+<programme channel="410374" start="20260920160000 +0800" stop="20260920160700 +0800">
     <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
     <desc />
     <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920160700 +0800" stop="20260920165300 +0800">
+    <title lang="zh">電視劇 暗夜與黎明</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920165300 +0800" stop="20260920172500 +0800">
+    <title lang="zh">自然中國</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920172500 +0800" stop="20260920190000 +0800">
+    <title lang="zh">典籍里的中國</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920190000 +0800" stop="20260920193200 +0800">
+    <title lang="zh">新聞聯播</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920193200 +0800" stop="20260920193500 +0800">
+    <title lang="zh">公益宣傳短片</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920193500 +0800" stop="20260920194100 +0800">
+    <title lang="zh">天氣預報</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920194100 +0800" stop="20260920200800 +0800">
+    <title lang="zh">國家記憶</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920200800 +0800" stop="20260920213800 +0800">
+    <title lang="zh">山水間的家</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920213800 +0800" stop="20260920214300 +0800">
+    <title lang="zh">公益宣傳短片</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920214300 +0800" stop="20260920220000 +0800">
+    <title lang="zh">焦點訪談</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920220000 +0800" stop="20260920223200 +0800">
+    <title lang="zh">晚間新聞</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920223200 +0800" stop="20260920231800 +0800">
+    <title lang="zh">開講啦</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260920231800 +0800" stop="20260921000400 +0800">
+    <title lang="zh">電視劇 無所畏懼之永不放棄</title>
+    <desc />
+    <date>20260920</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260921000400 +0800" stop="20260921005200 +0800">
+    <title lang="zh">電視劇 無所畏懼之永不放棄</title>
+    <desc />
+    <date>20260921</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260921005200 +0800" stop="20260921022700 +0800">
+    <title lang="zh">典籍里的中國</title>
+    <desc />
+    <date>20260921</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260921022700 +0800" stop="20260921025700 +0800">
+    <title lang="zh">自然中國</title>
+    <desc />
+    <date>20260921</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260921025700 +0800" stop="20260921025800 +0800">
+    <title lang="zh">請您欣賞</title>
+    <desc />
+    <date>20260921</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260921025800 +0800" stop="20260921034400 +0800">
+    <title lang="zh">電視劇 滹沱兒女</title>
+    <desc />
+    <date>20260921</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260921034400 +0800" stop="20260921080000 +0800">
+    <title lang="zh">電視劇 滹沱兒女</title>
+    <desc />
+    <date>20260921</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260921080000 +0800" stop="20260921160000 +0800">
+    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
+    <desc />
+    <date>20260921</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="410374" start="20260921160000 +0800" stop="20260922000000 +0800">
+    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
+    <desc />
+    <date>20260921</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
