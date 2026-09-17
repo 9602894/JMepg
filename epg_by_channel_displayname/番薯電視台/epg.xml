@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="457390" start="20260916000000 +0800" stop="20260916040000 +0800">
-    <title lang="zh">番薯向前衝(重播)(普)</title>
-    <desc />
-    <date>20260916</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457390" start="20260916040000 +0800" stop="20260916080000 +0800">
-    <title lang="zh">番薯一級棒(重播)(普)</title>
-    <desc />
-    <date>20260916</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457390" start="20260916080000 +0800" stop="20260916160000 +0800">
-    <title lang="zh">番薯一級棒(普)</title>
-    <desc />
-    <date>20260916</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="457390" start="20260916160000 +0800" stop="20260917000000 +0800">
-    <title lang="zh">番薯向前衝(普)</title>
-    <desc />
-    <date>20260916</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="457390" start="20260917000000 +0800" stop="20260917040000 +0800">
     <title lang="zh">番薯向前衝(重播)(普)</title>
     <desc />
@@ -247,6 +211,42 @@
     <title lang="zh">番薯向前衝(普)</title>
     <desc />
     <date>20260922</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457390" start="20260923000000 +0800" stop="20260923040000 +0800">
+    <title lang="zh">番薯向前衝(重播)(普)</title>
+    <desc />
+    <date>20260923</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457390" start="20260923040000 +0800" stop="20260923080000 +0800">
+    <title lang="zh">番薯一級棒(重播)(普)</title>
+    <desc />
+    <date>20260923</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457390" start="20260923080000 +0800" stop="20260923160000 +0800">
+    <title lang="zh">番薯一級棒(普)</title>
+    <desc />
+    <date>20260923</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="457390" start="20260923160000 +0800" stop="20260924000000 +0800">
+    <title lang="zh">番薯向前衝(普)</title>
+    <desc />
+    <date>20260923</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
