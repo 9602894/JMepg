@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="JMYG Merged EPG (raw)" generator-info-name="JMYG Merger">
-<programme channel="456816" start="20260917000000 +0800" stop="20260917033000 +0800">
-    <title lang="zh">2026奧蘭多女子冠軍賽第三天</title>
-    <desc>2026奧蘭多女子冠軍賽第三天</desc>
-    <date>20260917</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260917033000 +0800" stop="20260917100000 +0800">
-    <title lang="zh">2026美國女子PGA錦標賽第二天</title>
-    <desc>2026美國女子PGA錦標賽第二天</desc>
-    <date>20260917</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260917100000 +0800" stop="20260917130000 +0800">
-    <title lang="zh">2026雪佛龍錦標賽第四天</title>
-    <desc>2026雪佛龍錦標賽第四天</desc>
-    <date>20260917</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260917130000 +0800" stop="20260917170000 +0800">
-    <title lang="zh">LIVE索尼錦標賽 第一天</title>
-    <desc>LIVE索尼錦標賽 第一天</desc>
-    <date>20260917</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260917170000 +0800" stop="20260917180000 +0800">
-    <title lang="zh">凱基銀行未來賽第二回合</title>
-    <desc>凱基銀行未來賽第二回合</desc>
-    <date>20260917</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260917180000 +0800" stop="20260917190000 +0800">
-    <title lang="zh">TLPGA之友公開賽第二回合</title>
-    <desc>TLPGA之友公開賽第二回合</desc>
-    <date>20260917</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260917190000 +0800" stop="20260917230000 +0800">
-    <title lang="zh">2026大聯大女子高爾夫公開賽最終回合</title>
-    <desc>2026大聯大女子高爾夫公開賽最終回合</desc>
-    <date>20260917</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
-<programme channel="456816" start="20260917230000 +0800" stop="20260918000000 +0800">
-    <title lang="zh">LIVE索罕盃 開幕式</title>
-    <desc>LIVE索罕盃 開幕式</desc>
-    <date>20260917</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  
 <programme channel="456816" start="20260918000000 +0800" stop="20260918010000 +0800">
     <title lang="zh">松柏嶺長春慈善賽</title>
     <desc>松柏嶺長春慈善賽</desc>
@@ -477,10 +405,73 @@
     </audio>
   </programme>
   
-<programme channel="456816" start="20260924000000 +0800" stop="20260925000000 +0800">
+<programme channel="456816" start="20260924000000 +0800" stop="20260924050000 +0800">
     <title lang="zh">2026美國女子公開賽第三天</title>
     <desc>2026美國女子公開賽第三天</desc>
     <date>20260924</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260924050000 +0800" stop="20260924080000 +0800">
+    <title lang="zh">2026亞太業餘女子錦標賽第一天</title>
+    <desc>2026亞太業餘女子錦標賽第一天</desc>
+    <date>20260924</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260924080000 +0800" stop="20260924103000 +0800">
+    <title lang="zh">2026環球錦標賽第四天</title>
+    <desc>2026環球錦標賽第四天</desc>
+    <date>20260924</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260924103000 +0800" stop="20260924130000 +0800">
+    <title lang="zh">2026墨西哥公開賽第四天</title>
+    <desc>2026墨西哥公開賽第四天</desc>
+    <date>20260924</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260924130000 +0800" stop="20260924180000 +0800">
+    <title lang="zh">2026本田泰國賽第四天</title>
+    <desc>2026本田泰國賽第四天</desc>
+    <date>20260924</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260924180000 +0800" stop="20260924230000 +0800">
+    <title lang="zh">2026匯豐女子世界錦標賽第四天</title>
+    <desc>2026匯豐女子世界錦標賽第四天</desc>
+    <date>20260924</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260924230000 +0800" stop="20260925000000 +0800">
+    <title lang="zh">仰德TPC錦標賽第一回合 精華</title>
+    <desc>仰德TPC錦標賽第一回合 精華</desc>
+    <date>20260924</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+<programme channel="456816" start="20260925000000 +0800" stop="20260926000000 +0800">
+    <title lang="zh">2026美國女子公開賽第四天</title>
+    <desc>2026美國女子公開賽第四天</desc>
+    <date>20260925</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
